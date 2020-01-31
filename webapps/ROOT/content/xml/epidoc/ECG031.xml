@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.stoa.org/epidoc/schema/8.23/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.stoa.org/epidoc/schema/8.23/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:space="preserve" xml:lang="ka">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>მცხეთის ჯვრის 595/605 წწ. მოსახსენებლის ფრაგმენტი</title>
+                <editor>ნოდარ შოშიაშვილი</editor>
+            </titleStmt>
+            <publicationStmt>
+                <authority>ილიას სახელმწიფო უნივერსიტეტი, ლინგვისტურ კვლევათა ინსტიტუტი</authority>
+                 <idno type="filename">ECG031</idno>
+                <availability>
+                    <licence target="http://creativecommons.org/licenses/by-nc-sa/3.0/">
+                       დოკუმენტი ვრცელდება Creative Commons Attribution-NonCommercial-ShareAlike 3.0 ლიცენზიით.
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                   <msIdentifier>
+                        <collection>მცხეთა</collection>
+                    </msIdentifier>
+                    
+                    <msContents>
+                        <summary>
+                            <seg xml:lang="ka">ფრაგმენტი</seg>
+                            <seg xml:lang="en"/>
+                        </summary>
+                    </msContents> 
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>                             
+                                   <material ref="http://www.eagle-network.eu/voc/material/lod/2">ქვა</material>
+                                   <objectType ref="http://www.eagle-network.eu/voc/objtyp/lod/1483">ფასადი</objectType>
+                                    <dimensions unit="cm">
+                                        <width/>
+                                        <height/>
+                                    </dimensions>
+                                </support>
+                            </supportDesc>
+                                <layoutDesc>
+                                    <layout writtenLines="1"> 
+                                        წარწერა 1 სტრიქონიანია. იგი მდებარეობს ჯვრის ტაძრის სამხრეთ ფასადის დასავლეთ ნიშაში. სამ ფილაზე 
+                                    გამოქანდაკებული სამი ფიგურა შეადგენს კომპოზიციას: 
+                                   ცენტრში დგას წმინდანი, მარცხნივ მუხლმოდრეკილი ქალის ფიგურა, რომელსაც წმინდანისაკენ გაპყრობილ ხელებში უჭრავს ბავშვი.
+                                   მარჯვნივ გამოსახულია მუხლმოდრეკილი და წინ ხელებგაპყრობილი წარჩინებული მამაკაცის ფიგურა. მამაკაცის თავს ზემოთ
+                                   შემორჩენილია ორი გრაფემა.                                                             
+                                        <dimensions unit="cm">
+                                            <width/>
+                                            <height/>
+                                       </dimensions>
+                                    </layout>
+                                </layoutDesc>
+                        </objectDesc>                        
+                        <handDesc>
+                            <handNote script="asomtavruli" style="inscribed">
+                                <rs type="execution">ამოღარული</rs> <rs type="script">ასომთავრული</rs> წარწერა.
+                               <height/>
+                            </handNote>
+                        </handDesc>
+                    </physDesc>
+                    <history>
+                            <origin>
+                                <origPlace>ჯვრის მონასტერი, მცხეთა</origPlace>
+                                <origDate notBefore-custom="0595" notAfter-custom="0605" precision="medium" 
+                                    evidence="lettering" datingMethod="#julian">595-605 AD</origDate>
+                            </origin>
+                            <provenance type="found">
+                                <placeName type ="ancientFindspot" ref="https://pleiades.stoa.org/places/863840">ჯვრის მონასტერი, მცხეთა</placeName>
+                                <!--  "41.838634, 44.734011"-->
+                                <rs type="circumstances"></rs>
+                                <rs type="context"/>
+                                <rs type="monuList"/>
+                            </provenance> 
+                            <provenance type="observed">
+                            <placeName type="modernSpot">ჯვრის მონასტერი, მცხეთა</placeName>
+                            <idno></idno>
+                        </provenance>
+                    </history>                   
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+     <revisionDesc><change when="2019-11-06" who="Eka Kvirkvelia">ტექსტის სრული კოდირება, მეტამონაცემების სრული კოდირება, 
+           ბმულებით დაკავშირება ავტორიტეტულ წყაროსთან</change></revisionDesc>
+    </teiHeader>
+         
+    <facsimile>
+        <surface>
+            <graphic url="ecg031.jpg">
+                <desc xml:lang="ka">მცხეთის ჯვრის 595/605 წწ. მოსახსენებლის ფრაგმენტი</desc>
+                <desc xml:lang="en"></desc>
+            </graphic>
+        </surface>
+    </facsimile>
+    
+    <text>
+        <body>
+             <div type="bibliography">
+                <listBibl>
+                    <bibl n="1">ნოდარ შოშიაშვილი, ქართული წარწერების კორპუსი<ptr target="bibliography.xml#b101"/>, <citedRange>გვ. 167</citedRange></bibl>
+                     <bibl n="2">Н. Г. Чубинашвили, Памятники типа Джвари<ptr target="bibliography.xml#b47"/>, <citedRange>ст. 147</citedRange></bibl>
+                  </listBibl>
+            </div>
+            
+            <div type="edition" xml:lang="ka" xml:space="preserve">
+                
+                        <!--  “ჩნ ”.  -->
+                <ab>
+                   <lb n="1"/>ჩნ
+                </ab>
+             </div>
+
+                
+            <div type="translation" xml:lang="ka">
+                <p>ჩნ</p>
+            </div>
+            
+            <div type="apparatus" xml:space="preserve"/>
+            
+            <div type="commentary">
+                <p>ნოდარ შოშიაშვილის ქართული წარწერების კორპუსის მიხედვით #73.</p>
+            </div>
+                   
+         </body>
+    </text>
+</TEI>

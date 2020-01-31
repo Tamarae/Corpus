@@ -1,0 +1,194 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.stoa.org/epidoc/schema/8.23/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.stoa.org/epidoc/schema/8.23/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:space="preserve" xml:lang="ka">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>ბოლნისის სიონის 494 წ. ხელოსნების (კარის შემბმელების) ფარნავაზისა და აზარუხტის მოსახსენებელი</title>
+                <editor>ნოდარ შოშიაშვილი</editor>
+            </titleStmt>
+            <publicationStmt>
+                <authority>ილიას სახელმწიფო უნივერსიტეტი, ლინგვისტურ კვლევათა ინსტიტუტი</authority>
+                <idno type="filename">ECG054</idno>
+                <availability>
+                    <licence target="http://creativecommons.org/licenses/by-nc-sa/3.0/">
+                        დოკუმენტი ვრცელდება Creative Commons Attribution-NonCommercial-ShareAlike 3.0 ლიცენზიით.
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <collection>ბოლნისი</collection>
+                    </msIdentifier>
+                     <msContents>
+                        <summary>
+                            <seg xml:lang="ka">მოსახსენებელი</seg>
+                            <seg xml:lang="en"/>
+                        </summary>
+                    </msContents>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>
+                                    <objectType ref="http://www.eagle-network.eu/voc/objtyp/lod/1338">კარის ბალავარი</objectType>
+                                    <material  ref="http://www.eagle-network.eu/voc/material/lod/2">ქვა</material>
+                                    <dimensions unit="cm">
+                                        <height>70</height>
+                                        <width>305</width>
+                                    </dimensions>
+                                </support>
+                            </supportDesc>
+                            <layoutDesc>
+                                <layout writtenLines="1">
+                                    წარწერა ერთსტრიქონიანია. იგი მდებარეობს ბოლნისის სიონის ჩრდილოეთის ფასადის დასავლეთით მდებარე კარის ბალავრის ქვედა მხარეს.
+                                        <dimensions unit="cm">
+                                        <height>5,5/6</height>
+                                        <width>278</width>
+                                    </dimensions>
+                                   </layout>
+                            </layoutDesc>
+                        </objectDesc>  
+                        <handDesc>
+                             <handNote script="asomtavruli" style="embossed">
+                                 <rs type="execution">რელიეფური</rs> <rs type="script">ასომთავრული</rs> წარწერა
+                               <height unit="cm">4,5/5</height>
+                             </handNote>
+                        </handDesc>
+                    </physDesc>
+                    <history>
+                        <origin>
+                            <origPlace>ბოლნისის სიონი</origPlace>
+                           <origDate when-custom="0494" evidence="lettering" precision="high">494 AD</origDate>
+                        </origin>
+                        <provenance type="found" when="1937">
+                            <p> 
+                            <placeName type="ancientFindspot" ref="http://pleiades.stoa.org/places/863760">ბოლნისის სიონი</placeName>
+                                <!-- 41.389081, 44.512551 --> 
+                            <rs type="monuList"/>
+                            <rs type="circumstances">ბოლნისის ტაძარი მდებარეობს ისტორიულ ქვემო ქართლში, 
+                                9 კმ. მანძილზე ქ. ბოლნისიდან სამხრეთით, 1 კმ. მანძილზე სოფ. ბონის-ხაჩინიდან.</rs>
+                            <rs type="context"/>
+                                </p>
+                        </provenance>            
+                        <provenance type="observed">
+                            <placeName type="modernSpot">ბოლნისის სიონი</placeName>
+                                <idno type="invNo"/>
+                        </provenance>
+                    </history>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <revisionDesc><change when="2019-10-29" who="Eka Kvirkvelia">ტექსტის სრული კოდირება, მეტამონაცემების სრული კოდირება, 
+            ბმულებით დაკავშირება ავტორიტეტულ წყაროსთან</change></revisionDesc> 
+    </teiHeader>
+       
+    <facsimile>
+        <surface>
+            <graphic url="ecg054.jpg">
+                <desc xml:lang="ka">ბოლნისის სიონის 494 წ. ხელოსნების (კარის შემბმელების) ფარნავაზისა და აზარუხტის მოსახსენებელი</desc>
+                <desc xml:lang="en"></desc>
+            </graphic>
+        </surface>
+    </facsimile>
+    
+    <text>
+        <body>
+             <div type="bibliography">
+                <listBibl>
+     <bibl n="1">ნოდარ შოშიაშვილი, ქართული წარწერების კორპუსი, ლაპიდარული წარწერები<ptr target="bibliography.xml#b101"/>, <citedRange>გვ. 69-70</citedRange></bibl>
+     <bibl n="2">კორნელი დანელია, ზურაბ სარჯველაძე, ქართული პალეოგრაფია<ptr target="bibliography.xml#b92"/>, <citedRange>გვ. 17-18</citedRange></bibl>  
+     <bibl n="3">M. Brosset, Explications<ptr target="bibliography.xml#b18"/>, <citedRange>p. 421</citedRange></bibl>
+     <bibl n="4">M. Brosset, Explications<ptr target="bibliography.xml#b17"/>, <citedRange>p. 107</citedRange></bibl>
+     <bibl n="5">აკაკი შანიძე, ნაშთები III პირის ობიექტური პრეფიქსის ხმარებისა ხმოვნების წინ ქართულ ზმნაში<ptr target="bibliography.xml#b60"/>, <citedRange>გვ. 279-280</citedRange></bibl>   
+     <bibl n="8">აკაკი შანიძე, ძველი ქართულის ქრესტომათია ლექსიკონითურთ<ptr target="bibliography.xml#b59"/>, <citedRange>გვ. 1</citedRange></bibl>
+     <bibl n="9">ლევან მუსხელიშვილი, ბოლნისი<ptr target="bibliography.xml#b93"/>, <citedRange>გვ. 329-331</citedRange></bibl>
+     <bibl n="10">Н. Г. Чубинашвили, Болнисский сион<ptr target="bibliography.xml#b45"/>, <citedRange>ст. 70-71</citedRange></bibl>
+     <bibl n="11">ქართული ენის ისტორიული ქრესტომათია<ptr target="bibliography.xml#b112"/></bibl> 
+     <bibl n="12">M. Tarchnišvili, Les récentes découverstes épigraphiques et litteraires en géorgien<ptr target="bibliography.xml#b24"/>, <citedRange>p. 250</citedRange></bibl>
+     <bibl n="13">I. Molitor MIA CSCO<ptr target="bibliography.xml#b15"/></bibl>
+     <bibl n="14">აკაკი შანიძე, ქართული ენის სტრუქტურისა და ისტორიის საკითხები<ptr target="bibliography.xml#b61"/>, <citedRange>გვ. 280-281</citedRange></bibl>
+     <bibl n="15">ივანე ჯავახიშვილი, ქართული დამწერლობათმცოდნეობა ანუ პალეოგრაფია<ptr target="bibliography.xml#b86"/>, <citedRange>გვ. 185</citedRange></bibl>
+     <bibl n="25">აკაკი შანიძე, ბოლნისის წარწერები<ptr target="bibliography.xml#b57"/>, <citedRange>გვ. 31</citedRange></bibl>
+     <bibl n="26">რამაზ პატარიძე, ბოლნისის ტაძრის სამშენებლო წარწერები<ptr target="bibliography.xml#b137"/>, <citedRange>გვ. 140-159</citedRange></bibl>
+     <bibl n="27">ბ. მჭედლიშვილი, ბოლნისის სიონის დათარიღებისათვის<ptr target="bibliography.xml#b138"/>, <citedRange>გვ. 100-114</citedRange></bibl>
+     <bibl n="28">გურამ ყიფიანი, ბოლნისის სიონის უძველესი წარწერა<ptr target="bibliography.xml#b139"/>, <citedRange>გვ. 666-675</citedRange></bibl>                    
+     <bibl n="29">ე. მაჭავარიანი ბოლნისის სიონის საამშენებლო წარწერა<ptr target="bibliography.xml#b140"/></bibl>
+   </listBibl>
+            </div> 
+            
+          <div type="edition" xml:space="preserve"> 
+                
+                    <!-- „[შეწევ]ნითა ქ(რისტ)ჱსითა მ[ე] ფარნ[ავაზ] და აზარუხტ შეხუა[ბ]თ ესე კარი სალოცველად [ჩ(უე)ნ(და) დ]ა [შჳლთა ჩ(უე)ნთა]“  -->
+            
+                 <ab>
+                    <lb n="1"/><w lemma="შეწევნა"><supplied reason="lost">შეწევ</supplied>ნითა</w> 
+                            <w lemma="ქრისტე"><expan><abbr>ქ</abbr><ex>რისტ</ex><abbr>ჱსით</abbr>ა</expan></w> 
+                            <w lemma="მე">მ<supplied reason="lost">ე</supplied></w> 
+                                <name nymRef="ფარნავაზ">ფარნ<supplied reason="lost">ავაზ</supplied></name>
+                                    და
+                                <name nymRef="აზარუხტ">აზარუხტ</name> 
+                            <rs type="pn"><w lemma="შებმა">შეხუა<supplied reason="lost">ბ</supplied>თ</w> </rs>
+                            <w lemma="ესე">ესე</w>
+                            <w lemma="კარ">კარი </w>
+                             <w lemma="სალოცველ">სალოცველად</w> 
+                            <w lemma="ჩუენ"><supplied reason="lost"><expan><abbr>ჩ</abbr><ex>უე</ex><abbr>ნ</abbr><ex>და</ex></expan></supplied></w> 
+                                    <supplied reason="lost">დ</supplied>ა
+                            <w lemma="შვილ"><supplied reason="lost">შჳლთა</supplied></w> 
+                            <w lemma="ჩუენი"><expan><supplied reason="lost"><abbr>ჩ</abbr><ex>უე</ex><abbr>ნთა</abbr></supplied></expan></w></ab>                                             
+                
+                </div>
+            
+            <div type="translation" xml:lang="ka">
+                <p> ქრისტეს შეწევნით მე, ფარნავაზმა, და აზარუხტმა შევაბით ეს კარი ჩვენი და ჩვენი შვილების სალოცველად. </p>                                                                                                                                                                                                                                                                  
+            </div>
+            
+            <div type="apparatus" xml:space="preserve"> 
+                <p><app loc="1"> <lem>ფარნავაზ</lem> 
+                    <rdg resp="მარი ბროსე">ფარნეენ</rdg>
+                    <rdg resp="აკაკი შანიძე, ივანე იმნაიშვილი">ფარნ(...)</rdg>
+                 <rdg resp="ლევან მუსხელიშვილი">ფარნევაზ</rdg>
+                    <rdg resp="გიორგი ჩუბინაშვილი">ფარნევან</rdg>
+                    <rdg resp="რამაზ პატარიძე">ფარსმან</rdg>
+                   <rdg resp="ბ. მედლიშვილი">ფარ(სმა)ნ ე(რისთ)ვმ(ა)ნ</rdg>
+                    <rdg resp="ე. მაჭავარიანი">ფარნევან</rdg>
+                 </app>
+                </p>
+              <p><app loc="1"> <lem>ჩუენ</lem> 
+                <rdg resp="აკაკი შანიძე">სულთა</rdg>
+                   </app>
+              </p>
+                    <p>
+                        <app loc="1"> <lem n="1">შვილ ჩუენი</lem>
+                      <rdg resp="აკაკი შანიძე, ივანე იმნაიშვილი">ჩუენთათჳს</rdg>
+                      </app>
+                    </p>
+                  </div>
+            <div type="commentary">
+                <p> ნოდარ შოშიაშვილის ქართული წარწერების კორპუსის მიხედვით #4. იგი პირველად გამოსცა მარი ბროსემ 1838 წელს. 
+                    წარწერას განკვეთილობის ნიშნები არ ახლავს. სიტყვები ერთმანეთისაგან არ არის დაცილებული. 
+                    ქარაგმის ნიშნად ნახმარია პატარა, სწორი, განივი ხაზი (მისი ნაშთი ჩანს მეორე სიტყვაზე).
+                    წარწერა პალეოგრაფიული თვალსაზრისით ფრიად არქაულია: თავშეკრულია Ⴁ და Ⴣ გრაფემები. 
+                    ენობრივი თვალსაზრისით საინტერესოა ხანმეტი ზმნური ფორმა: შეხუაბთ (ხ - მესამე ირიბი ობიექტური პირის ნიშანი).
+                    დათარიღების საკითხი: აკაკი შანიძის აზრით, წარწერა VI საუკუნის პირველი ნახევრისაა. ლევან მუსხელიშვილი ფიქრობს, რომ იგი ტაძრის აშენების თანადროულია.
+                    
+                    აზრთა სხვადასხვაობა არსებობს დაზიანებული საკუთარი სახელის ამოკითხვის თაობაზე. 
+                    გიორგი ჩუბინაშვილი ვარაუდობს, წარწერებში მოხსენიებული არიან ადგილობრივი ფეოდალური არისტოკრატიის ის წარმომადგენლები, 
+                    რომელთაც შემწეობა აღმოუჩინეს დავით ეპისკოპოსს ტაძრის მშენებლობაში: ფარნ[ევან] და აზარუხტ. 
+                    
+                    რამაზ პატარიძის აზრით, წარწერაში მოხსენიებული პირი ფარნავაზ არ უნდა იყოს. უფრო სავარაუდებელია ფარსმან ერისთავი.
+                     
+                    გურამ ყიფიანის მიხედვით, „დუხტ-“ ან „უხტ-“ საშუალი სპარსულით ასულს ნიშნავს და ამდენად აზარდუხტ - აზარუხტ აშა-ს (არტა) ქალიშვილია. 
+                    ფარნევანიც და აზარუხტიც არისტოკრატული სახელებია და მკვლევრის აზრით, ეს ორი პიროვნება არისტოკრატულ წყვილს წარმოადგენს.   
+                    
+                    ვალერი სილოგავა ფიქრობს, რომ „ფარნევანის“ „ფარნავაზად“ ამოკითხვა სინამდვილეს დაშორებულია, რადგანაც Ⴌ-ს მერე Ⴈ-ს ან Ⴄ-ს კონტური ჩანს.
+                    ნოდარ შოშიაშვილის მიერ გამოცემაში ხელოსნებად წარმოდგენილი „ფარნავაზ“ და „აზარუხტი“ ქტიტორები უნდა იყვნენ, 
+                    რადგან ფორმულით - „სალოცველად  ჩუენდა და შვილთა ჩუენთა“ - მთავრდება სწორედ ქტიტორული წარწერების ტექსტები.
+                    ვალერი სილოგავა ფიქრობს, რომ „აზარუხტ“ თუ „აზარ(დ)უხტ“, როგორც - უხტ/დუხტ მაწარმოებელ კომპონენტიანი სახელი, შეიძლება ქალის სახელად მივიჩნიოთ 
+                    და ფარნევან და აზარუხტ ცოლ-ქმრად ჩავთვალოთ.
+                </p>            
+             </div>   
+        </body>
+    </text>
+</TEI>

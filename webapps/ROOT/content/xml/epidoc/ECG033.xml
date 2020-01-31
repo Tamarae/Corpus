@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.stoa.org/epidoc/schema/8.23/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.stoa.org/epidoc/schema/8.23/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:space="preserve" xml:lang="ka">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>ურბნისის სიონის საამშენებლო წარწერა კოსტანტისა და მამა მიქაელისა</title>
+                <editor>ნოდარ შოშიაშვილი</editor>
+            </titleStmt>
+            <publicationStmt>
+                <authority>ილიას სახელმწიფო უნივერსიტეტი, ლინგვისტურ კვლევათა ინსტიტუტი</authority>
+                 <idno type="filename">ECG033</idno>
+                <availability>
+                    <licence target="http://creativecommons.org/licenses/by-nc-sa/3.0/">
+                       დოკუმენტი ვრცელდება Creative Commons Attribution-NonCommercial-ShareAlike 3.0 ლიცენზიით.
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                         <collection>ურბნისი</collection>
+                    </msIdentifier>
+                    
+                     <msContents>
+                        <summary>
+                            <seg xml:lang="ka">მემორიალური</seg>
+                            <seg xml:lang="en"/>
+                        </summary>
+                    </msContents>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>                             
+                                   <material ref="http://www.eagle-network.eu/voc/material/lod/75">ქვიშაქვა</material>
+                                   <objectType ref="http://www.eagle-network.eu/voc/objtyp/lod/1483">ფასადი</objectType>
+                                <dimensions unit="cm">
+                                    <height>138</height>
+                                        <width></width>
+                                    </dimensions>
+                                </support>
+                            </supportDesc>
+                                <layoutDesc>
+                                    <layout writtenLines="3"> 
+                                        წარწერა სამსტრიქონიანია. იგი მდებარეობს ტაძრის ჩრდილოეთის ფასადის კედელში, სწორკუთხად გათლილი რუხი ფილის მთელ ფართობზე. ჩასმულია რელიეფურ ჩარჩოში.
+                                    ფილა, როგორც ჩანს, ადგილშენაცვლებულია ტაძრის რესტავრაციის დროს.                                                       
+                                        <dimensions unit="cm">
+                                            <width>40</width>
+                                            <height>59</height>
+                                            <depth/>
+                                        </dimensions>
+                                    </layout>
+                                </layoutDesc>
+                        </objectDesc>                        
+                        <handDesc>
+                            <handNote script="asomtavruli" style="embossed">
+                                <rs type="execution">რელიეფური</rs> <rs type="script">ასომთავრული</rs> წარწერა
+                                <height>7-9</height>
+                                 </handNote>
+                        </handDesc>
+                    </physDesc>
+                    <history>
+                            <origin>
+                                <origPlace>ურბნისის სიონი</origPlace>
+                                <origDate notBefore-custom="0400" notAfter-custom="0450" precision="medium" 
+                                    evidence="lettering" datingMethod="#julian">V AD</origDate>
+                            </origin>
+                            <provenance type="found">
+                                <placeName type ="ancientFindspot" ref="https://pleiades.stoa.org/places/863914">ურბნისის სიონი</placeName>
+                                <!--  "42.010941, 43.979704"-->
+                                <rs type="circumstances"></rs>
+                                <rs type="context"/>
+                                <rs type="monuList"/>
+                            </provenance> 
+                             <provenance type="observed">
+                            <placeName> ურბნისის სიონი</placeName>
+                            <idno></idno>
+                        </provenance>
+                    </history>                   
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <revisionDesc><change when="2019-11-11" who="Eka Kvirkvelia">ტექსტის სრული კოდირება, მეტამონაცემების სრული კოდირება, 
+            ბმულებით დაკავშირება ავტორიტეტულ წყაროსთან</change></revisionDesc>
+    </teiHeader>
+   <facsimile>
+        <surface>
+            <graphic url="ecg033.jpg">
+                <desc xml:lang="ka">ურბნისის სიონის საამშენებლო წარწერა კოსტანტისა და მამა მიქაელისა</desc>
+                <desc xml:lang="en"></desc>
+            </graphic>
+        </surface>
+    </facsimile>
+   
+    <text>
+        <body>
+            
+            <div type="bibliography">
+                <listBibl>
+                    <bibl n="1">ნოდარ შოშიაშვილი, ქართული წარწერების კორპუსი<ptr target="bibliography.xml#b101"/>, <citedRange>გვ. 62-63</citedRange></bibl>
+                    <bibl n="2">M. Brosset, Rapports VI<ptr target="bibliography.xml#b22"/>, <citedRange>p. 15</citedRange></bibl>
+                    <bibl n="3">ექვთიმე თაყაიშვილი, არხეოლოგიური მოგზაურობანი და შენიშვნანი<ptr target="bibliography.xml#b70"/>, <citedRange>გვ. 46</citedRange></bibl>
+                    <bibl n="4">ნოდარ შოშიაშვილი, ნაქალაქარი ურბნისი<ptr target="bibliography.xml#b99"/>, <citedRange>გვ. 136-137</citedRange></bibl>
+                    <bibl n="5">ნოდარ შოშიაშვილი, ურბნისის ძველი ქართული წარწერები<ptr target="bibliography.xml#b100"/>, <citedRange>გვ. 138</citedRange></bibl>
+                    <bibl n="6">პარმენ ზაქარაია, ნაქალაქარ ურბნისის ხუროთმოძღვრება<ptr target="bibliography.xml#b104"/>, <citedRange>გვ. 90</citedRange></bibl>
+                    <bibl n="7">ალ. გამყრელიძე, ქართული დამწერლობის უძველესი ნიმუშები<ptr target="bibliography.xml#b100"/>, <citedRange>გვ. 16-22</citedRange></bibl>
+                    <bibl n="8">ვალერი სილოგავა, ეპიგრაფიკული ეტიუდები<ptr target="bibliography.xml#b75"/>, <citedRange>გვ. 92</citedRange></bibl>
+                </listBibl>
+            </div>         
+            <div type="edition" xml:lang="ka" xml:space="preserve">
+                
+                        <!--  "ო~ო ი~ჳ ქ~ე
+                                კტ~ი მ~მ მქ~ლ შწყნ
+                                ა~ს ს~ნა მ~შბლნი" -->
+                                 
+                <ab>
+                   <lb n="1"/><w lemma="უფალ"><expan><abbr>ო</abbr><ex>ჳფალო</ex><abbr>ო</abbr></expan></w> 
+                        <w lemma="იესუ"><expan><abbr>ი</abbr><ex>ესო</ex><abbr>ჳ</abbr></expan></w> 
+                        <w lemma="ქრისტე"><expan><abbr>ქ</abbr><ex>რისტ</ex><abbr>ე</abbr></expan></w>
+                   <lb n="2"/><persName><name nymRef="კოსტანტი"><expan><abbr>კ</abbr><ex>ოს</ex><abbr>ტ</abbr><ex>ანტ</ex><abbr>ი</abbr></expan></name></persName> 
+                            <w lemma="მამა"><expan><abbr>მ</abbr><ex>ა</ex><abbr>მ</abbr><ex>აჲ</ex></expan></w> 
+                            <name nymRef="მიქაელ"><expan><abbr>მ</abbr><ex>ი</ex><abbr>ქ</abbr><ex>აე</ex><abbr>ლ</abbr></expan></name> 
+                            <w lemma="შეწყალება"><expan><abbr>შ</abbr><ex>ეი</ex><abbr>წყ</abbr><ex>ალე</ex><abbr>ნ</abbr></expan></w>
+                    <lb n="3"/><w lemma="ესე"><expan><abbr>ა</abbr><ex>მი</ex><abbr>ს</abbr></expan></w> 
+                            <w lemma="სიონ"><expan><abbr>ს</abbr><ex>იო</ex><abbr>ნ</abbr><ex>ის</ex><abbr>ა</abbr></expan></w> 
+                            <w lemma="მაშენებელ"><expan><abbr>მ</abbr><ex>ა</ex><abbr>შ</abbr><ex>ენე</ex><abbr>ბ</abbr><ex>ე</ex><abbr>ლნი</abbr></expan></w>
+                     </ab>
+             
+            </div>
+                
+            <div type="translation" xml:lang="ka">
+                <p> უფალო იესო ქრისტე, ამ სიონის მაშენებელნი: კოსტანტი და მამა მიქაელი შეიწყალენ.</p></div>
+            
+            <div type="apparatus">
+                 
+                <p><app loc="1"> <lem>უფალ</lem>
+                 <rdg resp="ნ. შოშიაშვილი 1, პ. ზაქარაია">ოფალო</rdg>
+                 </app></p>
+                
+                <p><app loc="1"> <lem>იესუ</lem>
+                 <rdg resp="მ. ბროსე, ე. თაყაიშვილი">იესო</rdg>
+                    <rdg resp="ნ. შოშიაშვილი 1, პ. ზაქარაია">იესჳ</rdg>
+                 </app></p>
+                
+                <p><app loc="2"> <lem>კოსტანტი</lem>
+                 <rdg resp="მ. ბროსე, ე. თაყაიშვილი">კალატოზი</rdg>
+                 <rdg resp="ნ. შოშიაშვილი 1, პ. ზაქარაია">კონსტანტი</rdg>
+                 </app></p>
+                
+                <p><app loc="2"> <lem>მიქაელ</lem>
+                 <rdg resp="მ. ბროსე, ე. თაყაიშვილი, ნ.შოშიაშვილი 1, პ. ზაქარაია, ვ სილოგავა">მიქელ</rdg>
+                    </app></p>
+                
+                 <p><app loc="3"> <lem>ესე</lem>
+                 <rdg resp="მ. ბროსე">ას</rdg>
+                    </app></p>
+                
+                 <p><app loc="3"> <lem>მაშენებელ</lem>
+                 <rdg resp="ვ. სილოგავა">მაშჱნებელნი</rdg>
+                    </app></p>
+                </div>
+            
+            <div type="commentary">
+                <p>ნოდარ შოშიაშვილის ქართული წარწერების კორპუსი მიხედვით # 1. წარწერას განკვეთილობისა და ქარაგმის ნიშნები არ ახლავს. სიტყვები ერთმანეთისგან არ არის დაცილებული. 
+                    ნოდარ შოშიაშვილის დათარიღების საფუძველია: პალეოგრაფიული ნიშნები: Ⴁ, Ⴣ, Ⴑ, Ⴗ, Ⴘ, Ⴜ გრაფემების რკალშეკრულობა, Ⴁ-ს და Ⴜ-ს შეკრული აქვს როგორც ზედა, 
+                    ისე ქვედა რკალი. რკალშეკრულია, ასევე, Ⴑ გრაფემა. პ. ზაქარაია წარწერას V-VI საუკუნეთა მიჯნით ათარიღებს. ვ. სილოგავა ფიქრობს, რომ წარწერა X საუკუნისაა.</p>
+            </div>         
+          </body>
+    </text>
+</TEI>

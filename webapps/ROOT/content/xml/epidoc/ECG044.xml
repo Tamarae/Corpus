@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.stoa.org/epidoc/schema/8.23/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.stoa.org/epidoc/schema/8.23/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:space="preserve" xml:lang="ka">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>ბოლნისის „ლამაზი გორას“ V/VI სს. ფრაგმენტი</title>
+                 <editor>ნოდარ შოშიაშვილი</editor>
+            </titleStmt>
+            <publicationStmt>
+                <authority>ილიას სახელმწიფო უნივერსიტეტი, ლინგვისტურ კვლევათა ინსტიტუტი</authority>
+                 <idno type="filename">ECG044</idno>
+                <availability>
+                    <licence target="http://creativecommons.org/licenses/by-nc-sa/3.0/">
+                       დოკუმენტი ვრცელდება Creative Commons Attribution-NonCommercial-ShareAlike 3.0 ლიცენზიით.
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc type="fragmentary">
+                    <msIdentifier>
+                        <collection>ბოლნისი</collection>
+                    </msIdentifier>
+                     <msContents>
+                        <summary>
+                            <seg xml:lang="ka">მოსახსენებელი</seg>
+                            <seg xml:lang="en"/>
+                        </summary>
+                    </msContents>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>                             
+                                   <material ref="http://www.eagle-network.eu/voc/material/lod/30">მწვანე ტუფი</material>
+                                   <objectType ref="http://www.eagle-network.eu/voc/objtyp/lod/259">ფილა</objectType>
+                                <dimensions unit="cm">
+                                        <width>21</width>
+                                        <height>43</height>
+                                        <depth>6</depth>
+                                    </dimensions>
+                                </support></supportDesc>
+                                <layoutDesc>
+                                    <layout writtenLines="5"> 
+                                       წარწერა 5 სტრიქონიანია. იგი შესრულებულია ფილაზე, რომლის სწორკუთხა ფილის ზედა ნაწილში გამოქანდაკებულია რელიეფური, სადა სახის „ბოლნური ჯვარი“, 
+                                       დასმული ბუნზე. ჯვარი ამოკვეთილია დადაბლებულ წრიულ ფონზე. ჯვრის მკლავები ორმაგი კონტურითაა ამოჭრილი. 
+                                       ჯვრის ზემოთ, ფილის ორივე კუთხეში დადაბლებულ ფონზე, 
+                                       შემორჩა წარწერის ფრაგმენტები - რამდენიმე რელიეფური გრაფემა. ასევე, ქვემოთ, დადაბლებული ფონისაგან შექმნილ სწორკუთხოვან 
+                                       4 სტრიქონზე შემორჩა რელიეფური წარწერის ფრაგმენტები.                                                          
+                                       <dimensions unit="cm">
+                                        <width>5/15/16</width>
+                                        <height/>
+                                       </dimensions>
+                                    </layout>
+                                </layoutDesc>
+                        </objectDesc>                        
+                        <handDesc>
+                            <handNote script="asomtavruli" style="embossed">
+                                 <rs type="execution">რელიეფური</rs> <rs type="script">ასომთავრული</rs> წარწერა
+                                 <width></width>
+                                <height>4</height>
+                                 </handNote>
+                        </handDesc>
+                    </physDesc>
+                    <history>
+                            <origin>
+                                <origPlace>ლამაზი გორა, ბოლნისი</origPlace>
+                                <origDate notBefore-custom="0400" notAfter-custom="0600" precision="medium" 
+                                    evidence="lettering" datingMethod="#julian">V-VI AD</origDate>
+                            </origin>
+                            <provenance type="found" when="1959">
+                                <placeName type ="ancientFindspot" ref="https://pleiades.stoa.org/places/863760">ლამაზი გორა, ბოლნისი</placeName>
+                                <!-- "41.449801, 44.548284"-->
+                                <rs type="circumstances">ძეგლი აღმოჩენილია ივანე ჯავახიშვილის სახელობის ისტორიის ინსტიტუტის არქეოლოგიური ექსპედიციის მიერ,
+                                    რომელსაც ი. გრძელიშვილი ხელმძღვანელობდა. ბოლნისის სიონიდან ჩრდილო-დასავლეთით, დაახლოებით 800 მეტრის დაშორებით მდებარეობს ბორცვი, 
+                                    რომელსაც ადგილობრივი მოსახლეობა „ლამაზ გორას“ უწოდებს. სწორედ ამ გორაზე ჩაატარა ექსპედიციამ გათხრები და შუა ადგილას გამოავლინა
+                                    სამეკლესიანი ბაზილიკის ნანგრევები. ვარაუდობენ, რომ ეს იყო სამონასტრო კომპლექსი, რომელსაც ეჭირა 1000 კვ.მ. ფართობი. ამ ტერიტორიაზე
+                                    აღმოჩნდა ათეული ქვაჯვარი ასომთავრული წარწერებით. ძეგლი იპოვეს 1959 წელს.</rs> 
+                                <rs type="context"></rs>
+                                <rs type="monuList"/>
+                            </provenance> 
+                             <provenance type="observed">
+                            <placeName type="modernSpot" ref="http://museum.ge/">საქართველოს ეროვნული მუზეუმი</placeName>
+                            <idno type="invNo">1182</idno>
+                        </provenance>
+                    </history>                   
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+       <revisionDesc><change when="2019-10-29" who="Eka Kvirkvelia">ტექსტის სრული კოდირება, მეტამონაცემების სრული კოდირება, 
+            ბმულებით დაკავშირება ავტორიტეტულ წყაროსთან</change></revisionDesc>
+    </teiHeader>
+          
+    <facsimile>
+        <surface>
+            <graphic url="ecg044.jpg">
+                <desc xml:lang="ka">ბოლნისის „ლამაზი გორას“ V/VI სს. ფრაგმენტი</desc>
+                <desc xml:lang="en"></desc>
+            </graphic>
+        </surface>
+    </facsimile>
+
+    
+    <text>
+        <body>
+              <div type="bibliography">
+                <listBibl>  
+                  <bibl n="1">ნოდარ შოშიაშვილი, ქართული წარწერების კორპუსი, ლაპიდარული წარწერები<ptr target="bibliography.xml#b101"/>, <citedRange>გვ. 85</citedRange></bibl>
+                  <bibl n="2">ჯ. ამირანაშვილი, ადრეფეოდალური ხანის ქართული არქიტექტურისა და რელიეფური ქანდაკების ძეგლები<ptr target="bibliography.xml#b136"/>, <citedRange>გვ. 35-36</citedRange></bibl> 
+                </listBibl>
+            </div>      
+            <div type="edition" xml:lang="ka" xml:space="preserve">
+                
+                        <!--  "აბ ზ
+                            შ [ედე]დოფ[ა]
+                             ლ[ი] მზ
+                             ს...
+                            სა..." -->
+                                
+                <ab>
+                   <lb n="1"/>აბ<gap reason="lost" extent="unknown" unit="character"></gap>ზ<gap reason="lost" extent="unknown" unit="character"></gap>
+                    <lb n="2"/><w lemma="შეწყალება"><expan><abbr>შ</abbr><ex>ეიწყალ</ex><supplied reason="lost"><abbr>ე</abbr></supplied></expan></w> <w lemma="დედოფალ"><supplied reason="lost">დე</supplied>დოფ<supplied reason="lost">ა</supplied>
+                    <lb n="3" break="no"/>ლ<supplied reason="lost">ი</supplied></w> მზ<gap reason="lost" extent="unknown" unit="character"></gap>
+                    <lb n="4"/>ს<gap reason="lost" extent="unknown" unit="character"></gap>
+                    <lb n="5"/>სა<gap reason="lost" extent="unknown" unit="character"></gap>
+                  </ab>
+             
+            </div>
+                
+            <div type="translation" xml:lang="ka">
+                <p>აბ... ზ... შეიწყალე დედოფალი მზ... ს... სა...</p></div>
+            
+            <div type="apparatus" xml:space="preserve">
+                         </div>
+            
+            <div type="commentary">
+                <p>ნოდარ შოშიაშვილის ქართული წარწერების კორპუსის მიხედვით #20. წარწერაში განკვეთილობისა და ქარაგმის ნიშნები არ ჩანს.</p>
+            </div>                  
+         </body>
+    </text>
+</TEI>

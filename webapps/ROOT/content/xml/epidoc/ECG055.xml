@@ -1,0 +1,145 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.stoa.org/epidoc/schema/8.23/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.stoa.org/epidoc/schema/8.23/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:space="preserve" xml:lang="ka">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>ბოლნისის სიონის 494 წ. ვარდან ნახპეტის წარწერა</title>
+                <editor>ნოდარ შოშიაშვილი</editor>
+            </titleStmt>
+            <publicationStmt>
+                <authority>ილიას სახელმწიფო უნივერსიტეტი, ლინგვისტურ კვლევათა ინსტიტუტი</authority>
+                <idno type="filename">ECG055</idno>
+                <availability>
+                    <licence  target="http://creativecommons.org/licenses/by-nc-sa/3.0/">
+                        დოკუმენტი ვრცელდება Creative Commons Attribution-NonCommercial-ShareAlike 3.0 ლიცენზიით.
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <collection>ბოლნისი</collection>
+                    </msIdentifier>
+                    
+                    <msContents>
+                        <summary>
+                            <seg xml:lang="ka">მემორიალური</seg>
+                            <seg xml:lang="en"/>
+                        </summary>
+                    </msContents>
+                    
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>
+                                    <objectType ref="http://www.eagle-network.eu/voc/objtyp/lod/100">სვეტი</objectType>
+                                    <material ref="http://www.eagle-network.eu/voc/material/lod/2">ქვა</material>
+                                    <dimensions unit="cm">
+                                        <height>34</height>
+                                        <width>117</width>
+                                    </dimensions>
+                                </support>
+                            </supportDesc>
+                            <layoutDesc>
+                                <layout writtenLines="1">
+                                    წარწერა ერთსტრიქონიანია. იგი მდებარეობს ბოლნისის სიონის ინტერიერში, ჩრდილოეთის ნავში, აფსიდიდან მესამე სვეტზე, სადაც
+                                რელიეფით გამოსახულია ლამაზ მცენარეულ ჩარჩოში, მედალიონში ჩასმული „ბოლნური ჯვარი“. წარწერა გამოქანდაკებულია ჯვრის ზემოთ
+                                        დადაბლებულ სიბრტყეზე.
+                                        <dimensions unit="cm">
+                                        <height>4,5</height>
+                                        <width>25</width>
+                                    </dimensions>
+                                   </layout>
+                            </layoutDesc>
+                        </objectDesc>
+                        <handDesc>
+                            <handNote script="asomtavruli" style="embossed">
+                                 <rs type="execution">რელიეფური</rs> <rs type="script">ასომთავრული</rs> წარწერა
+                                <height unit="cm">3</height>
+                             </handNote>
+                        </handDesc>
+                    </physDesc>
+                    <history>
+                        <origin>
+                            <origPlace>ბოლნისის სიონი</origPlace>
+                           <origDate when-custom="0494" evidence="lettering" precision="high">494 AD</origDate>
+                        </origin>
+                        <provenance type="found" when="1937">
+                            <placeName type="ancientFindspot" ref="http://pleiades.stoa.org/places/863760">ბოლნისის სიონი</placeName>
+                            <!-- 41.389081, 44.512551 --> 
+                            <rs type="monuList"/>
+                            <rs type="circumstances">ბოლნისის ტაძარი მდებარეობს ისტორიულ ქვემო ქართლში, 9 კმ. მანძილზე 
+                                ქ. ბოლნისიდან სამხრეთით, 1 კმ. მანძილზე სოფ. ბონის-ხაჩინიდან. ეს წარწერა 1937 წელს აღმოაჩინა კულტურულ ძეგლთა დაცვის 
+                                კომიტეტის მიერ მოწყობილმა არქეოლოგიურმა ექსპედიციამ, რომელსაც ლევან მუსხელიშვილი ხელმძღვანელობდა.</rs>
+                            <rs type="context"/>
+                        </provenance>
+                        <provenance type="observed">
+                            <placeName type="modernSpot">ბოლნისის სიონი</placeName>
+                             <idno type="invNo"/>
+                        </provenance>
+                    </history>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <revisionDesc><change when="2019-10-29" who="Eka Kvirkvelia">ტექსტის სრული კოდირება, მეტამონაცემების სრული კოდირება, 
+            ბმულებით დაკავშირება ავტორიტეტულ წყაროსთან</change></revisionDesc> 
+    </teiHeader>
+        
+    <facsimile>
+        <surface>
+            <graphic url="ecg055.jpg">
+                <desc xml:lang="ka">ბოლნისის სიონის 494 წ. ვარდან ნახპეტის წარწერა</desc>
+                <desc xml:lang="en"></desc>
+            </graphic>
+        </surface>
+    </facsimile>
+    
+    <text>
+        <body>
+            <div type="bibliography">
+          <listBibl>
+         <bibl n="1">ნოდარ შოშიაშვილი, ქართული წარწერების კორპუსი, ლაპიდარული წარწერები<ptr target="bibliography.xml#b101"/>, <citedRange>გვ. 74-75</citedRange></bibl>
+         <bibl n="2">ლევან მუსხელიშვილი, ბოლნისი<ptr target="bibliography.xml#b93"/>, <citedRange>გვ. 330-332</citedRange></bibl>
+         <bibl n="3">Н. Г. Чубинашвили, Болнисский сион<ptr target="bibliography.xml#b45"/>, <citedRange>ст. 40, 73</citedRange></bibl>
+         <bibl n="4">დავით ბერძენიშვილი, ბოლნისის ისტორიული გეოგრაფიის საკითხები<ptr target="bibliography.xml#b14"/>, <citedRange>გვ. 23</citedRange></bibl>
+         <bibl n="5">Н. Г. Чубинашвили, Хандиси<ptr target="bibliography.xml#b48"/>, <citedRange>ст. 65</citedRange></bibl>
+        </listBibl>
+            </div> 
+            
+           <div type="edition" xml:space="preserve" xml:lang="ka">
+
+                    <!-- „ესე ჯ"ი ვ"ნ ნ"პჲ“  -->
+            
+                       <ab>
+                            <lb n="1"/><w lemma="ესე">ესე</w> 
+                                <w lemma="ჯუარ"><expan><abbr>ჯ</abbr><ex>უარ</ex><abbr>ი</abbr></expan></w> 
+                                <name nymRef="ვარდან"><expan><abbr>ვ</abbr><ex>არდა</ex><abbr>ნ</abbr></expan></name> 
+                            <roleName><w lemma="ნახპეტ"><expan><abbr>ნ</abbr><ex>ახ</ex><abbr>პ</abbr><ex>ეტისა</ex><abbr>ჲ</abbr></expan></w></roleName>
+                       </ab>                                                      
+                
+            </div>
+
+            <div type="translation" xml:lang="ka">
+                <p>ვარდან ნახპეტის ეს ჯვარი</p>                                                                                                                                                                                                                                                                    
+            </div>
+            
+            <div type="apparatus" xml:space="preserve">
+                 
+                <p><app loc="1"> <lem>ვარდან</lem> 
+                    <rdg resp="გიორგი ჩუბინაშვილი, ივანე ჯავახიშვილი">ვარსქენ</rdg>
+                                </app></p>
+                
+                <p><app loc="1"> <lem>ნახპეტ</lem> 
+                <rdg resp="გიორგი ჩუბინაშვილი, ივანე ჯავახიშვილი">ნაჰაპეტისაჲ</rdg>
+                   </app></p>
+            </div>
+
+            <div type="commentary">
+                <p> ნოდარ შოშიაშვილის ქართული წარწერების კორპუსის მიხედვით #7. წარწერას განკვეთილობის ნიშნები არ ახლავს. სიტყვები ერთმანეთისაგან არ არის დაცილებული. 
+                    ქარაგმის ნიშნად ნახმარია გრძელი, სწორი, განივი ხაზი. ლევან მუსხელიშვილი ვარდან ნახპეტს „ვარსქენად“ კითხულობს.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

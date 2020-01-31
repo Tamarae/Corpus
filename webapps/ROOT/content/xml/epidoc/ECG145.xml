@@ -1,0 +1,233 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.stoa.org/epidoc/schema/8.23/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.stoa.org/epidoc/schema/8.23/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:space="preserve" xml:lang="ka">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>ბაგრატ მეფისა და მარიამ დედოფლის წარწერა</title>
+                <editor>ვალერი სილოგავა</editor>
+                <editor>მარი ბროსე</editor>
+                <editor>ექვთიმე თაყაიშვილი</editor>
+                <editor>ნიკო ბერძენიშვილი</editor>
+                <editor>ვ. ცისკარიშვილი</editor>
+                <editor>ი. გვარამაძე</editor>
+            </titleStmt>
+            <publicationStmt>
+                <authority>ილიას სახელობის სახელმწიფო უნივერსიტეტი</authority>
+                <idno type="filename">ECG145</idno>
+                <availability><licence target="http://creativecommons.org/licenses/by-nc-sa/3.0/">
+                    დოკუმენტი ვრცელდება Creative Commons Attribution-NonCommercial-ShareAlike 3.0 ლიცენზიით</licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                    <collection>კუმურდო</collection>
+                    </msIdentifier>
+                     
+                    <msContents>
+                        <summary>
+                            <seg xml:lang="ka">მემორიალური</seg>
+                            <seg xml:lang="en"/>
+                        </summary>
+                    </msContents>
+                    
+                    
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>
+                                    <objectType ref="https://www.eagle-network.eu/voc/objtyp">ფასადი</objectType>
+                                <material ref="https://www.eagle-network.eu/voc/objtyp/lod/1402">ქვა</material>
+                                <dimensions unit="cm">
+                                    <height/>
+                                    <width/>
+                                </dimensions>
+                            </support>
+                            </supportDesc>
+                            <layoutDesc>
+                                <layout><p>ტექსტი განლაგებულია ფასადის 6 ფილაზე</p>
+                                
+                                   <dimensions unit="cm">
+                                    <height>64</height>
+                                    <width></width>
+                                    <depth></depth>
+                                </dimensions>
+                                </layout>
+
+                            </layoutDesc>
+                        </objectDesc>
+                        <handDesc>
+                            <handNote script="asomtavruli">
+                                ასომთავრული წარწერა, კიდურწერტილოვანი, განივი სწორი ხაზი
+                                <dimensions unit="cm">
+                                    <height>13.5-14</height>
+                                </dimensions>        
+                            </handNote>
+                        </handDesc>
+                    </physDesc>
+                    <history>
+                        <origin>
+                            <origPlace>კუმურდო</origPlace>
+                            <origDate notBefore="1027" notAfter="1072"></origDate>
+                        </origin>
+                        <provenance type="observed" when="2017-06-30">კუმურდოს საკათედრო ტაძარი
+                            <rs type="circumstences">წარწერის ფოტოდოკუმენტაცია გაკეთდა 2017 წლის 30 ივნისს, 
+                                ილიას სახელმწიფო უნივერსიტეტის ეპიგრაფიკის სამაგისტრო კურსის დასკვნითი ექსპედიციის ფარგლებში</rs>
+                        </provenance>
+                        
+                    </history>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    
+        <!-- 
+    
+        
+    <facsimile>
+        <surface>
+            <graphic url="tskise_01.jpg">
+                <desc xml:lang="ka">წყისეს წარწერა</desc>
+                <desc xml:lang="en"></desc>
+            </graphic>
+        </surface>
+    </facsimile>
+    
+    -->
+    
+    <text><!-- 
+    1.[&#10013;
+    2.ადიდენ
+    3.ღმერთმან
+    4.ბაგრატ
+    5.მეფე
+    6.და
+    7.დედაი 
+    8.მა]თი მ(ა)რ(ია)მ  დ(ე)დ(ო)ფ(ა)ლი 
+    9.აღეშ(ჱ)ნა
+    10.შტ(ო)ჲ
+    11.ესე მ(ე)ფ(ო)ბ(ა)სა მათსა
+    12.მღდ(ე)ლთმ(ო)ძღ(უ)რ(ო)ბ(ა)ს
+    13.ზ(ო)ს(ი)მე კ(უ)მ(უ)რდო(ე)ლის(ა)სა -->
+        
+        <body>
+
+            <div type="edition" xml:lang="ka" xml:space="preserve">
+                
+                <ab>
+                    <lb n="1"/>&#10013;<gap reason="lost" extent="unknown" unit="lines"></gap>
+                    <lb n="2"/><w lemma="ადიდებს"><supplied reason="lost">ადიდენ</supplied></w>
+                    <lb n="3"/><w lemma="ღმერთ"><supplied reason="lost">ღმერთმან</supplied></w>
+                    <lb n="4"/><persName ><name nymRef="ბაგრატ"><supplied reason="lost">ბაგრატ</supplied></name></persName>
+                    <lb n="5"/><roleName nymRef="მეფე"><w lemma="მეფე"><supplied reason="lost">მეფე</supplied></w></roleName>
+                    <lb n="6"/><w lemma="და"><supplied reason="lost">და</supplied></w>
+                    <lb n="7"/><w lemma="დედა"><supplied reason="lost">დედა</supplied></w> 
+                    <lb n="8"/><w lemma="მათ"><supplied reason="lost">მა</supplied>თი</w>
+                    <lb n="9"/><persName><name nymRef="მარიამ"><expan><abbr>მ</abbr><ex>ა</ex><abbr>რ</abbr><ex>ია</ex><abbr>მ</abbr></expan></name> <roleName nymRef="დედოფალ"><expan><abbr>დ</abbr><ex>ე</ex><abbr>დ</abbr><ex>ო</ex><abbr>ფ</abbr><ex>ა</ex><abbr>ლი</abbr></expan></roleName></persName> <w lemma="აღშენდა"><expan><abbr>აღეშ</abbr><ex>ჱ</ex><abbr>ნა</abbr></expan></w>
+                    <lb n="10"/><w lemma="შტო"><expan><abbr>შტ</abbr><ex>ო</ex><abbr>ჲ</abbr></expan></w> 
+                    <lb n="11"/><w lemma="ეს">ესე</w> <w lemma="მეფობა"><expan><abbr>მ</abbr><ex>ე</ex><abbr>ფ</abbr><ex>ო</ex><abbr>ბ</abbr><ex>ა</ex><abbr>სა</abbr></expan></w> <w lemma="მათ"><expan><abbr>მ</abbr><ex>ა</ex><abbr>თსა</abbr></expan></w> 
+                    <lb n="12"/><persName><roleName nymRef="მღვდელთმოძღვარ"><expan><abbr>მღვდ</abbr><ex>ე</ex><abbr>ლთმ</abbr><ex>ო</ex><abbr>ძღ</abbr><ex>უ</ex><abbr>რ</abbr><ex>ო</ex><abbr>ბ</abbr><ex>ა</ex>><abbr>სა</abbr></expan></roleName>
+                    <lb n="13"/><name nymRef="ზოსიმე"><expan><abbr>ზ</abbr><ex>ო</ex><abbr>ს</abbr><ex>ი</ex><abbr>მე</abbr></expan></name> <roleName nymRef="კუმურდოელი"><expan><abbr>კ</abbr><ex>უ</ex><abbr>მ</abbr><ex>უ</ex><abbr>რდო</abbr><ex>ე</ex><abbr>ლის</abbr><ex>ა</ex><abbr>სა</abbr></expan></roleName></persName>
+                </ab>
+
+            </div>
+            
+
+            <div type="translation"/>
+            
+            <div type="commentary">
+                <p>წარწერა პელეოგრაფიული ნიშნებით  XIს-ისაა. ტექსტის შემორჩენილ ნაწილში დასახელებული მარიამ დედოფალი შეიძლება იყოს მხოლოდ სენაქერიმ სომეხთა მეფის ასული,
+                    გიორგი I-ის (1014-1027) პირველი მეუღლე და ბაგრატ IV-ის (1027-1072) დედა მარიამი. 
+                    წარწერა ე.თაყაიშილმა და როგორც ჩანს მასზე დაყრდნობით ვ.ცისკარიშვილმა,რელიეფური ასოებით შესრულებულად მიიჩნიეს, მაშინ, როდესაც ის ქვის ფილებზეა ამოკვეთილი. 
+                    წარწერას ამჟამად დასაწყისი აკლია,
+                    შეიძლება იგი ბოლოშიც ნაკლული იყოს, რადგან ტექსტის უკანასკნელი ასო ამოკვეთილია თავდაპირველი ფილების კიდეზე, ხოლო მის შემდეგ ჩასმული ფილები ახალია, 
+                    ტაძრის თანამედროვე  რესტავრაციის დროინდელი. 
+                </p>
+                
+                
+                
+            </div>
+            <div type="bibliography">
+            <listBibl>
+                    
+                <bibl>
+                    <author>
+                        <name>ვალერ</name>
+                    <surname>სილოგავა</surname>
+                </author>
+                <title type="main">კუმურდო</title> 
+                <title type="sub">ტაძრის ეპიგრაფიკა</title>
+                    
+                <bibl type="vol">I</bibl>
+                <bibl type="pp">59-60</bibl>
+                <pubPlace>თბილისი</pubPlace> 
+                    
+                <date>1994</date>
+            </bibl>
+                    
+                    <bibl> 
+                        <author><name>Mari</name><surname>Brosset</surname></author>
+                        <title type="main" level="a">Rapports sur un voyage archéologique dans la Géorgie et dans l'Arménie éxecute en 1847-1848</title>
+                        <title level="s"></title>
+                        <bibl type="vol">2</bibl>
+                        <bibl type="pp">171</bibl>
+                        <pubPlace></pubPlace>
+                        <date>1850</date>
+                    </bibl>
+                    <bibl><author><name>ვ</name><surname>ცისკარიშვილი</surname></author>
+                    <title type="main" level="a">ჯავახეთის ეპიგრაფიკა, როგორც საისტორიო წყარო</title>
+                    <title level="s"></title>
+                    <bibl type="vol"></bibl>
+                    <bibl type="pp">21</bibl>
+                    <pubPlace>თბილისი</pubPlace>
+                    <date>1959</date>
+                     </bibl>
+                    <bibl><author><name>ივანე</name><surname>ჯავახიშვილი</surname></author>
+                        <title type="main" level="a">მასალები ქართველი ერის მატერიალური კულტურის ისტორიისათვის </title>
+                        <title level="s"></title>
+                        <bibl type="vol">I</bibl>
+                        <bibl type="pp">186</bibl>
+                        <pubPlace>თბილისი</pubPlace>
+                        <date>1946</date>
+                    </bibl>
+                    <bibl><author><name>И.А</name><surname>Джавахов</surname></author>
+                        <title type="main" level="a">Терминй искусств и главнейшие сведения  о памиатниках  искусства и материалной културы в древнегрузинской литературе</title>
+                        <title level="s"></title>
+                        <bibl type="vol">III</bibl>
+                        <bibl type="pp">27</bibl>
+                        <pubPlace>Тифлись</pubPlace>
+                        <date>1914</date>
+                    </bibl>
+                    <bibl><author><name>И.</name><surname>Ростомов</surname></author>
+                        <title type="main" level="a">Ахалкалакский уьезд  в археологическом отношении</title>
+                        <title level="s"></title>
+                        <bibl type="vol"></bibl>
+                        <bibl type="pp">90</bibl>
+                        <pubPlace>Тифлись</pubPlace>
+                        <date>1898</date>
+                    </bibl>
+                    <bibl><author><name>Еквтиме</name><surname>Такайшвили</surname></author>
+                        <title type="main" level="a">Христианские памиатники  </title>
+                        <title level="s"></title>
+                        <bibl type="vol">I</bibl>
+                        <bibl type="pp">41</bibl>
+                        <pubPlace>Тифлись</pubPlace>
+                        <date>1909</date>
+                    </bibl>
+                    <bibl><author><name>ნ.</name><surname>ბერძენიშვილი</surname></author>
+                        <title type="main" level="a">საქართველოს ისტორიის საკითხები </title>
+                        <title level="s"></title>
+                        <bibl type="vol">I</bibl>
+                        <bibl type="pp">134</bibl>
+                        <pubPlace>თბილისი</pubPlace>
+                        <date>1964</date>
+                    </bibl>
+                    </listBibl>
+                
+                
+            </div>
+        </body>
+    </text>
+</TEI>

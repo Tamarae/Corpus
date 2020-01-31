@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+<?xml-model href="http://www.stoa.org/epidoc/schema/8.23/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.stoa.org/epidoc/schema/8.23/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:space="preserve" xml:lang="ka">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>თმოგვის მურვან კჳითხისძის წარწერა</title>
+                <editor>ვალერი სილოგავა</editor>
+            </titleStmt>
+            <publicationStmt>
+                <authority>ილიას სახელმწიფო უნივერსიტეტი, ლინგვისტურ კვლევათა ინსტიტუტი</authority>
+                 <idno type="filename">ECG092</idno>
+                <availability>
+                    <licence target="http://creativecommons.org/licenses/by-nc-sa/3.0/">
+                       დოკუმენტი ვრცელდება Creative Commons Attribution-NonCommercial-ShareAlike 3.0 ლიცენზიით.
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <collection>თმოგვი</collection>
+                    </msIdentifier>
+                    <msContents>
+                        <summary>
+                            <seg xml:lang="ka">საამშენებლო</seg>
+                            <seg xml:lang="en"/>
+                        </summary>
+                    </msContents>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>                             
+                                    <objectType ref="http://www.eagle-network.eu/voc/objtyp/lod/259">ფილა</objectType>
+                                    <material ref="http://www.eagle-network.eu/voc/material/lod/2">ნაცრისფერი ქვა</material>                                   
+                                      <dimensions unit="cm">
+                                        <width>77</width>
+                                        <height>43</height>
+                                        <depth>17</depth>
+                                      </dimensions>
+                                </support>
+                            </supportDesc>
+                                <layoutDesc>
+                                    <layout writtenLines="5">წარწერა ხუთსტრიქონიანია. სტრიქონებს შორის გავლებულია პარალელური, განივი ხაზები: მანძილი მათ შორის 7,5-8 სმ.
+                                        <dimensions unit="cm">
+                                         <width/>
+                                         <height/> 
+                                          </dimensions>  
+                                    </layout>                                   
+                                </layoutDesc>
+                        </objectDesc>                        
+                        <handDesc>
+                            <handNote script="asomtavruli" style="inscribed">
+                                <rs type="execution">ამოღარული</rs> <rs type="script">ასომთავრული</rs> წარწერა
+                                   <height>6-6,5</height> 
+                            </handNote>
+                        </handDesc>
+                    </physDesc>
+                    <history>
+                            <origin>
+                                <origPlace>თმოგვის ციხე</origPlace>
+                                 <origDate evidence="internal-date" precision="high">1350</origDate>
+                            </origin>
+                            <provenance type="found" when="1953">
+                                <placeName type ="ancientFindspot">თმოგვის ციხე</placeName>
+                                <!-- "41.395377, 43.317130"--> 
+                                <rs type="circumstances">სამეცნიერო წრეებისათვის ამ წარწერის შესახებ ცნობილი 1953 წელს გახდა</rs>
+                                <rs type="context"></rs>
+                                <rs type="monuList"/>
+                            </provenance>                                
+                            <provenance type="observed">
+                                <placeName type="modernSpot" ref="https://www.heritagesites.ge/public/en/service/5">ვარძიის ისტორიულ-არქიტექტურული მუზეუმ-ნაკრძალი</placeName>
+                                <idno type="invNo"/>
+                            </provenance> 
+                    </history>                   
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <revisionDesc><change when="2019-10-29" who="Eka Kvirkvelia">ტექსტის სრული კოდირება, მეტამონაცემების სრული კოდირება, 
+            ბმულებით დაკავშირება ავტორიტეტულ წყაროსთან</change></revisionDesc>
+    </teiHeader>
+    <facsimile>
+        <surface>
+            <graphic url="ecg092.jpg">
+                <desc xml:lang="ka">თმოგვის მურვან კჳითხისძის წარწერა</desc>
+                <desc xml:lang="en"></desc>
+            </graphic>
+        </surface>
+    </facsimile>
+    <text>
+        <body>
+   <div type="bibliography">
+             <listBibl>  
+       <bibl n="1">ვალერი სილოგავა, სამცხის ლაპიდარული ეპიგრაფიკა<ptr target="bibliography.xml#b149"/>, <citedRange>გვ. 118-169</citedRange></bibl>
+       <bibl n="2">ვალერი სილოგავა, სამხრეთ საქართველოს წარწერების შესწავლა ხელნაწერთა ინსტიტუტის ეპიგრაფიკული ექსპედიციის მიერ<ptr target="bibliography.xml#b148"/>, <citedRange>გვ. 264-289</citedRange></bibl> 
+                 </listBibl> 
+            </div>
+
+            <div type="edition" xml:lang="ka" xml:space="preserve">
+                
+                        <!--  "†[შ]ეწ[ე]ვნითა და ძლ(ი)ერ(ე)ბ(ი)თა ვარძი(ი)სა ღ
+                            [(მრ)თ(ი)]სმშ(ო)ბლ(ი)ს(აჲ)თა ქ(რონი)კ(ონ)ს ლჱ დავ(ი)წყე 
+                            [ზ]ღუდე ესე მე მეფეთ მეფი[ს] 
+                            დ(ავი)თ(ი)ს ვ(ა)რძ(იელ)მ(ა)ნ ს(ა)წოლის მწიგნ(ო)ბ(ა)რმ(ა)[ნ] 
+                            თმოგ(უ)ს მ(უ)რვ(ა)ნ კჳთხ(ი)სძ(ე)მ(ა)ნ თ(ევდორ)ე დ(ად)გა"--> 
+
+                <ab>
+                   <lb n="1"/>&#8224;<w lemma="შეწევნა"><supplied reason="lost">შ</supplied>ეწ<supplied reason="lost">ე</supplied>ვნითა</w> 
+                                    <w lemma="და">და</w> 
+                                    <w lemma="ძლიერება"><expan><abbr>ძლ</abbr><ex>ი</ex><abbr>ერ</abbr><ex>ე</ex>ბ<ex>ი</ex>თა</expan></w> 
+                                    <name nymRef="ვარძია"><expan>ვარძი<ex>ი</ex><abbr>სა</abbr></expan></name> 
+                                    <w lemma="ღმრთისმშობელ"><expan><abbr>ღ</abbr>
+                   <lb n="2" break="no"/><supplied reason="lost"><ex>მრ</ex><abbr>თ</abbr><ex>ი</ex></supplied><abbr>სმშ</abbr><ex>ო</ex><abbr>ბლ</abbr><ex>ი</ex><abbr>ს</abbr><ex>აჲ</ex><abbr>თა</abbr></expan></w> 
+                                <rs type="date"><w lemma="ქრონიკონ"><expan><abbr>ქ</abbr><ex>რონი</ex><abbr>კ</abbr><ex>ონ</ex><abbr>ს</abbr></expan></w> 
+                                <num value="38">ლჱ</num></rs> 
+                                <w lemma="დაწყება"><expan><abbr>დავ</abbr><ex>ი</ex><abbr>წყე</abbr></expan></w>
+                   <lb n="3"/><w lemma="ზღუდე"><supplied reason="lost">ზ</supplied>ღუდე</w> 
+                                <w lemma="ესე">ესე</w> 
+                                <w lemma="მე">მე</w>
+                                <roleName nymRef="მეფე">მეფეთ</roleName> 
+                                <roleName nymRef="მეფე">მეფი<supplied reason="lost">ს</supplied></roleName>
+                   <lb n="4"/><name nymRef="დავით"><expan><abbr>დ</abbr><ex>ავი</ex><abbr>თ</abbr><ex>ი</ex><abbr>ს</abbr></expan></name> 
+                                <placeName nymRef="ვარძია"><expan><abbr>ვ</abbr><ex>ა</ex><abbr>რძ</abbr><ex>იელ</ex><abbr>მ</abbr><ex>ა</ex><abbr>ნ</abbr></expan></placeName> 
+                                 <roleName nymRef="საწოლის მწიგნობარ"><w lemma="საწოლ"><expan><abbr>ს</abbr><ex>ა</ex><abbr>წოლის</abbr></expan></w> 
+                                <w lemma="მწიგნობარ"><expan><abbr>მწიგნ</abbr><ex>ო</ex><abbr>ბ</abbr><ex>ა</ex><abbr>რმ</abbr><ex>ა</ex><supplied reason="lost">ნ</supplied></expan></w></roleName>
+                   <lb n="5"/><name nymRef="თმოგვი" type="castle"><expan><abbr>თმოგ</abbr><ex>უ</ex><abbr>ს</abbr></expan></name> 
+                                <name nymRef="მურვან"><expan><abbr>მ</abbr><ex>უ</ex><abbr>რვ</abbr><ex>ა</ex><abbr>ნ</abbr></expan></name> 
+                                <name nymRef="კჳითხისძე"><expan><abbr>კჳთხ</abbr><ex>ი</ex><abbr>სძ</abbr><ex>ე</ex><abbr>მ</abbr><ex>ა</ex><abbr>ნ</abbr></expan></name> 
+                                <name nymRef="თევდორე"><expan><abbr>თ</abbr><ex>ევდორ</ex><abbr>ე</abbr></expan></name> 
+                                <w lemma="დადგმა"><expan><abbr>დ</abbr><ex>ად</ex><abbr>გა</abbr></expan></w>
+                   </ab>
+               </div>         
+         <div type="translation" xml:lang="ka">
+             <p>† ვარძიის ღვთისმშობლის შეწევნითა და ძლიერებით, ქორონიკონსა ლჱ (38) დავიწყე ამ ზღუდის შენება თმოგვს მე, მეფეთ-მეფე დავითის ვარძიელმა საწოლის მწიგნობარმა, 
+                 მურვაბ კჳთხისძემ, თევდორემ დადგა. </p>
+         </div>    
+                             
+               <div type="commentary">
+                <p>თმოგვის მურვან კჳითხისძის წარწერა ამჟამად დაცულია ვარძიის მუზეუმ-ნაკრძალის ქვის ძეგლების საცავში, სამონასტრო კომპლექსის ერთ-ერთ გამოქვაბულში.
+                    წარწერის მიხედვით, 1350 (ქრონიკონი ლჱ - 1312+38) წელს დავით მეფეთა მეფის (1246-1270) ვარძიელ საწოლის მწიგნობარს 
+                    (მწიგნობართუხუცესის ერთ-ერთი მოადგილე და, მაშასადამე, სამეფო კარის 
+                დიდმოხელე იყო. მწიგნობართუხუცესის მსგავსად ისიც სასულიერო პირია, ამიტომ ვარძიელი აქ შეიძლება ვარძიის მონასტრის წინამძღვარსაც, 
+                ან წარმოშობით ვარძიელსაც აღნიშნავს), მურვან კჳითხისძეს, თმოგვში ზღუდის მშენებლობა დაუწყია, რომელიც, „თევდორე დადგა“, ალბათ, გაასრულაო. </p>                
+            </div>
+        </body>
+    </text>
+</TEI>

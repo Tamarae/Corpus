@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.stoa.org/epidoc/schema/8.23/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.stoa.org/epidoc/schema/8.23/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:space="preserve" xml:lang="ka">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>აბაზას მოსახსენებელი</title>
+                <editor>გიორგი ოთხმეზური</editor>
+                <editor>ნოდარ შოშიაშვილი</editor>
+                <editor>ვ. ჯაფარიძე</editor>
+            </titleStmt>
+            <publicationStmt>
+                <authority>ილიას სახელმწიფო უნივერსიტეტი</authority>
+                <idno type="filename">ECG186</idno>
+                <availability><licence target="http://creativecommons.org/licenses/by-nc-sa/3.0/">დოკუმენტი ვრცელდება Creative Commons Attribution-NonCommercial-ShareAlike 3.0 ლიცენზიით</licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                    <collection>
+                       დმანისი
+                    </collection>
+                    </msIdentifier>
+                    <msContents>
+                        <summary>
+                            <seg xml:lang="ka">მოსახსენებელი</seg>
+                            <seg xml:lang="en"/>
+                        </summary>
+                    </msContents>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>
+                                    <objectType>კვარცხლბეკი</objectType>
+                                    <material/>
+                                </support>
+                            </supportDesc>
+                            <layoutDesc>
+                                <layout>კვარცხლბეკი წარწერითურთ ხუთ ფრაგმენტად არის დაშლილი
+              <dimensions unit="cm">
+                                        <width/>
+                                        <height/>
+                                        <depth/>
+                                    </dimensions>
+                                </layout>
+                            </layoutDesc>
+                        </objectDesc>
+                        <handDesc>
+                            <handNote script="asomtavruli" style="embossed">რელიეფური ასომთავრული წარწერა. ქარაგმისა და განკვეთილობის ნიშნები არ ახლავს.</handNote>
+                        </handDesc>
+                    </physDesc>
+                    <history>
+                        <origin>
+                            <origPlace>დაბლუტის წყლის ხეობა</origPlace>
+                            <origDate notBefore="0400" notAfter="0500"/>
+                        </origin>
+                        <provenance type="found" when="1968"/>
+                    </history>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text><!-- 
+    1. [წყა]ლობ[ი]თა ღ(მრთისა)ჲთ
+    2. [ა მენ] _ _ აბაზამა[ნ]
+    3. _ _ _ _ _ _ იზა[დ _ _ ლ]
+    4. ეს [ე ჯ]უარი [აღხუმარ]
+    5. თე [სა]ლოც[ველად] 
+    6. ჩემ[დ]ა და [ცოლისა] 
+    7. და შჳ[ლ]თათჳ[ს. ვ(ი)ნ აღ(მოი)კ(ითხ)]
+    8. იან ლოც[ვასა მომ]
+    9. [იჴსენეთ]. 
+    -->
+        <body>                
+            <div type="edition" xml:space="preserve">
+                <ab>
+                    <lb n="1"/><w lemma="წყალობა"><supplied reason="lost">წყა</supplied>ლობ<supplied reason="lost">ი</supplied>თა</w> <w lemma="ღმერთ"><expan><abbr>ღ</abbr><ex>მრთისა</ex><abbr>ჲთ
+                    <lb n="2" break="no"/>ა</abbr></expan></w> <w lemma="ამენ"><supplied reason="lost">ამენ</supplied></w>
+                    <lb n="3"/>_ _ _ _ _ _ იზა[დ _ _ ლ]
+                    <lb n="4"/><w lemma="ესე">ეს<supplied reason="lost">ე</supplied></w> <w lemma="ჯუარ"><supplied reason="lost">ჯ</supplied>უარი</w> <rs type="pn"><w lemma="აღხუმართე"><supplied reason="lost">აღხუმარ</supplied>
+                    <lb n="5" break="no"/>თე</w></rs> <w lemma="სალოცველ"><supplied reason="lost">სა</supplied>ლოც<supplied reason="lost">ველად</supplied></w>
+                    <lb n="6"/><w lemma="ჩემდა">ჩემ<supplied reason="lost">და</supplied></w> <w lemma="და">და</w> <w lemma="ცოლ"><supplied reason="lost">ცოლისა</supplied></w>
+                    <lb n="7"/><w lemma="და">და</w> <w lemma="შვილ">შვ<supplied reason="lost">ლ</supplied>თათვ<supplied reason="lost">ს</supplied></w> <w lemma="ვინ"><expan><abbr>ვ</abbr><ex>ი</ex><abbr>ნ</abbr></expan></w> <w lemma="აღმოიკითხიან"><supplied reason="lost"><expan><abbr>აღ</abbr><ex>მოი</ex><abbr>კ</abbr><ex>ითხ</ex></expan></supplied>
+                    <lb n="8" break="no"/>იან</w> <w lemma="ლოცვა">ლოც<supplied reason="lost">ვასა</supplied></w> <w lemma="იხსენიებს"><supplied reason="lost">მომ</supplied></w>
+                    <lb n="9" break="no"/><supplied reason="lost">იხსენეთ</supplied>
+                </ab>               
+            </div>
+            
+            <div type="translation">
+                <p/>
+            </div>
+            
+            <div type="commentary">
+                <p> რელიეფური ასომთავრული წარწერა გამოქანდაკებული იყო ქვაჯვრის კვარცხლბეკზე. წარწერას შემოუყვებოდა ლილვისებური ოთხკუთხა ჩარჩო. სტრიქონები ერთმანეთისგან გამოყოფილია რელიეფური 
+                     ჰორიზონტალური ხაზებით. კვარცხლბეკი აღმოჩნდა მდ. დაბლაუტის წყლის ხეობაში, მცირე ეკლესიის ნანგრევებში, საკურთხეველში, დმანისის 1968 წ-ის  არქეოლოგიური ექსპედიციის დროს. 
+                     კვარცხლების დამტვრევისა და ზედაპირის ატკეჩვის შედეგად გრაფემების დიდი ნაწილი აღარ იკითხება. 
+                     შემორჩენილი და აღდგენილი გრაფემების მიხედვით, სავარაუდოდ ჯვრის აღმმართველი არის აბაზა (შესაძლებელია ვინმესთან ერთად) და შესაბამისად, ლოცვაში მოხსენიების თხოვნაც მას მიემართება.
+                     პალეოგრაფიული ნიშნების მიხედვით წარწერა თარიღდება V-VI  სს.  
+                     </p>
+                
+                    <div type="bibliography" subtype="otherpublications"> 
+                        <listBibl>
+                   <bibl>
+                    <editor>
+                        <name>გიორგი</name>
+                        <surname>ოთხმეზური</surname>
+                    </editor>
+                    <title type="main">დმანისი</title> 
+                    <title type="sub">ქვემო ქართლის ეპიგრაფიკული კორპუსი</title>
+                    <bibl type="vol"/>
+                    <bibl type="pp">79-80</bibl>
+                    <pubPlace>თბილისი</pubPlace> 
+                     <date>2018</date>
+                </bibl>
+                            <bibl> 
+                                <author><name>ვ. ჯაფარიძე</name></author> 
+                                <title type="main" level="a">ქართული ხელოვნებისა და დამწერლობის ახლად აღმოჩენილი უძველესი ძეგლები ქვემო ქართლიდან</title>
+                                <title level="s"/>
+                                <bibl type="vol"/>
+                                <bibl type="pp">52-53</bibl>
+                                <pubPlace>თბილისი</pubPlace>
+                                <date>1970</date>
+                                 </bibl>
+                            <bibl> 
+                                <author><name>ვ. ჯაფარიძე</name></author> 
+                                <title type="main" level="a">დმანისის არქეოლოგიური ექსპედიციის 1969 წლის მუშაობის მოკლე ანგარიში</title>
+                                <title level="s"/>
+                                <bibl type="vol"/>
+                                <bibl type="pp">52-53</bibl>
+                                <pubPlace>თბილისი</pubPlace>
+                                <date>1971</date>
+                            </bibl>
+                            
+                            <bibl> 
+                                <author><name>ნოდარ შოშიაშვილი</name></author> 
+                                <title type="main" level="a">ქართული წარწერების კორპუსი</title>
+                                <title level="s">ლაპიდარული წარწერები</title>
+                                <bibl type="vol">I</bibl>
+                                <bibl type="pp">92-93</bibl>
+                                <pubPlace>თბილისი</pubPlace>
+                                <date>1980</date>
+                            </bibl>
+                        </listBibl>
+                    </div>
+                
+            </div>
+        </body>
+    </text>
+</TEI>

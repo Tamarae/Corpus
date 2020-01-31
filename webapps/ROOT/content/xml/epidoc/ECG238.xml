@@ -1,0 +1,208 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.stoa.org/epidoc/schema/8.23/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.stoa.org/epidoc/schema/8.23/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:space="preserve" xml:lang="ka">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>დაწერილი ნადის დაწესების შესახებ</title>
+                <editor>გიორგი ოთხმეზური</editor> 
+            </titleStmt>
+            <publicationStmt>
+                <authority>ილიას სახელმწიფო უნივერსიტეტი, ლინგვისტურ კვლევათა ინსტიტუტი</authority>
+                <idno type="filename"/>
+                <availability>
+                    <licence target="http://creativecommons.org/licenses/by-nc-sa/3.0/">
+                       დოკუმენტი ვრცელდება Creative Commons Attribution-NonCommercial-ShareAlike 3.0 ლიცენზიით
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <collection>
+                            დმანისი
+                        </collection>
+                    </msIdentifier>
+                    
+                    <msContents>
+                        <summary>
+                            <seg xml:lang="ka">დაწერილი</seg>
+                            <seg xml:lang="en"/>
+                        </summary>
+                    </msContents>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>
+                                    <objectType ref="https://www.eagle-network.eu/voc/objtyp/lod/1402">ფილა</objectType>
+                                    <material ref="https://www.eagle-network.eu/voc/material/lod/2">ქვა</material>
+                                    <dimensions>
+                                        <width/>
+                                        <height/>
+                                    </dimensions>
+                                </support>
+                            </supportDesc>
+                            <layoutDesc>
+                                <layout writtenLines="6">
+                                     შესრულებული იყო ეკლესიის ქვის ფილაზე. 6 სტრიქონად.
+                                    <dimensions unit="cm">
+                                        <width>60</width>
+                                        <height>38,6</height>
+                                    </dimensions>
+                                </layout>
+                            </layoutDesc>
+                        </objectDesc>
+                        <handDesc>
+                            <handNote script="asomtavruli_n" style="inscribed">
+                                ასომთავრულად (მე-17 გრაფემა ლ-ანი ნუსხურად). ამოღარვით. ქარაგმისა და განკვეთილობის ნიშნები არ ახლავს.
+                                <dimensions unit="cm">
+                                    <height>3,5-6,5</height>
+                                </dimensions>
+                            </handNote>
+                        </handDesc>
+                    </physDesc>
+                    <history>
+                        <origin>
+                            <origPlace>მიჯას (ჯავახის) ეკლესია</origPlace>
+                            <origDate notBefore="1050" notAfter="1200">XI-XII AD</origDate>
+                        </origin>
+                        <provenance type="observed">
+                            <placeName type="modernSpot">განთიადის XIX საუკუნის ეკლესია</placeName>
+                            <rs type="circumstances"/>
+                            <idno/>
+                        </provenance>
+                    </history>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    
+          <!-- 
+    <facsimile>
+        <surface>
+            <graphic url="tskise_01.jpg">
+                <desc xml:lang="ka">წყისეს წარწერა</desc>
+                <desc xml:lang="en"></desc>
+            </graphic>
+        </surface>
+    </facsimile> -->
+    
+    
+    
+    <text>
+        <!--
+        1....ნადი (?) თუ(ი)ნიერ მ(ა)მ
+        2.[ისა] (?) ...[და]წერილი გა[ვუთავე?]...
+        3....[კ](რულ)მცა წ(მიდა)ჲ საყდ[რისაგან]...
+        4.დ(ა) ვინცა...
+        5....ათსს...
+        6....იმცა.
+        -->
+        <body>
+
+            <div type="edition" xml:lang="ka" xml:space="preserve">
+
+            <ab>
+                <lb n="1"/><gap reason="lost" extent="unknown" unit="character"/>
+                           <w lemma="ნად">ნადი</w>                                      
+                           <w lemma="თუინიერ"><expan><abbr>თუ</abbr><ex>ი</ex><abbr>ნიერ</abbr></expan></w> 
+                           <w lemma="მამა"><expan><abbr>მ</abbr><ex>ა</ex><abbr>მ</abbr> 
+               <lb n="2" break="no"/><supplied reason="lost" precision="low"><abbr>ისა</abbr></supplied></expan></w> 
+                           <gap reason="lost" extent="unknown" unit="character"/> 
+                           <w lemma="წერა"><supplied reason="lost" precision="low">და</supplied>წერილი</w> 
+                           <w lemma="გათავება">გა<supplied reason="lost" precision="low">ვუთავე</supplied></w> 
+                           <gap reason="lost" extent="unknown" unit="character"/> 
+               <lb n="3"/><gap reason="lost" extent="unknown" unit="character"/> 
+                           <rs type="curse"><w lemma="კრულ"><expan><supplied reason="lost" precision="medium"><abbr>კ</abbr></supplied><ex>რულ</ex><abbr>მცა</abbr></expan></w> 
+                           <w lemma="წმიდა"><expan><abbr>წ</abbr><ex>მიდა</ex><abbr>ჲ</abbr></expan></w> 
+                           <w lemma="საყდარ">საყდ<supplied reason="lost" precision="medium">რისაგან</supplied></w> 
+                           <gap reason="lost" extent="unknown" unit="character"/> 
+               <lb n="4"/><w lemma="და"><expan><abbr>დ</abbr><ex>ა</ex></expan></w> 
+                          <w lemma="ვინ">ვინცა</w> 
+                          <gap reason="lost" extent="unknown" unit="character"/>
+               <lb n="5"/><gap reason="lost" extent="unknown" unit="character"/>
+                          <w lemma="ათ">ათსს</w>                      
+                          <gap reason="lost" extent="unknown" unit="character"/>
+               <lb n="6"/><gap reason="lost" extent="unknown" unit="character"/>
+                          <orig n="unresolved">იმცა</orig></rs>           
+                          
+                </ab>
+             
+            </div>
+
+
+            <div type="bibliography">
+                <listBibl>
+                     <bibl>
+                    <author>
+                        <persName>
+                            <forename>გიორგი</forename>
+                            <surname>ოთხმეზური</surname>
+                        </persName>
+                    </author>
+                    <title level="m" type="main">დმანისი, ქვემო ქართლის ეპიგრაფიკული კორპუსი</title>
+                    <edition/>
+                    <bibl type="vol"/>
+                    <pubPlace>თბილისი</pubPlace>
+                    <publisher/>
+                    <date>2018</date>
+                    <biblScope unit="pp">135-136</biblScope>
+                </bibl>
+                    
+                    <bibl>
+                        <author>
+                            <persName>
+                                <forename>დევი</forename>
+                                <surname>ბერძენიშვილი</surname>
+                            </persName>
+                        </author>
+                        <title level="m" type="main">ნარკვევები ქვემო ქართლის ისტორიული გეოგრაფიიდან</title>
+                        <edition/>
+                        <bibl type="vol"/>
+                        <pubPlace>თბილისი</pubPlace>
+                        <publisher>სეზანი</publisher>
+                        <date>2014</date>
+                        <biblScope unit="pp">147</biblScope>
+                    </bibl>
+                    
+                    <bibl>
+                        <author>
+                            <persName>
+                                <forename>გიორგი</forename>
+                                <surname>ოთხმეზური</surname>
+                            </persName>
+                        </author>
+                        <title level="m" type="main">დმანისის რაიონის ეპიგრაფიკული ძეგლების (წარწერების მიმოხილვა და ისტორიული ექსკურსი)</title>
+                        <edition/>
+                        <bibl type="vol"/>
+                        <pubPlace>თბილისი</pubPlace>
+                        <publisher/>
+                        <date>2016</date>
+                        <biblScope unit="pp">29</biblScope>
+                    </bibl>
+                </listBibl>
+            </div>
+               
+                <div type="translation"/>
+                
+                <div type="commentary">
+                    <p>შესრულებული იყო სოფ. მიჯას (ჯავახი) ეკლესიის ქვის ფილაზე.
+                        მოგვიანებით სოფ. მიჯადან მოსახლეობა გადასახლებულა სოფ. განთიადში, სადაც
+                        წაუღიათ მიჯას ეკლესიის ეს და სხვა წარწერიანი ქვები და მე-19 საუკუნის
+                        ეკლესიის იატაკში ჩაუშენებიათ. დღეს მიჯას წარწერიანი ქვები განთიადის ეკლესიის
+                        იატაკიდან ამოლაგებულია და ეკლესიის ეზოში ღია ცის ქვეშ აწყვია. 
+                        დაზიანება: წარწერიანი ქვა ბოლო რამდენიმე წელია ღია ცის ქვეშ დევს, რის გამოც გამოქარვისა
+                        და გადარეცხვის შედეგად, ისედაც დაზიანებული წარწერა კიდევ უფრო რთულად,
+                        ფრაგმენტულად იკითხება. თავ-ბოლო ნაკლული. აკლია სტრიქონების კიდეებიც.
+                        წარწერის დათარიღების საფუძველი: პალეოგრაფიულად თანადროული უნდა იყოს ივანე
+                        ლომსიანიძის წარწერისა. 
+                        დ. ბერძენიშვილი I სტრიქონზე კითხულობს სიტყვებს: ...ნ ადიდონ ღმერთმან, III-ზე - იმცა, წმიდაჲსა ყ(ოვლისა
+                        საოხა)დ, V-ზე - (მოუშალოს კრულია) ღმრთისაგან..., VI-ზე - (ნაწ)ილიმცა...;
+                        გ. ოთხმეზური 2016 წლის გამოცემაში I სტრიქონზე კითხულოვს სიტყვას: თჳნიერ,
+                        IV-ზე - (შეცვალოს), VI-ზე - (რისხვა)ვმცა (ღმერთი)</p>
+                </div>
+
+        </body>
+    </text>
+</TEI>

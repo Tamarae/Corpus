@@ -1,0 +1,130 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.stoa.org/epidoc/schema/8.23/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.stoa.org/epidoc/schema/8.23/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:space="preserve" xml:lang="ka">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>ბოლნისის მუნიციპალიტეტის VII ს. მოსახსენებელი ფრაგმენტი</title>
+                <editor>ნოდარ შოშიაშვილი</editor>
+            </titleStmt>
+            <publicationStmt>
+                <authority>ილიას სახელმწიფო უნივერსიტეტი, ლინგვისტურ კვლევათა ინსტიტუტი</authority> 
+                <idno type="filename">ECG064</idno>
+                <availability>
+                    <licence target="http://creativecommons.org/licenses/by-nc-sa/3.0/">
+                        დოკუმენტი ვრცელდება Creative Commons Attribution-NonCommercial-ShareAlike 3.0 ლიცენზიით.
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc type="fragmentary">
+                    <msIdentifier>
+                        <collection>ბოლნისი</collection>
+                    </msIdentifier>
+                    
+                    <msContents>
+                        <summary>
+                            <seg xml:lang="ka">მოსახსენებელი</seg>
+                            <seg xml:lang="en"/>
+                        </summary>
+                    </msContents>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>
+                                    <objectType  ref="http://www.eagle-network.eu/voc/objtyp/lod/1483">სტელა</objectType>
+                                    <material ref="http://www.eagle-network.eu/voc/material/lod/2">ქვა</material>
+                                    <dimensions unit="cm">
+                                        <height/>
+                                        <width/>
+                                    </dimensions>
+                                </support>
+                            </supportDesc>
+                            <layoutDesc>
+                                <layout writtenLines="3">
+                                    წარწერა სამსტრიქონიანია. სტელის ერთ-ერთ წახნაგზე გამოქანდაკებულია წარჩინებულის რელიეფი, ზევით აწეულ, 
+                                   მოხრილ ხელში უჭირავს ყვავილი. ყვავილისა და თავის გამოსახულების ზევით შემორჩენილია სამივგრაფემა ორ სტრიქონად.
+                                   მესამე სტრიქონი მთლიანად არის დაზიანებული. 
+                                   <dimensions unit="cm">
+                                        <height/>
+                                        <width/>
+                                   </dimensions>
+                                   </layout>
+                            </layoutDesc>
+                        </objectDesc>                     
+                        <handDesc>
+                            <handNote script="asomtavruli" style="inscribed">
+                                <rs type="execution">ამოღარული</rs> <rs type="script">ასომთავრული</rs> წარწერა
+                                <height unit="cm"/>
+                             </handNote>
+                        </handDesc>
+                    </physDesc>               
+                    <history>
+                        <origin>
+                            <origPlace>ბოლნისის მუნიციპალიტეტი</origPlace>
+                           <origDate notBefore="0600" notAfter="0700">VII AD</origDate>
+                        </origin>                       
+                        <provenance type="found">
+                            <placeName type="ancientFindspot" ref="http://pleiades.stoa.org/places/863760">ბოლნისის მუნიციპალიტეტი</placeName>
+                             <!-- 41.384460, 44.506865 --> 
+                            <rs type="monuList"/>
+                            <rs type="circumstances"/>
+                            <rs type="context"/>
+                        </provenance>                          
+                        <provenance type="observed">
+                            <placeName type="modernSpot" ref="http://museum.ge/">საქართველოს ეროვნული მუზეუმი</placeName>
+                             <idno type="invNo">401 (არმაზისხევის საცავი)</idno>
+                        </provenance>
+                    </history>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <revisionDesc><change when="2019-10-29" who="Eka Kvirkvelia">ტექსტის სრული კოდირება, მეტამონაცემების სრული კოდირება, 
+            ბმულებით დაკავშირება ავტორიტეტულ წყაროსთან</change></revisionDesc>
+    </teiHeader> 
+    <facsimile>
+        <surface>
+            <graphic url="ecg064.jpg">
+                <desc xml:lang="ka">ბოლნისის მუნიციპალიტეტის VII ს. მოსახსენებელი ფრაგმენტი</desc>
+                <desc xml:lang="en"></desc>
+            </graphic>
+        </surface>
+    </facsimile> 
+    <text>
+        <body>
+         <div type="bibliography">
+           <listBibl>
+              <bibl n="1">ნოდარ შოშიაშვილი, ქართული წარწერების კორპუსი, ლაპიდარული წარწერები<ptr target="bibliography.xml#b101"/>, <citedRange>გვ. 116-117</citedRange></bibl>                 
+              <bibl n="2">Н. Г. Чубинашвили, Болнисский сион<ptr target="bibliography.xml#b45"/>, <citedRange>ст. 94</citedRange></bibl>
+           </listBibl>
+            </div>
+        <div type="edition" xml:space="preserve" xml:lang="ka">  
+                              
+                    <!-- „[ქ]ე" 
+                       ათ[ე]
+                    [ადიდე]-->
+            
+                   <ab>
+                       <lb n="1"/><w lemma="ქრისტე"><expan><supplied reason="lost"><abbr>ქ</abbr></supplied><ex>რისტ</ex><abbr>ე</abbr></expan></w>  
+                       <lb n="2"/><name nymRef="ათანასე"><expan><abbr>ათ</abbr><supplied reason="lost"><ex>ანას</ex><abbr>ე</abbr></supplied></expan></name>
+                       <lb n="3"/><w lemma="დიდება"><expan><supplied reason="lost" cert="low"><abbr>ად</abbr><ex>ი</ex><abbr>დე</abbr></supplied></expan></w>
+                   </ab>                                                       
+            </div>
+            
+            
+            <div type="translation" xml:lang="ka">
+                <p>ქრისტე, ადიდე ათანასე.</p>                                                                                                                                                                                                                                                               
+            </div>
+            
+            <div type="apparatus" xml:space="preserve"/>
+
+            <div type="commentary">
+                <p>ნოდარ შოშიაშვილის ქართული წარწერების კორპუსის მიხედვით #45. ქარაგმის ნიშნად გამოყენებულია გრძელი, განივი და სწორი ხაზი. 
+                    წარწერის დათარიღების საფუძველია პალეოგრაფიული ნიშნები: უყელო Ⴃ; Ⴀ - ძლიერ გაშლილი რკალით; შესაძლოა, წარწერა გვიან იყოს ამოკვეთილი სტელაზე 
+                    (ის არ ეხამება თავისი სტილით გამოსახულების რელიეფს).
+                  </p>
+               </div>   
+        </body>
+    </text>
+</TEI>

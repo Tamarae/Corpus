@@ -1,0 +1,183 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.stoa.org/epidoc/schema/8.23/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.stoa.org/epidoc/schema/8.23/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:space="preserve" xml:lang="ka">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>სამთავროს სამაროვნის ბერძნულწარწერიანი ფილა</title>
+                <editor>თინათინ ყაუხჩიშვილი</editor>
+            </titleStmt>
+            <publicationStmt>
+                <authority>ილიას სახელმწიფო უნივერსიტეტი, ლინგვისტურ კვლევათა ინსტიტუტი</authority>
+                 <idno type="filename">ECG009</idno>
+                <availability>
+                    <licence target="http://creativecommons.org/licenses/by-nc-sa/3.0/">
+                       დოკუმენტი ვრცელდება Creative Commons Attribution-NonCommercial-ShareAlike 3.0 ლიცენზიით.
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <collection>
+                            მცხეთა
+                        </collection>
+                    </msIdentifier>
+                    <msContents>
+                        <summary>
+                            <seg xml:lang="ka">ეპიტაფია</seg>
+                        </summary>
+                    </msContents>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>                             
+                                   <material ref="http://www.eagle-network.eu/voc/material/lod/2">ქვა</material>
+                                   <objectType ref="http://www.eagle-network.eu/voc/objtyp/lod/91">ფილა</objectType></support></supportDesc>
+                                <layoutDesc>
+                                    <layout writtenLines="15">
+                                     ბერძნულწარწერიანი ფილა ორადაა გატეხილი, მასზე გამოყვანილია საგულდაგულოდ და კარგი ხელით 15 სტრიქონი მთავრული ასოებით. დაზიანებულია 
+                                     მე-11 და მე-12 სტრიქონები, მარჯვენა კიდე უმნიშვნელოდ.
+                                      <dimensions unit="cm">
+                                        <width>33 სმ.</width>
+                                        <height>59 სმ.</height>
+                                        <depth></depth></dimensions>
+                                    </layout>
+                                </layoutDesc>
+                        </objectDesc>                        
+                        <handDesc>
+                            <handNote>
+                               წარწერის ასოთა მოხაზულობაში ყურადღებას იპყრობს σ და ε, რომლებიც ორნაირი გვხვდება: ხან აბსოლუტურად მრგვალი, ხან კუთხოვანი. ასევე 
+                                მრგვალია: μ, θ, ω. თავისებურია ψ. არა გვხვდება მახვილისა და ასპირაციის ნიშნები. არც ქარაგმის ნიშანი გვაქვს. შემოკლება მარტო ერთია Αυρ. 
+                                (= Αὐρήλις), გვერდზე წერტილით აღნიშნული (ΑΥΡ.). ლიგატურა გვხვდება მხოლოდ  ერთი (IV და XI სტრიქონებში). საკმაოდ ხშირია იტაციზმი: 
+                                κιμε (=κεῖμαι), επει... (= ἐπί), επειβληψεν (= ἐπιβλέψειν), μιρριοστα (= μυριοστά), ητε (εἴ[τε), δωσι (δώσει), αναστασι (ἀναστάσει). 
+                                αι–დიფთონგი ε–თი ჩანს გადმოცემული: (κιμε); არეულია ο და ω–ს ხმარება: οστε (= ὥστε). ყურედღებას იპყრობს μιρριοστα–ში ორი ρ 
+                                (თუ სწორია აღდგენა μυριοστά).
+                                <height unit="cm" precision="medium">3 სმ </height>
+                                <width unit="cm" precision="medium"></width>
+                                  </handNote>
+                        </handDesc>
+                        <decoDesc>
+                            <decoNote></decoNote>
+                        </decoDesc>
+                    </physDesc>
+                    <history>
+                            <origin>
+                                <origPlace>მცხეთა, სამთავროს სამაროვანი</origPlace>
+                                <origDate notBefore-custom="0301" notAfter-custom="0500" precision="medium" 
+                                    evidence="lettering" datingMethod="#julian">IV ან IV-V AD</origDate>
+                            </origin>
+                            <provenance type="found" when="1938">
+                                <placeName type ="ancientFindspot" ref="https://pleiades.stoa.org/places/863882">სამთავრო</placeName> 
+                                <rs type="circumstances"></rs>
+                                <rs type="context"/>
+                                <rs type="monuList"/>
+                            </provenance>                        
+                            <provenance type="observed">
+                            <placeName type="modernSpot">საქართველოს ეროვნული მუზეუმი</placeName>
+                            <idno></idno>
+                        </provenance>
+                    </history>                   
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+           
+        <facsimile>
+        <surface>
+            <graphic url="ecg009.jpg">
+                <desc xml:lang="ka">სამთავროს სამაროვნის ფილა, 1938</desc>
+                <desc xml:lang="en">Plaque from Samtavro necropolis, 1938</desc>
+            </graphic>
+        </surface>
+    </facsimile> 
+    
+    <text>
+        <body>
+             <div type="bibliography">
+                <listBibl>
+                    <bibl n="1">თინათინ ყაუხჩიშვილი, საქართველოს ბერძნული წარწერების კორპუსი<ptr target="bibliography.xml#b130"/>, <citedRange>გვ. 256-257</citedRange></bibl>
+                    <bibl n="2">თინათინ ყაუხჩიშვილი, ბერძნული წარწერები საქართველოში<ptr target="bibliography.xml#b80"/>, <citedRange>გვ. 253-257</citedRange></bibl>
+                </listBibl>
+            </div> 
+           
+            <div type="edition" xml:lang="grc" xml:space="preserve">
+                
+                        <!-- Αὐρ[ήλις] Ἀχόλις ἀρχιζω
+                            γράφος καὶ ἀρχιτέ
+                            κτων ἐνθάδε κεῖμ[αι]
+                            μετὰ τῆς συνεύνο
+                            [υ] μου Βευραζουρία[ς].
+                            ἀξιῶ δὲ τοὺς φίλους
+                            καὶ παροδίτας ἐπι
+                            βλέψειν τὰς ἀλ[λ]ήλων
+                            [Π]ρά[ξεις] ἵνα [μ]ήτις ἐπὶ
+                            μυριοστὰ (ἔτη) ὠστ[ι]εῖ[ται]
+                            [μή]τις θελήσ[ει θάπτειν]
+                            μεθ᾿ ἡμῶν 
+                            [εἴ]τε γένος εἴτε ἄλ[λος]
+                            ξένος, δώσει ἀπολ[ογ]
+                            ίαν ἐν τῇ ἀναστἀσει το[ῦ]
+                                                                 -->
+                     
+            
+         <ab>
+             <lb n="1"/> <persName><name nymRef="Αὐρήλις">Αὐρ<supplied reason="lost">ήλις</supplied></name> <name nymRef="Ἀχόλις">Ἀχόλις</name></persName> <roleName nymRef="ἀρχιζωγράφος"><w lemma="ἀρχιζωγράφος">ἀρχιζω
+             <lb n="2" break="no"/>γράφος</w></roleName> <w lemma="καί">καὶ</w> <roleName nymRef="ἀρχιτέκτων"><w lemma="ἀρχιτέκτων">ἀρχιτέ
+             <lb n="3" break="no"/>κτων</w></roleName> <w lemma="ἐνθάδε">ἐνθάδε</w> <w lemma="κεῖμαι">κεῖμ<supplied reason="lost">αι</supplied></w>
+             <lb n="4"/><w lemma="μετά">μετὰ</w> <w lemma="ὁ">τῆς</w> <w lemma="σύνευνος">συνεύνο
+             <lb n="5" break="no"/><supplied reason="lost">υ</supplied></w> <w lemma="ἐμός">μου</w> <persName><name nymRef="Βευραζουρία">Βευραζουρία<supplied reason="lost">ς</supplied></name></persName>.
+             <lb n="6"/><w lemma="ἀξιόω">ἀξιῶ</w> <w lemma="δέ">δὲ</w> <w lemma="ὁ">τοὺς</w> <w lemma="φίλος">φίλους</w>
+             <lb n="7"/><w lemma="καί">καὶ</w> <w lemma="παροδίτης">παροδίτας</w> <w lemma="ἐπιβλέπω">ἐπι
+             <lb n="8" break="no"/>βλέψειν</w> <w lemma="ὁ">τὰς</w> <w lemma="ἀλλήλων">ἀλ<supplied reason="lost">λ</supplied>ήλων</w>.
+             <lb n="9"/><w lemma="πρᾶξις"><supplied reason="lost">Π</supplied>ρά<supplied reason="lost">ξεις</supplied></w> <w lemma="ἵνα">ἵνα</w> <w lemma="μήτις"><supplied reason="lost">μή</supplied>τις</w> <w lemma="ἐπί">ἐπὶ</w>
+             <lb n="10"/><w lemma="μυριοστός">μυριοστὰ</w> <w lemma="ἔτος">ἔτη</w> <w lemma="ὠστίζομαι">ὠστ<supplied reason="lost">ι</supplied>εῖ<supplied reason="lost">ται</supplied></w> 
+             <lb n="11"/><w lemma="μήτις"><supplied reason="lost">μή</supplied>τις</w> <w lemma="θέλω">θελήσ<supplied reason="lost">ει</supplied></w> <w lemma="θάπτω"><supplied reason="lost">θάπτειν</supplied></w>
+             <lb n="12"/><w lemma="μετά">μεθ᾿</w> <w lemma="ἡμεῖς">ἡμῶν</w> 
+             <lb n="13"/><w lemma="εἴτε"><supplied reason="lost">εἴ</supplied>τε</w> <w lemma="γένος">γένος</w> <w lemma="εἴτε">εἴτε</w> <w lemma="ἄλλος">ἄλ<supplied reason="lost">λος</supplied></w> 
+             <lb n="14"/><w lemma="ξένος">ξένος</w>, <w lemma="δίδωμι">δώσει</w> <w lemma="ἀπολογία">ἀπολ<supplied reason="lost">ογ</supplied>
+             <lb n="15" break="no"/>ίαν</w> <w lemma="ἐν">ἐν</w> <w lemma="ὁ">τῇ</w> <w lemma="ἀνάστασις">ἀναστἀσει</w> <w lemma="ὁ">το<supplied reason="lost">ῦ</supplied></w>
+         </ab>    
+             
+         
+            </div>
+                
+            <div type="translation" xml:lang="ka">
+                <p>ავრელი აქოლისი, მხატვართუხუცესი და ხუროთმოძღვარი აქ განვისვენებ ჩემს მეუღლე, ბევრაზურიასთან ერთად, ვთხოვ მეგობრებსა და გამვლელებს, თვალი ეჭიროთ ერთმანეთის საქმიანობაზე, 
+                რომ მეათიათასე (წლამდე) ვინმემ არ დააზიანოს (ჩვენი საფლავი), ან ვინმემ არ მოინდომოს დასაფლავება ჩვენთან ერთად, ან ჩვენი გვარისამ, ან უცხომ (და თუ ასეთი რამ მოხდა,) მან აგოს 
+                პასუხი თავის აღდგომისას. </p>
+            </div>
+            
+           <div type="apparatus" xml:space="preserve">                                                                                                                                                          <!-- კრიტიკული აპარატი -->
+            </div>
+           
+            <div type="commentary">
+                <p>წარწერა წარმოადგენს ეპიტაფიას.</p>
+                <p>მნიშვნელოვანია წარწერაში მოხსენიებული პირის, ავრელი აქოლისის მსაზღვრელები: მხატვართუხუცესი (იშვიათად ხმარებული) და ხუროთმოძღვარი, რაც იბერიის სამშენებლო 
+                საქმის შესწავლის ფართო პერსპექტივას სახავს. სახელი ავრელი აქოლისი (Αὐρήλιος | Αὐρήλις, Ἀχόλιος | Ἀχόλις) ბერძნულ–რომაული სამყაროს კუთვნილებაა, მისი პირველი 
+                ნაწილი მაინც საკმაოდ გავრცელებულია როგორც დედა საბერძნეთსა და რომში, აგრეთვე პერიფერიებში, მაგრამ ეს გარემოება სრულიად არ გულისხმობს იმას, რომ ავრელი–აქოლისი, 
+                ხუროთმოძღვარი და მხატვართუხუცესი, უეჭველად ბერძენი თუ რომაელი კაცია. ბერძნულ–რომაული პირთა სახელები ხომ საყოველთაოდ გავრცელებული იყო საქართველოში, 
+                განსაკუთრებით ქრისტიანობის მიღების შემდეგ. კაცს ჰქვია ბერძნულ–რომაული სახელი, მის მეუღლეს ადგილობრივი არა ბერძნული სახელი, ორივენი ცხოვრობენ საქართველოში, 
+                დაკრძალულნი არიან სამთავროში და ეჭვს გარეშეა, რომ კაცი აქაური ხუროთმოძღვარი და მხატვართუხუცესი იყო, აქაურ საქმეს აკეთებდა. ავრელი აქოლისი წარმოშობით რომ 
+                არ ყოფილიყო ქართველი, თავისი მოღვაწეობით მაინც ქართველი იყო. </p>
+                <p>მამაკაცის სახელი ბერძნულ-რომაულია, მისი მეუღლის - ირანული. ტექსტის ანალიზის საფუძველზე ირკვევა, რომ განსვენებულნი ადგილობრივი წარმოშობის არიან. 
+                ამ გარემოებაზე ყურადღებას ამახვილებს 12–14 სტრიქონების εἴτε γένος εἴτε ἄλλος ξένος... γένος ნიშნავს: გვარი, ტომი, თესლი... ἄλλος ξένος – სხვა უცხოელი. 
+                აშკარაა, რომ შეპირისპირება გვაქვს: ავრელი აქოლისსა და ბევრაზურიას არ სურთ, რომ მათთან ერთად სხვა ვინმე დაიკრძალოს, არც "სხვა უცხოელი" და არც "თავისიანი" – 
+                ე.ი. "თავისი გვარისა თუ ტომისა". რაკი "უცხოელს" უპირისპირდება გამოთქმა γένος, ამიტომ საფიქრებელია, რომ მას უფრო "ტომის" გაგება აქვს, ვიდრე "გვარისა". 
+                ავრელი აქოლისი ამბობს: არც ჩვენი ტომისა და არც უცხოელი არ დაასაფლავონ ჩვენთან ერთადო. ძნელი წარმოსადგენია, რომ ბერძენი კაცი, საქართველოში დამარხული, 
+                ასე უპირისპირებდეს ერთმანეთს თავის – ბერძნულ – ტომს უცხო ტომებს. წარწერის ამ ნაწილზე დაკვირვებით გამოდის, რომ ამ სიტყვების მთქმელი არის ადგილობრივი 
+                მკვიდრი და არ უნდა თავის გვერდით დაასაფლავონ არც თავისიანი (ე.ი. ქართველი) და არც უცხოელი. ამ მოსაზრების საწინააღმდეგოდ შეიძლებოდა თქმულიყო, რომ 
+                წარწერის ბოლო ნაწილი ტრაფარეტულია ეპიტაფიისათვისო, მაგრამ არც ასე ჩანს, თუ შევადარებთ მას ამ დროის სხვა ეპიტაფიებს. </p>
+                <p>დათარიღების საფუძველია პალეოგრაფიული მონაცემები (ორგვარი σ, c, და C, μ მრგვალი შუა ხაზით, სამკბილა მრგვალი ω, ψ-ს 
+                სრულიად თავისებური მოხაზულობა; ლიგატურა  ; α და λ მარცხნივ ზემოთკენ წაგრძელებული შტრიხით) და ენობრივი დამახასიათებლები (შემოკლება ΑΥΠ. იტაციზმის 
+                სხვადასხვაგვარი ვარიანტი: ει=ι, η=ει და ι=ει) წარწერა გვიან რომაული, ადრე ბიზანტიური ხანით უნდა დათარიღდეს. უფრო კონკრეტულად - უკანასკნელი ფრაზის 
+                მიხედვით ("მან აგოს პასუხი თავისი აღდგომისას", ე.ი. განკითხვის დღეს) იგი ქრისტიანული ძეგლია.</p>
+            </div>
+                
+         </body>
+    </text>
+</TEI>
+
+
+

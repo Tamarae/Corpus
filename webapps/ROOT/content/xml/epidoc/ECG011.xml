@@ -1,0 +1,217 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.stoa.org/epidoc/schema/8.23/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.stoa.org/epidoc/schema/8.23/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:space="preserve" xml:lang="ka">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>ვანის დეკრეტი</title>
+                <editor>თინათინ ყაუხჩიშვილი</editor>
+                <editor>ოთ. ლორთქიფანიძე</editor>
+                <editor>Michael Vickers</editor>
+            </titleStmt>
+            <publicationStmt>
+                <authority>ილიას სახელმწიფო უნივერსიტეტი, ლინგვისტურ კვლევათა ინსტიტუტი
+                </authority>
+                 <idno type="filename">ECG011</idno>
+                <availability>
+                    <licence target="http://creativecommons.org/licenses/by-nc-sa/3.0/">
+                     დოკუმენტი ვრცელდება Creative Commons Attribution-NonCommercial-ShareAlike 3.0 ლიცენზიის ფარგლებში.
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>   
+                        <collection>
+                            ვანი
+                        </collection>
+                    </msIdentifier>
+                    <msContents>
+                        <summary>
+                            <seg xml:lang="ka">დეკრეტი</seg>
+                        </summary>
+                    </msContents>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>
+                                    <objectType ref="http://www.eagle-network.eu/voc/objtyp/lod/1483">ფილა</objectType>
+                                    <material ref="http://www.eagle-network.eu/voc/material/lod/644">ბრინჯაო</material>
+                                    <dimensions unit="cm">
+                                        <height>28</height>
+                                        <width>12</width>
+                                        <depth>1</depth>
+                                    </dimensions>
+                                </support>
+                            </supportDesc>
+                            <layoutDesc>
+                                <layout>
+                                    <dimensions unit="cm">
+                                        <height/>
+                                        <width/>
+                                    </dimensions>
+                                </layout>
+                            </layoutDesc>
+                        </objectDesc>                      
+                        <handDesc>
+                            <handNote>
+                                <p>სტრიქონები ჩაწერილია წინასწარ გავლებულ ორ პარალელურ ხაზს შორის. ასოები მკაფიოა, კუთხეებში ჩაღრმავებული წერტილებით, რომელთა შემაერთებელი
+                                    შტრიხები მაინცდამაინც ღრმად არაა ჩაჭრილი.</p>
+                                <height unit="cm">0,7 სმ</height>
+                                <width>0,6-0,7 სმ</width>                               
+                            </handNote>
+                        </handDesc>
+                        <decoDesc>
+                            <decoNote></decoNote>
+                        </decoDesc>
+                    </physDesc>                                       
+                    <history>
+                        <origin>
+                            <origPlace>ვანი</origPlace> 
+                            <origDate notBefore="-0300" notAfter="-0201" evidence="lettering" precision="high">III BC</origDate>
+                        </origin>
+                        <provenance type="found" when="1985">                            
+                            <placeName type="ancientFindspot" ref="http://pleiades.stoa.org/places/863918">ვანი</placeName>
+                            <rs type="monuList"/>
+                            <rs type="circumstances">ნაპოვნია 1985 წელს</rs>
+                            <rs type="context"/>
+                        </provenance>                                                
+                        <provenance type="observed">
+                            <placeName type="modernSpot">ვანის არქეოლოგიური ექსპედიციის მუზეუმი</placeName>
+                        </provenance>
+                    </history>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>    
+    <facsimile>
+        <surface>
+            <graphic url="ecg011.jpg">
+                <desc xml:lang="ka">ვანის დეკრეტი, 1985</desc>
+                <desc xml:lang="en">Decree of Vani, 1985</desc>
+            </graphic>
+        </surface>
+    </facsimile>    
+    <text>
+        <body>
+             <div type="bibliography">
+                <listBibl>
+                    <bibl n="1">თინათინ ყაუხჩიშვილი, საქართველოს ბერძნული წარწერების კორპუსი<ptr target="bibliography.xml#b130"/>, <citedRange>გვ. 149-150</citedRange></bibl>
+                    <bibl n="2">თინათინ ყაუხჩიშვილი, საქართველოს ისტორიის ძველი ბერძნული წყაროები<ptr target="bibliography.xml#b136"/>, <citedRange>გვ. 241-245</citedRange></bibl>
+                    <bibl n="3">თინათინ ყაუხჩიშვილი, საქართველოს ბერძნული წარწერების კორპუსი, ტ. I<ptr target="bibliography.xml#b137"/>, <citedRange>გვ. 149-150</citedRange></bibl>
+                    <bibl n="4">თინათინ ყაუხჩიშვილი, ბერძნული ეპიგრაფიკა<ptr target="bibliography.xml#b138"/>, <citedRange>გვ. 92</citedRange></bibl>
+                    <bibl n="5">ოთ. ლორთქიფანიძე, ვანი, არქეოლოგიური გათხრები<ptr target="bibliography.xml#b139"/><citedRange></citedRange></bibl>
+                    <bibl n="6">O. Lordkipanidzé, Vani, une Pompei géorgienne<ptr target="bibliography.xml#b140"/><citedRange></citedRange></bibl>
+                    <bibl n="7">O. Lordkipanidze, Vani, ein antikes religiöses Zentrum des goldenen Vlieses (Kolchis)<ptr target="bibliography.xml#b141"/>, <citedRange>pp. 353-401</citedRange></bibl>
+                    <bibl n="8">Medeas Gold - Neue Funde aus Georgien<ptr target="bibliography.xml#b142"/><citedRange></citedRange></bibl>
+                    <bibl n="9">Michael Vickers, Vani, rich in gold<ptr target="bibliography.xml#b143"/>, <citedRange>pp. 35-36</citedRange></bibl>
+                    <bibl n="10">თინათინ ყაუხჩიშვილი, ვანის ბერძნული წარწერები<ptr target="bibliography.xml#b144"/><citedRange></citedRange></bibl>
+                    <bibl n="11">თინათინ ყაუხჩიშვილი, ვანის ბერძნული წარწერა ბრინჯაოს ფილაზე<ptr target="bibliography.xml#b145"/><citedRange></citedRange></bibl>
+                    <bibl n="12">Тинатин Каухчишвили, Греческая надпись на бронзовой плите из Вани<ptr target="bibliography.xml#b146"/>, <citedRange>стр. 248-261</citedRange></bibl>             
+              </listBibl>
+            </div>
+
+            <div type="edition" xml:space="preserve" xml:lang="grc">  
+                
+
+                      <!--  ὁ σώ[φρων ? –ος ὠ]
+                            τῷ] παντὶ ὅσι[ια]
+                            ἅπτοντα
+                            ν] ὁ τάφος σ[
+                            ἀ]πολειφθῆνα[ι
+                            πον ἔχειν α[
+                            ]ουσι τοὺς ἐκγόνους καὶ
+                            ποι]οῦντας τοὺς τὴν αὐτῶν 
+                            ] ους ἐν τοῖς γεγραμμέ[νοις
+                            χαραχθεῖσα καὶ τὴν στήλην 
+                            μηδὲ ...]ανοις μηδὲ ἀνεπιχει[ρήτοις 
+                            κωλύειν κατὰ δύνα[μιν
+                            ἀκ]ολουθήσασι τοῖς γεγραμ[μένοις
+                            ]ς αὐτῶν τε καὶ γυναικῶν 
+                            καὶ τῶν λοιπῶν πάντων
+                            ο]υς ὁ ἐν τάξει καὶ ὁ ποσεῖ(?)
+                            καὶ ἡ ἐν Σούρι καθημέ[νη στήλη
+                            ἡ] Γῆ καὶ ὁ Ἥλιος καὶ ὁ Μείς
+                            κ]αὶ πᾶσαι ἵλεως εἴη 
+                            μηδὲ τ]είνασι μηδὲ ποιήσασι
+                            συμβουλεύσασι ποιῆσαι
+                            οις] πάντα τἀναν[τία
+                            θεοῖς τοῖς μεγίσ[τοις
+                            ]ς ἄλλο μηθὲν 
+                            τῶν τε προ[
+                            ἀσίτοις (? πᾶσι τοῖς)   
+-->                         
+                              <ab>                          
+                                <lb n="1"/><w lemma="ὁ">ὁ</w> <w lemma="σώφρων">σώ<supplied reason="lost">φρων</supplied></w> ? –ος ὠ 
+                                <lb n="2"/><w lemma="ὁ">τῷ</w> <w lemma="πᾶς">παντὶ</w> <w lemma="ὅσιος">ὅσι<supplied reason="lost">ια</supplied></w> 
+                                <lb n="3"/><w lemma="ἅπτω">ἅπτοντα</w> 
+                                <lb n="4"/><orig n="unresolved">ν</orig> <w lemma="ὁ">ὁ</w> <w lemma="τάφος">τάφος</w> <orig n="unresolved">σ</orig>
+                                <lb n="5"/><w lemma="ἀπολείπω"><supplied reason="lost">ἀ</supplied>πολειφθῆναι</w> 
+                                <lb n="6"/><orig n="unresolved">πον</orig> <w lemma="ἔχω">ἔχειν</w> <orig n="unresolved">α</orig>
+                                <lb n="7"/><w>ουσι</w> <w lemma="ὁ">τοὺς</w> <w lemma="ἔκγονος">ἐκγόνους</w> <w lemma="καί">καὶ</w> 
+                                <lb n="8"/><w lemma="ποιέω"><supplied reason="lost">ποι</supplied>οῦντας</w> <w lemma="ὁ">τοὺς</w> <w lemma="ὁ">τὴν</w> <w lemma="αὐτός">αὐτῶν</w> 
+                                <lb n="9"/><orig n="unresolved">ους</orig> <w lemma="ἐν">ἐν</w> <w lemma="ὁ">τοῖς</w> <w lemma="γράφω">γεγραμμέ<supplied reason="lost">νοις</supplied></w> 
+                                <lb n="10"/><w lemma="χαράσσω">χαραχθεῖσα</w> <w lemma="καί">καὶ</w> <w lemma="ὁ">τὴν</w> <w lemma="στήλη">στήλην</w> 
+                                <lb n="11"/><w lemma="μηδέ">μηδὲ</w> <w><supplied reason="lost">...</supplied>ανοις</w> <w lemma="μηδέ">μηδὲ</w> <w lemma="ἀνεπιχείρητος"><supplied reason="lost">ἀνεπιχει</supplied>ρήτοις</w> 
+                                <lb n="12"/><w lemma="κωλύω">κωλύειν</w> <w lemma="κατά">κατὰ</w> <w lemma="δύναμις">δύνα<supplied reason="lost">μιν</supplied></w> 
+                                <lb n="13"/><w lemma="ἀκολουθέω"><supplied reason="lost">ἀκ</supplied>ολουθήσασι</w> <w lemma="ὁ">τοῖς</w> <w lemma="γράφω"><supplied reason="lost">γεγραμ</supplied>μένοις</w> 
+                                <lb n="14"/><orig n="unresolved">ς</orig> <w lemma="αὐτός">αὐτῶν</w> <w lemma="τέ">τε</w> <w lemma="καί">καὶ</w> <w lemma="γυνή">γυναικῶν</w> 
+                                <lb n="15"/><w lemma="καί">καὶ</w> <w lemma="ὁ">τῶν</w> <w lemma="λοιπός">λοιπῶν</w> <w lemma="πᾶς">πάντων</w> 
+                                <lb n="16"/><orig n="unresolved">ο]υς</orig> <w lemma="ὁ">ὁ</w> <w lemma="ἐν">ἐν</w> <w lemma="τάξις">τάξει</w> <w lemma="καί">καὶ</w> <w lemma="ὁ">ὁ</w> <w lemma="πόσις">ποσεῖ</w> 
+                                <lb n="17"/><w lemma="καί">καὶ</w> <w lemma="ὁ">ἡ</w> <w lemma="ἐν">ἐν</w> <placeName type="city" nymRef="Σούρι">Σούρι</placeName> <w lemma="κάθημαι">καθημέ<supplied reason="lost">νη</supplied></w> <w lemma="στήλη">στήλη</w> 
+                                <lb n="18"/><w lemma="ὁ"><supplied reason="lost">ἡ</supplied></w> <persName type="divine"><name nymRef="Γῆ">Γῆ</name></persName> <w lemma="καί">καὶ</w> <w lemma="ὁ">ὁ</w> <persName type="divine"><name nymRef="Ἥλιος">Ἥλιος</name></persName> <w lemma="καί">καὶ</w> <w lemma="ὁ">ὁ</w> <persName type="divine"><name nymRef="Μείς">Μείς</name></persName> 
+                                <lb n="19"/><w lemma="καί"><supplied reason="lost">κ</supplied>αὶ</w> <w lemma="πᾶς">πᾶσαι</w> <w lemma="ἵλεως">ἵλεως</w> <w lemma="εἰμί">εἴη</w> 
+                                <lb n="20"/><w lemma="μηδέ">μηδὲ</w> <w lemma="τείνω"><supplied reason="lost">τ</supplied>είνασι</w> <w lemma="μηδέ">μηδὲ</w> <w lemma="ποιέω">ποιήσασι</w> 
+                                <lb n="21"/><w lemma="συμβουλεύω">συμβουλεύσασι</w> <w lemma="ποιέω">ποιῆσαι</w> 
+                                <lb n="22"/><w><supplied reason="lost">οις</supplied></w> <w lemma="πᾶς">πάντα</w> <w lemma="ἐναντίος"><expan><abbr>τ</abbr><ex>ἀ</ex><abbr>ναν</abbr><supplied reason="lost">τία</supplied></expan></w> 
+                                <lb n="23"/><w lemma="θεός">θεοῖς</w> <w lemma="ὁ">τοῖς</w> <w lemma="μέγας">μεγίσ<supplied reason="lost">τοις</supplied></w> 
+                                <lb n="24"/><orig n="unresolved">ς</orig> <w lemma="ἄλλος">ἄλλο</w> <w lemma="μηθέν">μηθὲν</w> 
+                                <lb n="25"/><w lemma="ὁ">τῶν</w> <w lemma="τέ">τε</w> προ 
+                                <lb n="26"/><w lemma="ἄσιτος">ἀσίτοις</w> 
+                              </ab>                    
+                            </div>           
+                
+                <div type="translation" xml:lang="ka">
+                    <p> გონიერი, ან ზომიერი. ყოველმხრივ წმინდა, სუფთა. ხელი მოჰკიდა, წამოიწყო (რაიმე საქმე). 
+                        საფლავი, სამარხი. ჩამორჩენა. აქვს. ჩამომავლებს და, მათგან, ვინც გააკეთა (რაღაცა მდედრ. სქესის, სტელა?), 
+                        დაწერილში (დოკუმენტში, რომელიც შეიძლება საბრალდებულოც იყოს), ამოჭრილი (დაწერილი) და სტელა. 
+                        არც ვიღაცაები და არც უძლეველნი (ან ისინი, ვისაც ვერ მიუდგები, ვისთანაც ვერაფერს გააწყობ). 
+                        დააბრკოლონ, რაც შეიძლება. მისდიონ დაწერილს (დაწესებულს). მათგანაც და ქალთაგანაც. და ყველა დანარჩენთაგან, 
+                        ვინც ჩაურთავს (ჩაუმატებს) და ვინც დათვლის (იანგარიშებს). და სურიში დადგმული სტელა. დედამიწა და მზე და მთვარე. 
+                        და ყველანი (მდედრ. სქესის). მოწყალე იყოს. არც მათ, ვისაც გუნებაში ჰქონდათ და არც მათ, ვინც გააკეთეს. მოთათბირეებს 
+                        გაუკეთეს (ან - მოთათბირეებს). ყველაფერი ამის საწინააღმდეგო. დიდ ღმერთებს. თუმცა არაფერი. 
+                        (ნაწილაკებია მხოლოდ). მშივრებს (ან - ყველა მათ).
+                    </p>
+                </div>                                                                                                                                       
+            <div type="apparatus" xml:space="preserve">                                                                                                                  
+              <head>კრიტიკული აპარატი</head>
+                <p><app loc="1"><lem>σώφρων</lem>
+                <rdg resp="თინათინ ყაუხჩიშვილი">σώφρος</rdg>
+                </app></p>
+                <p><app loc="26"><lem>ἄσιτος</lem>
+                <rdg resp="თინათინ ყაუხჩიშვილი">πᾶσι τοῖς</rdg>
+                </app></p>
+                
+            </div>
+ 
+            <div type="commentary">
+                <p n="1">ვანის არქეოლოგიური ექსპედიციის მუზეუმში დაცულია 1985 წელს მოპოვებული ბრინჯაოს ფილის ფრაგმენტი, ფილის მარჯვენა ნაწილი, დასაწყისისა და დაბოლოების გარეშე.</p>
+                <p n="2">ფილა, როგორც ჩანს, სადა არ ყოფილა, შემორჩენილია მარჯვენა კიდეზე ნახევარკოლონის ფორმის ჩარჩო.</p>
+                <p n="3">ფრაგმენტზე გაირჩევა 26 სტრიქონი, აქედან 11-26 სტრიქონები არ იწვევს ეჭვს, I ათი სტრიქონი ხანძრისგან არის ძლიერ დაზიანებული, ამდენად, ბევრად უფრო რთული გასარჩევად.</p>
+                <p n="4">ცალკეული ნაწყვეტების მიხედვით ტექსტი არის სატაძრო საკანონმდებლო დოკუმენტი, რომელიც შეიცავს გარკვეულ პირობებს: უნდა იყვნენ ყოველმხრივ წმინდა, რომ წამოიწყონ რაიმე საქმე.
+                განწმენდილი იყვნენ საფლავთან შეხების შემთხვევაშიც და ეს ეხება მათაც და მათ ჩამომავლებსაც. ეს დადგენილება ამოჭრილია სტელაზე და მიმართულია, სხვათა შორის, იმ პირთა წინააღმდეგ, ვისთანაც 
+                ვერაფერს გააწყობ ამ აკრძალვის გარეშე. ძეგლი მოუწოდებს თავის მრევლს, მამაკაცებსაც (?) და ქალებსაც (ესენი უთუოდ ერთი წრისანი არიან) და ყველა დანარჩენთ (ეს "დანარჩენები" კონტექსტით სხვა ფენის
+                წარმომადგენლები უნდა იყვნენ) მისდიონ ამ დადგენილებას. დადგნილებაში ჩამატებისა და აღრიცხვის შესახებ კიდევ საგანგებო პუნქტია შეტანილი. სტელა აღნიშნული დადგენილებით აღმართულია სურიში. მოუწოდებენ 
+                ღმერთებს: დედამიწას, მზეს, მთვარეს; რომელიღაცა ერთს ღმერთთაგან შესთხოვენ, იყოს მოწყალე. ეს მოწყალება არ ვრცელდება მათზე, ვინც განიზრახა ან ჩაიდინა უკეთური (ე. ი. ამ დოკუმენტით აღკვეთილი) 
+                საქმე. მოთათბირეთაგან დადგენილია, ვინც ამის საწინააღმდეგოს გააკეთებს, მას ნურც დიდი ღმერთები უშველიან და ყოველგვარი უბედურება დაატყდეს მას თავს.</p>
+                <p n="5">წარწერაში აღსანიშნავია გეოგრაფიული სახელი "სური" (იგივე წერილობითი წყაროების "სურიონ//სურიუმი"), რაც არის ვანის ელინისტური დროის სახელწოდება, და დიდი ღმერთების ტრიადა (დედამიწა, მზე, მთვარე),
+                რომელთაც აღიარებდნენ სურიში.</p>
+                <p n="6">დათარიღება: ასოთა მოხაზულობისა (Ω, Σ, Μ, Β, Ρ, Ε, Γ ...) და ენობრივი ნორმების (μηθέν, ἀνεπιχείρητος) მიხედვით წარწერა ძვ.წ. III ს-ით თარიღდება. არქეოლოგიურად - ფრაგმენტი გვიანელინისტურ ფენაშია მოპოვებული.</p>
+                <p/>
+            </div>
+            
+        </body>
+    </text>
+</TEI>
+

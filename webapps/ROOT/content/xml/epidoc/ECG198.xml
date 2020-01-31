@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.stoa.org/epidoc/schema/8.23/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.stoa.org/epidoc/schema/8.23/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:space="preserve" xml:lang="ka">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>სტეფანესა და ზიქას მოსახსენებელი</title>
+                <editor></editor>
+            </titleStmt>
+            <publicationStmt>
+                <authority>ილიას სახელმწიფო უნივერსიტეტი</authority>
+                <idno type="filename">ECG198</idno>
+                <availability>
+                    <licence target="http://creativecommons.org/licenses/by-nc-sa/3.0/">
+                    დოკუმენტი ვრცელდება Creative Commons Attribution-NonCommercial-ShareAlike 3.0 ლიცენზიით
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                     <collection>
+                         ნაგზაურა
+                     </collection>
+                    </msIdentifier>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>
+                                    <objectType>ქვაჯვარი</objectType>
+                                    <material></material>
+                            </support>
+                            </supportDesc>
+                            <layoutDesc>
+                                <layout>ქვაჯვრის ფრაგმენტი</layout>
+                            </layoutDesc>
+                        </objectDesc>
+                        <handDesc>
+                            <handNote>
+                                ნუსხურნარევი კუთხვანი ასომთავრული გრაფიტო 
+                                <dimensions unit="mm">
+                                    <height></height>
+                                </dimensions>    
+                            </handNote>
+                        </handDesc>
+                    </physDesc>
+                    <history>
+                        <origin>
+                            <origPlace>ნაგზაურა</origPlace>
+                            <origDate >VIII AD</origDate>
+                        </origin>
+                        <provenance>
+                        </provenance>  
+                    </history>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text><!-- 
+    1. ო(ჳფალ)ო ღ(მერთ)ო, სტეფან[ე] 
+    2. შ(ეიწყალ)ე და  ა[ს]ოჳლი მის[ი]
+    3. ზიქა ად(ღეგრძელ)ე, ი(ყავნ)
+    -->
+        <body>
+
+              <div type="edition" xml:space="preserve">
+                <ab>
+                    <lb n="1"/> <w lemma="უფალ"><expan><abbr>ო</abbr><ex>ჳფალ</ex><abbr>ო</abbr></expan></w> <w lemma="ღმერთ"><expan><abbr>ღ</abbr><ex>მერთ</ex><abbr>ო</abbr></expan></w> <persName><expan><abbr>სტეფან</abbr><ex>ე</ex></expan></persName>
+                   <lb n="2"/> <w lemma="იწყალებს"><expan><abbr>შ</abbr><ex>ეიწყალ</ex><abbr>ე</abbr></expan></w> <w lemma="და">და</w>  <w lemma="ასულ">ა<supplied reason="lost">ს</supplied>ოჳლი</w> <w lemma="მისი">მის<supplied reason="lost">ი</supplied></w>                   
+                <lb n="3"/><persName>ზიქა</persName> <w lemma="ადღეგრძელებს"><expan><abbr>ად</abbr><ex>ღეგრძელ</ex><abbr>ე</abbr></expan></w> <w lemma="არის"><expan><abbr>ი</abbr><ex>ყავნ</ex></expan></w>
+                </ab>
+            </div>
+            
+            <div type="translation"/>
+            
+            
+            <div type="commentary">
+                <p>ქვაჯვრის ფრაგმენტზე ამოკაწრული 3 სტრ. ნუსხურნარევი კუთხოვანი ასომთავრულით გრაფიტო. ქარაგმის ნიშანი- განივი, სწორი ხაზი; განკვეთილობის ნიშნები არ ახლავს.
+                    დაზიანება: გრაფიტოს მარჯვენა კიდე ატკეჩილია და წარწერის ბოლო გრაფემა არ იკითხება. 
+                    წარწერის დათარიღება წინა გამოცემებში: VIII ს. (ალექსიძე)
+                    წარმოდგენილ გამოცემაში, წარწერის პალეოგრაფიის გათვალისწინებით, გაზიარებულია ეს დათარიღება.  
+                </p>
+                
+                <div type="bibliography"> 
+                    <listBibl>
+                            <bibl>
+                                <editor>
+                                    <name>გიორგი</name>
+                                    <surname>ოთხმეზური</surname>
+                                </editor>
+                                <title type="main">დმანისი</title> 
+                                <title type="sub">ქვემო ქართლის ეპიგრაფიკული კორპუსი</title>
+                                <bibl type="vol"></bibl>
+                                <bibl type="pp">90</bibl>
+                                <pubPlace>თბილისი</pubPlace> 
+                                <date>2018</date>
+                            </bibl>
+                        
+                        <bibl> 
+                            <author><name>ზაზა ლექსიძე</name></author> 
+                            <title type="main" level="a">ადრექრისტიანული საეკლესი კომპლექსი დმანისიდან </title>
+                            <title level="s"></title>
+                            <bibl type="vol"></bibl>
+                            <bibl type="pp">86</bibl>
+                            <pubPlace>თბილისი</pubPlace>
+                            <date>2012</date>
+                        </bibl>
+                        
+                        
+                    </listBibl>
+                </div>
+                
+            </div>
+        </body>
+    </text>
+</TEI>
+
+
+
+
+
+

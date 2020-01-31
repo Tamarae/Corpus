@@ -1,0 +1,181 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="ka">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>ცხორებას მოსახსენებელი</title>
+                <editor>გიორგი ოთხმეზური</editor>
+            </titleStmt>
+            <publicationStmt>
+                <authority>ილიას სახელმწიფო უნივერსიტეტი, ლინგვისტურ კვლევათა ინსტიტუტი</authority>
+                <idno type="filename">ECG226</idno>
+                <availability>
+                    <licence target="http://creativecommons.org/licenses/by-nc-sa/3.0/"> 
+                        დოკუმენტი ვრცელდება Creative Commons Attribution-NonCommercial-ShareAlike 3.0 ლიცენზიით
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <collection>
+                            დმანისი
+                        </collection>
+                    </msIdentifier>
+                    
+                    <msContents>
+                        <summary>
+                            <seg xml:lang="ka">მოსახსენებელი</seg>
+                            <seg xml:lang="en"/>
+                        </summary>
+                    </msContents>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>
+                                    <objectType ref="http://www.eagle-network.eu/voc/objtyp/lod/1483">ფასადი</objectType>
+                                    <material ref="https://www.eagle-network.eu/voc/material/lod/2">ქვა</material>
+                                    <dimensions>
+                                        <width/>
+                                        <height/>
+                                    </dimensions>
+                                </support>
+                            </supportDesc>
+                            <layoutDesc>
+                                <layout writtenLines="1">
+                                     1 სტრიქონიანი წარწერა ამოკვეთილია შახმარლოს ეკლესიის დას. ფასადზე, სარკმლის სათაურის მარცხნივ.
+                                    <dimensions unit="cm">
+                                        <width/>
+                                        <height/>
+                                    </dimensions>
+                                </layout>
+                            </layoutDesc>
+                        </objectDesc>
+                        <handDesc>
+                            <handNote script="asomtavruli" style="inscribed">
+                                ასომთავრული წარწერა. ქარაგმის ნიშანი: განივი, მოკლე, სწორი ხაზი. განკვეთილობის ნიშნები არ გვხვდება.
+                                <dimensions unit="cm">
+                                    <height/>
+                                </dimensions>
+                            </handNote>
+                        </handDesc>
+                    </physDesc>
+                    <history>
+                        <origin>
+                            <origPlace>შახმარლოს ეკლესია</origPlace>
+                            <origDate notBefore="1045" notAfter="1048">XI AD</origDate>
+                        </origin>
+                        <provenance type="observed">
+                            <placeName type="modernSpot">შახმარლოს ეკლესია</placeName>
+                            <rs type="circumstances"/>
+                            <idno/>
+                        </provenance>
+                    </history>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    
+    
+    <!-- 
+     
+    <facsimile>
+        <surface>
+            <graphic url="tskise_01.jpg">
+                <desc xml:lang="ka">წყისეს წარწერა</desc>
+                <desc xml:lang="en"></desc>
+            </graphic>
+        </surface>
+    </facsimile> -->
+    
+    <text>
+        <!--
+        1.[ქ(რისტ)ე] შე(ი)[წყ(ა)]ლ(ე) ცხ(ო)[რ(ე)ბა]
+        -->
+        <body>
+
+            <div type="edition" xml:lang="ka" xml:space="preserve">
+
+            <ab>
+                <lb n="1"/><persName><name nymRef="ქრისტე"><supplied reason="lost" precision="medium"><expan><abbr>ქ</abbr><ex>რისტ</ex><abbr>ე</abbr></expan></supplied></name></persName> 
+                           <w lemma="წყალობა"><expan><abbr>შე</abbr><ex>ი</ex><supplied reason="lost" precision="medium"><abbr>წყ</abbr><ex>ა</ex></supplied><abbr>ლ</abbr><ex>ე</ex></expan></w> 
+                           <persName><name nymRef="ცხორება"><expan><abbr>ცხ</abbr><ex>ო</ex><supplied reason="lost" precision="medium"><abbr>რ</abbr><ex>ე</ex><abbr>ბა</abbr></supplied></expan></name></persName> 
+            </ab>
+            </div>
+
+            <div type="bibliography">
+                <listBibl>
+                    <bibl>
+                        <author>
+                            <persName>
+                                <forename>გიორგი</forename>
+                                <surname>ოთხმეზური</surname>
+                            </persName>
+                        </author>
+                        <title level="m" type="main">დმანისი, ქვემო ქართლის ეპიგრაფიკული კორპუსი</title>
+                        <edition/>
+                        <bibl type="vol"/>
+                        <pubPlace>თბილისი</pubPlace>
+                        <publisher/>
+                        <date>2018</date>
+                        <biblScope unit="pp">122</biblScope>
+                    </bibl>
+                    <bibl>
+                        <author>
+                            <persName>
+                                <forename>დევი</forename>
+                                <surname>ბერძენიშვილი</surname>
+                            </persName>
+                        </author>
+                        <title level="m" type="main">ნარკვევები ქვემო ქართლის ისტორიული გეოგრაფიიდან</title>
+                        <edition/>
+                        <bibl type="vol"/>
+                        <pubPlace>თბილისი</pubPlace>
+                        <publisher>სეზანი</publisher>
+                        <date>2014</date>
+                        <biblScope unit="pp">112</biblScope>
+                    </bibl>
+                    
+                    <bibl>
+                        <author>
+                            <persName>
+                                <forename>გიორგი</forename>
+                                <surname>ოთხმეზური</surname>
+                            </persName>
+                        </author>
+                        <title level="m" type="main">დმანისის რაიონის ეპიგრაფიკული ძეგლების (წარწერების მიმოხილვა და ისტორიული ექსკურსი)</title>
+                        <edition/>
+                        <bibl type="vol"/>
+                        <pubPlace>თბილისი</pubPlace>
+                        <publisher/>
+                        <date>2016</date>
+                        <biblScope unit="pp">15</biblScope>
+                    </bibl>
+                </listBibl>
+
+                <div type="edition" xml:space="preserve">
+                <ab>
+                    <lb n="1"/>
+                </ab>
+            </div>
+                <div type="translation">
+                    <p/>
+                </div>
+                <div type="commentary">
+                    <p>წარწერის აზომვა არ ხერხდება.
+                        დაზიანება: ქვის ზედაპირი ნაწილობრივ დაფარულია მოთეთრო-მოყვითალო ფერის
+                        ხავსისებრი მცენარით; ქვის ზედაპირის ატკეჩვის გამო გრაფემათა ნაწილი
+                        ამომტვრეულია; დანარჩენი გრაფემები გამოქარვისა და გადარეცხვისაგან
+                        გამკრთალებულია და გადასული. ამჟამად აღარ იკითხება წარწერის დასაწყისი და შუა
+                        ნაწილი, „ცხორება“-ს სახელის მხოლოდ პირველი ორი ასო გაირჩევა; წარმოდგენილი
+                        დათარიღების საფუძველი: შინაარსი: წარწერაში მოხსენიებული ცხორება უნდა იყოს
+                        ლიპარიტ III-ის მეუღლე და ლიპარიტ IV-ის დედა. 1045 წელს ლიპარიტის ძალისხმევით
+                        ბაგრატ IV-მ დაკარგა ანისი, რაც დავით უმიწაწყალოს იმტერესებშიც შედიოდა.
+                        როგორც ჩანს, ამის სანაცვლოდ დაუთმო სომეხთა მეფემ ბაღვაშებს მოსაზღვრე
+                        ტერიტორია გომარეთის პლატოზე. ამით აიხსნება კვირიკიანთა სამფლობელოში აღმართულ
+                        ეკლესიაზე ცხორებას მოსახსენებელი წარწერის მოთავსება</p>
+                </div>
+            </div>
+        </body>
+    </text>
+</TEI>

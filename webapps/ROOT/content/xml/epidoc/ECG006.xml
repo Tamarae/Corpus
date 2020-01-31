@@ -1,0 +1,173 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+<?xml-model href="http://www.stoa.org/epidoc/schema/8.23/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.stoa.org/epidoc/schema/8.23/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:space="preserve" xml:lang="ka">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>არმაზციხე-ბაგინეთი. ამაზასპეს მეუღლის წარწერა</title>
+                <editor>თინათინ ყაუხჩიშვილი</editor>
+                <editor>David Braund</editor>
+            </titleStmt>
+            <publicationStmt>
+                <authority>ილიას სახელმწიფო უნივერსიტეტი, ლინგვისტურ კვლევათა ინსტიტუტი</authority>
+                 <idno type="filename">ECG006</idno>
+                <availability>
+                    <licence target="http://creativecommons.org/licenses/by-nc-sa/3.0/">
+                       დოკუმენტი ვრცელდება Creative Commons Attribution-NonCommercial-ShareAlike 3.0 ლიცენზიით.
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <collection>
+                            არმაზციხე-ბაგინეთი
+                        </collection>
+                    </msIdentifier>
+                    <msContents>
+                        <summary>
+                            <seg xml:lang="ka">შეწირვითი</seg>
+                        </summary>
+                    </msContents>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>                             
+                                    <objectType ref="http://www.eagle-network.eu/voc/objtyp/lod/259">ფილა</objectType>
+                                    <material ref="http://www.eagle-network.eu/voc/material/lod/75">ქვიშაქვა</material>                               
+                                   <dimensions unit="cm">
+                                        <width>35</width>
+                                        <height>33</height>
+                                        <depth>9</depth></dimensions>
+                                        </support>
+                                        </supportDesc>
+                                <layoutDesc>
+                                   <layout writtenLines="8">რვასტრიქონიანი ბერძნული ასომთავრული წარწერა <rs type="execution" key="caelo">ამოკვეთილია</rs> ერთ მთლიან, კარგად დამუშავებულ ფილაზე.  
+                                    <dimensions unit="cm">
+                                        <width>35</width>
+                                        <height>33</height>
+                                    </dimensions>                                   
+                                   </layout>
+                                   </layoutDesc>
+                        </objectDesc>                        
+                        <handDesc>
+                            <handNote>
+                                 <p>წარწერაში აღსანიშნავია α-ს ორნაირი დაწერილობა: Α და მთავრული ალფა ტეხილი ხაზით; υ-ის ორნაირი დაწერილობა: Y და V; 
+                                   ასოები ε, ο, ς - მრგვალია, ასევე მომრგვალებულია Β, Ρ, Φ-ის ნაწილები. μ-ს გაშლილი აქვს გვერდითი ხაზები, მაგრამ კუთხოვანია, π-ს ჰორიზონტალური ხაზი ოდნავ 
+                                   გადაუდის თავზე. გამოირჩევა ω, რომელიც ორ პარალელურ, ვერტიკალურ ხაზს შორის შეერთებულია კუთხოვანი, ჩატეხილი ხაზით ꟽ. არის ერთი ლიგატურა NH.</p>
+                                   <height unit="cm" precision="high">პირველი სტრიქონის ასოთა სიმაღლე 2.8 სმ-ია, ბოლო სტრიქონისა - 2 სმ.</height>
+                                   <width unit="cm" precision="medium">2 სმ</width>                                
+                            </handNote>
+                        </handDesc>
+                        <decoDesc>
+                            <decoNote></decoNote>
+                        </decoDesc>
+                    </physDesc>
+                    <history>
+                            <origin>
+                                <origPlace>არმაზციხე, ბაგინეთი</origPlace>
+                                <origDate notBefore-custom="0101" notAfter-custom="0300" precision="medium" evidence="reign lettering"
+                                    datingMethod="#julian">II-III AD                                                                      
+                                </origDate>
+                            </origin>
+                            <provenance type="found" when="1996">
+                                <placeName type ="ancientFindspot" ref="http://pleiades.stoa.org/places/863799">არმაზციხე, ბაგინეთი</placeName> 
+                                <rs type="circumstances">წარწერა 1996 წლის ექსპედიციის მონაპოვარია, აღმოჩენილია რომაული ტიპის აბანოს მახლობლად.</rs>
+                                <rs type="context"/>
+                                <rs type="monuList"/></provenance>                                
+                            <provenance type="observed">
+                                <placeName type="modernSpot">მცხეთის არქეოლოგიური ინსტიტუტი</placeName>
+                                <idno type="invNo">01-2-148</idno></provenance> 
+                    </history>                   
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <variantEncoding method="location-referenced" location="external"/>
+            <styleDefDecl scheme="css" schemeVersion="2.1"/>
+            <tagsDecl>
+                <rendition xml:id="small">font-size: small;</rendition>
+                <rendition xml:id="x-space">line-height: 50%;</rendition>
+            </tagsDecl>
+        </encodingDesc>
+    </teiHeader>
+    
+    <facsimile>
+        <surface>
+            <graphic url="ecg006.jpg">
+                <desc xml:lang="ka">ფილა არმაზციხე-ბაგინეთიდან, 1996</desc>
+                <desc xml:lang="en">Plaque from Armaztsikhe-Bagineti, 1996</desc>
+            </graphic>
+        </surface>
+    </facsimile>
+    
+    <text>
+        <body>
+            
+            <div type="bibliography">
+                <listBibl>
+                    <bibl n="1">თინათინ ყაუხჩიშვილი, საქართველოს ბერძნული წარწერების კორპუსი<ptr target="bibliography.xml#b130"/>, <citedRange>გვ. 227-228</citedRange></bibl>
+                    <bibl n="2">David Braund, Anagranes the ΤΡΟΦΕΥΣ: the court of caucasian Iberia in the second-third centuries AD<ptr target="bibliography.xml#b134"/>, <citedRange>pp. 23-34</citedRange></bibl>
+                    <bibl n="3">თინათინ ყაუხჩიშვილი, ახალი ბერძნული წარწერა არმაზციხე-ბაგინეთიდან (II)<ptr target="bibliography.xml#b133"/>, <citedRange>გვ. 11-14</citedRange></bibl>
+                    <bibl n="4">Kamila Labas, Studien Zur Geschichte Der Georgischen Länder Vom 4. Bis Zum Früheren 7. Jh.<ptr target="bibliography.xml#b135"/>, <citedRange>p. 110</citedRange></bibl>
+                </listBibl>
+            </div>
+            
+            <div type="edition" xml:lang="grc" xml:space="preserve">
+                
+                                      
+                        <!-- [... θυγατρὶ δὲ βασιλέως]
+                             Ἀρμενίας Οὐολο
+                             γαίσου γυναικὶ δὲ 
+                             βασιλέως Ἰβήρων 
+                             μεγάλου Ἀμαζάσ
+                             που Ἀναγράνης ὁ 
+                             τροφεὺς καὶ ἐπίτρ[ο]
+                             πος ἰδίᾳ δυνάμι 
+                             τὸ βαλανῖον ἀφιέρωσεν  -->
+ 
+             <ab>
+                 <lb n="1"/><gap reason="lost" extent="unknown" unit="line"><desc>nomen feminae</desc></gap> <w lemma="θυγάτηρ"><supplied reason="lost">θυγατρὶ</supplied></w> <w lemma="δέ"><supplied reason="lost">δὲ</supplied></w> <persName><roleName type="nobility" nymRef="βασιλεύς Ἀρμενίας"><w lemma="βασιλεύς"><supplied reason="lost">βασιλέως</supplied></w> <placeName nymRef="Ἀρμενία" ref="http://pleiades.stoa.org/places/981507">Ἀρμενίας</placeName></roleName> <name nymRef="Οὐολογαίσης">Οὐλο
+                 <lb n="2" break="no"/>γαίσου</name></persName> <w lemma="γυνή">γυναικὶ</w> <w lemma="δέ">δὲ</w>
+                 <lb n="3"/><persName><roleName nymRef="βασιλεύς Ἰβήρων"><w lemma="βασιλεύς">βασιλέως</w> <placeName type="ethnic" nymRef="Ἴβηρ" ref="http://pleiades.stoa.org/places/863807">Ἰβήρων</placeName></roleName>
+                 <lb n="4"/><w lemma="μέγας">μεγάλου</w> <name nymRef="Ἀμαζάσπ">Ἀμαζάσ
+                 <lb n="5" break="no"/>που</name></persName> <persName><name nymRef="Ἀναγράνης">Ἀναγρά<hi rend="ligature">νη</hi>ς</name></persName> <w lemma="ὁ">ὁ</w>
+                 <lb n="6"/><roleName nymRef="τροφεύς"><w lemma="τροφεύς">τροφεὺς</w></roleName> <w lemma="καί">καὶ</w> <roleName nymRef="ἐπίτροπος"><w lemma="ἐπίτροπος">ἐπίτρ<supplied reason="omitted">ο</supplied>
+                 <lb n="7" break="no"/>πος</w></roleName> <w lemma="ἰδίᾳ">ἰδίᾳ</w> <w lemma="δύναμις">δυνάμ<choice><reg>ει</reg><orig>ι</orig></choice></w>
+                 <lb n="8"/><w lemma="τό">τὸ</w> <w lemma="βαλανεῖον">βαλαν<choice><reg>εῖ</reg><orig>ῖ</orig></choice>ον</w> <w lemma="ἀφιερόω"><hi rend="small">ἀφιέρωσεν</hi></w>                
+             </ab>
+         </div>   
+
+                
+             <div type="translation" resp="თინათინ ყაუხჩიშვილი" xml:lang="ka">
+                <p>...(ქალის სახელი) არმენიის (მეფის), ვოლოგეზეს (ასულს), ხოლო იბერთა დიდი მეფის, ამაზასპეს მეუღლეს, ანაგრანესმა, მამამძუძემ და ეზოსმოძღვარმა,
+                   საკუთარი სახსრით გაკეთებული აბანო შესწირა.</p></div>                   
+             
+            
+            <div type="apparatus" xml:space="preserve">
+                <listApp>
+                    <app loc="1">
+                        <lem resp="თინათინ ყაუხჩიშვილი">Οὐλογαίσου</lem>
+                        <rdg resp="დევიდ ბრაუნდი">Οὐολογαίσου</rdg>
+                    </app>
+                    <app loc="7">
+                        <lem resp="თინათინ ყაუხჩიშვილი">δυνάμ<choice><reg>ει</reg><orig>ι</orig></choice></lem>
+                        <rdg resp="დევიდ ბრაუნდი">δυνάμ<supplied reason="omitted">ε</supplied>ι</rdg>                           
+                    </app>
+                </listApp>
+            </div>
+         
+            
+            <div type="commentary">
+                <p>წარწერა არის შეწირვითი ხასიათის. შესრულებულია სალიტერატურო ენის - კოინეს ნორმების მიხედვით.
+                   თითო სტრიქონში არის 13-15 ასო, გარდა მერვე სტრიქონისა, სადაც 10 ასოს შემდეგ უფრო წვრილი ხელით ორ სტრიქონად მიწერილია მთელი სიტყვა 
+                   (ზემოთ 6 ასო, ქვემოთ 3), ასევე მთავრულით და იმავე მოხაზულობით, რომლითაცაა შესრულებული მთელი წარწერა. ასოებზე შესამჩნევია წითელი ფერის საღებავი. 
+                   დაწერილობა επιτρπος არის lapsus calami და არა შემსრულებლის უმეცრება. არის იტაციზმის ორი შემთხვევა: δυναμι (=δυνάμει) და βαλανιον (=βαλανεῖον). 
+                   მართალია ქვის ოთხივე წიბო კარგადაა დამუშავებული და არც დაზიანებულია, მაგრამ მოღწეული წარწერა აშკარად არის გაგრძელება, ალბათ, ასევე კარგად დამუშავებულ ფილაზე დაწყებული წარწერისა.
+                   დათარიღება: ისტორიული პირების მოხსენიების საფუძველზე დევიდ ბრაუნდი წარწერას III ს-ით ათარიღებს.</p>
+            </div>
+            
+        </body>
+    </text>
+</TEI>

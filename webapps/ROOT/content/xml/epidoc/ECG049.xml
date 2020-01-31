@@ -1,0 +1,150 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.stoa.org/epidoc/schema/8.23/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.stoa.org/epidoc/schema/8.23/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:space="preserve" xml:lang="ka">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>პალესტინის წარწერა I</title>
+                <editor>გიორგი წერეთელი</editor>
+            </titleStmt>
+            <publicationStmt>
+                <authority>ილიას სახელმწიფო უნივერსიტეტი, ლინგვისტურ კვლევათა ინსტიტუტი</authority>
+                 <idno type="filename">ECG049</idno>
+                <availability>
+                    <licence target="http://creativecommons.org/licenses/by-nc-sa/3.0/">
+                       დოკუმენტი ვრცელდება Creative Commons Attribution-NonCommercial-ShareAlike 3.0 ლიცენზიით.
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <collection>პალესტინა</collection>
+                    </msIdentifier>
+                    
+                    <msContents>
+                        <summary>
+                            <seg xml:lang="ka">მოსახსენებელი</seg>
+                            <seg xml:lang="en"/>
+                        </summary>
+                    </msContents>
+                    
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>                             
+                                   <material ref="http://www.eagle-network.eu/voc/material/lod/134">მოზაიკა</material>
+                                   <objectType>იატაკი</objectType>
+                                </support>
+                            </supportDesc>
+                                <layoutDesc>
+                                    <layout writtenLines="4"> 
+                                        წარწერა ოთხსტრიქონიანია. პირველი ორი სტრიქონი შედარებით დაუზიანებლად არის მოღწეული, მესამე სტიქონი დაზიანებულია. 
+                                        მეოთხე სტრიქონში შემორჩენილია მხოლოდ ერთი ასო. ასოთა ქსოვილის ფერი წითელია.                                                           
+                                      <dimensions unit="cm">
+                                        <width>132</width>
+                                        <height/>
+                                        <depth/>
+                                      </dimensions>
+                                    </layout>
+                                </layoutDesc>
+                        </objectDesc>                        
+                        <handDesc>
+                            <handNote script="asomtavruli" style="mosaic">
+                                <rs type="execution">მოზაიკური</rs> <rs type="script">ასომთავრული</rs> წარწერა
+                              <height unit="cm" precision="high">11,5-10,5-9</height>
+                            </handNote>
+                        </handDesc>
+                    </physDesc>
+                    <history>
+                            <origin>
+                                <origPlace>პალესტინა, იუდას უდაბნო, წმიდა თეოდორეს სახელობის ქართული მონასტერი</origPlace>
+                                <origDate notBefore-custom="0400" notAfter-custom="0430" precision="medium" 
+                                    evidence="lettering" datingMethod="#julian">V AD</origDate>
+                            </origin>
+                            <provenance type="found" when="1952">
+                                <placeName type ="ancientFindspot">პალესტინა, იუდას უდაბნო, წმიდა თეოდორეს სახელობის ქართული მონასტერი</placeName> 
+                                 <!--  "31.667433, 35.166452"-->
+                                <rs type="circumstances">1952-1953 წლებში იტალიელმა არქეოლოგმა, ვირჯილიო კორბომ, პალესტინაში, იუდას უდაბნოში, ბეთლემის მახლობლად, 
+                                    აღმოაჩინა ქართული მონასტრის ნანგრევები, სადაც მიაკვლიეს სამ ქართულ წარწერას.</rs>
+                                <rs type="context"/>
+                                <rs type="monuList"/>
+                            </provenance> 
+                            <provenance type="observed">
+                            <placeName type="modernSpot" ref="http://www.christusrex.org">იერუსალიმის ფრანცისკანელთა მუზეუმი (Studium Biblicum Franciscanum Museum)</placeName>
+                            <idno/>
+                        </provenance>
+                    </history>                   
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+      <revisionDesc><change when="2019-10-29" who="Eka Kvirkvelia">ტექსტის სრული კოდირება, მეტამონაცემების სრული კოდირება, 
+            ბმულებით დაკავშირება ავტორიტეტულ წყაროსთან</change></revisionDesc>
+    </teiHeader>
+    
+    <facsimile>
+        <surface>
+            <graphic url="ecg049.jpg">
+                <desc xml:lang="ka">პალესტინის წარწერა I</desc>
+                <desc xml:lang="en"></desc>
+            </graphic>
+        </surface>
+    </facsimile>
+    
+    <text>
+        <body>
+            <div type="bibliography">
+              <listBibl>
+                   <bibl n="1">გიორგი წერეთელი, უძველესი ქართული წარწერები პალესტინიდან<ptr target="bibliography.xml#b67"/>, <citedRange>გვ. 94</citedRange></bibl>
+                   <bibl n="2">კორნელი დანელია, ზურაბ სარჯველაძე, ქართული პალეოგრაფია<ptr target="bibliography.xml#b92"/>, <citedRange>გვ. 28-31</citedRange></bibl>
+                   <bibl n="3">Virjilio Corbo, M. Tarchnishvili, „La Terra Santa“<ptr target="bibliography.xml#b32"/>, <citedRange>pp. 181-186</citedRange></bibl>
+                  <bibl n="4">მიხეილ თარხნიშვილი, ახლად აღმოჩენილი ქართველთა მონასტერი ბეთლემში<ptr target="bibliography.xml#b96"/></bibl>
+                  <bibl n="5">Virjilio Corbo, Gli scavi di Kh. Siyar el-Ghanam (Campo dei Pastori) e i monasteri dei dintorni<ptr target="bibliography.xml#b30"/>, <citedRange>pp. 135-140</citedRange></bibl>
+              <bibl n="6">შალვა ნუცუბიძე, პალესტინის ახალი გათხრები და ქართული კულტურის საკითხები<ptr target="bibliography.xml#b117"/></bibl>
+              <bibl n="7">სიმონ ყაუხჩიშვილი, „ქართლის ცხოვრება“<ptr target="bibliography.xml#b109"/>, <citedRange>გვ. 061</citedRange></bibl> 
+              <bibl n="7">Besik Khurtsilava, About the old georgian inscriptions from Bir El-Qutt in Jerusalem<ptr target="bibliography.xml#b8"/></bibl>
+              </listBibl>
+                </div>
+            
+            <div type="edition" xml:lang="ka" xml:space="preserve">
+                
+                        <!-- წმიდაო თეოდორ
+                            ე მარ[ოჳ]ან და ბო
+                           [ჳ]რზნ…ენ ამი 
+                            ე… -->
+                <ab>
+                   <lb n="1"/><w lemma="წმიდა">წმიდაო</w> 
+                                <name nymRef="თეოდორე">თეოდორ
+                    <lb n="2" break="no"/>ე</name> 
+                            <name nymRef="მარუან">მარ<supplied reason="lost">ოჳ</supplied>ან</name> 
+                             და 
+                            <name nymRef="ბურზენ"><expan><abbr>ბო</abbr> 
+                    <lb n="3" break="no"/><supplied reason="lost">ჳ</supplied><abbr>რზ</abbr><ex>ე</ex><abbr>ნ</abbr></expan></name> 
+                            <gap reason="lost" quantity="4" unit="character"></gap>ენ ამი
+                    <lb n="4"/><gap reason="lost" quantity="2" unit="character"></gap>ე <gap reason="lost" extent="unknown" unit="charecter"></gap>
+                </ab>
+             
+            </div>
+                
+            <div type="translation" xml:lang="ka">
+                <p>წმიდაო თეოდორე, მარუან და ბურზენ... </p>
+            </div>
+            
+            <div type="apparatus" xml:space="preserve"> </div>
+            
+            <div type="commentary">
+                <p>წარწერის პირველი პუბლიკაცია ეკუთვნის მიხეილ თარხნიშვილს. მან პალეოგრაფიული ნიშნებით ეს წარწერა VI საუკუნით დაათარიღა. 
+                გიორგი წერეთლის დათარიღებით, წარწერა V საუკუნის 30-იანი წლებისაა.
+                ასევე, მან გამოთქვა მოსაზრება, რომ წარწერაში მოხსენიებული საკუთარი სახელები, მარუან და ბურზენ, ოდნავ განსხვავებული ფორმით საქართველოში ცნობილი იყო. 
+                    მაგალითად, პეტრე იბერიელის (V ს.) ქართული ცხოვრების მიხედვით, მისი ქართული სახელი იყო მურვანოსი, ხოლო მამამისს ბუზმირი ერქვა. 
+                შალვა ნუცუბიძემ 1959 წელს გამოქვეყნებულ ნაშრომში უდავოდ მიიჩნია, რომ ბეთლემის წარწერაში მოხსენიებული მურვანოსი პეტრე იბერიელის ერობის სახელია. 
+                მან წარწერა V საუკუნის პირველი ნახევრით დაათარიღა. გიორგი წერეთელმა განსაკუთრებული ყურადღება მიაქცია პალესტინის წარწერებს. იგი მიიჩნევდა, რომ
+                წმიდა თეოდორეს სახელობის მონასტერი პეტრე იბერიელმა ააგო V საუკუნის 30-იან წლებში და მანვე შეამკო იგი ქართული წარწერებით, სადაც თვით მისი და მისი მამის
+                სახელებია მოხსენიებული. თუმცა გიორგი წერეთლის დათარიღებას ზოგი არსებითი ხასიათის დაბრკოლება ეღობება. კერძოდ, წარწერაში მოხსენიებულ მარუანს უკავშირებენ მურვანოსს.
+                რომ არაფერი ვთქვათ ფორმალურ (გარეგნულ) სხვაობაზე, ძნელად დასაშვებია, პეტრეს (ბერს, სასულიერო პირს) წარწერაში თავი საერო სახელით მოეხსენიებინა.
+               მიუთითებენ იმასაც, რომ პეტრე იბერიელი პალესტინაში მოგვიანებით, 437-438 წლებში ჩავიდა და არა 429 ან 230 წელს. </p>
+            </div>
+         </body>
+    </text>
+</TEI>

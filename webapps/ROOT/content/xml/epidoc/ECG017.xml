@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:space="preserve" xml:lang="ka">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>წარწერა მედალიონზე</title>
+                <editor>თინათინ ყაუხჩიშვილი</editor>
+            </titleStmt>
+            <publicationStmt>
+                <authority>ილიას სახელმწიფო უნივერსიტეტი, ლინგვისტურ კვლევათა ინსტიტუტი</authority>
+                 <idno type="filename">ECG017</idno>
+                <availability>
+                    <licence target="http://creativecommons.org/licenses/by-nc-sa/3.0/">
+                       დოკუმენტი ვრცელდება Creative Commons Attribution-NonCommercial-ShareAlike 3.0 ლიცენზიით.
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <collection>წებელდა</collection>                
+                    </msIdentifier>
+                    <msContents>
+                        <summary>
+                            <seg xml:lang="ka">სადიდებელი</seg>
+                            <seg xml:lang="en"/>
+                        </summary>
+                    </msContents>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>                             
+                                   <material ref="http://www.eagle-network.eu/voc/material/lod/107">თუთია</material>
+                                   <objectType ref="http://www.eagle-network.eu/voc/objtyp/lod/165">მედალიონი</objectType>
+                                </support>
+                            </supportDesc>
+                                <layoutDesc>
+                                   <layout> 
+                                       <p>თუთიის ჩამოსხმულ მედალიონზე რელიეფურად გამოსახულია ადგილობრივი წარმართი ქალღმერთი, ან გორგონა, ხოლო ირგვლივ არის ბერძნული მთავრული წარწერა.</p>
+                                        <width/>
+                                        <height/>
+                                        <dim unit="cm">2.5</dim>
+                                   </layout>
+                                   </layoutDesc>
+                        </objectDesc>                                  
+                        <handDesc>
+                            <handNote>                              
+                                    <height unit="cm">0.25</height>
+                            </handNote>
+                        </handDesc>
+                        <decoDesc>
+                            <decoNote></decoNote>
+                        </decoDesc>
+                    </physDesc>
+                    <history>
+                            <origin>
+                                <origPlace>წებელდა</origPlace>
+                                <origDate notBefore="0301" notAfter="0400" evidence="lettering" datingMethod="#julian">IV AD</origDate>
+                                <p>წარწერა დათარიღებულია ასოთა მოხაზულობის მიხედვით</p>
+                            </origin>
+                            <provenance type="found">
+                                <placeName type ="ancientFindspot" ref="https://pleiades.stoa.org/places/857034">წებელდა</placeName> 
+                                <rs type="circumstances"></rs>
+                                <rs type="context"/>
+                                <rs type="monuList"/>
+                            </provenance>                    
+                            <provenance type="observed">
+                            <placeName type="modernSpot">სოხუმის მუზეუმი</placeName>
+                            <idno>№611</idno>
+                        </provenance>
+                    </history>                   
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>    
+    <facsimile>
+        <surface>
+            <graphic url="ecg017.jpg">
+                <desc xml:lang="ka">წებელდას მედალიონი</desc>
+                <desc xml:lang="en">Medallion from Tsebelda</desc>
+            </graphic>
+        </surface>
+    </facsimile>   
+    <text>
+        <body>
+             <div type="bibliography">
+                <listBibl>
+                    <bibl n="1">თინათინ ყაუხჩიშვილი, საქართველოს ბერძნული წარწერების კორპუსი<ptr target="bibliography.xml#b130"/>, <citedRange>გვ. 76</citedRange></bibl>
+                </listBibl>
+            </div> 
+            
+            <div type="edition" xml:lang="grc" xml:space="preserve">
+                
+                        <!-- εἷς θεὸς ὁ βοηθῆν τῷ φοροῦ[ν]τι  -->
+                     
+   
+             <ab><w lemma="εἷς">εἷς</w> <w lemma="θεὸς">θεὸς</w> <w lemma="ὁ">ὁ</w> <w lemma="βοηθῶ">βοηθῶν</w> <w lemma="ὁ">τῷ</w> <w lemma="φορῶ">φοροῦ<supplied reason="subaudible">ν</supplied>τι</w></ab>
+             
+         
+            </div>
+                
+            <div type="translation" xml:lang="ka">
+                <p>ერთია ღმერთი, შემწე (ამ მედალიონის) მატარებლის.</p></div>
+            
+            <div type="apparatus" xml:space="preserve"/>
+            
+            <div type="commentary">
+                <p>დათარიღების საფუძველია ასოთა მოხაზულობა, შესაბამისი ფორმულების სიხშირე გვიანრომაულ და ადრებიზანტიურ წარწერებში, 
+                    ნივთის ხელოვნებათმცოდნეობითი თვალსაზრისით შესწავლა, თანმხლები არქეოლოგიური ინვენტარი.</p>
+            </div>
+            
+        </body>
+    </text>
+</TEI>

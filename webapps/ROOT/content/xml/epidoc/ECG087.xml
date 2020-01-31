@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+<?xml-model href="http://www.stoa.org/epidoc/schema/8.23/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.stoa.org/epidoc/schema/8.23/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:space="preserve" xml:lang="ka">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>ვანის ქვაბების იჩქით გურგენისძის მამულის აშენების წარწერა</title>
+                <editor>ვალერი სილოგავა</editor>
+            </titleStmt>
+            <publicationStmt>
+                <authority>ილიას სახელმწიფო უნივერსიტეტი, ლინგვისტურ კვლევათა ინსტიტუტი</authority>
+                 <idno type="filename">ECG087</idno>
+                <availability>
+                    <licence target="http://creativecommons.org/licenses/by-nc-sa/3.0/">
+                       დოკუმენტი ვრცელდება Creative Commons Attribution-NonCommercial-ShareAlike 3.0 ლიცენზიით.
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <collection>ვანის ქვაბები</collection>
+                    </msIdentifier>
+                    <msContents>
+                        <summary>
+                            <seg xml:lang="ka">მოსახსენებელი</seg>
+                            <seg xml:lang="en"/>
+                        </summary>
+                    </msContents>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>                             
+                                    <objectType ref="http://www.eagle-network.eu/voc/objtyp/lod/259">ფილა</objectType>
+                                    <material ref="http://www.eagle-network.eu/voc/material/lod/2">ნაცრისფერი ქვა</material>                                   
+                                      <dimensions unit="cm">
+                                        <width>132</width>
+                                        <height>38</height>
+                                        <depth>30</depth>
+                                      </dimensions>
+                                </support>
+                            </supportDesc>
+                                <layoutDesc>
+                                    <layout writtenLines="2">წარწერა ორსტრიქონიანია
+                                        <dimensions unit="cm">
+                                         <width></width>
+                                         <height></height> 
+                                          </dimensions>  
+                                    </layout>                                   
+                                </layoutDesc>
+                        </objectDesc>                        
+                        <handDesc>
+                            <handNote script="asomtavruli" style="inscribed">
+                                <rs type="execution">ამოღარული</rs> <rs type="script">ასომთავრული</rs> წარწერა. იგი კიდურწერტილოვანია. 
+                                ასოები ამოკვეთილია დაშორებებით, არამიჯრით. ქარაგმის ნიშანადაც გამოყენებულია კიდურწერტილოვანი, განივი, სწორი ხაზი
+                                   <height>6-8</height> 
+                            </handNote>
+                        </handDesc>
+                    </physDesc>
+                    <history>
+                            <origin>
+                                <origPlace>ვანის ქვაბები</origPlace>
+                                 <origDate notBefore-custom="1100" notAfter-custom="1200" 
+                                    evidence="historical context" precision="medium" datingMethod="#julian">XII AD</origDate>
+                            </origin>
+                            <provenance type="found" when="1965">
+                                <placeName type ="ancientFindspot">ვანის ქვაბები</placeName>
+                                <!-- "41.382444, 43.308084"--> 
+                                <rs type="circumstances">წარწერა აღმოჩენილია არქეოლოგიური გათხრების შედეგად 1965 წელს გ. გაფრინდაშვილის მიერ. 
+                                    წარწერიანი ფილა შესასვლელი კარების ტიმპანს წარმოადგენდა. 
+                                ქვის ოთხკუთხა გათლილი მოგრძო ბლოკი გაპობილია ორ, თითქმის თანაბარ, ნაწილად. 1986 წელს ვახტანგ გურგენიძის ინიციატივით წარწერიანი ქვა გადაიტანეს
+                                ასპინძის შოთა რუსთაველის სახალხო მუზეუმში, 2000 წლის 9 თებერვალს კი - ახალციხეში, სამცხე-ჯავახეთის მუზეუმში.</rs>
+                                <rs type="context"></rs>
+                                <rs type="monuList"/></provenance>                                
+                            <provenance type="observed">
+                                <placeName type="modernSpot" ref="http://museum.ge">სამცხე-ჯავახეთის მუზეუმი</placeName>
+                                <idno type="invNo"/>274</provenance> 
+                    </history>                   
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <revisionDesc><change when="2019-10-29" who="Eka Kvirkvelia">ტექსტის სრული კოდირება, მეტამონაცემების სრული კოდირება, 
+            ბმულებით დაკავშირება ავტორიტეტულ წყაროსთან</change></revisionDesc>
+    </teiHeader>
+     <facsimile>
+        <surface>
+            <graphic url="ecg087.jpg">
+                <desc xml:lang="ka">ვანის ქვაბების იჩქით გურგენისძის მამულის აშენების წარწერა</desc>
+                <desc xml:lang="en"></desc>
+            </graphic>
+        </surface>
+    </facsimile>
+    <text>
+        <body>
+            <div type="bibliography">
+             <listBibl>
+         <bibl n="1">ვალერი სილოგავა, სამცხის ლაპიდარული ეპიგრაფიკა<ptr target="bibliography.xml#b149"/>, <citedRange>გვ. 118-169</citedRange></bibl>
+         <bibl n="2">ვალერი სილოგავა, სამცხე-ჯავახეთის ისტორიული მუზეუმის ქართული ეპიგრაფიკული ძეგლები, კატალოგი-გზამკვლევი<ptr target="bibliography.xml#b150"/>, <citedRange>გვ. 42</citedRange></bibl>        
+            </listBibl> 
+            </div>
+
+            <div type="edition" xml:lang="ka" xml:space="preserve">
+                
+                        <!--  "† ესე არს სამკდრბლი ჩნ გრ
+                            გნთი მე იჩქითმნ აღვშნე შნს ღნ"--> 
+                                                            
+
+                <ab>
+                   <lb n="1"/>&#8224;<w lemma="ესე">ესე</w>
+                            <w lemma="ყოფა">არს</w> 
+                            <w lemma="სამკჳდრებელ"><expan><abbr>სამკ</abbr><ex>ჳ</ex><abbr>დრ</abbr><ex>ე</ex><abbr>ბ</abbr><ex>ე</ex><abbr>ლი</abbr></expan></w> 
+                            <w lemma="ჩუენ"><expan><abbr>ჩ</abbr><ex>უე</ex><abbr>ნ</abbr></expan></w>
+                            <name nymRef="გურგენისძე"><expan><abbr>გ</abbr><ex>უ</ex><abbr>რ
+                   <lb n="2" break="no"/>გ</abbr><ex>ე</ex><abbr>ნ</abbr><ex>ა</ex><abbr>თი</abbr></expan></name> 
+                                <w lemma="მე">მე</w> 
+                                <name nymRef="იჩქით"><expan><abbr>იჩქითმ</abbr><ex>ა</ex><abbr>ნ</abbr></expan></name> 
+                                <w lemma="აღშენება"><expan><abbr>აღვ</abbr><ex>ა</ex><abbr>შ</abbr><ex>ე</ex><abbr>ნე</abbr></expan></w>
+                                <w lemma="შენდობა"><expan><abbr>შ</abbr><ex>ეგვინდვ</ex><abbr>ნ</abbr><ex>ე</ex><abbr>ს</abbr></expan></w> 
+                                <w lemma="ღმერთ"><expan><abbr>ღ</abbr><ex>მერთმა</ex><abbr>ნ</abbr></expan></w>
+                 </ab>
+               </div>
+              
+            
+         <div type="translation" xml:lang="ka">
+             <p>ეს არის ჩვენი, გურგენისძეთა, სამკვიდრებელი. მე, იჩქითმა, აღვაშენე, ღმერთმა შეგვინდოს.</p>
+         </div>    
+                             
+                
+            <div type="commentary">
+                <p>ვალერი სილოგავას აზრით, წარწერის ტექსტში იჩქით გურგენისძე ერთგვარი ხაზგასმით აღნიშნავს: „ესე არს სამკჳდრებელი ჩუენიო“. როგორც ჩანს, 
+               ვანის ქვაბები ძველი დროიდანვე, ჯერ კიდევ თამარის მეფობამდე და შეიძლება თვით XII საუკუნემდე, 
+                გურგენისძეთა სამამულო სამფლობელო ყოფილა. XII საუკუნის ბოლოს ვარძიის გრანდიოზული სამონასტრო კომპლექსის მშენებლობის შემდეგ, როდესაც იგი და, ალბათ, 
+                მის გარშემო მიდამოები სამეფო სამფლობელოდ გადაიქცა, გურგენისძეთა სამფლობელოსაც სამეფო სამფლობელოდ გადაქცევის საფრთხე დაემუქრა და იჩქითი ორ სხვადასხვა 
+                წარწერაში (ერთი წუნდაში, მეორე ვანის ქვაბებში) საგანგებოდ აღნიშნავს, რომ ეს ადგილები გურგენისძეთა სამკვიდრებელია, ისინი მისი მამულია. 
+                1204 წლიდან, როგორც ვანის ქვაბების ანტონ ჭყონდიდელის ზღუდის აშენების წარწერიდან ჩანს, აქ უკვე სამშენებლო სამუშაოებს მეფის მოხელე ჭყონდიდელ-
+                მწიგნობართუხუცესი აწარმოებს, რაც იჩქითის მამულის სამეფო მფლობელობაში გადასვლის ნიშანი და საბუთია. ვალერი სილოგავა აქედან იმასაც ასკვნის, რომ 
+                იჩქით გურგენისძის წარწერის ზედა ქრონოლოგიური ზღვარი 1204 წელია. ხოლო ქვედა ზღვარი, ალბათ, თამარის მეფობის დასაწყისი (1184).
+                </p> 
+             </div> 
+        </body>
+    </text>
+</TEI>

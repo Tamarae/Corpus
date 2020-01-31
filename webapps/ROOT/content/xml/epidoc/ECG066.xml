@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.stoa.org/epidoc/schema/8.23/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.stoa.org/epidoc/schema/8.23/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:space="preserve" xml:lang="ka">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>ბოლნისის სიონის ეპიტაფია მიქაელისა</title>
+                <editor>ნოდარ შოშიაშვილი</editor>
+            </titleStmt>
+            <publicationStmt>
+                <authority>ილიას სახელმწიფო უნივერსიტეტი, ლინგვისტურ კვლევათა ინსტიტუტი</authority>       
+                <idno type="filename">ECG066</idno>
+                <availability>
+                    <licence target="http://creativecommons.org/licenses/by-nc-sa/3.0/">
+                        დოკუმენტი ვრცელდება Creative Commons Attribution-NonCommercial-ShareAlike 3.0 ლიცენზიით.
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc type="fragmentary">
+                    <msIdentifier>
+                        <collection>ბოლნისი</collection>
+                    </msIdentifier>
+                    
+                    <msContents>
+                        <summary>
+                            <seg xml:lang="ka">ეპიტაფია</seg>
+                            <seg xml:lang="en"/>
+                        </summary>
+                    </msContents>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>
+                                    <objectType ref="http://www.eagle-network.eu/voc/objtyp/lod/1483">ფილა</objectType>
+                                    <material ref="http://www.eagle-network.eu/voc/material/lod/2">მწვანე ქვა</material>
+                                    <dimensions unit="cm">
+                                        <height>20</height>
+                                        <width>16</width>
+                                    </dimensions>
+                                </support>
+                            </supportDesc>
+                            <layoutDesc>
+                                <layout writtenLines="4">
+                                    წარწერა ოთხსტრიქონიანია, რომლის პირველი სტრიქონი დაზიანებულია. 
+                                    ფილის ზედა კიდეში შემორჩა ოდნავ შესამჩნევი კვალი „ბოლნური ჯვრის“ მედალიონის მცირე მონაკვეთისა.                                   
+                                        <dimensions unit="cm">
+                                        <height>9</height>
+                                        <width>12</width>
+                                    </dimensions>
+                                   </layout>
+                            </layoutDesc>
+                        </objectDesc>
+                        <handDesc>
+                            <handNote script="asomtavruli" style="inscribed">
+                                <rs type="execution">ამოღარული</rs> <rs type="script">ასომთავრული</rs> წარწერა
+                                <height unit="cm">2-2,5</height>
+                             </handNote>
+                        </handDesc>
+                    </physDesc>
+                    <history>
+                        <origin>
+                            <origPlace>ბოლნისის სიონი</origPlace>
+                           <origDate notBefore="0600" notAfter="0700">VII AD</origDate>
+                        </origin>
+     
+                        <provenance type="found"> 
+                           <placeName type="ancientFindspot" ref="http://pleiades.stoa.org/places/863760">ბოლნისის სიონი</placeName>
+                                <!-- 41.389081, 44.512551 -->
+                            <rs type="monuList"/>
+                            <rs type="circumstances">ბოლნისის ტაძარი მდებარეობს ისტორიულ ქვემო ქართლში, 
+                                9 კმ. მანძილზე ქ. ბოლნისიდან სამხრეთით, 1 კმ. მანძილზე სოფ. ბონის-ხაჩინიდან.</rs>
+                            <rs type="context"/>            
+                        </provenance>                 
+                        <provenance type="observed">
+                            <placeName type="modernSpot" ref="http://museum.ge/">საქართველოს ეროვნული მუზეუმი</placeName>
+                             <idno type="invNo">336</idno>
+                        </provenance>
+                    </history>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <revisionDesc><change when="2019-10-29" who="Eka Kvirkvelia">ტექსტის სრული კოდირება, მეტამონაცემების სრული კოდირება, 
+            ბმულებით დაკავშირება ავტორიტეტულ წყაროსთან</change></revisionDesc>
+    </teiHeader>
+    <facsimile>
+        <surface>
+            <graphic url="ecg066.jpg">
+                <desc xml:lang="ka">ბოლნისის სიონის ეპიტაფია მიქაელისა</desc>
+                <desc xml:lang="en"></desc>
+            </graphic>
+        </surface>
+    </facsimile> 
+    <text>
+        <body>
+           <div type="bibliography"> 
+                <listBibl>
+                    <bibl n="1">ნოდარ შოშიაშვილი, ქართული წარწერების კორპუსი, ლაპიდარული წარწერები<ptr target="bibliography.xml#b101"/>, <citedRange>გვ. 152</citedRange></bibl>                 
+                    <bibl n="2">საქართველოს სახელმწიფო მუზეუმის ქართული ეპიგრაფიკული ძეგლების კატალოგი<ptr target="bibliography.xml#b111"/>, <citedRange>გვ. 44</citedRange></bibl>
+                </listBibl>
+            </div> 
+           
+            <div type="edition" xml:space="preserve" xml:lang="ka">  
+                             
+                    <!-- „[ქე]
+                        [ს]ული
+                        [მი]ქაელის
+                        [შ(ეი)წ]ყალე"-->
+              <ab>
+                <lb n="1"/><w lemma="ქრისტე"><expan><supplied reason="lost"><abbr>ქ</abbr><ex>რისტ</ex><abbr>ე</abbr></supplied></expan></w>
+                <lb n="2"/><w lemma="სულ"><supplied reason="lost">ს</supplied>ული</w>
+                <lb n="3"/><name nymRef="მიქაელ"><supplied reason="lost">მი</supplied>ქაელის</name>
+                <lb n="4"/><w lemma="შეწყალება"><expan><supplied reason="lost"><abbr>შ</abbr><ex>ეი</ex><abbr>წ</abbr></supplied><abbr>ყალე</abbr></expan></w>    
+              </ab>                                                        
+                
+            </div>
+            
+            <div type="translation" xml:lang="ka">
+                <p>ქრისტე, შეიწყალე მიქაელის სული.</p>
+            </div>
+            
+            <div type="apparatus" xml:space="preserve"/>
+            
+            <div type="commentary">
+                <p>ნოდარ შოშიაშვილის ქართული წარწერების კორპუსის მიხედვით #63.
+                    ქარაგმისა და განკვეთილობის ნიშნები არ ახლავს, სიტყვები ერთმანეთისგან არ არის დაცილებული. შესაძლოა, წარწერა ჯვარზე გვიან ამოკვეთეს.                                    
+                  </p>
+               </div>        
+        </body>
+    </text>
+</TEI>

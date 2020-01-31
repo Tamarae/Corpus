@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.stoa.org/epidoc/schema/8.23/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.stoa.org/epidoc/schema/8.23/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="ka">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>მთავრული გრაფემა დ-ონი ჯამის ძირზე</title>
+                <editor>გიორგი ოთხმეზური</editor>
+            </titleStmt>
+            <publicationStmt>
+                <authority>ილიას სახელმწიფო უნივერსიტეტი, ლინგვისტურ კვლევათა ინსტიტუტი</authority>
+                <idno type="filename">ECG253</idno>
+                <availability>
+                    <licence target="http://creativecommons.org/licenses/by-nc-sa/3.0/"> 
+                       დოკუმენტი ვრცელდება Creative Commons Attribution-NonCommercial-ShareAlike 3.0 ლიცენზიით
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <collection>
+                            დმანისი
+                        </collection>
+                    </msIdentifier>
+                    <msContents>
+                        <summary>
+                            <seg xml:lang="ka">გრაფემა</seg>
+                            <seg xml:lang="en"/>
+                        </summary>
+                    </msContents>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>
+                                    <objectType ref="https://www.eagle-network.eu/voc/objtyp/lod/1780">ჯამი</objectType>
+                                    <material>კერამიკა</material>
+                                    <dimensions>
+                                        <width/>
+                                        <height/>
+                                    </dimensions>
+                                </support>
+                            </supportDesc>
+                            <layoutDesc>
+                                <layout>
+                                     კერამიკული ჭურჭლის ფსკერზე ამოკაწრული გრაფემა დ-ონი.
+                                    <dimensions unit="cm">
+                                        <width/>
+                                        <height/>
+                                    </dimensions>
+                                </layout>
+                            </layoutDesc>
+                        </objectDesc>
+                        <handDesc>
+                            <handNote script="asomtavruli">
+                                 მთავრული გრაფემა.
+                                <dimensions unit="cm">
+                                    <height/>
+                                </dimensions>
+                            </handNote>
+                        </handDesc>
+                    </physDesc>
+                    <history>
+                        <origin>
+                            <origPlace>დმანისის ნაქალაქარი</origPlace>
+                            <origDate>XII-XIII AD</origDate>
+                        </origin>
+                        <provenance type="observed">
+                            <placeName type="modernSpot"/> 
+                            <rs type="circumstances"/>
+                            <idno/>
+                        </provenance>
+                    </history>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <!-- 
+    <facsimile>
+        <surface>
+            <graphic url="tskise_01.jpg">
+                <desc xml:lang="ka">წყისეს წარწერა</desc>
+                <desc xml:lang="en"></desc>
+            </graphic>
+        </surface>
+    </facsimile> -->
+    
+    <text>
+        <!--
+       დ
+        -->
+        <body>
+
+            <div type="edition" xml:lang="ka" xml:space="preserve">
+
+            <ab>
+                <lb n="1"/><orig n="unresolved">დ</orig>
+                </ab>
+             
+            </div>
+
+
+            <div type="bibliography">
+                <listBibl>
+                    <bibl>
+                        <author>
+                            <persName>
+                                <forename>გიორგი</forename>
+                                <surname>ოთხმეზური</surname>
+                            </persName>
+                        </author>
+                        <title level="m" type="main">დმანისი, ქვემო ქართლის ეპიგრაფიკული კორპუსი</title>
+                        <edition/>
+                        <bibl type="vol"/>
+                        <pubPlace>თბილისი</pubPlace>
+                        <publisher/>
+                        <date>2018</date>
+                        <biblScope unit="pp">157</biblScope>
+                    </bibl>
+                    
+                    <bibl>
+                        <author>
+                            <persName>
+                                <forename>ლ.</forename>
+                                <surname>მუსხელიშვილი</surname>
+                            </persName>
+                        </author>
+                        <title level="m" type="main">დმანისი (ქალაქის ისტორია და ნაქალაქარის აღწერა)</title>
+                        <edition>შოთა რუსთაველის ეპოქის მატერიალური კულტურის ძეგლები</edition>
+                        <bibl type="vol"/>
+                        <pubPlace>თბილისი</pubPlace>
+                        <publisher/>
+                        <date>1938</date>
+                        <biblScope unit="pp">443</biblScope>
+                    </bibl>
+                </listBibl>
+
+            </div>
+                <div type="translation"/>
+
+                
+                <div type="commentary">
+                    <p>ჭურჭელი, რომელზეც გრაფემაა ამოკაწრული აღმოაჩინა ლ. მუსხელიშვილმა დმანისის
+                        ნაქალაქარის არქეოლოგიური გათხრებისას. მისი დღევანდელი ადგილმდებარეობა
+                        ჩვენთვის უცნობია. ვსარგებლობთ ლ. მუსხელიშვილის პუბლიკაციით. 
+                        წარწერის დათარიღების საფუძველი: მსგავსი მოჭიქული კერამიკა, ძირითადად, XII-XIV სს-ში
+                        იყო გავრცელებული. ლ. მუსხელიშვილის მიხედვით, დ-ონს ყელი დაბალი ჰქონდა, რაც
+                        გრ-ის ადრეულობაზე უნდა მიუთითებდეს</p>
+                </div>
+
+        </body>
+    </text>
+</TEI>

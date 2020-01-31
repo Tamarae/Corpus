@@ -1,0 +1,150 @@
+[INFO ] 2019-10-21 01:51:34,087 [repositories/kiln] POST query -2042401445
+[INFO ] 2019-10-21 01:51:34,095 [repositories/kiln] Request for query -2042401445 is finished
+[INFO ] 2019-10-21 01:59:27,007 [repositories/kiln] POST query -2042401445
+[INFO ] 2019-10-21 01:59:27,016 [repositories/kiln] Request for query -2042401445 is finished
+[INFO ] 2019-10-21 02:00:15,760 [repositories/kiln] POST query -2042401445
+[INFO ] 2019-10-21 02:00:15,766 [repositories/kiln] Request for query -2042401445 is finished
+[INFO ] 2019-10-21 02:05:54,699 [Thread-1] Closing org.springframework.web.context.support.XmlWebApplicationContext@70b9cdcc: display name [WebApplicationContext for namespace 'openrdf-http-server-servlet']; startup date [Sat Oct 19 20:01:17 GET 2019]; root of context hierarchy
+[INFO ] 2019-10-21 02:05:54,701 [Thread-1] Destroying singletons in org.springframework.beans.factory.support.DefaultListableBeanFactory@5a8fb312: defining beans [messageSource,adunaAppVersion,adunaAppConfig,adunaWebappNavigation,adunaWebappCommonValuesInserter,adunaWebappMessageInserter,adunaWebappNavigationInserter,filenameViewController,viewResolver,adunaWebappSystemUrlMapping,adunaWebappSystemOverviewController,adunaWebappLoggingOverviewController,adunaWebappSystemInfoController,openrdfRepositoryManager,scopedTarget.openrdfRepositoryInterceptor,openrdfRepositoryInterceptor,openrdfProtocolUrlMapping,openrdfRepositoryListUrlMapping,openrdfRepositoryUrlMapping,openrdfServerHomeUrlMapping,openrdfHandlerExceptionResolver,openrdfProtocolController,openrdfRepositoryListController,openrdfRepositoryController,openrdfRepositoryContextsController,openrdfRepositoryNamespacesController,openrdfRepositoryNamespaceController,openrdfRepositorySizeController,openrdfRepositoryStatementsController,openrdfRepositoryGraphController]; root of factory hierarchy
+[INFO ] 2019-10-21 00:06:13,737 [main] Logback logging API implementation is configured.
+[INFO ] 2019-10-21 00:06:14,083 [main] FrameworkServlet 'openrdf-http-server': initialization completed in 763 ms
+[INFO ] 2019-10-21 00:06:30,571 [repositories/kiln] POST query -2042401445
+[INFO ] 2019-10-21 00:06:30,714 [repositories/kiln] Request for query -2042401445 is finished
+[INFO ] 2019-10-21 00:07:49,084 [repositories/kiln] POST query -2042401445
+[INFO ] 2019-10-21 00:07:49,098 [repositories/kiln] Request for query -2042401445 is finished
+[INFO ] 2019-10-21 00:09:35,968 [repositories/kiln] POST query -2042401445
+[INFO ] 2019-10-21 00:09:35,982 [repositories/kiln] Request for query -2042401445 is finished
+[INFO ] 2019-10-21 00:16:43,825 [repositories/kiln] POST query -2042401445
+[INFO ] 2019-10-21 00:16:43,841 [repositories/kiln] Request for query -2042401445 is finished
+[INFO ] 2019-10-21 00:22:27,141 [repositories/kiln] POST query -2042401445
+[INFO ] 2019-10-21 00:22:27,154 [repositories/kiln] Request for query -2042401445 is finished
+[INFO ] 2019-10-21 00:23:32,983 [repositories/kiln] POST query -2042401445
+[INFO ] 2019-10-21 00:23:32,997 [repositories/kiln] Request for query -2042401445 is finished
+[INFO ] 2019-10-21 00:23:45,873 [Thread-1] Closing org.springframework.web.context.support.XmlWebApplicationContext@70b9cdcc: display name [WebApplicationContext for namespace 'openrdf-http-server-servlet']; startup date [Mon Oct 21 00:06:13 CEST 2019]; root of context hierarchy
+[INFO ] 2019-10-21 00:23:45,874 [Thread-1] Destroying singletons in org.springframework.beans.factory.support.DefaultListableBeanFactory@5a8fb312: defining beans [messageSource,adunaAppVersion,adunaAppConfig,adunaWebappNavigation,adunaWebappCommonValuesInserter,adunaWebappMessageInserter,adunaWebappNavigationInserter,filenameViewController,viewResolver,adunaWebappSystemUrlMapping,adunaWebappSystemOverviewController,adunaWebappLoggingOverviewController,adunaWebappSystemInfoController,openrdfRepositoryManager,scopedTarget.openrdfRepositoryInterceptor,openrdfRepositoryInterceptor,openrdfProtocolUrlMapping,openrdfRepositoryListUrlMapping,openrdfRepositoryUrlMapping,openrdfServerHomeUrlMapping,openrdfHandlerExceptionResolver,openrdfProtocolController,openrdfRepositoryListController,openrdfRepositoryController,openrdfRepositoryContextsController,openrdfRepositoryNamespacesController,openrdfRepositoryNamespaceController,openrdfRepositorySizeController,openrdfRepositoryStatementsController,openrdfRepositoryGraphController]; root of factory hierarchy
+[INFO ] 2019-10-21 00:23:58,526 [main] Logback logging API implementation is configured.
+[INFO ] 2019-10-21 00:23:58,778 [main] FrameworkServlet 'openrdf-http-server': initialization completed in 542 ms
+[INFO ] 2019-10-21 00:24:32,049 [repositories/kiln] POST query -2042401445
+[INFO ] 2019-10-21 00:24:32,182 [repositories/kiln] Request for query -2042401445 is finished
+[INFO ] 2019-10-21 00:25:47,593 [repositories/kiln] POST query -2042401445
+[INFO ] 2019-10-21 00:25:47,614 [repositories/kiln] Request for query -2042401445 is finished
+[INFO ] 2019-10-21 00:26:03,377 [Thread-1] Closing org.springframework.web.context.support.XmlWebApplicationContext@70b9cdcc: display name [WebApplicationContext for namespace 'openrdf-http-server-servlet']; startup date [Mon Oct 21 00:23:58 CEST 2019]; root of context hierarchy
+[INFO ] 2019-10-21 00:26:03,378 [Thread-1] Destroying singletons in org.springframework.beans.factory.support.DefaultListableBeanFactory@5a8fb312: defining beans [messageSource,adunaAppVersion,adunaAppConfig,adunaWebappNavigation,adunaWebappCommonValuesInserter,adunaWebappMessageInserter,adunaWebappNavigationInserter,filenameViewController,viewResolver,adunaWebappSystemUrlMapping,adunaWebappSystemOverviewController,adunaWebappLoggingOverviewController,adunaWebappSystemInfoController,openrdfRepositoryManager,scopedTarget.openrdfRepositoryInterceptor,openrdfRepositoryInterceptor,openrdfProtocolUrlMapping,openrdfRepositoryListUrlMapping,openrdfRepositoryUrlMapping,openrdfServerHomeUrlMapping,openrdfHandlerExceptionResolver,openrdfProtocolController,openrdfRepositoryListController,openrdfRepositoryController,openrdfRepositoryContextsController,openrdfRepositoryNamespacesController,openrdfRepositoryNamespaceController,openrdfRepositorySizeController,openrdfRepositoryStatementsController,openrdfRepositoryGraphController]; root of factory hierarchy
+[INFO ] 2019-10-21 00:26:15,637 [main] Logback logging API implementation is configured.
+[INFO ] 2019-10-21 00:26:15,930 [main] FrameworkServlet 'openrdf-http-server': initialization completed in 624 ms
+[INFO ] 2019-10-21 00:26:25,546 [repositories/kiln] POST query -2042401445
+[INFO ] 2019-10-21 00:26:25,805 [repositories/kiln] Request for query -2042401445 is finished
+[INFO ] 2019-10-21 00:26:45,334 [Thread-1] Closing org.springframework.web.context.support.XmlWebApplicationContext@70b9cdcc: display name [WebApplicationContext for namespace 'openrdf-http-server-servlet']; startup date [Mon Oct 21 00:26:15 CEST 2019]; root of context hierarchy
+[INFO ] 2019-10-21 00:26:45,334 [Thread-1] Destroying singletons in org.springframework.beans.factory.support.DefaultListableBeanFactory@5a8fb312: defining beans [messageSource,adunaAppVersion,adunaAppConfig,adunaWebappNavigation,adunaWebappCommonValuesInserter,adunaWebappMessageInserter,adunaWebappNavigationInserter,filenameViewController,viewResolver,adunaWebappSystemUrlMapping,adunaWebappSystemOverviewController,adunaWebappLoggingOverviewController,adunaWebappSystemInfoController,openrdfRepositoryManager,scopedTarget.openrdfRepositoryInterceptor,openrdfRepositoryInterceptor,openrdfProtocolUrlMapping,openrdfRepositoryListUrlMapping,openrdfRepositoryUrlMapping,openrdfServerHomeUrlMapping,openrdfHandlerExceptionResolver,openrdfProtocolController,openrdfRepositoryListController,openrdfRepositoryController,openrdfRepositoryContextsController,openrdfRepositoryNamespacesController,openrdfRepositoryNamespaceController,openrdfRepositorySizeController,openrdfRepositoryStatementsController,openrdfRepositoryGraphController]; root of factory hierarchy
+[INFO ] 2019-10-21 00:26:58,547 [main] Logback logging API implementation is configured.
+[INFO ] 2019-10-21 00:26:58,784 [main] FrameworkServlet 'openrdf-http-server': initialization completed in 566 ms
+[INFO ] 2019-10-21 00:27:32,777 [repositories/kiln] POST query -2042401445
+[INFO ] 2019-10-21 00:27:32,952 [repositories/kiln] Request for query -2042401445 is finished
+[INFO ] 2019-10-21 00:38:04,028 [repositories/kiln] POST query -2042401445
+[INFO ] 2019-10-21 00:38:04,053 [repositories/kiln] Request for query -2042401445 is finished
+[INFO ] 2019-10-21 00:40:45,955 [repositories/kiln] POST query -2042401445
+[INFO ] 2019-10-21 00:40:45,971 [repositories/kiln] Request for query -2042401445 is finished
+[INFO ] 2019-10-21 00:41:47,911 [repositories/kiln] POST query -2042401445
+[INFO ] 2019-10-21 00:41:47,924 [repositories/kiln] Request for query -2042401445 is finished
+[INFO ] 2019-10-21 00:42:30,273 [Thread-1] Closing org.springframework.web.context.support.XmlWebApplicationContext@70b9cdcc: display name [WebApplicationContext for namespace 'openrdf-http-server-servlet']; startup date [Mon Oct 21 00:26:58 CEST 2019]; root of context hierarchy
+[INFO ] 2019-10-21 00:42:30,274 [Thread-1] Destroying singletons in org.springframework.beans.factory.support.DefaultListableBeanFactory@5a8fb312: defining beans [messageSource,adunaAppVersion,adunaAppConfig,adunaWebappNavigation,adunaWebappCommonValuesInserter,adunaWebappMessageInserter,adunaWebappNavigationInserter,filenameViewController,viewResolver,adunaWebappSystemUrlMapping,adunaWebappSystemOverviewController,adunaWebappLoggingOverviewController,adunaWebappSystemInfoController,openrdfRepositoryManager,scopedTarget.openrdfRepositoryInterceptor,openrdfRepositoryInterceptor,openrdfProtocolUrlMapping,openrdfRepositoryListUrlMapping,openrdfRepositoryUrlMapping,openrdfServerHomeUrlMapping,openrdfHandlerExceptionResolver,openrdfProtocolController,openrdfRepositoryListController,openrdfRepositoryController,openrdfRepositoryContextsController,openrdfRepositoryNamespacesController,openrdfRepositoryNamespaceController,openrdfRepositorySizeController,openrdfRepositoryStatementsController,openrdfRepositoryGraphController]; root of factory hierarchy
+[INFO ] 2019-10-21 00:42:46,485 [main] Logback logging API implementation is configured.
+[INFO ] 2019-10-21 00:42:46,751 [main] FrameworkServlet 'openrdf-http-server': initialization completed in 592 ms
+[INFO ] 2019-10-21 00:43:17,147 [repositories/kiln] POST query -2042401445
+[INFO ] 2019-10-21 00:43:17,286 [repositories/kiln] Request for query -2042401445 is finished
+[INFO ] 2019-10-21 00:44:28,743 [Thread-1] Closing org.springframework.web.context.support.XmlWebApplicationContext@70b9cdcc: display name [WebApplicationContext for namespace 'openrdf-http-server-servlet']; startup date [Mon Oct 21 00:42:46 CEST 2019]; root of context hierarchy
+[INFO ] 2019-10-21 00:44:28,746 [Thread-1] Destroying singletons in org.springframework.beans.factory.support.DefaultListableBeanFactory@5a8fb312: defining beans [messageSource,adunaAppVersion,adunaAppConfig,adunaWebappNavigation,adunaWebappCommonValuesInserter,adunaWebappMessageInserter,adunaWebappNavigationInserter,filenameViewController,viewResolver,adunaWebappSystemUrlMapping,adunaWebappSystemOverviewController,adunaWebappLoggingOverviewController,adunaWebappSystemInfoController,openrdfRepositoryManager,scopedTarget.openrdfRepositoryInterceptor,openrdfRepositoryInterceptor,openrdfProtocolUrlMapping,openrdfRepositoryListUrlMapping,openrdfRepositoryUrlMapping,openrdfServerHomeUrlMapping,openrdfHandlerExceptionResolver,openrdfProtocolController,openrdfRepositoryListController,openrdfRepositoryController,openrdfRepositoryContextsController,openrdfRepositoryNamespacesController,openrdfRepositoryNamespaceController,openrdfRepositorySizeController,openrdfRepositoryStatementsController,openrdfRepositoryGraphController]; root of factory hierarchy
+[INFO ] 2019-10-21 00:44:41,122 [main] Logback logging API implementation is configured.
+[INFO ] 2019-10-21 00:44:41,420 [main] FrameworkServlet 'openrdf-http-server': initialization completed in 726 ms
+[INFO ] 2019-10-21 00:45:15,092 [repositories/kiln] POST query -2042401445
+[INFO ] 2019-10-21 00:45:15,303 [repositories/kiln] Request for query -2042401445 is finished
+[INFO ] 2019-10-21 00:48:11,148 [Thread-1] Closing org.springframework.web.context.support.XmlWebApplicationContext@70b9cdcc: display name [WebApplicationContext for namespace 'openrdf-http-server-servlet']; startup date [Mon Oct 21 00:44:40 CEST 2019]; root of context hierarchy
+[INFO ] 2019-10-21 00:48:11,149 [Thread-1] Destroying singletons in org.springframework.beans.factory.support.DefaultListableBeanFactory@5a8fb312: defining beans [messageSource,adunaAppVersion,adunaAppConfig,adunaWebappNavigation,adunaWebappCommonValuesInserter,adunaWebappMessageInserter,adunaWebappNavigationInserter,filenameViewController,viewResolver,adunaWebappSystemUrlMapping,adunaWebappSystemOverviewController,adunaWebappLoggingOverviewController,adunaWebappSystemInfoController,openrdfRepositoryManager,scopedTarget.openrdfRepositoryInterceptor,openrdfRepositoryInterceptor,openrdfProtocolUrlMapping,openrdfRepositoryListUrlMapping,openrdfRepositoryUrlMapping,openrdfServerHomeUrlMapping,openrdfHandlerExceptionResolver,openrdfProtocolController,openrdfRepositoryListController,openrdfRepositoryController,openrdfRepositoryContextsController,openrdfRepositoryNamespacesController,openrdfRepositoryNamespaceController,openrdfRepositorySizeController,openrdfRepositoryStatementsController,openrdfRepositoryGraphController]; root of factory hierarchy
+[INFO ] 2019-10-21 00:48:23,290 [main] Logback logging API implementation is configured.
+[INFO ] 2019-10-21 00:48:23,631 [main] FrameworkServlet 'openrdf-http-server': initialization completed in 690 ms
+[INFO ] 2019-10-21 00:49:04,146 [repositories/kiln] POST query -2042401445
+[INFO ] 2019-10-21 00:49:04,280 [repositories/kiln] Request for query -2042401445 is finished
+[INFO ] 2019-10-21 00:52:22,500 [repositories/kiln] POST query -2042401445
+[INFO ] 2019-10-21 00:52:22,521 [repositories/kiln] Request for query -2042401445 is finished
+[INFO ] 2019-10-21 01:01:21,102 [repositories/kiln] POST query -2042401445
+[INFO ] 2019-10-21 01:01:21,128 [repositories/kiln] Request for query -2042401445 is finished
+[INFO ] 2019-10-21 01:06:48,321 [repositories/kiln] POST query -2042401445
+[INFO ] 2019-10-21 01:06:48,340 [repositories/kiln] Request for query -2042401445 is finished
+[INFO ] 2019-10-21 01:07:05,544 [repositories/kiln] POST query -2042401445
+[INFO ] 2019-10-21 01:07:05,568 [repositories/kiln] Request for query -2042401445 is finished
+[INFO ] 2019-10-21 01:07:15,886 [repositories/kiln] POST query -2042401445
+[INFO ] 2019-10-21 01:07:15,900 [repositories/kiln] Request for query -2042401445 is finished
+[INFO ] 2019-10-21 01:07:22,280 [repositories/kiln] POST query -2042401445
+[INFO ] 2019-10-21 01:07:22,291 [repositories/kiln] Request for query -2042401445 is finished
+[INFO ] 2019-10-21 01:07:35,266 [repositories/kiln] POST query -2042401445
+[INFO ] 2019-10-21 01:07:35,276 [repositories/kiln] Request for query -2042401445 is finished
+[INFO ] 2019-10-21 01:07:41,839 [repositories/kiln] POST query -2042401445
+[INFO ] 2019-10-21 01:07:41,856 [repositories/kiln] Request for query -2042401445 is finished
+[INFO ] 2019-10-21 14:50:48,488 [repositories/kiln] POST query -2042401445
+[INFO ] 2019-10-21 14:50:48,549 [repositories/kiln] Request for query -2042401445 is finished
+[INFO ] 2019-10-21 14:53:16,382 [repositories/kiln] POST query -2042401445
+[INFO ] 2019-10-21 14:53:16,561 [repositories/kiln] Request for query -2042401445 is finished
+[INFO ] 2019-10-21 14:54:20,384 [repositories/kiln] POST query -2042401445
+[INFO ] 2019-10-21 14:54:20,395 [repositories/kiln] Request for query -2042401445 is finished
+[INFO ] 2019-10-21 14:55:06,730 [repositories/kiln] POST query -2042401445
+[INFO ] 2019-10-21 14:55:06,737 [repositories/kiln] Request for query -2042401445 is finished
+[INFO ] 2019-10-21 14:55:11,992 [repositories/kiln] POST query -2042401445
+[INFO ] 2019-10-21 14:55:11,999 [repositories/kiln] Request for query -2042401445 is finished
+[INFO ] 2019-10-21 15:05:29,729 [Thread-1] Closing org.springframework.web.context.support.XmlWebApplicationContext@70b9cdcc: display name [WebApplicationContext for namespace 'openrdf-http-server-servlet']; startup date [Mon Oct 21 00:48:22 CEST 2019]; root of context hierarchy
+[INFO ] 2019-10-21 15:05:29,734 [Thread-1] Destroying singletons in org.springframework.beans.factory.support.DefaultListableBeanFactory@5a8fb312: defining beans [messageSource,adunaAppVersion,adunaAppConfig,adunaWebappNavigation,adunaWebappCommonValuesInserter,adunaWebappMessageInserter,adunaWebappNavigationInserter,filenameViewController,viewResolver,adunaWebappSystemUrlMapping,adunaWebappSystemOverviewController,adunaWebappLoggingOverviewController,adunaWebappSystemInfoController,openrdfRepositoryManager,scopedTarget.openrdfRepositoryInterceptor,openrdfRepositoryInterceptor,openrdfProtocolUrlMapping,openrdfRepositoryListUrlMapping,openrdfRepositoryUrlMapping,openrdfServerHomeUrlMapping,openrdfHandlerExceptionResolver,openrdfProtocolController,openrdfRepositoryListController,openrdfRepositoryController,openrdfRepositoryContextsController,openrdfRepositoryNamespacesController,openrdfRepositoryNamespaceController,openrdfRepositorySizeController,openrdfRepositoryStatementsController,openrdfRepositoryGraphController]; root of factory hierarchy
+[INFO ] 2019-10-21 15:05:49,370 [main] Logback logging API implementation is configured.
+[INFO ] 2019-10-21 15:05:49,820 [main] FrameworkServlet 'openrdf-http-server': initialization completed in 843 ms
+[INFO ] 2019-10-21 18:01:55,507 [repositories/kiln] POST query -2042401445
+[INFO ] 2019-10-21 18:01:55,667 [repositories/kiln] Request for query -2042401445 is finished
+[INFO ] 2019-10-21 18:01:56,537 [repositories/kiln] POST query -2042401445
+[INFO ] 2019-10-21 18:01:56,556 [repositories/kiln] Request for query -2042401445 is finished
+[INFO ] 2019-10-21 18:03:43,562 [repositories/kiln] POST query -2042401445
+[INFO ] 2019-10-21 18:03:43,574 [repositories/kiln] Request for query -2042401445 is finished
+[INFO ] 2019-10-21 18:17:34,421 [repositories/kiln] POST query -2042401445
+[INFO ] 2019-10-21 18:17:34,472 [repositories/kiln] Request for query -2042401445 is finished
+[INFO ] 2019-10-21 18:17:54,296 [repositories/kiln] POST query -2042401445
+[INFO ] 2019-10-21 18:17:54,313 [repositories/kiln] Request for query -2042401445 is finished
+[INFO ] 2019-10-21 18:18:07,398 [repositories/kiln] POST query -2042401445
+[INFO ] 2019-10-21 18:18:07,413 [repositories/kiln] Request for query -2042401445 is finished
+[INFO ] 2019-10-21 18:19:16,432 [repositories/kiln] POST query -2042401445
+[INFO ] 2019-10-21 18:19:16,455 [repositories/kiln] Request for query -2042401445 is finished
+[INFO ] 2019-10-21 18:22:43,668 [repositories/kiln] POST query -2042401445
+[INFO ] 2019-10-21 18:22:43,700 [repositories/kiln] Request for query -2042401445 is finished
+[INFO ] 2019-10-21 18:33:15,302 [Thread-1] Closing org.springframework.web.context.support.XmlWebApplicationContext@70b9cdcc: display name [WebApplicationContext for namespace 'openrdf-http-server-servlet']; startup date [Mon Oct 21 15:05:48 CEST 2019]; root of context hierarchy
+[INFO ] 2019-10-21 18:33:15,304 [Thread-1] Destroying singletons in org.springframework.beans.factory.support.DefaultListableBeanFactory@5a8fb312: defining beans [messageSource,adunaAppVersion,adunaAppConfig,adunaWebappNavigation,adunaWebappCommonValuesInserter,adunaWebappMessageInserter,adunaWebappNavigationInserter,filenameViewController,viewResolver,adunaWebappSystemUrlMapping,adunaWebappSystemOverviewController,adunaWebappLoggingOverviewController,adunaWebappSystemInfoController,openrdfRepositoryManager,scopedTarget.openrdfRepositoryInterceptor,openrdfRepositoryInterceptor,openrdfProtocolUrlMapping,openrdfRepositoryListUrlMapping,openrdfRepositoryUrlMapping,openrdfServerHomeUrlMapping,openrdfHandlerExceptionResolver,openrdfProtocolController,openrdfRepositoryListController,openrdfRepositoryController,openrdfRepositoryContextsController,openrdfRepositoryNamespacesController,openrdfRepositoryNamespaceController,openrdfRepositorySizeController,openrdfRepositoryStatementsController,openrdfRepositoryGraphController]; root of factory hierarchy
+[INFO ] 2019-10-21 18:33:27,126 [main] Logback logging API implementation is configured.
+[INFO ] 2019-10-21 18:33:27,351 [main] FrameworkServlet 'openrdf-http-server': initialization completed in 580 ms
+[INFO ] 2019-10-21 18:36:12,607 [repositories/kiln] POST query -2042401445
+[INFO ] 2019-10-21 18:36:12,757 [repositories/kiln] Request for query -2042401445 is finished
+[INFO ] 2019-10-21 18:48:50,279 [repositories/kiln] POST query -2042401445
+[INFO ] 2019-10-21 18:48:50,309 [repositories/kiln] Request for query -2042401445 is finished
+[INFO ] 2019-10-21 18:50:10,044 [repositories/kiln] POST query -2042401445
+[INFO ] 2019-10-21 18:50:10,056 [repositories/kiln] Request for query -2042401445 is finished
+[INFO ] 2019-10-21 18:51:39,960 [repositories/kiln] POST query -2042401445
+[INFO ] 2019-10-21 18:51:39,972 [repositories/kiln] Request for query -2042401445 is finished
+[INFO ] 2019-10-21 18:52:49,670 [repositories/kiln] POST query -2042401445
+[INFO ] 2019-10-21 18:52:49,681 [repositories/kiln] Request for query -2042401445 is finished
+[INFO ] 2019-10-21 18:52:57,945 [repositories/kiln] POST query -2042401445
+[INFO ] 2019-10-21 18:52:57,961 [repositories/kiln] Request for query -2042401445 is finished
+[INFO ] 2019-10-21 18:55:02,226 [repositories/kiln] POST query -2042401445
+[INFO ] 2019-10-21 18:55:02,237 [repositories/kiln] Request for query -2042401445 is finished
+[INFO ] 2019-10-21 19:16:13,834 [repositories/kiln] POST query -2042401445
+[INFO ] 2019-10-21 19:16:13,849 [repositories/kiln] Request for query -2042401445 is finished
+[INFO ] 2019-10-21 19:17:01,494 [repositories/kiln] POST query -2042401445
+[INFO ] 2019-10-21 19:17:01,505 [repositories/kiln] Request for query -2042401445 is finished
+[INFO ] 2019-10-21 19:17:14,262 [repositories/kiln] POST query -2042401445
+[INFO ] 2019-10-21 19:17:14,287 [repositories/kiln] Request for query -2042401445 is finished
+[INFO ] 2019-10-21 19:17:30,482 [repositories/kiln] POST query -2042401445
+[INFO ] 2019-10-21 19:17:30,495 [repositories/kiln] Request for query -2042401445 is finished
+[INFO ] 2019-10-21 19:26:44,409 [Thread-1] Closing org.springframework.web.context.support.XmlWebApplicationContext@70b9cdcc: display name [WebApplicationContext for namespace 'openrdf-http-server-servlet']; startup date [Mon Oct 21 18:33:26 CEST 2019]; root of context hierarchy
+[INFO ] 2019-10-21 19:26:44,413 [Thread-1] Destroying singletons in org.springframework.beans.factory.support.DefaultListableBeanFactory@5a8fb312: defining beans [messageSource,adunaAppVersion,adunaAppConfig,adunaWebappNavigation,adunaWebappCommonValuesInserter,adunaWebappMessageInserter,adunaWebappNavigationInserter,filenameViewController,viewResolver,adunaWebappSystemUrlMapping,adunaWebappSystemOverviewController,adunaWebappLoggingOverviewController,adunaWebappSystemInfoController,openrdfRepositoryManager,scopedTarget.openrdfRepositoryInterceptor,openrdfRepositoryInterceptor,openrdfProtocolUrlMapping,openrdfRepositoryListUrlMapping,openrdfRepositoryUrlMapping,openrdfServerHomeUrlMapping,openrdfHandlerExceptionResolver,openrdfProtocolController,openrdfRepositoryListController,openrdfRepositoryController,openrdfRepositoryContextsController,openrdfRepositoryNamespacesController,openrdfRepositoryNamespaceController,openrdfRepositorySizeController,openrdfRepositoryStatementsController,openrdfRepositoryGraphController]; root of factory hierarchy
+[INFO ] 2019-10-21 19:26:59,732 [main] Logback logging API implementation is configured.
+[INFO ] 2019-10-21 19:27:00,082 [main] FrameworkServlet 'openrdf-http-server': initialization completed in 856 ms
+[INFO ] 2019-10-21 19:32:45,499 [repositories/kiln] POST query -2042401445
+[INFO ] 2019-10-21 19:32:45,642 [repositories/kiln] Request for query -2042401445 is finished
+[INFO ] 2019-10-21 19:32:48,374 [repositories/kiln] POST query -2042401445
+[INFO ] 2019-10-21 19:32:48,388 [repositories/kiln] Request for query -2042401445 is finished
+[INFO ] 2019-10-21 19:33:19,793 [repositories/kiln] POST query -2042401445
+[INFO ] 2019-10-21 19:33:19,807 [repositories/kiln] Request for query -2042401445 is finished
+[INFO ] 2019-10-21 19:34:02,073 [repositories/kiln] POST query -2042401445
+[INFO ] 2019-10-21 19:34:02,090 [repositories/kiln] Request for query -2042401445 is finished

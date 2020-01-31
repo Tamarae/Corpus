@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.stoa.org/epidoc/schema/8.23/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.stoa.org/epidoc/schema/8.23/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:space="preserve" xml:lang="ka">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>საჰაკდუხტის წარწერა</title>
+                <editor>გიორგი ბოჭორიძე</editor>
+            </titleStmt>
+            <publicationStmt>
+                <authority>ილიას სახელმწიფო უნივერსიტეტი, ლინგვისტურ კვლევათა ინსტიტუტი</authority>
+                 <idno type="filename">ECG010</idno>
+                <availability>
+                    <licence target="http://creativecommons.org/licenses/by-nc-sa/3.0/">
+                       დოკუმენტი ვრცელდება Creative Commons Attribution-NonCommercial-ShareAlike 3.0 ლიცენზიით.
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier><collection>ზნაკვა</collection></msIdentifier>
+                    <msContents>
+                        <summary>
+                            <seg xml:lang="ka">სავედრებელი</seg>
+                        </summary>
+                    </msContents>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>                             
+                                   <material>ვერცხლი</material>
+                                   <objectType>ჯვარი</objectType>
+                                <dimensions unit="cm">
+                                   <height>17,5</height>
+                                    <width>7,7</width>
+                                    </dimensions>
+                                </support>
+                            </supportDesc>
+                                <layoutDesc>
+                                    <layout writtenLines="6">წარწერა 8 სტრიქონიანია                               
+                                     <dimensions unit="cm">
+                                        <width/>
+                                        <height/>
+                                       </dimensions>
+                                    </layout>
+                                </layoutDesc>
+                        </objectDesc>                        
+                        <handDesc>
+                            <handNote script="asomtavruli" style="crustis">
+                                <rs type="execution">ჭედური</rs> <rs type="script">ასომთავრული</rs> წარწერა
+                                <height/>
+                             </handNote>
+                        </handDesc>
+                    </physDesc>
+                    <history>
+                            <origin>
+                                <origPlace>ზნაკვა, ჯვარისას ეკლესია</origPlace>
+                                <origDate notBefore-custom="0400" notAfter-custom="0500" precision="medium" 
+                                    evidence="lettering" datingMethod="#julian">V AD</origDate>
+                            </origin>
+                            <provenance type="found" when="1925">
+                                <placeName type ="ancientFindspot">ზნაკვა, ჯვარისას ეკლესია</placeName> 
+                                 <!--  "42.512124, 43.081598"-->
+                                <rs type="circumstances">ძეგლი გიორგი ბოჭორიძემ იპოვა 1925 წელს რაჭაში, სოფელ ზნაკვაში, ერთ-ერთ ოჯახში. იგი 1924-25 წლებში წამოღებული იყო
+                                    ზნაკვის ჯვარისას ეკლესიიდან.</rs> 
+                                <rs type="context"/>
+                                <rs type="monuList"/>
+                            </provenance> 
+                             <provenance type="observed">
+                            <placeName type="moderSpot" ref="http://www.georgianmuseums.ge">ქუთაისის სახელმწიფო ისტორიული მუზეუმი</placeName>
+                            <idno></idno>
+                        </provenance>
+                    </history>                   
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <revisionDesc><change when="2019-10-29" who="Eka Kvirkvelia">ტექსტის სრული კოდირება, მეტამონაცემების სრული კოდირება, 
+            ბმულებით დაკავშირება ავტორიტეტულ წყაროსთან</change></revisionDesc> 
+     </teiHeader> 
+    
+        <facsimile>
+        <surface>
+            <graphic url="ecg010.jpg">
+                <desc xml:lang="ka">საჰაკდუხტის წარწერა</desc>
+                <desc xml:lang="en"></desc>
+            </graphic>
+        </surface>
+    </facsimile>
+    
+    <text>
+        <body>
+             <div type="bibliography">
+                <listBibl>
+                   <bibl n="1">გიორგი ბოჭორიძე, რაჭის ისტორიული ძეგლები<ptr target="bibliography.xml#b65"/>, <citedRange>გვ. 173-178</citedRange></bibl>
+                   <bibl n="2">კორნელი დანელია, ზურაბ სარჯველაძე, ქართული პალეოგრაფია<ptr target="bibliography.xml#b92"/>, <citedRange>გვ. 24</citedRange></bibl>
+                   <bibl n="3">აკაკი შანიძე, ძველი ქართულის ქრესტომათია ლექსიკონითურთ<ptr target="bibliography.xml#b59"/>, <citedRange>გვ. 2, 107</citedRange></bibl>
+                </listBibl>
+            </div>
+            
+            <div type="edition" xml:lang="ka" xml:space="preserve">
+                
+                        <!--  "წო გლ საკჳრველ
+                                თმოქმედო შენდ
+                                ა შევედრებუ-
+                                ლი მჴლი შენი ს
+                                აჰაკდუხტ
+                                დაჲცევ ყოვ-
+                                ლისაგან ბო
+                                როტისა -->
+                <ab>
+                   <lb n="1"/><w lemma="წმიდა"><expan><abbr>წ</abbr><ex>მიდა</ex><abbr>ო</abbr></expan></w> 
+                    <name nymRef="გრიგოლ"><expan><abbr>გ</abbr><ex>რიგო</ex><abbr>ლ</abbr></expan></name>
+                    <w lemma="საკჳრველთმოქმედ">საკჳრველ
+                    <lb n="2" break="no"/>თმოქმედო</w> <w lemma="შენ">შენდ
+                    <lb n="3" break="no"/>ა</w> <w lemma="შევედრებულ">შევედრებუ
+                    <lb n="4" break="no"/>ლი</w> <w lemma="მჴევალ"><expan><abbr>მჴ</abbr><ex>ევა</ex><abbr>ლი</abbr></expan></w> 
+                                <w lemma="შენი">შენი</w> <persName type="local" ref="persons.xml#pers31"><name nymRef="საჰაკდუხტ">ს
+                    <lb n="5" break="no"/>აჰაკდუხტ</name></persName>
+                    <lb n="6"/><w lemma="დაცვა">დაჲცევ</w> <w lemma="ყოველ">ყოვ
+                    <lb n="7" break="no"/>ლისაგან</w> <w lemma="ბოროტ">ბო
+                    <lb n="8" break="no"/>როტისა</w>
+                     </ab>
+             
+            </div>
+                
+            <div type="translation" xml:lang="ka">
+                <p> წმიდაო გრიგოლ საკჳრველთმოქმედო, შენდა შევედრებული მჴევალი შენი საჰაკდუხტ დაიცევ ყოვლისაგან ბოროტისა. </p></div>
+            
+            
+            
+            <div type="apparatus" xml:space="preserve"/>
+                         
+            
+            <div type="commentary">
+                <p> „ძელი ჭეშმარიტი“, ანუ ჯვარი ჩასვებენულია ფიცრის ლუსკუმაში, რომელიც ირგვლივ ვერცხლის ფურცლებით არის შეჭედილი. 
+                    ლუსკუმის კარზე გამოსახულია წმ. გრიგოლ ღვთისმეტყველის ჭედური ხატი. წმიდანის ფეხთა ქვეშ არის შესრულებული ჭედური წარწერა.
+                    წარწერაში მოხსენიებული საჰაკდუხტი, გიორგი ბოჭორიძის აზრით, უნდა იყოს ვახტანგ გორგასლის დედა, საგდუხტ დედოფალი. 
+                პალეოგრაფიული ნიშნებით წარწერა ენათესავება უძველეს ქართულ წერილობით ძეგლებს: Ⴁ და Ⴗ თავშეკრულია, ხოლო Ⴘ და Ⴣ თავგახსნილი. 
+                Ⴍ ძლიერ ჰგავს ბერძნულ O-ს. ძალიან საინტერესოა „დაჲცევ“ ფორმა. Ⴢ აქ ასახავს [ჲ] ალოფონს V-C პოზიციაში. ეს არის ამ ტიპის შემთხვევათა 
+                ყველაზე ადრეული ნიმუში. 1927 წელს გ. ბოჭორიძემ წარწერა VI საუკუნით დაათარიღა, 1929 წელს კი - V საუკუნით. აკაკი შანიძისა და პავლე ინგოროყვას აზრითაც, ძეგლი 
+                V საუკუნისა შეიძლება იყოს.</p>
+            </div>         
+         </body>
+    </text>
+</TEI>

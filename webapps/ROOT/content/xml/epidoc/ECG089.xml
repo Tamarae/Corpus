@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+<?xml-model href="http://www.stoa.org/epidoc/schema/8.23/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.stoa.org/epidoc/schema/8.23/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:space="preserve" xml:lang="ka">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>ვანის ქვაბების ანტონ ჭყონდიდელის ზღუდის აშენების წარწერა</title>
+                <editor>ვალერი სილოგავა</editor>
+            </titleStmt>
+            <publicationStmt>
+                <authority>ილიას სახელმწიფო უნივერსიტეტი, ლინგვისტურ კვლევათა ინსტიტუტი</authority>
+                 <idno type="filename">ECG089</idno>
+                <availability>
+                    <licence target="http://creativecommons.org/licenses/by-nc-sa/3.0/">
+                       დოკუმენტი ვრცელდება Creative Commons Attribution-NonCommercial-ShareAlike 3.0 ლიცენზიით.
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <collection>ვანის ქვაბები</collection>
+                    </msIdentifier>
+                    <msContents>
+                        <summary>
+                            <seg xml:lang="ka">მოსახსენებელი</seg>
+                            <seg xml:lang="en"/>
+                        </summary>
+                    </msContents>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>                             
+                                    <objectType ref="http://www.eagle-network.eu/voc/objtyp/lod/259">ფილა</objectType>
+                                    <material ref="http://www.eagle-network.eu/voc/material/lod/2">ქვა</material>                                   
+                                      <dimensions unit="cm">
+                                        <width></width>
+                                        <height></height>
+                                        <depth></depth>
+                                      </dimensions>
+                                </support>
+                            </supportDesc>
+                                <layoutDesc>
+                                    <layout writtenLines="7">წარწერა შვიდსტრიქონიანია
+                                        <dimensions unit="cm">
+                                         <width/>
+                                         <height/> 
+                                          </dimensions>  
+                                    </layout>                                   
+                                </layoutDesc>
+                        </objectDesc>                        
+                        <handDesc>
+                            <handNote script="asomtavruli" style="inscribed">
+                                <rs type="execution">ამოღარული</rs> <rs type="script">ასომთავრული</rs> წარწერა
+                                   <height/> 
+                            </handNote>
+                        </handDesc>
+                    </physDesc>
+                    <history>
+                            <origin>
+                                <origPlace>ვანის ქვაბები</origPlace>
+                                <origDate precision="high" evidence="internal-date" datingMethod="#julian">1204 AD</origDate>
+                            </origin>
+                            <provenance type="found">
+                                <placeName type ="ancientFindspot">ვანის ქვაბები</placeName>
+                                <!-- "41.382444, 43.308084"--> 
+                                <rs type="circumstances"></rs>
+                                <rs type="context"></rs>
+                                <rs type="monuList"/></provenance>                                
+                            <provenance type="observed">
+                                <placeName type="modernSpot" ref="http://museum.ge">საქართველოს ეროვნული მუზეუმი</placeName>
+                                <idno type="invNo"/>
+                            </provenance>
+                    </history>                   
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <revisionDesc><change when="2019-10-29" who="Eka Kvirkvelia">ტექსტის სრული კოდირება, მეტამონაცემების სრული კოდირება, 
+            ბმულებით დაკავშირება ავტორიტეტულ წყაროსთან</change></revisionDesc>
+    </teiHeader>
+    <facsimile>
+        <surface>
+            <graphic url="ecg089.jpg">
+                <desc xml:lang="ka">ვანის ქვაბების ანტონ ჭყონდიდელის ზღუდის აშენების წარწერა</desc>
+                <desc xml:lang="en"></desc>
+            </graphic>
+        </surface>
+    </facsimile>
+    <text>
+        <body> 
+        <div type="bibliography">
+              <listBibl>
+    <bibl n="1">ვალერი სილოგავა, სამცხის ლაპიდარული ეპიგრაფიკა<ptr target="bibliography.xml#b149"/>, <citedRange>გვ. 118-169</citedRange></bibl>             
+              </listBibl> 
+            </div>
+            
+            <div type="edition" xml:lang="ka" xml:space="preserve">
+                
+                        <!--  ქე [ადე] [ორ]თავე
+                               შა ს[ფვთა მ]ფე
+                               თა [მფე დ]ა დდ[ფ]ლი
+                                თმრ წე[ლსა] მფბისა მ
+                                თსა კ ანტნ [ჭ]სა მრ
+                                აღშენა ზღდე ესე შ
+                            [წყლნ ღნ ან]--> 
+
+                <ab>
+                   <lb n="1"/><w lemma="ქრისტე"><expan><abbr>ქ</abbr><ex>რისტ</ex><abbr>ე</abbr></expan></w> 
+                                <w lemma="დიდება"><expan><supplied reason="lost"><abbr>ად</abbr><ex>იდ</ex><abbr>ე</abbr></supplied></expan></w> 
+                                <num value="2"><w lemma="ორ"><supplied reason="lost">ორ</supplied>თავე</w></num>
+                   <lb n="2"/><w lemma="შინა"><expan><abbr>შ</abbr><ex>ინ</ex><abbr>ა</abbr></expan></w> 
+                                <w lemma="სუფევა"><expan><abbr>ს</abbr><ex>უ</ex><supplied reason="lost"><abbr>ფ</abbr><ex>ე</ex><abbr>ვ</abbr><ex>ა</ex><abbr>თა</abbr></supplied></expan></w> 
+                                <roleName nymRef="მეფე"><expan><supplied reason="lost"><abbr>მ</abbr></supplied><ex>ე</ex><abbr>ფე
+                    <lb n="3" break="no"/>თა</abbr></expan></roleName>
+                                <roleName nymRef="მეფე"><expan><supplied reason="lost"><abbr>მ</abbr><ex>ე</ex><abbr>ფე</abbr></supplied></expan></roleName>
+                                <supplied reason="lost">დ</supplied>ა 
+                                <roleName nymRef="დედოფალ"><expan><abbr>დ</abbr><ex>ე</ex><abbr>დ</abbr><ex>ო</ex><supplied reason="lost"><abbr>ფ</abbr></supplied><ex>ა</ex><abbr>ლი</abbr></expan></roleName>                                 
+                    <lb n="4"/><name nymRef="თამარ" type="forename"><expan><abbr>თ</abbr><ex>ა</ex><abbr>მ</abbr><ex>ა</ex><abbr>რ</abbr></expan></name> 
+                                <w lemma="წელ">წე<supplied reason="lost">ლსა</supplied></w> 
+                                <w lemma="მეფობა"><expan><abbr>მ</abbr><ex>ე</ex><abbr>ფ</abbr><ex>ო</ex><abbr>ბისა</abbr></expan></w> 
+                                <w lemma="იგინი"><expan><abbr>მ</abbr> 
+                    <lb n="5" break="no"/><ex>ა</ex><abbr>თსა</abbr></expan></w> 
+                                <num value="20">კ</num> 
+                               <name nymRef="ანტონ" type="forename"><expan><abbr>ანტ</abbr><ex>ო</ex><abbr>ნ</abbr></expan></name> 
+                                <roleName nymRef="ჭყონდიდელ"><expan><supplied reason="lost"><abbr>ჭ</abbr></supplied><ex>ყონდიდელი</ex><abbr>სა</abbr></expan></roleName> 
+                                <w lemma="მიერ"><expan><abbr>მ</abbr><ex>იე</ex><abbr>რ</abbr></expan></w>
+                    <lb n="6"/><w lemma="აღეშენ"><expan><abbr>აღ</abbr><ex>ე</ex><abbr>შენა</abbr></expan></w> 
+                                <w lemma="ზღუდე"><expan><abbr>ზღ</abbr><ex>უ</ex><abbr>დე</abbr></expan></w> 
+                                 <w lemma="ესე">ესე</w> 
+                                <w lemma="შეწყალება"><expan><abbr>შ</abbr><ex>ეიწ</ex>
+                    <lb n="7" break="no"/><supplied reason="lost"><abbr>ყ</abbr><ex>ა</ex><abbr>ლ</abbr><ex>ე</ex><abbr>ნ</abbr></supplied></expan></w> 
+                               <w lemma="ღმერთ"><expan><supplied reason="lost"><abbr>ღ</abbr><ex>მერთმა</ex><abbr>ნ</abbr></supplied></expan></w> 
+                               <w lemma="ამენ"><expan><abbr>ა</abbr><ex>მე</ex><abbr>ნ</abbr></expan></w>
+                </ab>
+               </div>
+              
+            
+         <div type="translation" xml:lang="ka">
+             <p>ქრისტე, ადიდე ორივე სოფელში მეფეთა მეფე და დედოფალი თამარი, მათი მეფობის მეოცე წელს ანტონ ჭყონდიდელმა ააშენა ეს ზღუდე, ღმერთმა შეიწყალოს, ამინ.</p>
+         </div>    
+                             
+                
+            <div type="commentary">
+                <p>ვალერი სილოგავს დათარიღებით, ზღუდე აშენებულა და წარწერა გაკეთებულა 1204 წელს (1184+20). ვანის ქვაბები ამ დროისათვის უკვე სამეფო მონასტერი
+                ყოფილა (მანამდე იგი გურგენისძეთა ფეოდალური სახლის საკუთრება იყო), რადგან მეფის მოხელე, მისი ვაზირი, სხვის სამფლობელო, საბატონო მონასტერს არც ზღუდეს
+                აუშენებდა და არც სხვა სამშენებლო სამუშაოებს ჩაატარებდა. ეს თვალსაზრისი იმითაც მტკიცდება, რომ დავით აღმაშენებლის მიერ შიომღვიმისადმი 1124 წელს
+                შედგენილი ანდერძის მიხედვით, სამეფო მონასტრები მწიგნობართუხუცესთა მისახედი იყო. ხოლო ეს თანამდებობდა თამარ მეფის დროს სწორედ ანტონ ჭყონდიდელს ეკავა, სანამ
+                მას კათალიკოს-პატრიარქი მიქაელ მირიანისძე მისტაცებდა, ხოლო ანტონი გარეჯში წავიდოდა სამოღვაწეოდ. მიქაელ მირიანისძის გარდაცვალების შემდეგ თამარ მეფემ 
+                იგი სამეფო კარზე კვლავ ვაზირად დააბრუნა და ძველ უფლებებში აღადგინა.</p>                
+            </div>
+        </body>
+    </text>
+</TEI>

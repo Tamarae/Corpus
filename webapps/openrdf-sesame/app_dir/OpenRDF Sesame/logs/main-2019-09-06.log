@@ -1,0 +1,12 @@
+[INFO ] 2019-09-06 12:16:26,453 [main] Logback logging API implementation is configured.
+[INFO ] 2019-09-06 12:16:31,790 [main] FrameworkServlet 'openrdf-http-server': initialization completed in 10724 ms
+[INFO ] 2019-09-06 12:18:45,320 [repositories/kiln] POST query -2042401445
+[INFO ] 2019-09-06 12:18:45,422 [repositories/kiln] Request for query -2042401445 is finished
+[INFO ] 2019-09-06 12:18:45,635 [repositories/kiln] POST query -2042401445
+[INFO ] 2019-09-06 12:18:45,646 [repositories/kiln] Request for query -2042401445 is finished
+[INFO ] 2019-09-06 12:19:22,447 [repositories/kiln] POST query -2042401445
+[INFO ] 2019-09-06 12:19:22,456 [repositories/kiln] Request for query -2042401445 is finished
+[INFO ] 2019-09-06 12:21:16,714 [repositories/kiln] POST query -2042401445
+[INFO ] 2019-09-06 12:21:16,722 [repositories/kiln] Request for query -2042401445 is finished
+[INFO ] 2019-09-06 14:40:20,467 [Thread-1] Closing org.springframework.web.context.support.XmlWebApplicationContext@46f970b6: display name [WebApplicationContext for namespace 'openrdf-http-server-servlet']; startup date [Fri Sep 06 12:16:21 GET 2019]; root of context hierarchy
+[INFO ] 2019-09-06 14:40:20,469 [Thread-1] Destroying singletons in org.springframework.beans.factory.support.DefaultListableBeanFactory@5834390e: defining beans [messageSource,adunaAppVersion,adunaAppConfig,adunaWebappNavigation,adunaWebappCommonValuesInserter,adunaWebappMessageInserter,adunaWebappNavigationInserter,filenameViewController,viewResolver,adunaWebappSystemUrlMapping,adunaWebappSystemOverviewController,adunaWebappLoggingOverviewController,adunaWebappSystemInfoController,openrdfRepositoryManager,scopedTarget.openrdfRepositoryInterceptor,openrdfRepositoryInterceptor,openrdfProtocolUrlMapping,openrdfRepositoryListUrlMapping,openrdfRepositoryUrlMapping,openrdfServerHomeUrlMapping,openrdfHandlerExceptionResolver,openrdfProtocolController,openrdfRepositoryListController,openrdfRepositoryController,openrdfRepositoryContextsController,openrdfRepositoryNamespacesController,openrdfRepositoryNamespaceController,openrdfRepositorySizeController,openrdfRepositoryStatementsController,openrdfRepositoryGraphController]; root of factory hierarchy

@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:space="preserve" xml:lang="ka">
+    <teiHeader>
+        <fileDesc>
+            
+            <titleStmt>
+                <title>უკანგორი. V/VI სს. მოსახსენებელი (III)</title>
+            </titleStmt>
+            
+            <publicationStmt>
+                <authority>ილიას სახელმწიფო უნივერსიტეტი, ლინგვისტურ კვლევათა ინსტიტუტი
+                </authority>
+                 <idno type="filename">ECG27</idno>
+                <availability>
+                    <licence target="http://creativecommons.org/licenses/by-nc-sa/3.0/">
+                     დოკუმენტი ვრცელდება Creative Commons Attribution-NonCommercial-ShareAlike 3.0 ლიცენზიის ფარგლებში.
+                    </licence>
+                </availability>
+            </publicationStmt>
+            
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                         <msName type="invNo" />
+                    </msIdentifier>
+                    
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>
+                                    <objectType  ref="http://www.eagle-network.eu/voc/objtyp/lod/1483">ლორფინი</objectType>
+                                    <material  ref="http://www.eagle-network.eu/voc/material/lod/2">ქვა</material>
+                                    <dimensions unit="cm">
+                                        <height>39</height>
+                                        <width>32</width>
+                                    </dimensions>
+                                </support>
+                            </supportDesc>
+                            <layoutDesc>
+                                <layout>
+                                    <dimensions unit="cm">
+                                        <width>7</width>
+                                    </dimensions>
+                                    </layout>
+                            </layoutDesc>
+                        </objectDesc>
+                        
+                         <handDesc>
+                            <handNote>
+                                <height unit="cm"/>   
+                                <width/> 
+                                <p>რელიეფური ასომთვარული წარწერა</p>
+                                 </handNote>
+                        </handDesc>
+                        
+                    </physDesc>
+                    <history>
+                        <origin>
+                            <origPlace>სოფ. უკანგორის მეორე, დანგრეული ეკლესიის მახლობლად აღმოჩნდა. </origPlace>
+                            <origDate evidence="lettering">VI  A.D.</origDate>
+                        </origin>
+
+                        <provenance type="found" when="1937">
+                            <placeName>უკანგორი</placeName>
+                            <rs type="monuList"/>
+                             <rs type="circumstances">1937 წ. ზაფხულში ძეგლს მიაკვლია დმანისის არქეოლოგიურმა ექსპედიციამ, ლ. მუსხელიშვილის ხელმძღვანელობით. </rs>
+                        </provenance>
+                        
+                        <provenance>
+                           <placeName type="modernSpot">საქართველოს ეროვნული მუზეუმი</placeName>
+                                               <idno type="invNo">28</idno>
+                       </provenance>
+       
+                    </history>
+                </msDesc> 
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+
+    <text>
+        <body>
+            <div type="bibliography" subtype="principalEdition">
+                <listBibl>
+                    <bibl type="publication" subtype="principal">
+                        <author>
+                            <forename>ნოდარ</forename>
+                            <surname>შოშიაშვილი</surname>
+                        </author>
+                        <title level="m" type="main">ქართული წარწერების კორპუსი</title>
+                        <biblScope>ტ. I აღმოსავლედ და სამხრეთ საქართველო (V-X სს.)</biblScope>
+                        <pubPlace>თბილისი</pubPlace>
+                        <date>1980</date>
+                        <biblScope>გვ. 91</biblScope>
+                    </bibl>
+                </listBibl>
+            </div>
+            
+            <div type="edition" xml:space="preserve">  
+                
+                
+                   <!-- ...უ
+                        ...ან
+                         -->
+
+<div xml:lang="ka" type="textpart" >
+            <ab>
+                  <lb n="1"/>უ
+                  <lb n="2"/>ან
+              </ab>
+</div>
+</div>
+
+<div type="translation" xml:lang="ka"/>
+<div type="apparatus" xml:space="preserve"/>
+
+            
+            <div type="commentary">
+                 <p n="1">ლორფინის ზედა ნაწილზე ამოკვეთილია მცენარეული ორნამენტი, ხოლო ორნამენტის ქვეშ - მცირე სამკუთხედებისაგან შედგენილ რელიეფურ ჩარჩოიან 
+                 მედალიონში ჩასმული ბოლნური ჯვარი. ჯვრის მკლავები ორმაგი კონტურებითაა შემოვლებული. ჯვრის ქვეშ ყოფილა, დადაბლებულ სწორკუთხოვან ფონზე ამოკვეთილი
+                 ორსტრიქონიანი რელიეფური წარწერა. საიდანაც შემორჩა მხოლოდ ორ-ორი გრაფემა თითოეული სტრიქონის ბოლოს.</p>
+                <p n="2">დაზიანება: ქვის სირბილის გამო წარწერის ორივე სტრიქონი, გარდა ორ-ორი ბოლო გრაფემისა, მოტეხილია. </p>
+                <p n="3">წარმოდგენილი დათარიღების საფუძველი: 1. პალეოგრაფიული ნიშნები: თავშეკრული , რელიეფურობა, დუქტუსი; 2. "ბოლნური ჯვარი".</p>
+            </div>
+            
+            <div type="bibliography" subtype="otherPublications">
+             <listBibl>
+                 <bibl type="publication" subtype="other"><forename>კორნელი</forename><surname>დანელია</surname>, <forename>ზურაბ</forename><surname>სარჯველაძე</surname>, <title level="m">ქართული პალეოგრაფია</title>, <date>1997</date>, <biblScope>გვ. 25-26</biblScope>. </bibl>
+                 <bibl type="publication" subtype="other"><author><forename>ლ.</forename><surname>მუსხელიშვილი</surname></author>, <title type="main">არქეოლოგიური ექსკურსიები მაშავრის ხეობაში</title>, <pubPlace>თბილისი</pubPlace>, <date>1941</date>, <biblScope>გვ. 8-23</biblScope>. </bibl>
+                 <bibl type="publication" subtype="other"><author><forename>ლ.</forename><surname>მუსხელიშვილი</surname></author>, <title level="a">უკანგორის ისტორიული ნაშთები</title>, <title level="s">ენიმკის მოამბე</title>, <biblScope>ტ. X</biblScope>, <date>1941</date>, <biblScope>გვ. 159-182</biblScope>. </bibl>
+                 <bibl type="publication" subtype="other"><title level="s">ქართული საბჭოთა ენციკლოპედია</title>, <title level="a">უკანგორი</title>, <pubPlace>თბილისი</pubPlace>, <date>1986</date>, <biblScope>გვ. 119</biblScope>. </bibl>
+                 <bibl type="publication" subtype="other"><author><forename>ვ.</forename><surname>შუბითიძე</surname></author>, <title level="m">ქართული ციხესიმაგრეები და ეკლესია მონასტრები</title>, <pubPlace>თბილისი</pubPlace>, <date>2012</date>, <biblScope>გვ. 68</biblScope>. </bibl>
+             </listBibl>
+            </div>
+        </body>
+    </text>
+</TEI>

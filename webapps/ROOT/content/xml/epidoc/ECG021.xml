@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:space="preserve" xml:lang="ka">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>ბერძნულწარწერიანი ბრინჯაოს მედალი</title>
+                <editor>თინათინ ყაუხჩიშვილი</editor>
+            </titleStmt>
+            <publicationStmt>
+                <authority>ილიას სახელმწიფო უნივერსიტეტი, ლინგვისტურ კვლევათა ინსტიტუტი</authority>
+                 <idno type="filename">ECG021</idno>
+                <availability>
+                    <licence target="http://creativecommons.org/licenses/by-nc-sa/3.0/">
+                       დოკუმენტი ვრცელდება Creative Commons Attribution-NonCommercial-ShareAlike 3.0 ლიცენზიით.
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc type="fragmentary">
+                    <msIdentifier>
+                        <collection>მცხეთა</collection>                
+                    </msIdentifier>
+                    <msContents>
+                        <summary>
+                            <seg xml:lang="ka">შეწირვითი</seg>
+                            <seg xml:lang="en"/>
+                        </summary>
+                    </msContents>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>                             
+                                   <material ref="http://www.eagle-network.eu/voc/material/lod/109">ბრინჯაო</material>
+                                   <objectType ref="http://www.eagle-network.eu/voc/objtyp/lod/165">მედალი</objectType></support></supportDesc>
+                                <layoutDesc>
+                                    <layout>
+                                        <p>As გამოხატულია დიდებულის თავი, მის გასწვრივ ორსავე მხარეს ბერძნული წარწერით, Rs გამოხატულია ჰერმესი მწყემსის კომბლით და მის გვერდზე თავდახრილი ხარით, 
+                                წინ მცენარით და ზემოთ ვარსკვლავით. ამ პირზედაც ორსავე მხარეს გასწვრივ არის ბერძნული წარწერა.</p>
+                                      <dimensions unit="cm">
+                                        <width></width>
+                                        <height></height>
+                                        <depth></depth></dimensions>
+                                    </layout>
+                                </layoutDesc>
+                        </objectDesc>                        
+                        <handDesc>
+                            <handNote>
+                             <p>I წარწერა მკაფიოა, მეორე ნაწილობრივ დაზიანებული.</p>
+                                <height unit="cm" precision="medium"></height>
+                                <width unit="cm" precision="medium"></width>
+                                  </handNote>
+                        </handDesc>
+                        <decoDesc>
+                            <decoNote/>
+                        </decoDesc>
+                    </physDesc>
+                    <history>
+                            <origin>
+                                <origPlace>სამთავროს უბანი, მცხეთა</origPlace>
+                                <origDate notBefore-custom="0101" notAfter-custom="0150" evidence="lettering" datingMethod="#julian">II ს-ის პირველი ნახევარი</origDate>
+                                </origin>
+                            <provenance type="found" when="1920">
+                                <placeName type ="ancientFindspot" ref="https://pleiades.stoa.org/places/863882">სამთავროს უბანი, მცხეთა</placeName> 
+                                <rs type="circumstances">მედალი აღმოჩენილია სამთავროს უბანში არქეოლოგიური გათხრებისას.</rs>
+                                <rs type="context"/>
+                                <rs type="monuList"/>
+                            </provenance>                         
+                            <provenance type="observed">
+                            <placeName type="modernSpot" ref="http://museum.ge">საქართველოს ეროვნული მუზეუმი</placeName>
+                            <idno>2–23/25</idno>
+                        </provenance>
+                    </history>                   
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    
+    <facsimile>
+        <surface>
+            <graphic url="ecg021_1.jpg">
+                <desc xml:lang="ka">მედალი სამთავროდან, 1920 (As)</desc>
+                <desc xml:lang="en">Medal from Samtavro, 1920 (As)</desc>
+            </graphic>
+            <graphic url="ecg021_2.jpg">
+                <desc xml:lang="ka">მედალი სამთავროდან, 1920 (Rs)</desc>
+                <desc xml:lang="en">Medal from Samtavro, 1920 (Rs)</desc>
+            </graphic>
+        </surface>
+    </facsimile>
+    
+    <text>
+        <body>
+            
+             <div type="bibliography">
+                <listBibl>
+                    <bibl n="1">თინათინ ყაუხჩიშვილი, საქართველოს ბერძნული წარწერების კორპუსი<ptr target="bibliography.xml#b130"/>, <citedRange>გვ. 267</citedRange></bibl>
+                </listBibl>
+            </div>
+           
+            <div type="edition" xml:lang="grc" xml:space="preserve">
+                
+                        <!-- Ἀντίνοον θεόν, ἡ πατρίς
+                        Ἁδριανοῦ Βιθυνι[έ]ων
+
+                                                                         -->
+                     
+            
+         <div type="textpart" subtype="side" n="1">
+         <ab>
+             <persName><name nymRef="Ἀντίνοος">Ἀντίνοον</name></persName> <w lemma="θεός">θεόν</w> <w lemma="ὁ">ἡ</w> <w lemma="πατρίς">πατρίς</w>
+         </ab>  
+         </div>
+         <div type="textpart" subtype="side" n="2">
+           <ab>
+               <persName><name nymRef="Ἁδριανός">Ἁδριαν<supplied reason="subaudible">ο</supplied>ῦ</name></persName> <placeName type="ethnic" nymRef="Βιθυνίεος" ref="https://pleiades.stoa.org/places/511189">Βιθυνι<supplied reason="lost">έ</supplied><choice><corr>ω</corr><sic>ο</sic></choice>ν</placeName>
+           </ab>  
+         </div>
+            </div>
+                
+            <div type="translation" xml:lang="ka">
+                <div type="translation" subtype="side" n="1">
+                <p>ანტინოეს, ღმერთს, სამშობლო</p>
+            </div>
+            <div type="translation" subtype="side" n="2">
+                <p>ადრიანეს ბითვინიონელთაგან</p>
+                </div>
+            </div>
+            
+           <div type="commentary">
+                <p>ისტორიული მონაცემებისა და პალეოგრაფიული ნიშნების (ω–ს ხმარება ο–ს მაგივრად)საფუძველზე მედალი II ს–ის პირველი ნახევრით თარიღდება.</p>
+                <p>ანტინოე, წარმოშობით ქ. ბითვინიონიდან, გარდაიცვალა 130 წელს, იგი გააღმერთა ადრიანემ, დააარსა მისი სახელობის ქალაქი, ააგო მისი სახელობის ტაძრები, ქანდაკებები, 
+                მოჭრა მონეტები (134–137 წლებში ძირითადად), ერთ-ერთ ვარსკვლავს უწოდა მისი სახელი.</p>
+                <p>ადრიანე თავისი და ბითვინიონელთა სამშობლოს სახელით გაღმერთებულ ანტინოეს უძღვნის ამ მედალს.</p>
+               </div>
+
+         </body>
+    </text>
+</TEI>
+
+
+

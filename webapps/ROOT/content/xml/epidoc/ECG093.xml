@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+<?xml-model href="http://www.stoa.org/epidoc/schema/8.23/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.stoa.org/epidoc/schema/8.23/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:space="preserve" xml:lang="ka">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>ვარძიის პატრონ ივანეს (ჯაყელის) წარწერა</title>
+                <editor>ვალერი სილოგავა</editor>
+            </titleStmt>
+            <publicationStmt>
+                <authority>ილიას სახელმწიფო უნივერსიტეტი, ლინგვისტურ კვლევათა ინსტიტუტი</authority>
+                 <idno type="filename">ECG093</idno>
+                <availability>
+                    <licence target="http://creativecommons.org/licenses/by-nc-sa/3.0/">
+                       დოკუმენტი ვრცელდება Creative Commons Attribution-NonCommercial-ShareAlike 3.0 ლიცენზიით.
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <collection>ვარძია</collection>
+                    </msIdentifier>
+                    <msContents>
+                        <summary>
+                            <seg xml:lang="ka">მოსახსენებელი</seg>
+                            <seg xml:lang="en"/>
+                        </summary>
+                    </msContents>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>                             
+                                    <objectType ref="http://www.eagle-network.eu/voc/objtyp/lod/259">ფილა</objectType>
+                                    <material ref="http://www.eagle-network.eu/voc/material/lod/2">ანდეზიტის ქვა</material>                                   
+                                      <dimensions unit="cm">
+                                        <width>173</width>
+                                        <height>60</height>
+                                        <depth></depth>
+                                      </dimensions>
+                                </support>
+                            </supportDesc>
+                                <layoutDesc>
+                                    <layout writtenLines="4">წარწერა ოთხსტრიქონიანია. წარწერიანი ქვა ამჟამად ვარძიის სამონასტრო კომპლექსის მთავარი ტაძრის სამხრეთი სტოას შესასვლელი
+                                ტიმპანია. იგი საშუალო ადამიანის სიმაღლის დონეზეა და ხელითაც შეიძლება მისი შეხება
+                                        <dimensions unit="cm">
+                                         <width/>
+                                         <height/> 
+                                          </dimensions>  
+                                    </layout>                                   
+                                </layoutDesc>
+                        </objectDesc>                        
+                        <handDesc>
+                            <handNote script="asomtavruli" style="inscribed">
+                                <rs type="execution">ამოღარული</rs> <rs type="script">ასომთავრული</rs> წარწერა
+                               <height/> 
+                            </handNote>
+                        </handDesc>
+                    </physDesc>
+                    <history>
+                            <origin>
+                                <origPlace>ვარძია</origPlace>
+                                <origDate evidence="historical context prosopography" precision="high" datingMethod="#julian">1391-1444 AD</origDate>
+                            </origin>
+                            <provenance type="found">
+                                <placeName type ="ancientFindspot">ვარძია</placeName>
+                                <!-- "41.380842, 43.283761"--> 
+                                <rs type="circumstances"> </rs>
+                                <rs type="context"></rs>
+                                <rs type="monuList"/>
+                            </provenance>                                
+                            <provenance type="observed">
+                                <placeName type="modernSpot">ვარძია</placeName>
+                                <idno type="invNo"/>
+                            </provenance> 
+                    </history>                   
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <revisionDesc><change when="2019-10-29" who="Eka Kvirkvelia">ტექსტის სრული კოდირება, მეტამონაცემების სრული კოდირება, 
+            ბმულებით დაკავშირება ავტორიტეტულ წყაროსთან</change></revisionDesc>
+    </teiHeader>
+    <!--<facsimile>
+        <surface>
+            <graphic url="ecg093.jpg">
+                <desc xml:lang="ka">ვარძიის პატრონ ივანეს (ჯაყელის) წარწერა</desc>
+                <desc xml:lang="en"></desc>
+            </graphic>
+        </surface>
+    </facsimile> --> 
+    <text>
+        <body>                   
+            <div type="bibliography">
+              <listBibl>
+       <bibl n="1">ვალერი სილოგავა, სამცხის ლაპიდარული ეპიგრაფიკა<ptr target="bibliography.xml#b149"/>, <citedRange>გვ. 118-169</citedRange></bibl>
+             </listBibl> 
+            </div>
+            
+                        
+            
+            <div type="edition" xml:lang="ka" xml:space="preserve">
+                
+                        <!--  † ყდ წო ვრძსა ღსმშობე
+                            ლო ადიდე ორთვე შინა სფვთა 
+                            დიდისა ამის ტრპზისა აღმშნბლი პტრნი ივ
+                            ანე ასფვე და ცდვნი მთნი შნს ღნ ან.--> 
+
+                <ab>
+                   <lb n="1"/>&#8224;<w lemma="ყოველ"><expan><abbr>ყ</abbr><ex>ოვლა</ex><abbr>დ</abbr></expan></w> 
+                                    <w lemma="წმიდა"><expan><abbr>წ</abbr><ex>მიდა</ex><abbr>ო</abbr></expan></w> 
+                                    <placeName nymRef="ვარძია"><expan><abbr>ვ</abbr><ex>ა</ex><abbr>რძ</abbr><ex>იი</ex><abbr>სა</abbr></expan></placeName> 
+                                    <w lemma="ღმრთისმშობელ"><expan><abbr>ღ</abbr><ex>მრთი</ex><abbr>სმშობე
+                   <lb n="2" break="no"/>ლო</abbr></expan></w> 
+                                    <w lemma="დიდება">ადიდე</w> 
+                                    <num value="2"><w lemma="ორ"><expan><abbr>ორთ</abbr><ex>ა</ex>ვე</expan></w></num> 
+                                    <w lemma="შინა">შინა</w> 
+                                    <w lemma="სუფევა"><expan><abbr>ს</abbr><ex>უ</ex><abbr>ფ</abbr><ex>ე</ex><abbr>ვ</abbr><ex>ა</ex><abbr>თა</abbr></expan></w>
+                    <lb n="3"/><w lemma="დიდ">დიდისა</w> 
+                                        <w lemma="ესე">ამის</w> 
+                                        <w lemma="ტრაპეზ"><expan><abbr>ტრ</abbr><ex>ა</ex><abbr>პ</abbr><ex>ე</ex><abbr>ზისა</abbr></expan></w> 
+                                        <w lemma="აღმშენებელ"><expan><abbr>აღმშ</abbr><ex>ე</ex><abbr>ნ</abbr><ex>ე</ex><abbr>ბ</abbr><ex>ე</ex><abbr>ლი</abbr></expan></w> 
+                                        <w lemma="პატრონ"><expan><abbr>პ</abbr><ex>ა</ex><abbr>ტრ</abbr><ex>ო</ex><abbr>ნი</abbr></expan></w> 
+                                        <name nymRef="ივანე">ივ                                    
+                    <lb n="4" break="no"/>ანე</name> 
+                                        <w lemma="სუფევა"><expan><abbr>ას</abbr><ex>უ</ex><abbr>ფ</abbr><ex>ე</ex><abbr>ვე</abbr></expan></w> 
+                                        და 
+                                        <w lemma="ცოდვა"><expan><abbr>ც</abbr><ex>ო</ex><abbr>დვ</abbr><ex>ა</ex><abbr>ნი</abbr></expan></w> 
+                                        <w lemma="მათი"><expan><abbr>მ</abbr><ex>ა</ex><abbr>თნი</abbr></expan></w> 
+                                        <w lemma="შენდობა"><expan><abbr>შ</abbr><ex>ეუ</ex><abbr>ნ</abbr><ex>დო</ex><abbr>ს</abbr></expan></w> 
+                                        <w lemma="ღმერთ"><expan><abbr>ღ</abbr><ex>მერთმა</ex><abbr>ნ</abbr></expan></w>
+                                        <w lemma="ამენ"><expan><abbr>ა</abbr><ex>მე</ex><abbr>ნ</abbr></expan></w>                      
+                </ab>
+               </div>
+         <div type="translation" xml:lang="ka">
+             <p>† ყოვლად წმიდაო ვარძიის ღვთისმშობელო, ადიდე ორივე სოფელში ამ დიდი ტრაპეზის აღმაშენებელი პატრონი ივანე,
+                 ასუფევე და ცოდვანი შეუნდოს ღმერთმან, ამინ.</p>
+         </div>    
+                             
+                
+            <div type="commentary">
+                <p>სპეციალურ ლიტერატურაში „პატრონი ივანე“ უპირობოდ არის მიჩნეული ათაბაგ ივანე ჯაყელად და ამის მიხედვით წარწერა 1391-1444 წლებითაა
+                დათარიღებული, ვინაიდან საისტორიო წყაროთა მონაცემებით ივანე ათაბაგი 1391-1444 წლებში მოღვაწეობდა. წარწერიდან ირკვევა, რომ ივანე ათაბაგს მონასტრისათვის
+                „დიდი ტრაპეზი“ (ანუ სატრაპეზო) აუგია. ვალერი სილოგავას აზრით, სწორია ის მოსაზრება, რომ ეს ქვა აქ XIX ს-ის
+                                60-იან წლებშია ჩასმული (შინაარსით, თითქოს, არ შეესაბამება თავის ადგილს), თორემ თავდაპირველად სხვაგან, მონასტრის
+                                „დიდი ტრაპეზის“ შესასვლელის თავზე იქნებოდა ჩასმული.</p>                
+            </div>
+        </body>
+    </text>
+</TEI>

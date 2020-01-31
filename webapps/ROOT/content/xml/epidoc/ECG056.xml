@@ -1,0 +1,134 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.stoa.org/epidoc/schema/8.23/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.stoa.org/epidoc/schema/8.23/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:space="preserve" xml:lang="ka">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>ბოლნისის სიონის 494 წ. ძნელას წარწერა</title>
+                <editor>ნოდარ შოშიაშვილი</editor>
+            </titleStmt>
+            <publicationStmt>
+                <authority>ილიას სახელმწიფო უნივერსიტეტი, ლინგვისტურ კვლევათა ინსტიტუტი.</authority>
+                <idno type="filename">ECG056</idno>
+                <availability>
+                    <licence target="http://creativecommons.org/licenses/by-nc-sa/3.0/">
+                        დოკუმენტი ვრცელდება Creative Commons Attribution-NonCommercial-ShareAlike 3.0 ლიცენზიით.
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <collection>ბოლნისი</collection>
+                    </msIdentifier>
+                     <msContents>
+                        <summary>
+                            <seg xml:lang="ka">მოსახსენებელი</seg>
+                            <seg xml:lang="en"/>
+                        </summary>
+                    </msContents>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>
+                                    <objectType ref="http://www.eagle-network.eu/voc/objtyp/lod/1483">ფილა</objectType>
+                                    <material ref="http://www.eagle-network.eu/voc/material/lod/2">ქვა</material>
+                                    <dimensions unit="cm">
+                                        <height>48</height>
+                                        <width>48</width>
+                                    </dimensions>
+                                </support>
+                            </supportDesc>
+                            <layoutDesc>
+                                <layout writtenLines="1">
+                                    წარწერა ერთსტრიქონიანია. ბოლნისის სიონის ინტერიერში, ჩრდილო ნავის აღმოსავლეთ კედელში ჩადგმულია ოთხკუთხა ფილა, 
+                                    რომლის თითქმის მთელ ფართობზე გამოქანდაკებულია პატარა სამკუთხედებისაგან შემდგარ მედალიონში ჩასმული "ბოლნური ჯვარი", 
+                                        ხოლო ჯვრის ზემოთ, მარცხენა მხარეს, თავთხელი რელიეფით სამი ასომთავრული გრაფემაა.
+                                        <dimensions unit="cm">
+                                        <height></height>
+                                        <width></width>
+                                    </dimensions>
+                                   </layout>
+                            </layoutDesc>
+                        </objectDesc>
+                        <handDesc>
+                            <handNote script="asomtavruli" style="embossed">
+                                <rs type="execution">რელიეფური</rs> <rs type="script">ასომთავრული</rs> წარწერა
+                                 <height unit="cm">4</height>
+                          </handNote>
+                        </handDesc>
+                    </physDesc>
+                    <history>
+                        <origin>
+                            <origPlace>ბოლნისის სიონი</origPlace>
+                           <origDate when-custom="0494" evidence="lettering" precision="high">494 AD</origDate>
+                        </origin>
+                        <provenance type="found" when="1937">
+                            <placeName type="ancientFindspot" ref="http://pleiades.stoa.org/places/863760">ბოლნისის სიონი</placeName>
+                            <!-- 41.389081, 44.512551 --> 
+                            <rs type="monuList"/>
+                            <rs type="circumstances">ბოლნისის ტაძარი მდებარეობს ისტორიულ ქვემო ქართლში, 9 კმ. მანძილზე 
+                                ქ. ბოლნისიდან სამხრეთით, 1 კმ. მანძილზე სოფ. ბონის-ხაჩინიდან. 
+                                წარწერა 1937 წელს აღმოაჩინა კულტურულ ძეგლთა დაცვის კომიტეტის მიერ მოწყობილმა არქეოლოგიურმა ექსპედიციამ, 
+                                რომელსაც ლევან მუსხელიშვილი ხელმძღვანელობდა.</rs>
+                            <rs type="context"></rs>
+                        </provenance>
+                        <provenance type="observed">
+                            <placeName type="modernSpot">ბოლნისის სიონი</placeName> 
+                            <idno type="invNo"/>
+                        </provenance>
+                    </history>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <revisionDesc><change when="2019-10-29" who="Eka Kvirkvelia">ტექსტის სრული კოდირება, მეტამონაცემების სრული კოდირება, 
+            ბმულებით დაკავშირება ავტორიტეტულ წყაროსთან</change></revisionDesc>
+    </teiHeader>   
+          
+    <facsimile>
+        <surface>
+            <graphic url="ecg056.jpg">
+                <desc xml:lang="ka">ბოლნისის სიონის 494 წ. ძნელას წარწერა</desc>
+                <desc xml:lang="en"></desc>
+            </graphic>
+        </surface>
+    </facsimile>
+
+    <text>
+        <body>
+            <div type="bibliography">
+                <listBibl>
+        <bibl n="1">ნოდარ შოშიაშვილი, ქართული წარწერების კორპუსი, ლაპიდარული წარწერები<ptr target="bibliography.xml#b101"/>, <citedRange>გვ. 75</citedRange></bibl>
+        <bibl n="2">ლევან მუსხელიშვილი, ბოლნისი<ptr target="bibliography.xml#b93"/>, <citedRange>გვ. 332</citedRange></bibl>
+         <bibl n="3">Н. Г. Чубинашвили, Болнисский сион<ptr target="bibliography.xml#b45"/>, <citedRange>ст. 39</citedRange></bibl>       
+                </listBibl>
+            </div>
+            
+            <div type="edition" xml:space="preserve">  
+            
+                    <!-- „ძნ"ჲ“  -->
+           
+                       <ab>
+                       <lb n="1"/><w lemma="ძნელა"><expan><abbr>ძნ</abbr><ex>ელა</ex><abbr>ჲ</abbr></expan></w>
+                       </ab>
+                                                               
+                </div>
+            
+            <div type="translation" xml:lang="ka">
+                <p>ძნელა</p>                                                                                                                                                                                                                                                              
+            </div>
+            
+            <div type="apparatus" xml:space="preserve"> 
+                <p><app loc="1"> <lem>ძნელა</lem> 
+                    <rdg resp="ლევან მუსხელიშვილი">ძნაჲ</rdg>
+               </app>
+                </p>
+           </div> 
+            
+            <div type="commentary">
+                <p>ნოდარ შოშიაშვილის ქართული წარწერების კორპუსის მიხედვით #8. წარწერაში ქარაგმის ნიშანი არ არის გამოყენებული.</p>
+              </div>
+          </body>
+    </text>
+</TEI>

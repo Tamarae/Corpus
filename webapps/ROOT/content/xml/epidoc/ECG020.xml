@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:space="preserve" xml:lang="ka">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>ოქროს ბეჭედი წარწერით „დედატოს“</title>
+                <editor>თინათინ ყაუხჩიშვილი</editor>
+            </titleStmt>
+            <publicationStmt>
+                <authority>ილიას სახელმწიფო უნივერსიტეტი, ლინგვისტურ კვლევათა ინსტიტუტი</authority>
+                 <idno type="filename">ECG020</idno>
+                <availability>
+                    <licence target="http://creativecommons.org/licenses/by-nc-sa/3.0/">
+                       დოკუმენტი ვრცელდება Creative Commons Attribution-NonCommercial-ShareAlike 3.0 ლიცენზიით.
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <collection>ვანი</collection>                
+                    </msIdentifier>
+                    <msContents>
+                        <summary>
+                            <seg xml:lang="ka">მემორიალური</seg>
+                            <seg xml:lang="en"/>
+                        </summary>
+                    </msContents>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>                             
+                                   <material ref="http://www.eagle-network.eu/voc/material/lod/112">ოქრო</material>
+                                   <objectType ref="http://www.eagle-network.eu/voc/objtyp/lod/168">ბეჭედი</objectType></support></supportDesc>
+                                <layoutDesc>
+                                    <layout>
+                                      <dimensions unit="cm">
+                                        <width></width>
+                                        <height></height>
+                                        <depth></depth></dimensions>
+                                    </layout>
+                                </layoutDesc>
+                        </objectDesc>                        
+                        <handDesc>
+                            <handNote>
+                                <p>ბეჭდის ფარაკზე გამოსახული ღვთაების ირგვლივ ნეგატიურად ჩაჭდეულია ბერძნული მთავრული წარწერა. 
+                                წარწერის დათარიღება ხდება ასოთა მოხაზულობის მიხედვით (კუთხოვანი Ε, Α სწორი შემაერთებელი ხაზით, Σ–ის ფრაგმენტით, უფრო 
+                                მსხვილ ასოებში პატარა ზომის ο–ის ჩართვით).</p>
+                                <height unit="cm" precision="medium"></height>
+                                <width unit="cm" precision="medium"></width>
+                                  </handNote>
+                        </handDesc>
+                        <decoDesc>
+                            <decoNote>ბეჭდის ფარაკზე გამოსახულია მდედრობითი სქესის ღვთაება</decoNote>
+                        </decoDesc>
+                    </physDesc>
+                    <history>
+                            <origin>
+                                <origPlace>ვანი</origPlace>
+                                <origDate notBefore-custom="-0400" notAfter-custom="-0201" precision="medium" 
+                                    evidence="lettering" datingMethod="#julian">IV-III BC</origDate>
+                                    <p>სხვა დათარიღება: მარგ. ლორთქიფანიძე ათარიღებს ძვ.წ. IV ს–ის პირველი ნახევრით იმავე წარწერისა და ნივთის მთლიანი ანალიზის საფუძველზე.</p>
+                                  </origin>
+                            <provenance type="found" when="1986">
+                                <placeName type ="ancientFindspot" ref="https://pleiades.stoa.org/places/863918">ვანი</placeName> 
+                                <rs type="circumstances">ნივთი მოპოვებულია წარჩინებული მეომრის სამარხში, ბეჭედი ადგილობრივ სახელოსნოში უნდა იყოს დამზადებული.</rs>
+                                <rs type="context"/>
+                                <rs type="monuList"/>
+                            </provenance>                         
+                            <provenance type="observed">
+                            <placeName type="modernSpot">სახელმწიფო მუზეუმი</placeName>
+                            <idno></idno>
+                        </provenance>
+                    </history>                   
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>    
+    <facsimile>
+        <surface>
+            <graphic url="ecg020.jpg">
+                <desc xml:lang="ka">ვანის ბეჭედი, 1986</desc>
+                <desc xml:lang="en">Ring from Vani, 1986</desc>
+            </graphic>
+        </surface>
+    </facsimile>
+    
+    <text>
+        <body>
+            
+             <div type="bibliography">
+                <listBibl>
+                    <bibl n="1">თინათინ ყაუხჩიშვილი, საქართველოს ბერძნული წარწერების კორპუსი<ptr target="bibliography.xml#b130"/>, <citedRange>გვ. 150</citedRange></bibl>
+                </listBibl>
+            </div>
+
+            <div type="edition" xml:lang="grc" xml:space="preserve">
+                
+                        <!-- Δέδατος    -->
+
+         <ab>
+             <persName><name nymRef="Δέδατος">Δέδατος</name></persName> 
+         </ab>                              
+            </div>
+                
+            <div type="translation" xml:lang="ka">
+                <p>დედატოსი</p>
+            </div>
+            
+           <div type="commentary">
+                <p>დედატოსი მიჩნეულია ნივთის მფლობელის სახელად.</p>
+           </div>
+      
+        </body>
+    </text>
+</TEI>
+
+
+

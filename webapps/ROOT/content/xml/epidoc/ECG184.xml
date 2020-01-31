@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.stoa.org/epidoc/schema/8.23/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.stoa.org/epidoc/schema/8.23/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:space="preserve" xml:lang="ka">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>V-VI სს. წინადადება ბიბლიური "შესაქმედან“</title>
+                <editor>გიორგი ოთხმეზური</editor>
+                <editor>ზაზა ალექსიძე</editor>
+                <editor></editor>
+            </titleStmt>
+            <publicationStmt>
+                <authority>ილიას სახელობის სახელმწიფო უნივერსიტეტი</authority>
+                <idno type="filename">ECG184</idno>
+                <availability><licence target="http://creativecommons.org/licenses/by-nc-sa/3.0/">
+                    დოკუმენტი ვრცელდება Creative Commons Attribution-NonCommercial-ShareAlike 3.0 ლიცენზიით</licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <collection>დმანისი</collection>
+                    </msIdentifier>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>
+                                <objectType ref="https://www.eagle-network.eu/voc/objtyp/">ქვასვეტის კაპიტელი</objectType>
+                                <material ref="https://www.eagle-network.eu/voc/objtyp/lod/1402">ქვა</material>
+                                  <dimensions/>
+                            </support>
+                            </supportDesc>
+                            <layoutDesc>
+                                <layout>
+                                    ერთ სვეტად გამოყვანილია ოთხ სტრიქონში თითო გრაფემა
+                                    <dimensions/>
+                                </layout>
+                            </layoutDesc>
+                        </objectDesc>
+                        <handDesc>
+                            <handNote script="asomtavruli" style="embossed">
+                                რელიეფური, ასომთავრული წარწერა. ქარაგმისა და განკვეთილობის ნიშნები არ ახლავს. 
+                                <dimensions unit="cm">
+                                    <height>25-28</height>
+                                </dimensions>        
+                            </handNote>
+                        </handDesc>
+                    </physDesc>
+                    <history>
+                        <origin>
+                            <origPlace>დმანისი</origPlace>
+                            <origDate notBefore="0400" notAfter="0500"></origDate>
+                        </origin>
+                        <provenance type="Found" when="1998">სოფ. განთიადსა და სოფ. ტნუსს შორის ადგილ ნაგზაურაში
+                            <rs type="circumstences"/>
+                        </provenance>
+                        
+                    </history>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text><!-- 
+    1. დ
+    2. ღ
+    3. ე
+    4. ა -->
+        
+        <body>
+
+            <div type="edition" xml:lang="ka" xml:space="preserve">
+                    <ab>
+                        
+                        <lb n="1"/><w lemma="დღე">დ
+                        <lb n="2" break="no"/>ღ
+                        <lb n="3" break="no"/>ე
+                        <lb n="4" break="no"/>ა</w>
+                    </ab>
+                   
+            </div>
+
+            <div type="translation">
+                <p>
+                    
+                </p>
+            </div>
+            
+            
+            <div type="commentary">
+                <p>"დღე ა" ანუ "დღე პირველი". საეკლესიო კომპლექსი წარწერები(#1, 2, 12-20, 26-27)  აღმოჩენილია 1998 წელს სოფ. განთადსა და სოფ. ტნუსს შორის ადგილ ნაგზარაში ოპტიკურ- ბოჩკოვანი კაბელი გაყვანისას. 
+                    არქეოლოგიურ  გათხრებს აწარმოებდნენ   საქართველოს მეც. აკადემიის არქეოლოგიური კვლევის ცენტრის ფილიალი- დმანისის ისტორიულ არქეოლოგიური განყოფილების მაშავერას ხეობის 
+                    არქეოლოგიური ექსპედიცია (1998, 200-2004წწ. );  საქართველოს ეროვნული მუზეუმი და არასამთავრობო ორგანიზაცია სტუდენტთა "საექსპედიციო მოძრაობა" ექსპედიცია(2010 წ.) 
+                    ამჟამად წარწერები დაცულია ქ. დმანისის კულტურის ცენტრის მუზეუმში. 
+                    სრულად შემონახული ქვასვეტის კაპიტელის ქტიტორების გამოსახულებიანი წახნაგის მარცხენა აშიაზე ერთ სვეტად გამოყვანილია 4.სტრ.(სტრიქონში თითო გრაფემა) რელიეფური ასომთავრული წარწერა 
+                    წარწერა სრული სახითაა მოღწეული.  წარწერა, ცხადია. ქვასვეტის დამზადების თანადროულია. რელიეფური კვეთა და პალეოგრაფია იძლევა მის V-VI სს-ით დათარიღებით შესაძლებლობას. 
+                    წარწერაში მოცემულია წინადადება ბიბლიური "შესაქმე"-დან. "დღე ა"  ანუ "დღე პირველი". 
+                </p>
+            </div>
+            
+            <div type="bibliography">
+                <listBibl>
+                   <bibl>
+                       <author> გიორგი ოთხმეზური</author>
+                    
+                    <title type="main">დმანისი</title> 
+                    <title type="sub">ქვემო ქართლის ეპიგრაფიკული კორპუსი</title>
+                    
+                    <bibl type="vol">I</bibl>
+                    <bibl type="pp">73-74</bibl>
+                    <pubPlace>თბილისი</pubPlace> 
+                    
+                    <date>2018</date>
+                </bibl>
+                    
+                    <bibl> 
+                        <author><name>ზაზა</name><surname>ალექსიძე</surname></author>
+                        <title type="main" level="a">ადრექრისტიანული საეკლესიო კომპლექსი დმანისთან</title>
+                        <title level="s"></title>
+                        <bibl type="vol"></bibl>
+                        <bibl type="pp">83</bibl>
+                        <pubPlace>თბილისი</pubPlace>
+                        <date>2012</date>
+                    </bibl>
+       
+                </listBibl>
+                
+            </div>
+        </body>
+    </text>
+</TEI>

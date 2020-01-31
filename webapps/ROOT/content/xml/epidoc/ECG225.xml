@@ -1,0 +1,290 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.stoa.org/epidoc/schema/8.23/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.stoa.org/epidoc/schema/8.23/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:space="preserve" xml:lang="ka">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>საამშენებლო წარწერა ლიპარიტ ერისთავთ-ერისთავის მოსახსენებლით</title>
+                <editor>გიორგი ოთხმეზური</editor>
+            </titleStmt>
+            <publicationStmt>
+                <authority>ილიას სახელმწიფო უნივერსიტეტი, ლინგვისტურ კვლევათა ინსტიტუტი</authority>
+                <idno type="filename">ECG225</idno>
+                <availability>
+                    <licence target="http://creativecommons.org/licenses/by-nc-sa/3.0/"> 
+                        დოკუმენტი ვრცელდება Creative Commons Attribution-NonCommercial-ShareAlike 3.0 ლიცენზიით
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <collection>
+                            დმანისი
+                        </collection>
+                    </msIdentifier>
+                    
+                    <msContents>
+                        <summary>
+                            <seg xml:lang="ka">საამშენებლო</seg>
+                            <seg xml:lang="en"/>
+                        </summary>
+                    </msContents>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>
+                                    <objectType ref="https://www.eagle-network.eu/voc/objtyp/lod/1402">ფილა</objectType>
+                                    <material ref="http://www.eagle-network.eu/voc/objtyp/lod/1338">ბალავრის ქვა</material>
+                                    <dimensions unit="cm">
+                                        <width>160</width>
+                                        <height>60</height>
+                                        
+                                      <!-- <width>160</width>
+                                        <height>57</height>
+                                        
+                                        <width>160</width>
+                                        <height>57</height>
+                                        
+                                        <width>106</width>
+                                        <height>44</height> -->  
+                                    </dimensions>
+                                </support>
+                            </supportDesc>
+                            <layoutDesc>
+                                <layout>
+                                   ეკლესიის შესასვლელი კარის თავზე ჩადგმულ სამ გამყოფილებიან დიდ ბალავრის ქვაზე ოთხი წარწერაა ამოკვეთილი: 1) მარცხენა განყოფილებაში ამოკვეთილია 
+                                   5 სტრიქონიანი წარწერა, 2) ქვის შუა განყოფილებაში, ჯვრის ორივე მხარეს, მკლავებს ზემოთ ამოკვეთილია წმინდანის სახელი, ვისი სახელობისაცაა ეკლესია, 
+                                   1 სტრიქონად. 3) იგივე განყოფილებაში, ჯვრის ორივე მხარეს, მკლავებს ზემოთ ამოკვეთილია 5 სტრიქონიანი წარწერა. 4) ქვის მარჯვენა 
+                                   განყოფილებაში, მთელ სიგრძეზე ამოკვეთილია საამშენებლო შინაარსის წარწერა, 7 სტრიქონად.
+                                    <dimensions unit="cm">
+                                        <width>62</width>
+                                        <height>43</height>
+                                        
+                                       <!-- <width>17</width>
+                                        <height>54</height>
+                                        
+                                        <width>67</width>
+                                        <height>33</height>
+                                        
+                                        <width>77</width>
+                                        <height>44</height> --> 
+                                    </dimensions>
+                                </layout>
+                            </layoutDesc>
+                        </objectDesc>
+                        <handDesc>
+                            <handNote script="asomtavruli" style="inscribed">
+                                 ქარაგმის ნიშნად გამოყენებულია კიდურწაისრული სწორი, გრძელი, განივი ხაზი.
+                                <dimensions unit="cm">
+                                    <height>4-10; 2-8 (IIIსტრ.); 5-10; 4-7; 4-6</height>
+                                </dimensions>
+                            </handNote>
+                        </handDesc>
+                        <decoDesc>
+                            <decoNote>
+                               ფილას ირგვლივ ორმაგი ლილვის ოთხკუთხა ჩარჩო შემოუყვება, ხოლო მისი ზედაპირი ვერტიკალური ლილვებით სამად არის დაყოფილი.
+                               შუაში გამოსახულია ოთხსაფეხურიან სადგარზე აღმართული დიდი ზომის მონუმენტური ჯვარი, მკლავების ოდნავ გაფართოებული ბოლოებით.
+                            </decoNote>
+                        </decoDesc>
+                    </physDesc>
+                    <history>
+                        <origin>
+                            <origPlace>დიდი გომარეთი, წმ. მარიამის ეკლესია</origPlace>
+                            <origDate>1034 AD</origDate>
+                        </origin>
+
+                        <provenance type="observed">
+                            <placeName type="modernspot">დიდი გომარეთი, წმ. მარიამის ეკლესია</placeName>
+                            <rs type="circumtances"/>
+                        </provenance>
+                    </history>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    
+                
+    <!-- 
+    
+        
+    <facsimile>
+        <surface>
+            <graphic url="tskise_01.jpg">
+                <desc xml:lang="ka">წყისეს წარწერა</desc>
+                <desc xml:lang="en"></desc>
+            </graphic>
+        </surface>
+    </facsimile>
+    
+    -->
+    
+    
+    <text>
+        <!--
+        1.ქ(რისტ)ე, მე(უ)ფ(ე)ო
+        2.დ(იდე)ბ(ისა)ო, ა(დი)დ(ე)ნ
+        3.ლ(ი)პ(არი)ტ ე(რისთავთ)-ე(რისთავი)
+        4.და შვ(ი)ლნი
+        5.მისნი
+        -->
+        <body>
+
+         <div type="edition" xml:lang="ka" xml:space="preserve">
+            <div type="textpart" subtype="fragment" n="1">
+                <ab>
+                    <lb n="1"/><persName><name nymRef="ქრისტე"><expan><abbr>ქ</abbr><ex>რისტ</ex><abbr>ე</abbr></expan></name></persName>
+                               <w lemma="მეუფე"><expan><abbr>მე</abbr><ex>უ</ex><abbr>ფ</abbr><ex>ე</ex><abbr>ო</abbr></expan></w>   
+                    <lb n="2"/><w lemma="დიდება"><expan><abbr>დ</abbr><ex>იდე</ex><abbr>ბ</abbr><ex>ისა</ex><abbr>ო</abbr></expan></w>   
+                               <w lemma="დიდება"><expan><abbr>ა</abbr><ex>დი</ex>დ<ex>ე</ex>ნ</expan></w>  
+                    <lb n="3"/><persName><name nymRef="ლიპარიტ"><expan><abbr>ლ</abbr><ex>ი</ex><abbr>პ</abbr><ex>არი</ex><abbr>ტ</abbr></expan></name></persName>
+                               <roleName nymRef="ერისთავთ-ერისთავ"><expan><abbr>ე</abbr><ex>რისთავთ</ex><abbr>ე</abbr><ex>რისთავი</ex></expan></roleName> 
+                    <lb n="4"/><w lemma="და">და</w>             
+                               <w lemma="შვილ"><expan><abbr>შვ</abbr><ex>ი</ex><abbr>ლნი</abbr></expan></w>
+                    <lb n="5"/><w lemma="მის">მისნი</w> 
+                    </ab>
+             </div>
+                
+                 <div type="textpart" subtype="fragment" n="2">
+                    <ab>  
+                        <lb n="1"/><w lemma="წმიდა"><expan><abbr>წ</abbr><ex>მიდა</ex><abbr>ჲ</abbr></expan></w> <persName><name nymRef="მარიამ"><expan><abbr>მ</abbr><ex>არია</ex><abbr>მ</abbr></expan></name></persName>
+                     </ab>
+                </div>
+                
+                <div type="textpart" subtype="fragment" n="3">
+                         <ab>  
+                             <lb n="1"/><persName><name nymRef="ქრისტე"><expan><abbr>ქ</abbr><ex>რისტ</ex><abbr>ე</abbr></expan></name></persName> <w lemma="დიდება"><expan><abbr>ად</abbr><ex>იდ</ex><abbr>ე</abbr></expan></w>      
+                             <lb n="2"/><w lemma="სულ"><expan><abbr>ს</abbr><ex>უ</ex><abbr>ლი</abbr></expan></w> <w lemma="დიდ"><expan><abbr>დი
+                             <lb n="3" break="no"/>დ</abbr><ex>ი</ex><abbr>სა</abbr></expan></w>   
+                             <lb n="4"/><persName><name nymRef="ლიპარიტ"><expan><abbr>ლ</abbr><ex>ი</ex><abbr>პ</abbr><ex>არი</ex><abbr>ტ</abbr></expan></name></persName>  
+                             <lb n="5"/><roleName nymRef="ერისთავთ-ერისთავ"><expan><abbr>ე</abbr><ex>რისთავთ</ex><abbr>ე</abbr><ex>რისთავისა</ex><abbr>ჲ</abbr></expan></roleName>
+                         </ab>
+                </div>
+                
+                <div type="textpart" subtype="fragment" n="4">
+                     <ab>  
+                         <lb n="1"/><w lemma="სახელ"><expan><abbr>ს</abbr><ex>ა</ex><abbr>ხ</abbr><ex>ე</ex><abbr>ლ</abbr><ex>ი</ex><abbr>თა</abbr></expan></w>              
+                                   <w lemma="ღმერთ"><expan><abbr>ღ</abbr><ex>მრ</ex><abbr>თ</abbr><ex>ი</ex>
+                         <lb n="2" break="no"/><abbr>სა</abbr><ex>ჲთა</ex></expan></w>   
+                                    <w lemma="დადება"><expan><abbr>და</abbr><ex>იდ</ex><abbr>ვა</abbr></expan></w>
+                         <lb n="3"/><w lemma="ბალავარ"><expan><abbr>ბ</abbr><ex>ა</ex>ლ<ex>ავა</ex><abbr>რი</abbr></expan></w>   
+                                    <w lemma="ესე">ესე</w> 
+                                    <w lemma="დიდება"><expan><abbr>ა
+                         <lb n="4" break="no"/>დ</abbr><ex>იდ</ex><abbr>ენ</abbr></expan></w>
+                                    <w lemma="ღმერთ"><expan><abbr>ღ</abbr><ex>მერთმა</ex><abbr>ნ</abbr></expan></w>
+                                    <roleName nymRef="ერისთავთ-ერისთავ"><expan><abbr>ე</abbr><ex>რისთავთ</ex><abbr>ე</abbr><ex>რისთავის</ex></expan></roleName>   
+                         <lb n="5"/><persName><name nymRef="ლიპარიტ"><expan><abbr>ლ</abbr><ex>ი</ex><abbr>პ</abbr><ex>არი</ex><abbr>ტ</abbr><ex>ი</ex><abbr>ს</abbr></expan></name></persName>
+                                    <w lemma="უფლობა"><expan><abbr>უ</abbr><ex>ფ</ex><abbr>ლ</abbr><ex>ო</ex><abbr>ბ</abbr><ex>ას</ex><abbr>ა</abbr></expan></w>
+                         <lb n="6"/><w lemma="ქორონიკონ"><expan><abbr>ქ</abbr><ex>ო</ex><abbr>რ</abbr><ex>ონი</ex><abbr>კ</abbr><ex>ო</ex><abbr>ნი</abbr></expan></w>   
+                         <lb n="7"/><w lemma="">იყო</w>
+                                <num value="1032">სმიბ</num> 
+                         </ab>
+                </div>
+           
+            </div>
+            
+            
+            <div type="bibliography">
+                <listBibl>
+                    
+                    <bibl>
+                    <author>
+                        <persName>
+                            <forename>გიორგი</forename>
+                            <surname>ოთხმეზური</surname>
+                        </persName>
+                    </author>
+                    <title level="m" type="main">დმანისი, ქვემო ქართლის ეპიგრაფიკული კორპუსი</title>
+                    <bibl type="vol"/>
+                    <pubPlace>თბილისი</pubPlace>
+                    <date>2018</date>
+                    <biblScope unit="pp">119-121</biblScope>
+                </bibl>
+                    <bibl>
+                        <author>
+                            <persName>
+                                <forename>Е.</forename>
+                                <surname>Такайшвили</surname>
+                            </persName>
+                        </author>
+                        <title level="m" type="main">археологические экскурсии, разыскания и эаметки</title>
+                        <edition></edition>
+                        <bibl type="vol">IV</bibl>
+                        <pubPlace>тифлис</pubPlace>
+                        <publisher/>
+                        <date>1913</date>
+                        <biblScope unit="pp">86</biblScope>
+                    </bibl>
+                    
+                    <bibl>
+                        <author>
+                            <persName>
+                                <forename>ვალერი</forename>
+                                <surname>სილოგავა</surname>
+                            </persName>
+                        </author>
+                        <title level="m" type="main">ქვემო ქართლის წარწერები (ზოგადი მიმოხილვა)</title>
+                        <edition>კრებ. „დმანისი“</edition>
+                        <bibl type="vol">II</bibl>
+                        <pubPlace>თბილისი</pubPlace>
+                        <publisher/>
+                        <date>2000</date>
+                        <biblScope unit="pp">243</biblScope>
+                    </bibl>
+                    
+                  
+                    
+                    <bibl>
+                        <author>
+                            <persName>
+                                <forename>დევი</forename>
+                                <surname>ბერძენიშვილი</surname>
+                            </persName>
+                        </author>
+                        <title level="m" type="main">ნარკვევები ქვემო ქართლის ისტორიული გეოგრაფიიდან</title>
+                        <edition/>
+                        <bibl type="vol"/>
+                        <pubPlace>თბილისი</pubPlace>
+                        <publisher>სეზანი</publisher>
+                        <date>2014</date>
+                        <biblScope>107</biblScope>
+                    </bibl>
+                    
+                    <bibl>
+                        <author>
+                            <persName>
+                                <forename>გიორგი</forename>
+                                <surname>ოთხმეზური</surname>
+                            </persName>
+                        </author>
+                        <title level="m" type="main">დმანისის რაიონის ეპიგრაფიკული ძეგლების (წარწერების მიმოხილვა და ისტორიული ექსკურსი)</title>
+                        <edition/>
+                        <bibl type="vol"/>
+                        <pubPlace>თბილისი</pubPlace>
+                        <publisher/>
+                        <date>2016</date>
+                        <biblScope unit="pp">23</biblScope>
+                    </bibl>
+                </listBibl>
+                </div>
+            
+                <div type="translation"/>
+                
+                <div type="commentary">
+                    <p>წარწერა გაცხოველებული იყო სინგურით.
+                       ბალავრის ქვაზე მოთავსებული წარწერები გაერთიანებულია ერთ დიდ სათაურში: „საამშენებლო წარწერა ლიპარიტ ერისთავთ-ერისთავის მოსახსენებლით“,
+                       მაგრამ ოთხივე წარწერას აქვს ცალკე სათაურები: 1)„ ლიპარიტ ერისთავთ-ერისთავისა და მისი შვილების სადიდებელი წარწერა“, 2) „წმ. მარიამის წარწერა“,
+                       3) „ერისთავთ-ერისთავის ლიპარიტ III რატის ძის მოსახსენიებელი წარწერა“, 4) „ლიპარიტ IV ერისთავთ-ერისთავის სადიდებელი წარწერა“. 
+                       დაზიანება: წარწერის ქვა და შესაბამისად წარწერა დაზიანებული არ არის. მარჯვენა ნაწილში წითელი საღებავი თითქმის აღარ შეიმჩნევა.
+                       წარწერას ახლავს თარიღი: ქორონიკონი სნდ (254+780=1032)
+                       პირველი წარწერის მესამე სტრიქონში ვ. სილოგავა კითხულობს: ე(რისთავთა) ე(რისთავი), ეპისკოპოსი ზენონი კი მეოთხე სტრიქონში კითხულობს: შუილნი.
+                       მეორე წარწერაში  დ. ბერძენიშვილი კითხულობს: მამაა. მესამე წარწერის მეორე-მესამე სტრიქონში ვ. სილოგავა კითხულობს: დიდისა, მეხუთეში - ე(რისთავთა) ე(რისთავისა)ჲ; 
+                       ეპისკოპოსი ზენონი მეორე სტრიქონში კითხულობს: ასული, მეოთხე წარწერის პირველ-მეორე სტრიქონებში ეპისკოპოსი ზენონი კითხულობს: ღმრთისათა,
+                       მეორეში - დაიდუა; ეპისკოპოსი ზენონი, დ. ბერძენიშვილი და ექ. თაყაიშვილი მეხუთე სტრიქონში კითხულობენ: უფლებასა; ექ. თაყაიშვილი და დ. ბერძენიშვილი
+                       პირველ-მეორე სტრიქონებში კითხულობენ: ღმრთისა; ვ. სილოგავა მესამე სტრიქონში კითხულობს: ბ(ა)ლ(აჰვა)რი, მეოთხეში - ე(რისთავთა) ე(რისთავის), მეექვსეში - ქრ(ონი)კ(ო)ნი</p>
+                </div>
+            
+        </body>
+    </text>
+</TEI>

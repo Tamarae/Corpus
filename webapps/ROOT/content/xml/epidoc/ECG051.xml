@@ -1,0 +1,159 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.stoa.org/epidoc/schema/8.23/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.stoa.org/epidoc/schema/8.23/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:space="preserve" xml:lang="ka">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>პალესტინის წარწერა III</title>
+                <editor>გიორგი წერეთელი</editor>
+            </titleStmt>
+            <publicationStmt>
+                <authority>ილიას სახელმწიფო უნივერსიტეტი, ლინგვისტურ კვლევათა ინსტიტუტი</authority>
+                 <idno type="filename">ECG051</idno>
+                <availability>
+                    <licence target="http://creativecommons.org/licenses/by-nc-sa/3.0/">
+                       დოკუმენტი ვრცელდება Creative Commons Attribution-NonCommercial-ShareAlike 3.0 ლიცენზიით.
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <collection>პალესტინა</collection>
+                    </msIdentifier>
+                     <msContents>
+                        <summary>
+                            <seg xml:lang="ka">მოსახსენებელი</seg>
+                            <seg xml:lang="en"/>
+                        </summary>
+                    </msContents>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>                             
+                                   <material ref="http://www.eagle-network.eu/voc/material/lod/134">მოზაიკა</material>
+                                   <objectType>იატაკი</objectType>
+                                </support>
+                            </supportDesc>
+                                <layoutDesc>
+                                    <layout writtenLines="5"> 
+                                        ხუთივე სტრიქონი დაუზიანებლად არის მოღწეული                                                                
+                                        <dimensions unit="cm">
+                                            <width>81,5</width>
+                                            <height>34</height>
+                                            <depth/>
+                                        </dimensions>
+                                    </layout>
+                                </layoutDesc>
+                        </objectDesc>                        
+                        <handDesc>
+                            <handNote script="asomtavruli" style="mosaic">
+                                <rs type="execution">მოზაიკური</rs> <rs type="script">ასომთავრული</rs> წარწერა
+                                  <height unit="cm" precision="high">10-11,5</height>
+                                 </handNote>
+                        </handDesc>
+                    </physDesc>
+                    <history>
+                            <origin>
+                                <origPlace>პალესტინა, იუდას უდაბნო, წმიდა თეოდორეს სახელობის ქართული მონასტერი</origPlace>
+                                <origDate notBefore-custom="0532" notAfter-custom="0552" precision="medium" 
+                                    evidence="lettering" datingMethod="#julian">532-552 AD</origDate>
+                            </origin>
+                            <provenance type="found" when="1952">
+                                <placeName type ="ancientFindspot">პალესტინა, იუდას უდაბნო, წმიდა თეოდორეს სახელობის ქართული მონასტერი</placeName> 
+                                <!--  "31.667433, 35.166452"-->
+                                <rs type="circumstances">1952-1953 წლებში იტალიელმა არქეოლოგმა, ვირჯილიო კორბომ, პალესტინაში, იუდას უდაბნოში, ბეთლემის მახლობლად, 
+                                    აღმოაჩინა ქართული მონასტრის ნანგრევები, სადაც მიაკვლიეს სამ ქართულ წარწერას. ეს წარწერა შესრულებულია ბეთლემის მონასტრის სასადილოს იატაკზე და ჩასმულია ჩარჩოში. მარცხნიდან და მარჯვნიდან ჩარჩოს ახლავს სახელურები.</rs>
+                                <rs type="context"/>
+                                <rs type="monuList"/>
+                            </provenance>                         
+                            <provenance type="observed">
+                            <placeName type="modernSpot" ref="http://www.christusrex.org/www1/ofm/sbf/SBFmsm.html">იერუსალიმის ფრანცისკანელთა მუზეუმი (Studium Biblicum Franciscanum Museum)</placeName>
+                            <idno></idno>
+                        </provenance>
+                    </history>                   
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+       <revisionDesc><change when="2019-10-29" who="Eka Kvirkvelia">ტექსტის სრული კოდირება, მეტამონაცემების სრული კოდირება, 
+            ბმულებით დაკავშირება ავტორიტეტულ წყაროსთან</change></revisionDesc>
+    </teiHeader>
+
+ 
+    <facsimile>
+        <surface>
+            <graphic url="ecg51.jpg">
+                <desc xml:lang="ka">პალესტინის წარწერა III</desc>
+                <desc xml:lang="en"></desc>
+            </graphic>
+        </surface>
+    </facsimile>
+ 
+    <text>
+        <body>
+            <div type="bibliography">
+              <listBibl>
+                   <bibl n="1">გიორგი წერეთელი, უძველესი ქართული წარწერები პალესტინიდან<ptr target="bibliography.xml#b67"/>, <citedRange>გვ. 94</citedRange></bibl>
+                   <bibl n="2">კორნელი დანელია, ზურაბ სარჯველაძე, ქართული პალეოგრაფია<ptr target="bibliography.xml#b92"/>, <citedRange>გვ. 28-31</citedRange></bibl>
+                   <bibl n="3">Virjilio Corbo, M. Tarchnishvili, „La Terra Santa“<ptr target="bibliography.xml#b32"/>, <citedRange>pp. 181-186</citedRange></bibl>
+                  <bibl n="4">მიხეილ თარხნიშვილი, ახლად აღმოჩენილი ქართველთა მონასტერი ბეთლემში<ptr target="bibliography.xml#b96"/></bibl>
+                  <bibl n="5">Virjilio Corbo, Gli scavi di Kh. Siyar el-Ghanam (Campo dei Pastori) e i monasteri dei dintorni<ptr target="bibliography.xml#b30"/>, <citedRange>pp. 135-140</citedRange></bibl>
+              <bibl n="6">შალვა ნუცუბიძე, პალესტინის ახალი გათხრები და ქართული კულტურის საკითხები<ptr target="bibliography.xml#b117"/></bibl>
+              <bibl n="7">სიმონ ყაუხჩიშვილი, „ქართლის ცხოვრება“<ptr target="bibliography.xml#b109"/>, <citedRange>გვ. 061</citedRange></bibl> 
+              <bibl n="7">Besik Khurtsilava, About the old georgian inscriptions from Bir El-Qutt in Jerusalem<ptr target="bibliography.xml#b8"/></bibl>
+              </listBibl>
+                </div>
+            
+            <div type="edition" xml:lang="ka" xml:space="preserve">
+                
+                        <!--  “შეწევნითა ქჱსითა და მ
+                            ეოხებითა წმიდისა თეჲსითა 
+                            შნ ანტონი აბაჲ და იოსია მო
+                            მსხმელი ამის სეფისაჲ და მა
+                            მა დედაჲ იოსიაჲსი ამენ”.  -->    
+
+                <ab>
+                   <lb n="1"/><w lemma="შეწევნა">შეწევნითა</w> 
+                              <w lemma="ქრისტჱ"><expan><abbr>ქ</abbr><ex>რისტ</ex><abbr>ჱსითა</abbr></expan></w> და 
+                                <w lemma="მეოხება">მ
+                    <lb n="2" break="no"/>ეოხებითა</w> 
+                                <w lemma="წმიდა">წმიდისა</w> 
+                                <name nymRef="თეოდორე"><expan><abbr>თ</abbr><ex>ეოდორ</ex><abbr>ეჲსითა</abbr></expan></name>
+                    <lb n="3"/><rs type="pn"><w lemma="შეწყალება"><expan><abbr>შ</abbr><ex>ეხიწყალე</ex><abbr>ნ</abbr></expan></w></rs> 
+                              <name nymRef="ანტონი">ანტონი</name> 
+                            <roleName><w lemma="აბა">აბაჲ</w></roleName> 
+                                და <name nymRef="იოსია">იოსია</name> <w lemma="მომსხმელი">მო
+                    <lb n="4" break="no"/>მსხმელი</w> <w lemma="ეს">ამის</w> 
+                                    <w lemma="სეფა">სეფისაჲ</w> 
+                                    და <w lemma="მამა">მა
+                    <lb n="5" break="no"/>მა</w> 
+                                <w lemma="დედა">დედაჲ</w> 
+                                <name nymRef="იოსია">იოსიაჲსი</name>
+                                <w lemma="ამენ">ამენ</w>
+                </ab>
+             </div>
+                
+            <div type="translation" xml:lang="ka">
+                <p>ქრისტეს დახმარებითა და წმიდა თეოდორეს შუამდგომლობით შეწყალებულ იქნეს ანტონი მამა (წინამძღოლი) და იოსია, 
+                    ამ მოზაიკის მომსხმელი (მომსხმევინებელი) და იოსიას მშობლები. </p></div>
+            
+            <div type="apparatus" xml:space="preserve"/>
+            
+            <div type="commentary">
+                <p> წარწერის პირველი პუბლიკაცია ეკუთვნის მიხეილ თარხნიშვილს. მან მიუთითა, რომ თეოდორე არის IV საუკუნის მოწამე თეოდორე ტირონი.
+                მანვე შენიშნა, რომ ანტონი აბაჲ ცნობილია წმიდა მართას, სვიმეონ მესვეტის დედის, ცხოვრებიდან. 
+                გიორგი წერეთელმა განსაკუთრებული ყურადღება მიაქცია პალესტინის წარწერებს. იგი მიიჩნევდა, რომ წმიდა თეოდორეს სახელობის მონასტერი პეტრე იბერიელმა 
+                V საუკუნის 30-იან წლებში და მანვე შეამკო იგი ქართული წარწერებით. ანტონის წმინდა ნაწილები მიუტანია სვიმონ მესვეტესთან 552 წელს,
+                მართას გარდაცვალებისა და სვიმეონის სვეტზე ასვლიდან ერთი წლის შემდეგ. 553 წლიდან ანტონი სელევკიის ეპისკოპოსია. 
+                გიორგი წერეთელმა მიუთითა, რომ „მართას ცხოვრების“ მიხედვით, 552 წელს ანტონი ჯერ კიდევ საქართელოში იყო და იგი ვერ შეძლებდა პალესტინის 
+                ქართული მონასტრის წარწერა გაეკეთებინა. შესაბამისად, ეს წარწერა 532-552 წლებით თარიღდება. 
+                იოსია, რომელიც ამ წარწერაშია მოხსენიებული, სხვა წერილობითი წყაროებისათვის უცნობია. 
+                იგი მიაჩნიათ იმ პირად, ვისაც ანტონი წინამძღოლმა მოასხმევინა სეფი, ანუ გააკეთებინა მოზაიკა. 
+                უფრო საფიქრებელია, რომ იოსია იყო ის პირი, რომელმაც სახსრები გაიღო მოზაიკის იატაკის გასაკეთებლად.
+               </p>
+            </div>
+                           
+         </body>
+    </text>
+</TEI>

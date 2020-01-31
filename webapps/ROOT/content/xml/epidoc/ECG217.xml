@@ -1,0 +1,189 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.stoa.org/epidoc/schema/8.23/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.stoa.org/epidoc/schema/8.23/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:space="preserve" xml:lang="ka">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>1020-1048/9 წწ. მოსახსენებელი დავით და კვირიკე მეფეებისა</title>
+                <editor>გიორგი ოთხმეზური</editor>
+            </titleStmt>
+            <publicationStmt>
+                <authority>ილიას სახელობის სახელმწიფო უნივერსიტეტი</authority>
+                <idno type="filename">ECG217</idno>
+                <availability><licence target="http://creativecommons.org/licenses/by-nc-sa/3.0/">
+                    დოკუმენტი ვრცელდება Creative Commons Attribution-NonCommercial-ShareAlike 3.0 ლიცენზიით</licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                <msIdentifier>
+                        <collection>
+                            დმანისი
+                        </collection>
+                    </msIdentifier>
+                    
+                    <msContents>
+                        <summary>
+                            <seg xml:lang="ka">მოსახსენებელი</seg>
+                            <seg xml:lang="en"/>
+                        </summary>
+                    </msContents>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>
+                                <objectType>ბალავრის ქვა</objectType>
+                                <material>ქვა</material>
+                            </support>
+                            </supportDesc>
+                            <layoutDesc>
+                                <layout><p>ბალავრის ქვა</p>
+                                
+                                <dimensions unit="cm">
+                                    <height>2720</height>
+                                    <width>840</width>
+                                </dimensions>
+                                </layout>
+
+                            </layoutDesc>
+                        </objectDesc>
+                        <handDesc>
+                            <handNote script="asomtavruli" style="inscribed">
+                                <p>ასომთავრული წარწერა</p>
+                                <dimensions unit="cm">
+                                    <height>4-6</height>
+                                </dimensions>        
+                            </handNote>
+                        </handDesc>
+                    </physDesc>
+                    <history>
+                        <origin>
+                            <origPlace>დმანისი</origPlace>
+                            <origDate>1020-1048/49</origDate>
+                        </origin>
+                        <provenance type="observed">
+                            <placeName type="modernspot">ზემო ყარაბულახი</placeName>
+                        </provenance>
+                        
+                    </history>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    
+            <!-- 
+    
+        
+    <facsimile>
+        <surface>
+            <graphic url="tskise_01.jpg">
+                <desc xml:lang="ka">წყისეს წარწერა</desc>
+                <desc xml:lang="en"></desc>
+            </graphic>
+        </surface>
+    </facsimile>
+    
+    -->
+    
+    <text>
+        <!-- 
+    1. ქ. ად(ი)დ(ე)ნ ღ(მერთმა)ნ დავით მეფ(ე), კ(ვირიკ)ე მეფე
+     -->
+        
+        <body>
+
+            <div type="edition" xml:lang="ka" xml:space="preserve">
+
+                    <ab>
+                        <lb n="1"/><persName><name nymRef="ქრისტე"><expan><abbr>ქ</abbr><ex>ისტე</ex></expan></name></persName> <w lemma="ადიდებს"><expan><abbr>ად</abbr><ex>ი</ex><abbr>დ</abbr><ex>ე</ex><abbr>ნ</abbr></expan></w> 
+                        <w lemma="ღმერთ"><expan><abbr>ღ</abbr><ex>მერთმა</ex><abbr>ნ</abbr></expan></w> 
+                        <persName><name nymRef="დავით">დავით</name></persName> <roleName nymRef="მეფე"><expan><abbr>მეფ</abbr><ex>ე</ex></expan></roleName> 
+                        <persName><name nymRef="კვირიკე"><expan><abbr>კ</abbr><ex>ვირიკ</ex><abbr>ე</abbr></expan></name></persName> <roleName nymRef="მეფე">მეფე</roleName> 
+                    </ab>
+                 
+                
+            </div>
+            
+            <div type="translation"/>
+            
+            <div type="commentary">
+                <p> სოფლის ცენტრში მფგარი ეკლესიის სამხ. კარის თავზე ბალავარის ქვაზე ამოღარულია 1სტრ. ასომთავრული წარწერა.
+                    განკვეთილობის ნიშნები არა ხალავს. ქარაგმის ნიშნად გამოყენებულია სწორი საშუალო სიგრძის განივი ხაზი.
+                    დაზინება: გადარეცხვისა და გამოფიტვისგან წარწერა გაფერმკრთალებულია, მაგრამ სრულად იკითხება.
+                    წარწერის დათარიღება წინა გამოცემებში:
+                    1) წარწერაში დასახელებულნი არიან დავით IV აღმაშენებელი(1089-1125) და კვირიკე IV კახთა მეფე(1084-1102) (თ);
+                    2) სომეხი კვირიკიანები დავით და კვირიკე(რ, ბ, ო).
+                    წარმოდგენილი დათარიღების საფუძველი: 
+                    წარწერაში მოხსენიებულნი არიან ტაშირ-ძორაკეთის მეფეები დავით I ანოღინი (უმიწაწყლო) (991-1048/49) და მისი უფროსი ვაჟი კვირიკე II
+                    (1048/9-1089). ორივეს მეფედ მოხსენიება მათ თანამოსაყდრეობაზე მიგვანიშნებს, რაც დავით I-ის მეფობის მეორე ნახევარში, გაგიკ I(989-1020)
+                    ანისის მეფის(რომლის ქვეშერმდომი იყო დავითი) გარდაცვალების შემდეგაა სავარაუდებელი. ზედა ქრონოლოგიური ზღვარი, ბუნებრივია, დავითის ზეობის დასასრულია.
+                </p>
+            </div>
+            <div type="bibliography">
+                <listBibl>
+                    <bibl>
+                    <editor>
+                        <name>გიორგი</name>
+                        <surname>ოთხმეზური</surname>
+                    </editor>
+                    <title type="main">დმანისი</title> 
+                    <title type="sub">ქვემო ქართლის ეპიგრაფიკული კორპუსი</title>
+                    <bibl type="vol"></bibl>
+                    <bibl type="pp">108-109</bibl>
+                    <pubPlace>თბილისი</pubPlace> 
+                    <date>2018</date>
+                </bibl>
+                    <bibl><author><name>Е.</name><surname>Такайшвили</surname></author>
+                        <title type="main" level="a">Археологические екскурсииб разискания и заметки</title>
+                        <title level="s"></title>
+                        <bibl type="vol">IV</bibl>
+                        <bibl type="pp">103</bibl>
+                        <pubPlace>Тифлис</pubPlace>
+                        <date>1913</date>
+                    </bibl>
+                    <bibl><author><name>ლ.</name><surname>რჩეულიშვილი</surname></author>
+                        <title type="main" level="a">ქართული ხელოვნების ისტორიის ნარკვევები</title>
+                        <title level="s"></title>
+                        <bibl type="vol"></bibl>
+                        <bibl type="pp">40</bibl>
+                        <pubPlace>თბილისი</pubPlace>
+                        <date>1994</date>
+                    </bibl>
+                    <bibl><author><name>დ.</name><surname>ბერძენიშვილი</surname></author>
+                        <title type="main" level="a">ნარკვევები ქვემო ქართლის ისტორიული გეოგრაფიიდან</title>
+                        <title level="s"></title>
+                        <bibl type="vol"></bibl>
+                        <bibl type="pp">112</bibl>
+                        <pubPlace>თბილისი</pubPlace>
+                        <date>2014</date>
+                    </bibl>
+                    <bibl><author><name>გიორგი</name><surname>ოთხმეზური</surname></author>
+                        <title type="main" level="a">დმანისის რაიონის ეპიგრაფიკული ძეგლები (წარწერების მიმოხილვა და ისტორიული ექსკურსი)</title>
+                        <title level="s"></title>
+                        <bibl type="vol"></bibl>
+                        <bibl type="pp">15</bibl>
+                        <pubPlace>თბილისი</pubPlace>
+                        <date>2016</date>
+                    </bibl>
+                    
+                </listBibl>
+                
+            </div>
+        </body>
+    </text>
+</TEI>
+
+
+
+
+
+
+
+
+
+
+
+
+
+

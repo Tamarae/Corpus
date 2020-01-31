@@ -1,0 +1,2 @@
+[INFO ] 2019-05-31 17:41:34,305 [main] Logback logging API implementation is configured.
+[INFO ] 2019-05-31 17:41:39,626 [main] FrameworkServlet 'openrdf-http-server': initialization completed in 11166 ms

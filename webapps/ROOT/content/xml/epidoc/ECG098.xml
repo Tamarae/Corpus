@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+<?xml-model href="http://www.stoa.org/epidoc/schema/8.23/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.stoa.org/epidoc/schema/8.23/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:space="preserve" xml:lang="ka">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>საფარის წმ. გიორგის ეკლესიის იოვანეს წარწერა წყაროს აშენებისა</title>
+                <editor>ვალერი სილოგავა</editor>
+            </titleStmt>
+            <publicationStmt>
+                <authority>ილიას სახელმწიფო უნივერსიტეტი, ლინგვისტურ კვლევათა ინსტიტუტი</authority>
+                 <idno type="filename">ECG098</idno>
+                <availability>
+                    <licence target="http://creativecommons.org/licenses/by-nc-sa/3.0/">
+                       დოკუმენტი ვრცელდება Creative Commons Attribution-NonCommercial-ShareAlike 3.0 ლიცენზიით.
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <collection>საფარა</collection>
+                    </msIdentifier>
+                     <msContents>
+                        <summary>
+                            <seg xml:lang="ka">მოსახსენებელი</seg>
+                            <seg xml:lang="en"/>
+                        </summary>
+                    </msContents>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>                             
+                                    <objectType ref="https://www.eagle-network.eu/voc/objtyp/lod/416">კედელი</objectType>
+                                    <material ref="http://www.eagle-network.eu/voc/material/lod/2">ქვა</material>                                   
+                                      <dimensions unit="cm">
+                                        <width/>
+                                        <height/>
+                                        <depth/>
+                                      </dimensions>
+                                </support>
+                            </supportDesc>
+                                <layoutDesc>
+                                    <layout writtenLines="3">წარწერა სამსტრიქონიანია. იგი შესრულებულია საფარის წმ. გიორგის სახელობის საშუალო ზომის დარბაზული ეკლესიის შიგნით,
+                                ჩრდილოეთ კედელში ჩასმულ ფილაზე
+                                        <dimensions unit="cm">
+                                         <width/>
+                                         <height/> 
+                                        </dimensions>  
+                                    </layout>                                   
+                                </layoutDesc>
+                        </objectDesc>                        
+                        <handDesc>
+                            <handNote script="asomtavruli" style="inscribed">
+                                <rs type="execution">ამოღარული</rs> <rs type="script">ასომთავრული</rs> წარწერა
+                                   <height/> 
+                            </handNote>
+                        </handDesc>
+                    </physDesc>
+                    <history>
+                            <origin>
+                                <origPlace>საფარის მონასტერი</origPlace>
+                                 <origDate notBefore-custom="1400" notAfter-custom="1500" precision="medium" 
+                                    evidence="context" datingMethod="#julian">XV AD</origDate>
+                            </origin>
+                            <provenance type="found">
+                                <placeName type ="ancientFindspot">საფარის მონასტერი</placeName>
+                                <!-- "41.602116, 43.031036"--> 
+                                <rs type="circumstances"></rs>
+                                <rs type="context"></rs>
+                                <rs type="monuList"/>
+                            </provenance>                                
+                            <provenance type="observed">
+                                <placeName type="modernSpot">საფარის მონასტერი</placeName>
+                                <idno type="invNo"/>
+                            </provenance> 
+                    </history>                   
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <revisionDesc><change when="2019-10-29" who="Eka Kvirkvelia">ტექსტის სრული კოდირება, მეტამონაცემების სრული კოდირება, 
+            ბმულებით დაკავშირება ავტორიტეტულ წყაროსთან</change></revisionDesc>
+    </teiHeader>
+    <!--<facsimile>
+        <surface>
+            <graphic url="ecg098.jpg">
+                <desc xml:lang="ka">საფარის წმ. გიორგის ეკლესიის იოვანეს წარწერა წყაროს აშენებისა</desc>
+                <desc xml:lang="en"></desc>
+            </graphic>
+        </surface>
+    </facsimile>--> 
+    <text>
+        <body>           
+             <div type="bibliography">
+              <listBibl> 
+       <bibl n="1">ვალერი სილოგავა, სამცხის ლაპიდარული ეპიგრაფიკა<ptr target="bibliography.xml#b149"/>, <citedRange>გვ. 118-169</citedRange></bibl>
+             </listBibl> 
+            </div>            
+            <div type="edition" xml:lang="ka" xml:space="preserve">
+                
+                        <!--  "† წო სბა მეოხყვ
+                            სოლა [ი]ოვნესა ესე წ
+                            ყრო აშენა"--> 
+                                                            
+
+                <ab>
+                   <lb n="1"/>&#8224;<w lemma="წმიდა"><expan><abbr>წ</abbr><ex>მიდა</ex><abbr>ო</abbr></expan></w> 
+                                   <name nymRef="საბა" type="forename"><expan><abbr>ს</abbr><ex>ა</ex><abbr>ბა</abbr></expan></name> 
+                                    <w type="მეოხ-ყოფა"><expan><abbr>მეოხ</abbr><ex>ე</ex><abbr>ყ</abbr><ex>ა</ex><abbr>ვ</abbr></expan></w>          
+                   <lb n="2"/><w lemma="სულ"><expan><abbr>სო</abbr><ex>ჳ</ex><abbr>ლ</abbr><ex>ს</ex>ა</expan></w> 
+                       <name nymRef="იოვანე"><expan><supplied reason="lost"><abbr>ი</abbr></supplied><abbr>ოვ</abbr><ex>ა</ex><abbr>ნესა</abbr></expan></name> 
+                                 <w lemma="ესე">ესე</w> 
+                                 <w lemma="წყარო"><expan><abbr>წ
+                   <lb n="3" break="no"/>ყ</abbr><ex>ა</ex><abbr>რო</abbr></expan></w> 
+                             <w lemma="შენება"><expan><abbr>ა</abbr><ex>ღა</ex><abbr>შენა</abbr></expan></w>     
+                   </ab>
+               </div>           
+         <div type="translation" xml:lang="ka">
+             <p>† წმიდაო საბა, მეოხ-ეყავ იოვანეს სულს, რომელმაც ეს წყარო ააშენა.</p>
+         </div>    
+                             
+               <div type="commentary">
+                <p>საფარის მონასტერი ძველი დროიდანვე სხვადასხვა დანიშნულების 12 ნაგებობისაგან შედგებოდა. მათ შორის მთავარია წმ. საბას
+                   სახელობის ტაძარი, აგებული ბექა სამცხის სპასალარისა და მანდატურთუხუცესის მიერ XIII-XIV სს. მიჯნაზე. საფარაში ამაზე ძველი ეკლესიაც არსებობს, X ს-ის
+                   ღვთისმშობლის მიძინების სახელობის ტაძარი, რომელსაც ჩრდილოეთიდან მიდგმული აქვს ზემოხსენებული წმ. საბას ტაძარი. 
+                   ვალერი სილოგავას აზრით, წმინდა გიორგის ტაძარი, რომელზეც ეს წარწერაა შესრულებული, აგებულია XV საუკუნეში. მასზე შესრულებული წარწერებიც
+                   თანადროული უნდა იყოს. 
+                   იოვანეს წყაროს აშენების წარწერა ძალზე მნიშვნელოვანია, რადგან ძველი წარწერები წყაროთა აშენების-გამოყვანის და მის გარშემო გარკვეული ტიპის ნაგებობების 
+                   აგების შესახებ იშვიათია. ტექსტისეული „ესე წყარო აღაშენა“ ვალერი სილოგავას აფიქრებინებს, რომ წარწერიანი ფილა თავდაპირველად არა ეკლესიის კედელში
+                   და ისიც მის შიგნით, არამედ წყაროს თავზე იქნებოდა ჩასმული და აქ იგი მეორედ გამოყენების შედეგადაა მოხვედრილი.
+               </p>                
+            </div>           
+        </body>
+    </text>
+</TEI>

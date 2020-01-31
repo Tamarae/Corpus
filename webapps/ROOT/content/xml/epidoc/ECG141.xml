@@ -1,0 +1,216 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.stoa.org/epidoc/schema/8.23/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.stoa.org/epidoc/schema/8.23/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:space="preserve" xml:lang="ka">
+    <teiHeader>
+        <!-- წყევლიანი IMG_9491, IMG_9493, IMG_9494, IMG_9495-->  
+        <fileDesc>
+            <titleStmt>
+                <title>გოლიათის სააღაპე წარწერა</title>
+                <editor>ვალერი სილოგავა</editor>
+                <editor>მარი ბროსე</editor>
+                <editor>ექვთიმე თაყაიშვილი</editor>
+                <editor>ნიკო ბერძენიშვილი</editor>
+                <editor>ვ. ცისკარიშვილი</editor>
+                <editor>ი. პ. როსტომოვი</editor>
+            </titleStmt>
+            <publicationStmt>
+                <authority>ილიას სახელმწიფო უნივერსიტეტი</authority>
+                <idno type="filename">ECG141</idno>
+                <availability><licence target="http://creativecommons.org/licenses/by-nc-sa/3.0/">დოკუმენტი ვრცელდება Creative Commons Attribution-NonCommercial-ShareAlike 3.0 ლიცენზიით.</licence></availability>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                    <collection>კუმურდო</collection>
+                    </msIdentifier>
+                    
+                   <msContents>
+                        <summary>
+                            <seg xml:lang="ka">სააღაპე წარწერა</seg>
+                            <seg xml:lang="en"/>
+                        </summary>
+                    </msContents>
+                    
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>
+                                <objectType ref="https://www.eagle-network.eu/voc/objtyp/lod/1402">სამხრეთის ფილა</objectType>
+                                <material ref="https://www.eagle-network.eu/voc/material/lod/2">ქვა</material>
+                                <dimensions>
+                                    <height></height>
+                                    <width></width>
+                                </dimensions>
+                            </support>
+                            </supportDesc>
+                            <layoutDesc>
+                                <layout writtenLines="6"> 
+                                ექვსი სტრიქონი; ამოკვეთილი ქვის ორ მოვარდისფრო ფილაზე, რომლებიც გვერდი-გვერდაა ჩასმული ტაძრის სამხრეთ კედელში, შესასვლელის მარჯვნივ, ქვემოდან მე-5 რიგში 
+                                <dimensions unit="cm">
+                                    <width>41.5</width>
+                                    <height>52</height>
+                                </dimensions>
+                            </layout>
+                            </layoutDesc>
+                        </objectDesc>
+                        <handDesc>
+                            <handNote script="asomtavruli" style="inscribed">
+                                განკვეთილობის ნიშანი არ ახლავს; ქარაგმის ნიშანი-განივი, სწორი ხაზი
+                                <dimensions unit="mm">
+                                    <height>30-40</height>
+                                </dimensions>
+                            </handNote>
+                        </handDesc>
+                    </physDesc>
+                    <history>
+                        <origin>
+                            <origPlace>კუმურდო</origPlace>
+                            <origDate notBefore="0990" notAfter="1010"></origDate>
+                        </origin>
+                        <provenance type="observed" when="2017-06-30">
+                            <placeName>კუმურდოს საკათედრო ტაძარი</placeName>
+                            <rs type="circumtances">წარწერის ფოტოდოკუმენტაცია გაკეთდა 2017 წლის 30 ივნისს, ილიას სახელმწიფო უნივერსიტეტის ეპიგრაფიკის სამაგისტრო კურსის დასკვნითი ექსპედიციის ფარგლებში</rs>
+                            <idno/>
+                        </provenance>
+                    </history>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    
+    
+                
+       <facsimile>
+        <surface>
+            <graphic url="ecg141.jpg">
+                <desc xml:lang="ka">კუმურდო, 2017</desc>
+                <desc xml:lang="en"></desc>
+            </graphic>
+            
+                <graphic url="kumurdo.jpg">
+                <desc xml:lang="ka">კუმურდო, 2017</desc>
+                <desc xml:lang="en"></desc>
+            </graphic>
+        </surface>
+    </facsimile>
+        
+    
+    
+    
+    <text>
+        <!--
+        1.ს(ა)ხ(ე)ლ(ი)თა ღ(მრთისაჲ)თა.მე, გ(რი)გ
+        2.(ო)ლ ებ(ი)სკ(ოპო)სმ(ა)ნ დ(აუ)დ(ე)ვ
+        3.აღ(ა)პ(ა)დ დღე ეგ(ნა)ტ(ი)სი
+        4.გ(ო)ლ(ია)თსა; ვინ შ(ე)ცვ(ა)ლ(ო)ს
+        5.კრ(უ)ლ(ი)ა ამ(ი)თ
+        6.ხ(ა)ტ(ი)თა, ჩ(ემ)ით ჯ(უა)რ(ი)თ(ა).
+        --> 
+        <body>
+
+            <div type="edition" xml:lang="ka" xml:space="preserve">
+
+            <ab>
+               <lb n="1"/><w lemma="სახელ"><expan><abbr>ს</abbr><ex>ა</ex><abbr>ხ</abbr><ex>ე</ex><abbr>ლ</abbr><ex>ი</ex><abbr>თა</abbr></expan></w> <w lemma="ღმერთ"><expan><abbr>ღ</abbr><ex>მრთისაჲ</ex><abbr>თა</abbr></expan></w> <w lemma="მე">მე</w> <persName><name nymRef="გრიგოლ"><expan><abbr>გ</abbr><ex>რი</ex><abbr>გ</abbr>
+               <lb n="2" break="no"/><ex>ო</ex><abbr>ლ</abbr></expan></name></persName> <roleName><w lemma="ებისკოპოს"><expan><abbr>ებ</abbr><ex>ი</ex><abbr>სკ</abbr><ex>ოპო</ex><abbr>სმ</abbr><ex>ა</ex><abbr>ნ</abbr></expan></w></roleName> <w lemma="დებს"><expan><abbr>დ</abbr><ex>აუ</ex><abbr>დ</abbr><ex>ე</ex><abbr>ვ</abbr></expan></w>
+               <lb n="3" /><w lemma="აღაპ"><expan><abbr>აღ</abbr><ex>ა</ex><abbr>პ</abbr><ex>ა</ex><abbr>დ</abbr></expan></w> <w lemma="დღე">დღე</w> <persName nymRef="ეგნატე"><expan><abbr>ეგ</abbr><ex>ნა</ex><abbr>ტ</abbr><ex>ი</ex><abbr>სი</abbr></expan></persName>
+               <lb n="4"/><persName><name nymRef="გოლიათ"><expan><abbr>გ</abbr><ex>ო</ex><abbr>ლ</abbr><ex>ია</ex><abbr>თსა</abbr></expan></name></persName> <rs type="curse"><w lemma="ვინ">ვინ</w> <w lemma="ცვლის"><expan><abbr>შ</abbr><ex>ე</ex><abbr>ცვ</abbr>
+                <lb n="5"/><ex>ა</ex><abbr>ლ</abbr><ex>ო</ex><abbr>ს</abbr></expan></w> <w lemma="კრულ"><expan><abbr>კრ</abbr><ex>უ</ex><abbr>ლ</abbr><ex>ი</ex><abbr>ა</abbr></expan></w> <w lemma="ამით"><expan><abbr>ამ</abbr><ex>ი</ex><abbr>თ</abbr></expan></w>
+               <lb n="6"/><w lemma="ხატ"><expan><abbr>ხ</abbr><ex>ა</ex><abbr>ტ</abbr><ex>ი</ex><abbr>თა</abbr></expan></w> <w lemma="ჩემი"><expan><abbr>ჩ</abbr><ex>ემ</ex><abbr>ით</abbr></expan></w> <w lemma="ჯუარ"><expan><abbr>ჯ</abbr><ex>უა</ex><abbr>რ</abbr><ex>ი</ex><abbr>თა</abbr></expan></w></rs>
+               </ab> 
+            
+            </div>
+            <div type="bibliography">
+                <listBibl>
+                    
+                    <bibl>
+                    <author>
+                       <name>ვალერი</name>
+                       <surname>სილოგავა</surname>   
+                    </author>
+                    <title type="main" level="a">კუმურდო</title>
+                    <title level="s"/>
+                    <bibl type="vol"/>
+                    <bibl type="pp">52-54</bibl>
+                    <pubPlace>თბილისი</pubPlace>
+                    <date>1994</date>
+                     </bibl>
+                    
+                    
+                    <bibl>
+                        <author>
+                           <name>M</name> 
+                            <surname>Brosset</surname>
+                        </author>
+                        <title type="main" level="a">Rapports sur un voyage archeologique dans la Georgie et dans l'Armenie execute en 1847-1848</title>
+                        <title level="s"/>
+                        <bibl type="vol">II</bibl>
+                        <bibl type="pp">169</bibl>
+                        <pubPlace>ST.-PETERSBOURG</pubPlace>
+                        <date>1850</date>
+                    </bibl>
+                    <bibl>
+                        <author>
+                            <name>И.П.</name>
+                            <surname>Ростомов</surname>
+                        </author>
+                        <title type="main" level="a">Аxалкалакский уъезд в арxеологическом отношении</title>
+                        <title level="s"/>
+                        <bibl type="vol"/>
+                        <bibl type="pp">88-89</bibl>
+                        <pubPlace>тифлись</pubPlace>
+                        <date>1898</date>
+                    </bibl>
+                    <bibl>
+                        <author>
+                            <name>Е.С.</name>
+                            <surname>Такайшвили</surname>
+                        </author>
+                        <title type="main" level="a">Христианские памятники</title>
+                        <title level="s"/>
+                        <bibl type="vol"/>
+                        <bibl type="pp">39</bibl>
+                        <pubPlace>Москва</pubPlace>
+                        <date>1909</date>
+                    </bibl>
+                    <bibl>
+                        <author>
+                            <name>ვ.</name>
+                            <surname>ცისკარიშვილი</surname>
+                        </author>
+                        <title type="main" level="a">ჯავახეთის ეპიგრაფიკა, როგორც საისტორიო წყარო</title>
+                        <title level="s"></title>
+                        <bibl type="vol"></bibl>
+                        <bibl type="pp">19</bibl>
+                        <pubPlace>თბილისი</pubPlace>
+                        <date>1959</date>
+                    </bibl>
+                    <bibl>
+                        <author>
+                            <name>ნ.</name>
+                            <surname>ბერძენიშვილი</surname>
+                        </author>
+                        <title type="main" level="a">ჯავახეთის 1933 წლის ექსპედიციის დღიური, იხ. მისი "საქართველის ისტორიის საკითხები", ისტორიული გეოგრაფია</title>
+                        <title level="s"/>
+                        <bibl type="vol">I</bibl>
+                        <bibl type="pp">134</bibl>
+                        <pubPlace>თბილისი</pubPlace>
+                        <date>1964</date>
+                    </bibl> 
+                    
+                </listBibl>
+            </div>
+
+            <div type="translation"/>
+
+            
+            <div type="commentary">
+                <p>წარწერა ვარდისფერია</p>
+            </div>
+        </body>
+    </text>
+</TEI>
+
+            
+            

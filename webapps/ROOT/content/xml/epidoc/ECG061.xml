@@ -1,0 +1,155 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.stoa.org/epidoc/schema/8.23/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.stoa.org/epidoc/schema/8.23/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:space="preserve" xml:lang="ka">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>ბოლნისის სიონის VII ს. ფრაგმენტი</title>
+                <editor>ნოდარ შოშიაშვილი</editor>
+            </titleStmt>
+            <publicationStmt>
+                <authority>ილიას სახელმწიფო უნივერსიტეტი, ლინგვისტურ კვლევათა ინსტიტუტი</authority>
+                <idno type="filename">ECG061</idno>
+                <availability>
+                    <licence target="http://creativecommons.org/licenses/by-nc-sa/3.0/">
+                        დოკუმენტი ვრცელდება Creative Commons Attribution-NonCommercial-ShareAlike 3.0 ლიცენზიით.
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <collection>ბოლნისი</collection>
+                    </msIdentifier>
+                     <msContents>
+                        <summary>
+                            <seg xml:lang="ka">მოსახსენებელი</seg>
+                            <seg xml:lang="en"/>
+                        </summary>
+                    </msContents>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>
+                                    <objectType ref="http://www.eagle-network.eu/voc/objtyp/lod/250">სტელა</objectType>
+                                    <material ref="http://www.eagle-network.eu/voc/material/lod/2">მწვანე ქვა</material>
+                                    <dimensions unit="cm">
+                                        <height>33</height>
+                                        <width>16</width>
+                                    </dimensions>
+                                </support>
+                            </supportDesc>
+                            <layoutDesc>
+                                <layout writtenLines="6">
+                                    წარწერა ექვსსტრიქონიანია. დამუშავებულია სტელის სამი გვერდი:
+                                        I გვერდზე გამოქანდაკებულია რელიეფური, მედალიონში ჩასმული „ბოლნური ჯვარი“, რომლის ზემოთ მცენარეული 
+                                        ორნამენტით შემკული ჯვრის ხარისხებიანი კვარცხლბეკია. მარჯვენა და მარცხენა წიბოებზე გამოქანდაკებულია ლილვი. 
+                                        II გვერდზე, დადაბლებულ ფონზე, ზედა ნაწილში, ხარისხებიანი კვარცხლბეკის რელიეფური გამოსახულების ნაშთია, 
+                                        ხოლო ქვემოთ შემორჩენილია რელიეფური ასომთავრული წარწერის ფრაგმენტი. 
+                                        III გვერდზე, ქვემო ნაწილში, შემორჩენილია იმავე წარწერის მეორე ფრაგმენტი, ორი სტრიქონი.
+                                         <dimensions unit="cm">
+                                        <height>8</height>
+                                        <width>13</width>
+                                    </dimensions>
+                                     <dimensions unit="cm">
+                                        <height>9</height>
+                                        <width>11</width>
+                                    </dimensions>
+                                   </layout>
+                            </layoutDesc>
+                        </objectDesc>                    
+                           <handDesc>
+                             <handNote script="asomtavruli" style="embossed">
+                                <rs type="execution">რელიეფური</rs> <rs type="script">ასომთავრული</rs> წარწერა
+                               <height unit="cm">3,5-4</height>                                  
+                           </handNote>
+                        </handDesc>
+                    </physDesc>                
+                     <history>
+                        <origin>
+                            <origPlace>ბოლნისის სიონი</origPlace>
+                           <origDate notBefore="0600" notAfter="0700">VII AD</origDate>
+                        </origin>
+                        <provenance type="found" when="1948">
+                            <placeName type="ancientFindspot" ref="http://pleiades.stoa.org/places/863760">ბოლნისის სიონი</placeName>
+                            <!-- 41.389081, 44.512551 --> 
+                            <rs type="monuList"/>
+                            <rs type="circumstances">ბოლნისის ტაძარი მდებარეობს ისტორიულ ქვემო ქართლში, 
+                                9 კმ. მანძილზე ქ. ბოლნისიდან სამხრეთით, 1 კმ. მანძილზე სოფ. ბონის-ხაჩინიდან. ქვა წარწერებით აღმოჩნდა ქვემო ბოლნისის სამეკლესიან 
+                                ბაზილიკასთან, საქართველოს სახელმწიფო მუზეუმში ჩამოიტანეს მუზეუმის თანამშრომლებმა 1948 წელს.</rs>
+                            <rs type="context"/>
+                        </provenance>  
+                        <provenance type="observed">
+                            <placeName type="modernSpot" ref="http://museum.ge/">საქართველოს ეროვნული მუზეუმი</placeName>
+                             <idno type="invNo">147</idno>
+                        </provenance>
+                    </history>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <revisionDesc><change when="2019-10-29" who="Eka Kvirkvelia">ტექსტის სრული კოდირება, მეტამონაცემების სრული კოდირება, 
+            ბმულებით დაკავშირება ავტორიტეტულ წყაროსთან</change></revisionDesc>
+    </teiHeader>
+    
+   <facsimile>
+        <surface>
+            <graphic url="ecg061.jpg">
+                <desc xml:lang="ka">ბოლნისის სიონის VII ს. ფრაგმენტი</desc>
+                <desc xml:lang="en"></desc>
+            </graphic>
+        </surface>
+    </facsimile>
+    
+    <text>
+        <body>
+             <div type="bibliography"> 
+                <listBibl>
+                    <bibl n="1">ნოდარ შოშიაშვილი, ქართული წარწერების კორპუსი, ლაპიდარული წარწერები<ptr target="bibliography.xml#b101"/>, <citedRange>გვ. 78-79</citedRange></bibl>                 
+                    <bibl n="2">საქართველოს სახელმწიფო მუზეუმის ქართული ეპიგრაფიკული ძეგლების კატალოგი<ptr target="bibliography.xml#b111"/>, <citedRange>გვ. 24</citedRange></bibl>
+                </listBibl>
+            </div> 
+            
+            <div type="edition" xml:space="preserve">                    
+                    <!--II გვერდი
+                        „შეწევ
+                        [ნით]ა
+                        [ღთა]  -->
+            
+                <div type="textpart" subtype="section" n="1" xml:lang="ka">    
+                       <ab>
+                           <lb n="1"/><w lemma="შეწევნა">შეწევ
+                           <lb n="2" break="no"/><supplied reason="lost">ნით</supplied>ა</w>
+                           <lb n="3"/><w lemma="ღმერთ"><supplied reason="lost"><expan><abbr>ღ</abbr><ex>მრისაჲ</ex><abbr>თა</abbr></expan></supplied></w>
+                       </ab>
+                                                             
+                    </div>
+                     <!--III გვერდი
+                        „მე რა[მ]
+                        აზ გე
+                         _______  -->
+            
+                    <div type="textpart" subtype="section" n="2" xml:lang="ka">
+                           <ab>
+                              <lb n="1"/><w lemma="მე">მე</w> <name nymRef="რამაზ">რა<supplied reason="lost">მ</supplied>
+                              <lb n="2" break="no"/>აზ</name> გე
+                              <lb n="3" break="no"/><gap reason="lost" quantity="1" unit="line"></gap>
+                           </ab>                                                         
+                     </div>
+		
+		</div>
+            
+            <div type="translation" xml:lang="ka">
+                <p n="1"> ღმრთის შეწევნით  </p>
+                  <p n="2"> მე, რამაზ, გე...  </p>                                                                                                                                                                                                                                                                    
+            </div>
+           
+            <div type="apparatus" xml:space="preserve"/>
+            
+            <div type="commentary">
+                <p> ნოდარ შოშიაშვილის ქართული წარწერების კორპუსის მიხედვით #13. წარწერას განკვეთილობისა და ქარაგმის ნიშნები არ ახლავს. 
+                 </p>
+               </div>
+         </body>
+    </text>
+</TEI>

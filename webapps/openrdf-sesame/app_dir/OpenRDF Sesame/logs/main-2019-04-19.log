@@ -1,0 +1,15 @@
+[INFO ] 2019-04-19 16:19:29,808 [main] Logback logging API implementation is configured.
+[INFO ] 2019-04-19 16:19:30,284 [main] FrameworkServlet 'openrdf-http-server': initialization completed in 1001 ms
+[INFO ] 2019-04-19 16:21:25,631 [repositories/kiln] Client sent bad request (404): Unknown repository: kiln
+[INFO ] 2019-04-19 16:22:10,648 [Thread-1] Closing org.springframework.web.context.support.XmlWebApplicationContext@70b9cdcc: display name [WebApplicationContext for namespace 'openrdf-http-server-servlet']; startup date [Fri Apr 19 16:19:29 GET 2019]; root of context hierarchy
+[INFO ] 2019-04-19 16:22:10,649 [Thread-1] Destroying singletons in org.springframework.beans.factory.support.DefaultListableBeanFactory@5a8fb312: defining beans [messageSource,adunaAppVersion,adunaAppConfig,adunaWebappNavigation,adunaWebappCommonValuesInserter,adunaWebappMessageInserter,adunaWebappNavigationInserter,filenameViewController,viewResolver,adunaWebappSystemUrlMapping,adunaWebappSystemOverviewController,adunaWebappLoggingOverviewController,adunaWebappSystemInfoController,openrdfRepositoryManager,scopedTarget.openrdfRepositoryInterceptor,openrdfRepositoryInterceptor,openrdfProtocolUrlMapping,openrdfRepositoryListUrlMapping,openrdfRepositoryUrlMapping,openrdfServerHomeUrlMapping,openrdfHandlerExceptionResolver,openrdfProtocolController,openrdfRepositoryListController,openrdfRepositoryController,openrdfRepositoryContextsController,openrdfRepositoryNamespacesController,openrdfRepositoryNamespaceController,openrdfRepositorySizeController,openrdfRepositoryStatementsController,openrdfRepositoryGraphController]; root of factory hierarchy
+[INFO ] 2019-04-19 16:23:48,530 [main] Logback logging API implementation is configured.
+[INFO ] 2019-04-19 16:23:48,822 [main] FrameworkServlet 'openrdf-http-server': initialization completed in 646 ms
+[INFO ] 2019-04-19 16:24:47,918 [repositories/kiln] Client sent bad request (404): Unknown repository: kiln
+[INFO ] 2019-04-19 16:27:32,645 [repositories/kiln] Client sent bad request (404): Unknown repository: kiln
+[INFO ] 2019-04-19 16:27:35,451 [repositories/kiln] Client sent bad request (404): Unknown repository: kiln
+[INFO ] 2019-04-19 16:27:44,684 [repositories/kiln] Client sent bad request (404): Unknown repository: kiln
+[INFO ] 2019-04-19 16:27:48,601 [repositories/kiln] Client sent bad request (404): Unknown repository: kiln
+[INFO ] 2019-04-19 16:30:29,200 [repositories/kiln] Client sent bad request (404): Unknown repository: kiln
+[INFO ] 2019-04-19 16:30:34,210 [repositories/kiln] Client sent bad request (404): Unknown repository: kiln
+[INFO ] 2019-04-19 16:31:49,840 [repositories/kiln] Client sent bad request (404): Unknown repository: kiln

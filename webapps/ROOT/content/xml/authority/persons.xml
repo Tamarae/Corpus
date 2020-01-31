@@ -1,0 +1,251 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title xml:lang="en">Authority list of people in ECG</title>
+            </titleStmt>
+            <publicationStmt><ab/></publicationStmt>
+            <sourceDesc><ab/></sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="commentary">
+                <listPerson type="local">
+                    <head xml:lang="en">Persons of the ECG</head>
+                    <head xml:lang="ka">KA: პირები</head>
+                    
+                    <person xml:id="pers1">
+                        <persName xml:lang="ka">შიო</persName>
+                        <bibl>
+                            <listRelation>
+                                <relation active="#pers1" name="brother" passive="#pers2">
+                                    <desc xml:lang="ka">ძმა პეტრესი</desc>
+                                </relation>
+                                <relation active="#pers1" name="brother" passive="#pers3">
+                                    <desc xml:lang="ka">ძმა სჳმონისა</desc>
+                                </relation>
+                            </listRelation>
+                        </bibl>
+                    </person>
+                    
+                    <person xml:id="pers2">
+                        <persName xml:lang="ka">პეტრე</persName>
+                         <bibl>
+                             <listRelation>
+                                 <relation active="#pers2" name="brother" passive="#pers1">
+                                     <desc xml:lang="ka">ძმა შიოსი</desc>
+                                 </relation>
+                                 <relation active="#pers2" name="brother" passive="#pers3">
+                                     <desc xml:lang="ka">ძმა სჳმონისა</desc>
+                                 </relation>
+                             </listRelation>
+                         </bibl>
+                    </person>
+                    
+                    <person xml:id="pers3">
+                        <persName xml:lang="ka">სჳმონ</persName>
+                        <bibl>
+                            <listRelation>
+                                <relation active="#pers3" name="brother" passive="#pers1">
+                                    <desc xml:lang="ka">ძმა შიოსი</desc>
+                                </relation>
+                                <relation active="#pers3" name="brother" passive="#pers2">
+                                    <desc xml:lang="ka">ძმა პეტრესი</desc>
+                                </relation>
+                            </listRelation>
+                        </bibl>
+                    </person>
+                    
+                    <person xml:id="pers4">
+                        <persName xml:lang="ka">პეტრე</persName>
+                    </person>
+                    
+                    <person xml:id="pers5">
+                        <persName xml:lang="ka">თევდორე იოდომისძე</persName>
+                    </person>
+                    
+                    <person xml:id="pers6">
+                        <persName xml:lang="ka">თევდორე</persName>
+                    </person>
+                    
+                    <person xml:id="pers7">
+                        <persName xml:lang="ka">ერისთავი კახა</persName>
+                    </person>
+                    
+                    <person xml:id="pers8">
+                        <persName xml:lang="ka">ბეღელა</persName>
+                        <bibl>
+                            <listRelation>
+                                <relation active="#pers8" name="father" passive="#pers9">
+                                    <desc xml:lang="ka">მამა ოქროპირისი</desc>
+                                </relation>
+                            </listRelation>
+                        </bibl>
+                    </person>
+                    
+                    <person xml:id="pers9">
+                        <persName xml:lang="ka">ოქროპირ</persName>
+                        <bibl>
+                            <listRelation>
+                                <relation active="#pers9" name="son" passive="#pers8">
+                                    <desc xml:lang="ka">ბეღელას ძე</desc>
+                                </relation>
+                                <relation active="#pers9" name="husband" passive="#pers10">
+                                    <desc xml:lang="ka"></desc>
+                                </relation>
+                            </listRelation>
+                        </bibl>
+                    </person>
+                    
+                    <person xml:id="pers10">
+                        <persName xml:lang="ka">კრავა</persName>
+                        <bibl>
+                            <listRelation>
+                                <relation active="#pers10" name="wife" passive="#pers9">
+                                    <desc xml:lang="ka"></desc>
+                                </relation>
+                            </listRelation>
+                        </bibl>
+                    </person>
+                    
+                    <person xml:id="pers11">
+                        <persName xml:lang="ka">იოვანე</persName>
+                    </person>
+                    
+                    <person xml:id="pers12">
+                        <persName xml:lang="ka">მიხრიკ</persName>
+                        <bibl>
+                            <listRelation>
+                                <relation active="#pers12" name="father" passive="#pers13">
+                                    <desc xml:lang="ka"></desc>
+                                </relation>
+                            </listRelation>
+                        </bibl>
+                    </person>
+                    
+                    <person xml:id="pers13">
+                        <persName xml:lang="ka">იობ</persName>
+                        <bibl>
+                            <listRelation>
+                                <relation active="#pers13" name="son" passive="#pers12">
+                                    <desc xml:lang="ka">მიხრიკის ძე</desc>
+                                </relation>
+                            </listRelation>
+                        </bibl>
+                    </person>
+                    
+                    <person xml:id="pers14">
+                        <persName xml:lang="ka">თევდოსი მამამთავარ კალონპეტისძე</persName>
+                    </person>
+                    
+                    <person xml:id="pers15">
+                        <persName xml:lang="ka">ანტონ</persName>
+                        <bibl>
+                            <listRelation>
+                                <relation active="#pers15" name="uncle" passive="#pers14">
+                                    <desc xml:lang="ka">ბიძა თევდოსისი</desc>
+                                </relation>
+                            </listRelation>
+                        </bibl>    
+                    </person>
+                    
+                    <person xml:id="pers16">
+                        <persName xml:lang="ka">აფრიდონ</persName>
+                    </person>
+                    
+                    <person xml:id="pers17">
+                        <persName xml:lang="ka">მჴეც ხუდადისძე</persName>
+                    </person>
+                    
+                    <person xml:id="pers18">
+                        <persName xml:lang="ka">ინაი ხუდადისძე</persName>
+                    </person>
+                    
+                    <person xml:id="pers19">
+                        <persName xml:lang="ka">გიორგი ხუდადისძე</persName> <!-- შვილი? -->
+                    </person>
+                    
+                    <person xml:id="pers20">
+                        <persName xml:lang="ka">იაკობ ხუდადისძე</persName>
+                    </person>
+                    
+                    <person xml:id="pers21">
+                        <persName xml:lang="ka">ბეშანგ ხუდადისძე</persName>
+                    </person>
+                    
+                    <person xml:id="pers22">
+                        <persName xml:lang="ka">მარიამ ხუდადისძე</persName> <!-- შვილი? -->
+                    </person>
+                    
+                    <person xml:id="pers23">
+                        <persName xml:lang="ka">გიორგი ხუდადისძე</persName>
+                        <bibl>
+                            <listRelation>
+                                <relation active="#pers23" name="husband" passive="#pers24">
+                                    <desc xml:lang="ka">მეუღლე მარიამ ხუდადისძისა</desc>
+                                </relation>
+                            </listRelation>
+                        </bibl>
+                    </person>
+                    
+                    <person xml:id="pers24">
+                        <persName xml:lang="ka">მარიამ ხუდადისძე</persName>
+                        <bibl>
+                            <listRelation>
+                                <relation active="#pers24" name="wife" passive="#pers23">
+                                    <desc xml:lang="ka">მეუღლე გიორგი ხუდადისძისა</desc>
+                                </relation>
+                            </listRelation>
+                        </bibl>
+                    </person>
+                    
+                    <person xml:id="pers25">
+                        <persName xml:lang="ka">ვარდერეს ტიკნაც-ტიკინი</persName>
+                    </person>
+                    
+                    <person xml:id="pers26">
+                        <persName xml:lang="ka">ხუფარაც ტიკინი</persName>
+                    </person>
+                    
+                    
+                    <person xml:id="pers27">
+                        <persName xml:lang="ka">ჲოვანე</persName>
+                    </person>
+                    
+                    <person xml:id="pers28">
+                        <persName xml:lang="ka">ბოლდოი</persName>
+                    </person>
+                    
+                    <person xml:id="pers29">
+                        <persName xml:lang="ka">იაკობ</persName>
+                    </person>
+                    
+                    <person xml:id="pers30">
+                        <persName xml:lang="ka">ოხოჟონ</persName>
+                    </person>
+                    
+                    <person xml:id="pers31">
+                        <persName xml:lang="ka">საჰაკდუხტ</persName>
+                    </person>
+                    
+                    <person xml:id="pers32">
+                        <persName xml:lang="ka">გურგანელ ატენის ციხისთავი</persName>
+                    </person>
+                    
+                    <person xml:id="pers33">
+                        <persName xml:lang="ka">თარხუნ</persName>
+                    </person>
+                    
+                </listPerson>
+                
+                
+              
+            </div>
+        </body>
+    </text>
+</TEI>

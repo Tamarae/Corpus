@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:space="preserve" xml:lang="ka">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>ნუხის ბერძნულწარწერიანი ფილა</title>
+                <editor>თინათინ ყაუხჩიშვილი</editor>
+            </titleStmt>
+            <publicationStmt>
+                <authority>ილიას სახელმწიფო უნივერსიტეტი, ლინგვისტურ კვლევათა ინსტიტუტი</authority>
+                 <idno type="filename">ECG014</idno>
+                <availability>
+                    <licence target="http://creativecommons.org/licenses/by-nc-sa/3.0/">
+                       დოკუმენტი ვრცელდება Creative Commons Attribution-NonCommercial-ShareAlike 3.0 ლიცენზიით.
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <collection>
+                            ნუხა
+                        </collection>
+                    </msIdentifier>
+                    <msContents>
+                        <summary>
+                            <seg xml:lang="ka">შეწირვითი</seg>
+                        </summary>
+                    </msContents>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>                             
+                                   <material ref="http://www.eagle-network.eu/voc/material/lod/66">კირქვა</material>
+                                   <objectType ref="http://www.eagle-network.eu/voc/objtyp/lod/54">სამშენებლო ფილა</objectType>
+                                </support>
+                            </supportDesc>
+                                <layoutDesc>
+                                    <layout writtenLines="3">
+                                     <dimensions unit="cm">
+                                        <width>47</width>
+                                        <height>12</height>
+                                      </dimensions>
+                                    </layout>
+                                </layoutDesc>
+                        </objectDesc>                        
+                        <handDesc>
+                            <handNote>
+                                <p>მთლიანად წარწერა დაუდევრად გამოყვანილის შთაბეჭდილებას ახდენს, არც ღრმადაა ამოკვეთილი.  
+                                I სტრიქონი მსხვილი ასოებითაა ნაწერი, II სტრიქონი უფრო წვრილი ასოებითაა შესრულებული, ასოები სტრიქონის
+                                ბოლოსკენ უფრო დამცრობილია. III სტრიქონი კიდევ უფრო წვრილადაა ნაწერი.</p>
+                                  <height unit="cm" precision="medium">ასოების სიმაღლე ზოგჯერ 5სმ-მდე აღწევს, 
+                                       II სტრიქონს დაახლ. 3 სმ უჭირავს, III-ს დაახლ. 2 სმ.</height>
+                                </handNote>
+                        </handDesc>
+                        <decoDesc>
+                            <decoNote></decoNote>
+                        </decoDesc>
+                    </physDesc>
+                    <history>
+                            <origin>
+                                <origPlace>ნუხა</origPlace>
+                                <origDate notBefore-custom="0001" notAfter-custom="0100" precision="medium" 
+                                    evidence="lettering" datingMethod="#julian">I AD</origDate>                               
+                            </origin>
+                            <provenance type="found">
+                                <placeName type ="ancientFindspot">ნუხა</placeName> 
+                                <rs type="circumstances"></rs>
+                                <rs type="context"/>
+                                <rs type="monuList"/>
+                            </provenance>                        
+                            <provenance type="observed">
+                            <placeName type="modernSpot" ref="http://museum.ge/">საქართველოს ეროვნული მუზეუმი</placeName>
+                            <idno>46</idno>
+                        </provenance>
+                    </history>                   
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>   
+    <facsimile>
+        <surface>
+            <graphic url="ecg014.jpg">
+                <desc xml:lang="ka">სამშენებლო ფილა ნუხადან</desc>
+                <desc xml:lang="en">Building plaque from Nukha</desc>
+            </graphic>
+        </surface>
+    </facsimile>    
+    <text>
+        <body>
+             
+            <div type="bibliography">
+                <listBibl>
+                    <bibl n="1">თინათინ ყაუხჩიშვილი, საქართველოს ბერძნული წარწერების კორპუსი<ptr target="bibliography.xml#b130"/>, <citedRange>გვ. 254</citedRange></bibl>
+                    <bibl n="2">თინათინ ყაუხჩიშვილი, ბერძნული წარწერები საქართველოში<ptr target="bibliography.xml#b80"/>, <citedRange>გვ. 240-241</citedRange></bibl>
+                </listBibl>
+            </div>
+            
+            <div type="edition" xml:lang="grc" xml:space="preserve">
+                
+                        <!-- Αἴλιος Ἰάσων 
+                            Εὐνώνῃ τῷ εὐερ
+                            γέτῃ μνήμης χάριν
+                                                 -->
+             <ab>
+                 <lb n="1"/><persName><name nymRef="Αἴλιος">Αἴλιος</name> <name nymRef="Ἰάσων">Ἰάσων</name></persName> 
+                 <lb n="2"/><persName nymRef="Εὐνώνης εὐεργέτης"><name nymRef="Εὐνώνης">Εὐνών<supplied reason="subaudible">ῃ</supplied></name></persName> <w lemma="ὁ">τῷ</w> <w lemma="εὐεργέτης">εὐερ
+                 <lb n="3" break="no"/>γέτ<supplied reason="subaudible">ῃ</supplied></w> <w lemma="μνήμη">μνήμης</w> <w lemma="χάρις">χάριν</w>
+             </ab>             
+         
+            </div>
+                
+            <div type="translation" xml:lang="ka">
+                <p>აილიოს იასონი ევნონეს ევერგეტს (კეთილისმყოფელს) სახსოვრად.</p>
+            </div>
+            
+           <div type="apparatus" xml:space="preserve">                                                                                                   <!-- კრიტიკული აპარატი -->
+
+               <p>
+                   <app loc="2"><lem>εὐεργέτης</lem>
+               <rdg resp="თინათინ ყაუხჩიშვილი">სიტყვაში "εουεργέτης" ευ-დიფთონგისათვის გვაქვს εου, ამ დროისათვის ευ-დიფთონგი გადმოიცემა ευ და εου დაწერილობებით. 
+                   ე.ი. რეალურად ευ-დიფთონგი არის ევ და ვ-სთვის ამ დროს გვაქვს დაწერილობა ου და υ (შემდეგ კი β).</rdg>
+               </app>
+               </p>
+            </div>
+           
+            <div type="commentary">
+                <p>დათარიღების საფუძველია ასოთა მოხაზულობა (მრგვალი C, კბილებიანი ω, α-სა და λ-ის წაგრძელებული ზემოთკენ მარჯვენა ბუნი) ენობრივი
+                   ნორმა (εου=ευ), საკუთარი სახელი (Αἴλιος = ლათ. Aelius) და მთლიანად ფორმულა (რც მთავრდება μνήμης χάριν-ით).</p>
+                <p>ა. ამირანაშვილი მას II-III სს-ით ათარიღებს, უპირატესობას ანიჭებს II სს.</p>
+                <p>წარწერის ასოთაგან გამოირჩევა I სტრიქონის Α და II სტრიქონის Η (თუ ორივე დაუდევარი ჩაჭრის შედეგი არ არის). ყურადღებას იქცევს Μ. 
+                    დანარჩენი ასოები სრულიად ჩვეულებრივი მოხაზულობისაა. არ გვხვდება ქვეშმიწერილი ι-ები (ευνωνη, εουεργετη).</p>
+                <p>სავარაუდოდ ნუხაში მდებარე ერთ-ერთი ნაგებობის ქვა უნდა ყოფილიყო.</p>
+                </div>
+            
+       </body>
+    </text>
+</TEI>
+
+
+

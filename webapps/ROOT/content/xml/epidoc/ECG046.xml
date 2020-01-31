@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.stoa.org/epidoc/schema/8.23/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.stoa.org/epidoc/schema/8.23/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:space="preserve" xml:lang="ka">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>ბოლნისის „ლამაზი გორას“ V/VI სს. ფრაგმენტი</title>
+                <editor>ნოდარ შოშიაშვილი</editor>
+            </titleStmt>
+            <publicationStmt>
+                <authority>ილიას სახელმწიფო უნივერსიტეტი, ლინგვისტურ კვლევათა ინსტიტუტი</authority>
+                 <idno type="filename">ECG046</idno>
+                <availability>
+                    <licence target="http://creativecommons.org/licenses/by-nc-sa/3.0/">
+                       დოკუმენტი ვრცელდება Creative Commons Attribution-NonCommercial-ShareAlike 3.0 ლიცენზიით.
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc type="fragmentary">
+                    <msIdentifier>
+                        <collection>ბოლნისი</collection>
+                    </msIdentifier> 
+                    <msContents>
+                        <summary>
+                            <seg xml:lang="ka">მოსახსენებელი</seg>
+                            <seg xml:lang="en"/>
+                        </summary>
+                    </msContents>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>                             
+                                   <material ref="http://www.eagle-network.eu/voc/material/lod/30">მწვანე ტუფი</material>
+                                   <objectType ref="http://www.eagle-network.eu/voc/objtyp/lod/259">ფილა</objectType>
+                                <dimensions unit="cm">
+                                        <width>36</width>
+                                        <height>35</height>
+                                        <depth>25</depth>
+                                    </dimensions>
+                                </support></supportDesc>
+                                <layoutDesc>
+                                    <layout writtenLines="1"> 
+                                       წარწერა 1 სტრიქონიანია. იგი შესრულებულია ქვაზე, რომლის ზედა ნაწილში გამოქანდაკებულია რელიეფური, ხვეული თოკის მსგავსი ჩარჩოს მედალიონში 
+                                       ჩასმული „ბოლნური ჯვარი“, მარტივი მკლავებით. ჯვრის ზემოთ, დადაბლებულ სწორკუთხა ფონზე, ამოკვეთილია წარწერა.                                                              
+                                        <dimensions unit="cm">
+                                        <width>22</width>
+                                        <height>3</height>
+                                        <depth></depth></dimensions>
+                                    </layout>
+                                </layoutDesc>
+                        </objectDesc>                        
+                        <handDesc>
+                                <handNote script="asomtavruli" style="embossed">
+                                 <rs type="execution">რელიეფური</rs> <rs type="script">ასომთავრული</rs> წარწერა
+                                <width></width>
+                                <height></height>
+                                 </handNote>
+                        </handDesc>
+                    </physDesc>
+                    <history>
+                            <origin>
+                                <origPlace>ლამაზი გორა, ბოლნისი</origPlace>
+                                <origDate notBefore-custom="0400" notAfter-custom="0600" precision="medium" 
+                                    evidence="lettering" datingMethod="#julian">V-VI AD</origDate>
+                            </origin>
+                            <provenance type="found" when="1959">
+                                <placeName type ="ancientFindspot" ref="https://pleiades.stoa.org/places/863760">ლამაზი გორა, ბოლნისი</placeName>
+                                <!-- "41.449801, 44.548284"-->
+                                <rs type="circumstances">ძეგლი აღმოჩენილია ივანე ჯავახიშვილის სახელობის ისტორიის ინსტიტუტის არქეოლოგიური ექსპედიციის მიერ,
+                                    რომელსაც ი. გრძელიშვილი ხელმძღვანელობდა. ბოლნისის სიონიდან ჩრდილო-დასავლეთით, დაახლოებით 800 მეტრის დაშორებით მდებარეობს ბორცვი, 
+                                    რომელსაც ადგილობრივი მოსახლეობა „ლამაზ გორას“ უწოდებს. სწორედ ამ გორაზე ჩაატარა ექსპედიციამ გათხრები და შუა ადგილას გამოავლინა
+                                    სამეკლესიანი ბაზილიკის ნანგრევები. ვარაუდობენ, რომ ეს იყო სამონასტრო კომპლექსი, რომელსაც ეჭირა 1000 კვ.მ. ფართობი. ამ ტერიტორიაზე
+                                    აღმოჩნდა ათეული ქვაჯვარი ასომთავრული წარწერებით. ძეგლი იპოვეს 1959 წელს. </rs> 
+                                <rs type="context"></rs>
+                                <rs type="monuList"/>
+                            </provenance> 
+                             <provenance type="observed">
+                            <placeName type="modernSpot" ref="http://museum.ge/">საქართველოს ეროვნული მუზეუმი</placeName>
+                            <idno type="invNo">1187</idno>
+                        </provenance>
+                    </history>                   
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <revisionDesc><change when="2019-10-29" who="Eka Kvirkvelia">ტექსტის სრული კოდირება, მეტამონაცემების სრული კოდირება, 
+            ბმულებით დაკავშირება ავტორიტეტულ წყაროსთან</change></revisionDesc>
+    </teiHeader>
+     <facsimile>
+        <surface>
+            <graphic url="ecg046.jpg">
+                <desc xml:lang="ka">ბოლნისის „ლამაზი გორას“ V/VI სს. ფრაგმენტი</desc>
+                <desc xml:lang="en"></desc>
+            </graphic>
+        </surface>
+    </facsimile>
+    <text>
+        <body>
+            <div type="bibliography">
+                <listBibl>  
+                  <bibl n="1">ნოდარ შოშიაშვილი, ქართული წარწერების კორპუსი, ლაპიდარული წარწერები<ptr target="bibliography.xml#b101"/>, <citedRange>გვ. 86</citedRange></bibl>
+                  <bibl n="2">ჯ. ამირანაშვილი, ადრეფეოდალური ხანის ქართული არქიტექტურისა და რელიეფური ქანდაკების ძეგლები<ptr target="bibliography.xml#b136"/>, <citedRange>გვ. 36</citedRange></bibl> 
+                </listBibl>
+            </div> 
+            
+            <div type="edition" xml:lang="ka" xml:space="preserve">
+                
+                        <!--  "[ა]ბაზ ა[ზ]იარენ"-->
+                                 
+                <ab>
+                   <lb n="1"/> <gap reason="lost" extent="unknown" unit="character"></gap> <supplied reason="lost">ა</supplied>ბაზ 
+                    <w lemma="ზიარება">ა<supplied reason="lost">ზ</supplied>იარენ</w>
+                 </ab>
+             
+            </div>
+                
+            <div type="translation" xml:lang="ka">
+                <p>...აბაზ აზიარენ.</p></div>
+            
+            <div type="apparatus" xml:space="preserve">
+                         </div>
+            
+            <div type="commentary">
+                <p>ნოდარ შოშიაშვილის ქართული წარწერების კორპუსის მიხედვით #22. წარწერაში განკვეთილობისა და ქარაგმის ნიშნები არ ჩანს. სიტყვები ერთმანეთისგან არ არის დაცილებული.</p>
+            </div>
+         </body>
+    </text>
+</TEI>

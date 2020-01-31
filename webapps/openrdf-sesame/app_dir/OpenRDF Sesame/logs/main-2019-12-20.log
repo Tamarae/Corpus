@@ -1,0 +1,14 @@
+[INFO ] 2019-12-20 16:02:33,684 [repositories/kiln] POST query -2042401445
+[INFO ] 2019-12-20 16:02:33,711 [repositories/kiln] Request for query -2042401445 is finished
+[INFO ] 2019-12-20 16:03:30,415 [repositories/kiln] POST query -2042401445
+[INFO ] 2019-12-20 16:03:30,429 [repositories/kiln] Request for query -2042401445 is finished
+[INFO ] 2019-12-20 16:21:20,584 [repositories/kiln] POST query -2042401445
+[INFO ] 2019-12-20 16:21:20,611 [repositories/kiln] Request for query -2042401445 is finished
+[INFO ] 2019-12-20 16:30:18,701 [Thread-1] Closing org.springframework.web.context.support.XmlWebApplicationContext@70b9cdcc: display name [WebApplicationContext for namespace 'openrdf-http-server-servlet']; startup date [Tue Dec 10 16:03:45 GET 2019]; root of context hierarchy
+[INFO ] 2019-12-20 16:30:18,705 [Thread-1] Destroying singletons in org.springframework.beans.factory.support.DefaultListableBeanFactory@5a8fb312: defining beans [messageSource,adunaAppVersion,adunaAppConfig,adunaWebappNavigation,adunaWebappCommonValuesInserter,adunaWebappMessageInserter,adunaWebappNavigationInserter,filenameViewController,viewResolver,adunaWebappSystemUrlMapping,adunaWebappSystemOverviewController,adunaWebappLoggingOverviewController,adunaWebappSystemInfoController,openrdfRepositoryManager,scopedTarget.openrdfRepositoryInterceptor,openrdfRepositoryInterceptor,openrdfProtocolUrlMapping,openrdfRepositoryListUrlMapping,openrdfRepositoryUrlMapping,openrdfServerHomeUrlMapping,openrdfHandlerExceptionResolver,openrdfProtocolController,openrdfRepositoryListController,openrdfRepositoryController,openrdfRepositoryContextsController,openrdfRepositoryNamespacesController,openrdfRepositoryNamespaceController,openrdfRepositorySizeController,openrdfRepositoryStatementsController,openrdfRepositoryGraphController]; root of factory hierarchy
+[INFO ] 2019-12-20 18:36:10,254 [main] Logback logging API implementation is configured.
+[INFO ] 2019-12-20 18:36:15,703 [main] FrameworkServlet 'openrdf-http-server': initialization completed in 10841 ms
+[INFO ] 2019-12-20 18:44:45,571 [repositories/kiln] POST query -2042401445
+[INFO ] 2019-12-20 18:44:45,732 [repositories/kiln] Request for query -2042401445 is finished
+[INFO ] 2019-12-20 18:46:36,687 [repositories/kiln] POST query -2042401445
+[INFO ] 2019-12-20 18:46:36,705 [repositories/kiln] Request for query -2042401445 is finished

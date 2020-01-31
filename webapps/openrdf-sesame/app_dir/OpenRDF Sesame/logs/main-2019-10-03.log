@@ -1,0 +1,10 @@
+[INFO ] 2019-10-03 13:45:58,835 [main] Logback logging API implementation is configured.
+[INFO ] 2019-10-03 13:46:04,205 [main] FrameworkServlet 'openrdf-http-server': initialization completed in 10763 ms
+[INFO ] 2019-10-03 13:46:45,869 [repositories/kiln] POST query -2042401445
+[INFO ] 2019-10-03 13:46:46,129 [repositories/kiln] Request for query -2042401445 is finished
+[INFO ] 2019-10-03 13:46:46,426 [repositories/kiln] POST query -2042401445
+[INFO ] 2019-10-03 13:46:46,445 [repositories/kiln] Request for query -2042401445 is finished
+[INFO ] 2019-10-03 13:47:00,167 [repositories/kiln] POST query -2042401445
+[INFO ] 2019-10-03 13:47:00,191 [repositories/kiln] Request for query -2042401445 is finished
+[INFO ] 2019-10-03 13:47:02,498 [repositories/kiln] POST query -2042401445
+[INFO ] 2019-10-03 13:47:02,511 [repositories/kiln] Request for query -2042401445 is finished

@@ -1,0 +1,199 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.stoa.org/epidoc/schema/8.23/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.stoa.org/epidoc/schema/8.23/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:space="preserve" xml:lang="ka">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>მცხეთის ჯვრის მოსახსენებელი ადარნარსე ჳპატოსისა და ქობულისა</title>
+                <editor>ნოდარ შოშიაშვილი</editor>
+            </titleStmt>
+            <publicationStmt>
+                <authority>ილიას სახელმწიფო უნივერსიტეტი, ლინგვისტურ კვლევათა ინსტიტუტი</authority>
+                 <idno type="filename">ECG028</idno>
+                <availability>
+                    <licence target="http://creativecommons.org/licenses/by-nc-sa/3.0/">
+                       დოკუმენტი ვრცელდება Creative Commons Attribution-NonCommercial-ShareAlike 3.0 ლიცენზიით.
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                   <msIdentifier>
+                        <collection>მცხეთა</collection>
+                    </msIdentifier>
+                    
+                    <msContents>
+                        <summary>
+                            <seg xml:lang="ka">მოსახსენებელი</seg>
+                            <seg xml:lang="en"/>
+                        </summary>
+                    </msContents> 
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>                             
+                                   <material ref="http://www.eagle-network.eu/voc/material/lod/2">ქვა</material>
+                                   <objectType ref="http://www.eagle-network.eu/voc/objtyp/lod/1483">ფასადი</objectType>
+                                  <dimensions unit="cm">
+                                        <width>86/170</width>
+                                         <height>122</height>
+                                  </dimensions>
+                                </support>
+                            </supportDesc>
+                                <layoutDesc>
+                                    <layout writtenLines="25">
+                                        წარწერა 25 სტრიქონიანია. იგი მდებარეობს ჯვრის ტაძრის აღმოსავლეთ ფასადის ბარელიეფზე (ცენტრალური
+                                   ბარელიეფის მარჯვნივ), არაწესიერი სწორკუთხედის ფორმის ფილაზე, რომელსაც გარს უვლის რელიეფური ჩარჩო, 
+                                   თავზე ლავგარდანით. ფილის მარჯვენა მხარეზე გამოქანდაკებულია მუხლმოდრეკილი ქტიტორი, ადარნერსე ჳპატოსი, რომლის თავზე გამოსახულია
+                                   ჰაერში ფრთებგაშლილი გაბრიელ მთავარანგელოზი. ადარნერსეს ფიგურა მიმართულია მარცხნივ 
+                                   (ე.ი. ცენტრალური რელიეფისაკენ - სტეფანოს პატრიკიოსისკენ). ადარნერსეს წინ გამოსახულია მუხლმოდრეკილი მისი პატარა
+                                   ვაჟი - ქობული. ვაჟის თავის ზევით, ადარნერსეს მარცხნივ, ამოღარულია შვიდი სტრიქონი.                                                      
+                                        <dimensions unit="cm">
+                                            <width>32</width>
+                                            <height>35</height>
+                                        </dimensions>
+                                        ზემო ჩარჩოს მარცხენა მხარეზე, ქობულის წინ და ქვემოთ - 17 სტრიქონი (ეკუთვნის ქობულს).<dimensions unit="cm">
+                                            <width>15/35</width>
+                                            <height>60</height>
+                                        </dimensions>
+                                    </layout>
+                                </layoutDesc>
+                            </objectDesc>                        
+                        <handDesc>
+                            <handNote script="asomtavruli" style="inscribed">
+                                <rs type="execution">ამოღარული</rs> <rs type="script">ასომთავრული</rs> წარწერა.     
+                                <height/>
+                             </handNote>
+                        </handDesc>
+                    </physDesc>
+                    <history>
+                            <origin>
+                                <origPlace>ჯვრის მონასტერი, მცხეთა</origPlace>
+                                <origDate notBefore-custom="0595" notAfter-custom="0605" precision="medium" 
+                                    evidence="lettering" datingMethod="#julian">595-605 AD</origDate>
+                            </origin>
+                            <provenance type="found">
+                                <placeName type ="ancientFindspot" ref="https://pleiades.stoa.org/places/863840">ჯვრის მონასტერი, მცხეთა</placeName>
+                                <!--  "41.838634, 44.734011"-->
+                                <rs type="circumstances"></rs>
+                                <rs type="context"/>
+                                <rs type="monuList"/>
+                            </provenance> 
+                        
+                            <provenance type="observed">
+                            <placeName type="modernSpot">ჯვრის მონასტერი, მცხეთა</placeName>
+                            <idno></idno>
+                        </provenance>
+                    </history>                   
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <revisionDesc><change when="2019-11-06" who="Eka Kvirkvelia">ტექსტის სრული კოდირება, მეტამონაცემების სრული კოდირება, 
+           ბმულებით დაკავშირება ავტორიტეტულ წყაროსთან</change></revisionDesc>
+    </teiHeader>
+ <facsimile>
+        <surface>
+            <graphic url="ecg028.jpg">
+                <desc xml:lang="ka">მცხეთის ჯვრის მოსახსენებელი ადარნარსე ჳპატოსისა და ქობულისა</desc>
+                <desc xml:lang="en"></desc>
+            </graphic>
+        </surface>
+   </facsimile>
+    
+    <text>
+        <body>
+            <div type="bibliography">
+                  <listBibl>  
+                 <bibl n="1">ნოდარ შოშიაშვილი, ქართული წარწერების კორპუსი<ptr target="bibliography.xml#b101"/>, <citedRange>გვ. 160-162</citedRange></bibl>
+                 <bibl n="2">M. Brosset, Rapports I<ptr target="bibliography.xml#b21"/>, <citedRange>p. 48</citedRange></bibl>   
+                 <bibl n="3">J. Bartholomaei, Letter, M. Brosset, Bibliographie analytique des oeuvres de Marie-Felicité Brosset<ptr target="bibliography.xml#b16"/>, <citedRange>p.79</citedRange></bibl>
+                 <bibl n="4">თედო ჟორდანია, ქრონიკები და სხვა მასალა საქართველოს ისტორიისა და მწერლობისა<ptr target="bibliography.xml#b77"/>, <citedRange>გვ. 61</citedRange></bibl>
+                 <bibl n="5">А. Натроев, Мцхета и его собор Светицховели<ptr target="bibliography.xml#b35"/>, <citedRange>ст. 19</citedRange></bibl>
+                 <bibl n="6">ჯაჭვის წმ. ჯვრის მონასტერი<ptr target="bibliography.xml#b118"/>, <citedRange>გვ. 23</citedRange></bibl>
+                 <bibl n="7">ექვთიმე თაყაიშვილი, ჯვრის მონასტრის წარწერები<ptr target="bibliography.xml#b71"/></bibl>                 
+                 <bibl n="8">აკაკი შანიძე, ნაშთები III პირის ობიექტური პრეფიქსის ხმარებისა ხმოვნების წინ ქართულ ზმნებში<ptr target="bibliography.xml#b60"/>, <citedRange>გვ. 276</citedRange></bibl>        
+                 <bibl n="9">ივანე ჯავახიშვილი, ახლად აღმოჩენილი უძველესი ქართული ხელნაწერები და მათი მნიშვნელობა მეცნიერებისათვის<ptr target="bibliography.xml#b85"/></bibl>
+                 <bibl n="10">გიორგი ჩუბინაშვილი, რამოდენიმე თავი ქართული ხელოვნების ისტორიიდან<ptr target="bibliography.xml#b66"/>, <citedRange>გვ. 162</citedRange></bibl>
+                 <bibl n="11">აკაკი შანიძე, ძველი ქართულის ქრესტომათია<ptr target="bibliography.xml#b59"/></bibl>
+                 <bibl n="12">გიორგი ჩუბინაშვილი, ქართული ხელოვნების ისტორია<ptr target="bibliography.xml#b131"/>, <citedRange>გვ. 108</citedRange></bibl>
+                 <bibl n="13">შ. ამირანაშვილი, ქართული ხელოვნების ისტორია<ptr target="bibliography.xml#b114"/>, <citedRange>გვ. 169</citedRange></bibl>
+                 <bibl n="14">Н. Г. Чубинашвили, Памятники типа Джвари<ptr target="bibliography.xml#b47"/>, <citedRange>ст. 143-144</citedRange></bibl>
+                 <bibl n="15">ილია აბულაძე, ქართული წერის ნიმუშები, პალეოგრაფიული ალბომი<ptr target="bibliography.xml#b88"/>,<citedRange>გვ. 6-7</citedRange></bibl>
+                 <bibl n="16">ივ. ჯავახიშვილი, ქართული დამწერლობათამცოდნეობა, ანუ პალეოგრაფია<ptr target="bibliography.xml#b87"/>, <citedRange>გვ. 155-160</citedRange></bibl>
+                 <bibl n="17">ქართული ენის ისტორიული ქრესტომათია<ptr target="bibliography.xml#b112"/>,<citedRange>გვ. 2</citedRange></bibl>
+                 <bibl n="18">M. Tarchnišvili, Les récentes découverstes épigraphiques et litteraires en géorgien<ptr target="bibliography.xml#b24"/>, <citedRange>p. 252</citedRange></bibl>
+                 <bibl n="19">აკაკი შანიძე, ქართული ენის სტრუქტურისა და ისტორიის საკითხები<ptr target="bibliography.xml#b61"/>, <citedRange>გვ. 277</citedRange></bibl>
+                 <bibl n="20">I. Molitor, MIA CSCO<ptr target="bibliography.xml#b15"/></bibl>   
+                 <bibl n="21">W. Djobadze, The sculptures on Eastern Facade of the Holy Cross of Mtzkhetâ<ptr target="bibliography.xml#b33"/>, <citedRange>p. 114</citedRange></bibl>
+                 <bibl n="22">Ш. Я. Амиранашвили, Вклад Грузии в сокровищницу художественной культуры<ptr target="bibliography.xml#b133"/></bibl>
+                 <bibl n="23">Ш. Я. Амиранашвили, История грузинского искусства<ptr target="bibliography.xml#b56"/></bibl>
+                 <bibl n="24">ილ. აბულაძე, ქართული წერის ნიმუშები, პალეოგრაფიული ალბომი<ptr target="bibliography.xml#b89"/>, <citedRange>გვ.14-15</citedRange></bibl>
+                 <bibl n="25">Н. Г. Чубинашвили, Хандиси<ptr target="bibliography.xml#b48"/></bibl>
+                 <bibl n="26">П. Мурадян, Армянская надпись храма Джвари<ptr target="bibliography.xml#b49"/>, <citedRange>ст. 69</citedRange></bibl>
+                </listBibl>
+            </div>         
+            <div type="edition" xml:lang="ka" xml:space="preserve">
+                
+                        <!-- ქობულ [სტეფანოსი] [ადრნ]ერსეს ძე -->
+                <!-- "წო [გ]რლ 
+                            მთავარ
+                            ანგელო[ზ]
+                            ო ადრ[ნე]
+                            რსეს ჳპატ
+                            ოსსა მეოხ
+                            ეყავ" -->
+            <div type="textpart" subtype="fragment" n="1" xml:lang="Ka">
+                <ab>
+                    <lb n="1"/><name nymRef="ქობულ სტეფანოს">ქობულ</name>
+                    <lb n="2"/><supplied reason="lost"><name>ს
+                    <lb n="3" break="no"/>ტ 
+                    <lb n="4" break="no"/>ე
+                    <lb n="5" break="no"/>ფ
+                    <lb n="6" break="no"/>ა
+                    <lb n="7" break="no"/>ნ
+                    <lb n="8" break="no"/>ო
+                    <lb n="9" break="no"/>ს
+                    <lb n="10" break="no"/>ი</name></supplied>             
+                    <lb n="11"/><name nymRef="ადრნესე"><supplied reason="lost">ა
+                    <lb n="12" break="no"/>დ
+                    <lb n="13" break="no"/>რ
+                    <lb n="14" break="no"/>ნ</supplied>
+                    <lb n="15" break="no"/>ე 
+                    <lb n="16" break="no"/>რ
+                    <lb n="17" break="no"/>ს
+                    <lb n="18" break="no"/>ეს</name><w lemma="ძე">ძე</w>
+                 </ab>
+            </div>
+         <div type="textpart" subtype="fragment" n="2" xml:lang="ka">
+                <ab>
+                    <lb n="1"/><w lemma="წმიდა"><expan><abbr>წ</abbr><ex>მიდა</ex><abbr>ო</abbr></expan></w> 
+                    <name nymRef="წმ. გაბრიელ მთავარანგელოზი"><expan><supplied reason="lost"><abbr>გ</abbr></supplied><ex>აბ</ex><abbr>რ</abbr><ex>იე</ex><abbr>ლ</abbr></expan>                    
+                    <lb n="2"/><w lemma="მთავარანგელოზ">მთავ<supplied reason="lost">არ</supplied>
+                    <lb n="3" break="no"/>ანგელო<supplied reason="lost">ზ</supplied>
+                    <lb n="4" break="no"/>ო</w></name> <name nymRef="ადრნერსე ჳპატოს">ადრ<supplied reason="lost">ნე</supplied>
+                    <lb n="5" break="no"/>რსეს</name> <roleName nymRef="ჳპატოს"><w lemma="ჳპატოს">ჳპატ
+                    <lb n="6" break="no"/>ოსსა</w></roleName> <w lemma="მეოხ-ყოფა">მეოხ
+                    <lb n="7" break="no"/>ეყავ</w>
+                </ab>
+             </div>
+         </div>   
+            
+            <div type="translation" xml:lang="ka">
+                <p>ქობულ სტეფანოსი ადრნერსეს ძე. წმიდაო გაბრიელ მთავარანგელოზო, ადრნერსე ჳპატოსს მეოხ ეყავ.</p></div>
+
+            
+            <div type="apparatus" xml:space="preserve"/>
+            
+            <div type="commentary">
+                <p> ნოდარ შოშიაშვილის ქართული წარწერების კორპუსის მიხედვით #69. ადარნესე ვიპატოსის წარწერა, ივანე ჯავახიშვილის აზრით, 626-634 წლებში არის ამოკვეთილი. მისივე აზრით, 
+                    წარწერის სიძველის დასტური პალეოგრაფიული თვალსაზრისით არის Ⴣ გრაფემის თავშეკრულობა. თუ ამ წარწერის „მეოხ ეყავ“ ზმნას შევადარებთ დემეტრე ვიპატოსის 
+                წარწერის „მეოხ ხეყავ“ ფორმას, ადვილად დავინახავთ, რომ ხ აკლია. ამასთან ხ-ს კლებას ვერ ავხსნით იმით, რომ ოსტატმა ერთი ხ დაწერა ორი ერთმანეთის მომდევნო იდენტური 
+                გაფემის ნაცვლად. ვერც იმით, რომ იგი გადარეცხილია (ამოტეხილია). როგორც ჩანს, უკვე VII საუკუნის I ნახევარში ხანმეტობა, როგორც ენობრივი მოვლენა, იბერიის 
+                ტერიტორიაზე მოშლილია. მკვლევართა დიდი ნაწილი იზიარებს გიორგი ჩუბინაშვილის თვალსაზრისს, რომ მცხეთის ჯვრის ბარელიეფები ერთდროული, ტაძრის აგების თანადროულია. 
+                ადარნერსეს ვაჟის წარწერიდან შემორჩენილია მხოლოდ რამდენიმე გრაფემის კვალი. წარწერის ბოლო შეამჩნია ბართლომეიმ. წარწერაში ადარნერსეს ძე ქობული ამოიცნო 
+                გიორგი ჩუბინაშვილმა.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

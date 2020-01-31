@@ -1,0 +1,104 @@
+[INFO ] 2019-05-03 00:00:08,340 [repositories/kiln] POST query -1227659729
+[INFO ] 2019-05-03 00:00:08,349 [repositories/kiln] Request for query -1227659729 is finished
+[INFO ] 2019-05-03 00:13:32,627 [Thread-1] Closing org.springframework.web.context.support.XmlWebApplicationContext@70b9cdcc: display name [WebApplicationContext for namespace 'openrdf-http-server-servlet']; startup date [Wed May 01 21:55:08 GET 2019]; root of context hierarchy
+[INFO ] 2019-05-03 00:13:32,630 [Thread-1] Destroying singletons in org.springframework.beans.factory.support.DefaultListableBeanFactory@5a8fb312: defining beans [messageSource,adunaAppVersion,adunaAppConfig,adunaWebappNavigation,adunaWebappCommonValuesInserter,adunaWebappMessageInserter,adunaWebappNavigationInserter,filenameViewController,viewResolver,adunaWebappSystemUrlMapping,adunaWebappSystemOverviewController,adunaWebappLoggingOverviewController,adunaWebappSystemInfoController,openrdfRepositoryManager,scopedTarget.openrdfRepositoryInterceptor,openrdfRepositoryInterceptor,openrdfProtocolUrlMapping,openrdfRepositoryListUrlMapping,openrdfRepositoryUrlMapping,openrdfServerHomeUrlMapping,openrdfHandlerExceptionResolver,openrdfProtocolController,openrdfRepositoryListController,openrdfRepositoryController,openrdfRepositoryContextsController,openrdfRepositoryNamespacesController,openrdfRepositoryNamespaceController,openrdfRepositorySizeController,openrdfRepositoryStatementsController,openrdfRepositoryGraphController]; root of factory hierarchy
+[INFO ] 2019-05-03 00:13:46,120 [main] Logback logging API implementation is configured.
+[INFO ] 2019-05-03 00:13:46,500 [main] FrameworkServlet 'openrdf-http-server': initialization completed in 771 ms
+[INFO ] 2019-05-03 00:27:50,655 [repositories/kiln] POST query -1227659729
+[INFO ] 2019-05-03 00:27:50,796 [repositories/kiln] Request for query -1227659729 is finished
+[INFO ] 2019-05-03 00:28:23,936 [repositories/kiln] POST query -1227659729
+[INFO ] 2019-05-03 00:28:23,957 [repositories/kiln] Request for query -1227659729 is finished
+[INFO ] 2019-05-03 00:44:56,080 [repositories/kiln] POST query -1227659729
+[INFO ] 2019-05-03 00:44:56,107 [repositories/kiln] Request for query -1227659729 is finished
+[INFO ] 2019-05-03 00:44:56,760 [repositories/kiln] POST query -1227659729
+[INFO ] 2019-05-03 00:44:56,774 [repositories/kiln] Request for query -1227659729 is finished
+[INFO ] 2019-05-03 00:47:04,333 [repositories/kiln] POST query -1227659729
+[INFO ] 2019-05-03 00:47:04,347 [repositories/kiln] Request for query -1227659729 is finished
+[INFO ] 2019-05-03 00:48:13,562 [repositories/kiln] POST query -1227659729
+[INFO ] 2019-05-03 00:48:13,695 [repositories/kiln] Request for query -1227659729 is finished
+[INFO ] 2019-05-03 00:48:31,276 [repositories/kiln] POST query -1227659729
+[INFO ] 2019-05-03 00:48:31,289 [repositories/kiln] Request for query -1227659729 is finished
+[INFO ] 2019-05-03 00:49:23,619 [repositories/kiln] POST query -1227659729
+[INFO ] 2019-05-03 00:49:23,636 [repositories/kiln] Request for query -1227659729 is finished
+[INFO ] 2019-05-03 00:49:24,258 [repositories/kiln] POST query -1227659729
+[INFO ] 2019-05-03 00:49:24,270 [repositories/kiln] Request for query -1227659729 is finished
+[INFO ] 2019-05-03 00:51:44,666 [repositories/kiln] POST query -1227659729
+[INFO ] 2019-05-03 00:51:44,684 [repositories/kiln] Request for query -1227659729 is finished
+[INFO ] 2019-05-03 00:51:45,276 [repositories/kiln] POST query -1227659729
+[INFO ] 2019-05-03 00:51:45,285 [repositories/kiln] Request for query -1227659729 is finished
+[INFO ] 2019-05-03 00:54:51,270 [repositories/kiln] POST query -1227659729
+[INFO ] 2019-05-03 00:54:51,279 [repositories/kiln] Request for query -1227659729 is finished
+[INFO ] 2019-05-03 00:57:42,507 [repositories/kiln] POST query -1227659729
+[INFO ] 2019-05-03 00:57:42,515 [repositories/kiln] Request for query -1227659729 is finished
+[INFO ] 2019-05-03 00:58:14,441 [repositories/kiln] POST query -1227659729
+[INFO ] 2019-05-03 00:58:14,449 [repositories/kiln] Request for query -1227659729 is finished
+[INFO ] 2019-05-03 00:58:30,599 [repositories/kiln] POST query -1227659729
+[INFO ] 2019-05-03 00:58:30,607 [repositories/kiln] Request for query -1227659729 is finished
+[INFO ] 2019-05-03 01:00:04,020 [repositories/kiln] POST query -1227659729
+[INFO ] 2019-05-03 01:00:04,032 [repositories/kiln] Request for query -1227659729 is finished
+[INFO ] 2019-05-03 01:00:05,149 [repositories/kiln] POST query -1227659729
+[INFO ] 2019-05-03 01:00:05,155 [repositories/kiln] Request for query -1227659729 is finished
+[INFO ] 2019-05-03 01:00:49,570 [repositories/kiln] POST query -1227659729
+[INFO ] 2019-05-03 01:00:49,578 [repositories/kiln] Request for query -1227659729 is finished
+[INFO ] 2019-05-03 01:00:56,643 [repositories/kiln] POST query -1227659729
+[INFO ] 2019-05-03 01:00:56,649 [repositories/kiln] Request for query -1227659729 is finished
+[INFO ] 2019-05-03 01:03:00,123 [repositories/kiln] POST query -1227659729
+[INFO ] 2019-05-03 01:03:00,132 [repositories/kiln] Request for query -1227659729 is finished
+[INFO ] 2019-05-03 01:03:22,281 [repositories/kiln] POST query -1227659729
+[INFO ] 2019-05-03 01:03:22,289 [repositories/kiln] Request for query -1227659729 is finished
+[INFO ] 2019-05-03 13:40:57,527 [repositories/kiln] POST query -1227659729
+[INFO ] 2019-05-03 13:40:57,559 [repositories/kiln] Request for query -1227659729 is finished
+[INFO ] 2019-05-03 13:51:51,753 [repositories/kiln] POST query -1227659729
+[INFO ] 2019-05-03 13:51:51,760 [repositories/kiln] Request for query -1227659729 is finished
+[INFO ] 2019-05-03 13:52:22,875 [repositories/kiln] POST query -1227659729
+[INFO ] 2019-05-03 13:52:22,882 [repositories/kiln] Request for query -1227659729 is finished
+[INFO ] 2019-05-03 14:10:29,233 [repositories/kiln] POST query -1227659729
+[INFO ] 2019-05-03 14:10:29,247 [repositories/kiln] Request for query -1227659729 is finished
+[INFO ] 2019-05-03 14:13:50,418 [repositories/kiln] POST query -1227659729
+[INFO ] 2019-05-03 14:13:50,428 [repositories/kiln] Request for query -1227659729 is finished
+[INFO ] 2019-05-03 14:14:49,112 [repositories/kiln] POST query -1227659729
+[INFO ] 2019-05-03 14:14:49,118 [repositories/kiln] Request for query -1227659729 is finished
+[INFO ] 2019-05-03 14:16:22,870 [repositories/kiln] POST query -1227659729
+[INFO ] 2019-05-03 14:16:22,878 [repositories/kiln] Request for query -1227659729 is finished
+[INFO ] 2019-05-03 14:31:42,322 [repositories/kiln] POST query -1227659729
+[INFO ] 2019-05-03 14:31:42,329 [repositories/kiln] Request for query -1227659729 is finished
+[INFO ] 2019-05-03 14:31:54,344 [repositories/kiln] POST query -1227659729
+[INFO ] 2019-05-03 14:31:54,353 [repositories/kiln] Request for query -1227659729 is finished
+[INFO ] 2019-05-03 14:31:55,085 [repositories/kiln] POST query -1227659729
+[INFO ] 2019-05-03 14:31:55,090 [repositories/kiln] Request for query -1227659729 is finished
+[INFO ] 2019-05-03 16:47:35,262 [repositories/kiln] POST query -1227659729
+[INFO ] 2019-05-03 16:47:35,287 [repositories/kiln] Request for query -1227659729 is finished
+[INFO ] 2019-05-03 17:01:32,585 [repositories/kiln] POST query -1227659729
+[INFO ] 2019-05-03 17:01:32,596 [repositories/kiln] Request for query -1227659729 is finished
+[INFO ] 2019-05-03 17:08:40,345 [repositories/kiln] POST query -1227659729
+[INFO ] 2019-05-03 17:08:40,351 [repositories/kiln] Request for query -1227659729 is finished
+[INFO ] 2019-05-03 17:08:56,528 [repositories/kiln] POST query -1227659729
+[INFO ] 2019-05-03 17:08:56,539 [repositories/kiln] Request for query -1227659729 is finished
+[INFO ] 2019-05-03 17:08:57,592 [repositories/kiln] POST query -1227659729
+[INFO ] 2019-05-03 17:08:57,601 [repositories/kiln] Request for query -1227659729 is finished
+[INFO ] 2019-05-03 17:22:32,334 [repositories/kiln] POST query -1227659729
+[INFO ] 2019-05-03 17:22:32,349 [repositories/kiln] Request for query -1227659729 is finished
+[INFO ] 2019-05-03 17:43:35,026 [repositories/kiln] POST query -1227659729
+[INFO ] 2019-05-03 17:43:35,034 [repositories/kiln] Request for query -1227659729 is finished
+[INFO ] 2019-05-03 17:57:25,505 [repositories/kiln] POST query -1227659729
+[INFO ] 2019-05-03 17:57:25,513 [repositories/kiln] Request for query -1227659729 is finished
+[INFO ] 2019-05-03 17:57:34,434 [repositories/kiln] POST query -1227659729
+[INFO ] 2019-05-03 17:57:34,441 [repositories/kiln] Request for query -1227659729 is finished
+[INFO ] 2019-05-03 23:14:41,656 [repositories/kiln] POST query -1227659729
+[INFO ] 2019-05-03 23:14:41,672 [repositories/kiln] Request for query -1227659729 is finished
+[INFO ] 2019-05-03 23:24:03,551 [repositories/kiln] POST query -1227659729
+[INFO ] 2019-05-03 23:24:03,558 [repositories/kiln] Request for query -1227659729 is finished
+[INFO ] 2019-05-03 23:26:39,757 [repositories/kiln] POST query -1227659729
+[INFO ] 2019-05-03 23:26:39,763 [repositories/kiln] Request for query -1227659729 is finished
+[INFO ] 2019-05-03 23:32:54,528 [repositories/kiln] POST query -1227659729
+[INFO ] 2019-05-03 23:32:54,537 [repositories/kiln] Request for query -1227659729 is finished
+[INFO ] 2019-05-03 23:41:00,843 [repositories/kiln] POST query -1227659729
+[INFO ] 2019-05-03 23:41:00,851 [repositories/kiln] Request for query -1227659729 is finished
+[INFO ] 2019-05-03 23:44:57,053 [repositories/kiln] POST query -1227659729
+[INFO ] 2019-05-03 23:44:57,061 [repositories/kiln] Request for query -1227659729 is finished
+[INFO ] 2019-05-03 23:49:13,316 [repositories/kiln] POST query -1227659729
+[INFO ] 2019-05-03 23:49:13,323 [repositories/kiln] Request for query -1227659729 is finished
+[INFO ] 2019-05-03 23:54:03,747 [repositories/kiln] POST query -1227659729
+[INFO ] 2019-05-03 23:54:03,753 [repositories/kiln] Request for query -1227659729 is finished
+[INFO ] 2019-05-03 23:55:01,043 [repositories/kiln] POST query -1227659729
+[INFO ] 2019-05-03 23:55:01,048 [repositories/kiln] Request for query -1227659729 is finished

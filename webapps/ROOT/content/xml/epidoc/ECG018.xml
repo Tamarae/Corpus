@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:space="preserve" xml:lang="ka">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>ორნამენტებიანი და ბერძნულწარწერებიანი კვარცხლბეკი კაზრეთიდან</title>
+                <editor>თინათინ ყაუხჩიშვილი</editor>
+            </titleStmt>
+            <publicationStmt>
+                <authority>ილიას სახელმწიფო უნივერსიტეტი, ლინგვისტურ კვლევათა ინსტიტუტი</authority>
+                 <idno type="filename">ECG018</idno>
+                <availability>
+                    <licence target="http://creativecommons.org/licenses/by-nc-sa/3.0/">
+                       დოკუმენტი ვრცელდება Creative Commons Attribution-NonCommercial-ShareAlike 3.0 ლიცენზიით.
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc type="fragmentary">
+                    <msIdentifier>
+                        <collection>კაზრეთი</collection>
+                    </msIdentifier>
+                    <msContents>
+                        <summary>
+                            <seg xml:lang="ka">საამშენებლო-სავედრებელი</seg>
+                            <seg xml:lang="en"/>
+                        </summary>
+                    </msContents>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>                             
+                                   <material></material>
+                                   <objectType ref="http://www.eagle-network.eu/voc/objtyp/lod/53">კვარცხლბეკი</objectType></support></supportDesc>
+                                <layoutDesc>
+                                    <layout writtenLines="6"><p>შუაში, II სტრიქონიდან ბოლომდე კამარაა.</p>
+                                      <dimensions unit="cm">
+                                        <width>18</width>
+                                        <height>60</height>
+                                        <depth></depth></dimensions>                              
+                                    </layout>
+                                </layoutDesc>
+                        </objectDesc>                        
+                        <handDesc>
+                            <handNote>
+                                ასოები რელიეფურია, ძირითადად კუთხოვანი.
+		                        წარწერის I სტრიქონი არის მთელ წახნაგზე, კამარის თავზე სტრიქონის ზედა ნაწილი საკმაოდ გადაცვეთილია. შემდეგი სტრიქონები შუაში გაწყვეტილია კამარით. სტრიქონთა მარცხენა მხარე 
+		                        ასევე გადაცვეთილია. წარწერა შეიცავს 6 სტრიქონს, პირველი ოთხი სტრიქონი უფრო ლაღად არის ნაწერი, ბოლო ორი უფრო მომჭირნედ არის გამოყვანილი.
+                                <height unit="cm" precision="medium">3 - 2,5 სმ</height>
+                                <width unit="cm" precision="medium"></width>
+                                </handNote>
+                        </handDesc>
+                        <decoDesc>
+                            <decoNote>
+                                <p>კვარცხლბეკის ორ მოპირდაპირე წახნაგზე ამოკვეთილია თითო ბოლნურჯვრიანი მედალიონი, ხოლო წახნაგთა მეორე წყვილზე მოჩუქურთმებულ კამარებში გამოხატულია მოგრძო ჯვრები
+                                და კამარის გაკეთების შემდეგ ამ წახნაგებზე გამოყვანილია ბერძნული წარწერები. </p>
+                            </decoNote>
+                        </decoDesc>
+                    </physDesc>
+                    <history>
+                            <origin>
+                                <origPlace>კაზრეთი</origPlace>
+                                <origDate notBefore="0501" notAfter="0700" precision="medium" evidence="lettering" datingMethod="#julian">VI-VII AD</origDate>                        
+                              </origin>
+                            <provenance type="found" when="1964">
+                                <placeName type ="ancientFindspot">კაზრეთი</placeName> 
+                                <rs type="circumstances"></rs>
+                                <rs type="context"/>
+                                <rs type="monuList"/>
+                            </provenance>                         
+                            <provenance type="observed">
+                            <placeName type="modernSpot" ref="http://museum.ge/">საქართველოს ეროვნული მუზეუმის ლაპიდარიუმი</placeName>
+                            <idno></idno>
+                        </provenance>
+                    </history>                   
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>   
+    <facsimile>
+        <surface>
+            <graphic url="ecg018.jpg">
+                <desc xml:lang="ka">კვარცხლბეკი კაზრეთიდან, 1964</desc>
+                <desc xml:lang="en">Pedestal from Kazreti, 1964</desc>
+            </graphic>
+        </surface>
+    </facsimile>
+    
+    <text>
+        <body>
+            
+             <div type="bibliography">
+                <listBibl>
+                    <bibl n="1">თინათინ ყაუხჩიშვილი, საქართველოს ბერძნული წარწერების კორპუსი<ptr target="bibliography.xml#b130"/>, <citedRange>გვ. 257-258</citedRange></bibl>
+                </listBibl>
+            </div> 
+            
+            <div type="edition" xml:lang="grc" xml:space="preserve">
+                
+                        <!-- † ὑπὲρ ε[ὐ]χῆς Συμεώ
+		                        νου καὶ Ἀουλιανοῦ
+		                        μετὰ παντὸς
+		                        τοῦ οἴκου αὐ
+	                            τῶν. κ[ύρι]ε, βοήθει
+		                        Θεώδορον
+
+
+                                                                         -->
+                     
+         <ab>
+             <lb n="1"/><g type="cross">&#10013;</g><w lemma="ὑπέρ">ὑπὲρ</w> <w lemma="εὐχή">ε<supplied reason="lost">ὐ</supplied>χῆς</w> <persName><name nymRef="Συμεῶν">Συμεώ
+             <lb n="2" break="no"/> νου</name></persName> <w lemma="καί">καὶ</w> <persName><name nymRef="Ἀουλιανός">Ἀουλιανοῦ</name></persName>
+             <lb n="3"/> <w lemma="μετά">μετὰ</w> <w lemma="πᾶς">παντὸς</w>
+             <lb n="4"/> <w lemma="ὁ">τοῦ</w> <w lemma="οἶκος">οἴκου</w> <w lemma="αὐτοί">αὐ
+             <lb n="5" break="no"/> τῶν</w>. <w lemma="κύριος"><expan><abbr>κ</abbr><ex>ύρι</ex><abbr>ε</abbr></expan></w>, <w lemma="βοηθῶ">βοήθ<choice><reg>ει</reg><orig>ι</orig></choice></w>
+             <lb n="6"/> <persName><name nymRef="Θεώδορος">Θεώδορον</name></persName>
+          </ab>    
+             
+         
+            </div>
+                
+            <div type="translation" xml:lang="ka">
+                <p>ქ. სალოცველად სიმეონისა და ავლიანოსისა ყოვლითა მათითა სახლითურთ. უფალო, შეეწიე თეოდორეს.</p>
+            </div>
+            
+           <div type="apparatus" xml:space="preserve">                                                                                                                                                          <!-- კრიტიკული აპარატი -->
+              <head>კრიტიკული აპარატი</head>
+              <p></p>
+            </div>
+           
+            <div type="commentary">
+                <p>პალეოგრაფიული მონაცემებით (α ჩატეხილი შუა ხაზით, π – გაგრძელებული ჰოტიზონტალური შტრიხით, კუთხოვანი ასოებით Ε, Ш) და 
+                                    ენობრივი თავისებურებებით (იტაციზმი; ο||ω–ს მონაცვლეობა; βοήθει ზმნასთან დამატება accusativus–ში) წარწერა V-VIII სს–ით AD თარიღდება. შეიძლება თარიღის მეტი დაზუსტება –
+                                    VI-VII სს–ით. ხელოვნებათმცოდნეთა აზრით, ძეგლი ჯვრებისა და ორნამენტების მიხედვით მთლიანად V ს–ისაა (ვ. ჯაფარიძე); არის აზრი, რომ ბოლნური ჯვრები V-VI ს–ისაა, ხოლო წარწერიანი წახნაგები 
+                            მოგრძო ჯვრებითა და ჩუქურთმიანი კამარებით VIII-IX სს–ისა (ვ. დოლიძე).</p>
+                <p>სხვა წყაროებით უცნობ პირებს, სიმეონსა და ავლიანეს რაღაცა დამსახურებისათვის თავისი და თავისი სახლის, ოჯახის სალოცველად აღუმართავთ ეს სტელა, ხოლო თეოდორე, ამ სტელის 
+                გამკეთებელი, ხელოვანი, თუ ოსტატი უფალს შეწევნას სთხოვს. </p>
+            </div>
+        </body>
+    </text>
+</TEI>
+
+
+

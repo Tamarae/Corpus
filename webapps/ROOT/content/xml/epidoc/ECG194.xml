@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.stoa.org/epidoc/schema/8.23/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.stoa.org/epidoc/schema/8.23/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:space="preserve" xml:lang="ka">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>[თეკლა] პირველმოწამეს განმარტებითი წარწერა</title>
+                <editor>გიორგი ოთხმეზური</editor>
+                <editor>ზაზა ალექსიძე</editor>
+            </titleStmt>
+            <publicationStmt>
+                <authority>ილიას სახელმწიფო უნივერსიტეტი</authority>
+                <idno type="filename">ECG194</idno>
+                <availability><licence target="http://creativecommons.org/licenses/by-nc-sa/3.0/">
+                    დოკუმენტი ვრცელდება Creative Commons Attribution-NonCommercial-ShareAlike 3.0 ლიცენზიით</licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                    <collection>დმანისი</collection>
+                    </msIdentifier>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>
+                                    <objectType>ქვაჯვარი</objectType>
+                                    <material>წითელი ტუფი</material>
+                                
+                            </support>
+                            </supportDesc>
+                            <layoutDesc>
+                                <layout>ქვაჯვრის ფრაგმენტი</layout>
+    
+                            </layoutDesc>
+                        </objectDesc>
+                        <handDesc>
+                            <handNote script="asomtavruli">
+                                ასომთავრული წარწერა 
+                                <dimensions unit="mm">
+                                    <height/>
+                                </dimensions>    
+                            </handNote>
+                        </handDesc>
+                    </physDesc>
+                    <history>
+                        <origin>
+                            <origPlace>ნაგზაურა</origPlace>
+                            <origDate >VII</origDate>
+                        </origin>
+                        
+                    </history>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+                    <!-- 
+                1.  [ქ. თ(ე)კლ
+                2.  ა] პ(ი)რ
+                3.  [ვ]ელ 
+                4.  [მ(ო)წ](ამ)ე
+                -->
+        <body>
+            
+            <div type="edition" xml:space="preserve">
+
+                <ab>
+                    <lb n="1"/><supplied reason="lost">ქ</supplied> <persName><expan><abbr>თ</abbr><ex>ე</ex><abbr>კლ</abbr>
+                    <lb n="2" break="no"/><supplied reason="lost"><abbr>ა</abbr></supplied></expan></persName> <w lemma="პირველმოწამე"><expan><abbr>პ</abbr><ex>ი</ex><abbr>რ</abbr>
+                    <lb n="3" break="no"/><supplied reason="lost"><abbr>ვ</abbr></supplied><abbr>ელ</abbr></expan> 
+                    <lb n="4"/><expan><supplied reason="lost"><abbr>მ</abbr><ex>ო</ex><abbr>წ</abbr></supplied><ex>ამ</ex><abbr>ე</abbr></expan></w>
+                </ab>
+                
+            </div>
+            <div type="translation"/>
+            
+            <div type="commentary">
+                <p> წითელი ტუფის ქვაჯვრის ფრაგმენტზე შემორჩენილია ამოკვეთილი ასომთავრული წარწერის ნაშთი, 3 სტრიქონი. პირველმოწამეს სახელის აღდგენის რამდენიმე ვარიანტი არსებობს: სტეფანე, რაჟდენ, 
+                    თეკლა. "ნაგზაურა"-ს ერთ-ერთ პოლიგრიმულ გრფიტოში დაფიქსირებული სახელი "თეკლე", რაც, ჩვენი აზრით, უფრო მეტი ალბათობითგვაძლვეს ვარაუდის დაშვების უფლებას, რომ პირველმოწამეს
+                    სახელი აღვადგინოთ როგორც "თეკლა".
+                    დაზიანება: წარწერა ფრაგმენტულია.
+                    წარწერის დათარიღება წინა გამოცემაში: VII ს. (ზ. ალექსიძე)
+                    წარმოდგენილ გამოცემაში გაზიარებულია მოცემული დათარიღება.
+                </p>
+                
+                <div type="bibliography"> 
+                    <listBibl>
+                        
+                    <bibl>
+                    <editor>
+                        <name>გიორგი</name>
+                        <surname>ოთხმეზური</surname>
+                    </editor>
+                    <title type="main">დმანისი</title> 
+                    <title type="sub">ქვემო ქართლის ეპიგრაფიკული კორპუსი</title>
+                    <bibl type="vol"></bibl>
+                    <bibl type="pp">86-87</bibl>
+                    <pubPlace>თბილისი</pubPlace> 
+                    <date>2018</date>
+                </bibl>
+                        
+                        
+                        <bibl> 
+                            <author>ზაზა ალექსიძე</author> 
+                            <title type="main" level="a">ადრექრისტიანული საეკლესი კომპლექსი დმანისიდან </title>
+                            <title level="s"></title>
+                            <bibl type="vol"></bibl>
+                            <bibl type="pp">84</bibl>
+                            <pubPlace>თბილისი</pubPlace>
+                            <date>2012</date>
+                        </bibl>
+                        
+                        
+                    </listBibl>
+                </div>
+                
+            </div>
+        </body>
+    </text>
+</TEI>
+
+
+
+
+

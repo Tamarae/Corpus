@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+<?xml-model href="http://www.stoa.org/epidoc/schema/8.23/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.stoa.org/epidoc/schema/8.23/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:space="preserve" xml:lang="ka">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>ფიის წმ. თეოდორეს ეკლესიის ჩქარის წარწერა</title>
+                <editor>ნოდარ შოშიაშვილი</editor>
+                <editor>ვალერი სილოგავა</editor> 
+            </titleStmt>
+            <publicationStmt>
+                <authority>ილიას სახელმწიფო უნივერსიტეტი, ლინგვისტურ კვლევათა ინსტიტუტი</authority>
+                 <idno type="filename">ECG081</idno>
+                <availability>
+                    <licence target="http://creativecommons.org/licenses/by-nc-sa/3.0/">
+                       დოკუმენტი ვრცელდება Creative Commons Attribution-NonCommercial-ShareAlike 3.0 ლიცენზიით.
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <collection>ფია</collection>
+                    </msIdentifier>
+                    <msContents>
+                        <summary>
+                            <seg xml:lang="ka">საამშენებლო</seg>
+                            <seg xml:lang="en"/>
+                        </summary>
+                    </msContents>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>                             
+                                    <objectType ref="https://www.eagle-network.eu/voc/objtyp/lod/1963">ტრაპეზის ქვა</objectType>
+                                    <material ref="http://www.eagle-network.eu/voc/material/lod/2">ქვა</material>                                   
+                                      <dimensions unit="cm">
+                                        <width>40</width>
+                                        <height>115</height>
+                                        <depth>50</depth>
+                                      </dimensions>
+                                </support>
+                            </supportDesc>
+                                <layoutDesc>
+                                    <layout writtenLines="6">წარწერა ექვსსტრიქონიანია. ტრაპეზის ზედა ნაწილი ოთხივე მხარეს გამოწეულია და მასზე ამოკვეთილია წარწერის 
+                                        პირველი სტრიქონი. გამოწეული მხარის სიმაღლე - 12 სმ-ია, წარწერის ფართი 55×40.
+                                      <dimensions unit="cm">
+                                         <width>40</width>
+                                         <height>115</height> 
+                                          </dimensions>  
+                                    </layout>                                   
+                                </layoutDesc>
+                        </objectDesc>                        
+                        <handDesc>
+                            <handNote script="asomtavruli">
+                                <rs type="execution">ამოღარული</rs> <rs type="script">ასომთავრული</rs> წარწერა
+                                 <height unit="cm" precision="high">4-5</height> 
+                            </handNote>
+                        </handDesc>
+                    </physDesc>
+                    <history>
+                            <origin>
+                                <origPlace>ფიის წმინდა თეოდორეს ეკლესია</origPlace>
+                                <origDate datingMethod="#julian">995 AD</origDate>
+                            </origin>
+                            <provenance type="found" when="1949">
+                                <placeName type ="ancientFindspot">ფიის წმინდა თეოდორეს ეკლესია</placeName>
+                                <!-- "41.435630, 43.308379"--> 
+                                <rs type="circumstances">ნასოფლარი ფია (ასპინძის მუნიციპალიტეტი) მდებარეობს ვარძიასთან ახლოს, ხერთვისიდან 5 კმ-ში, ხოლო
+                                    ასპინძიდან 20-22 კმ მანძილზე სამხრეთით, მტკვრის მარცხენა ნაპირზე. ნასოფლარის ჩრდილო-დასავლეთით, მთის ფერდობზე, დგას მცირე ზომის
+                                    წმინდა თეოდორეს სახელობის ეკლესია. მასზე შემორჩენილია X საუკუნის 2 წარწერა, რომელთაც 1949 წელს მიაკვლია გ. გაფრინდაშვილმა.
+                                    ტრაპეზის ქვა ეკლესიის საკურთხევლის იატაკის ამოკვეთილ ბუდეში იდგა, ხოლო 1949 წელს იგი 
+                                    გ. გაფრინდაშვილმა გამოიტანა ეკლესიის ეზოში ფოტოსურათის გადასაღებად.</rs>
+                                <rs type="context"/>
+                                <rs type="monuList"/>
+                            </provenance>                                
+                            <provenance type="observed">
+                                <placeName type="modernSpot">ფიის წმინდა თეოდორეს ეკლესია</placeName>
+                                <idno type="invNo"/>
+                            </provenance> 
+                    </history>                   
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <revisionDesc><change when="2019-10-29" who="Eka Kvirkvelia">ტექსტის სრული კოდირება, მეტამონაცემების სრული კოდირება, 
+            ბმულებით დაკავშირება ავტორიტეტულ წყაროსთან</change></revisionDesc>
+    </teiHeader>
+    <facsimile>
+        <surface>
+            <graphic url="ecg081.jpg">
+                <desc xml:lang="ka">ფიის წმ. თეოდორეს ეკლესიის ჩქარის წარწერა</desc>
+                <desc xml:lang="en"></desc>
+            </graphic>
+        </surface>
+    </facsimile>
+    <text>
+        <body>
+         <div type="bibliography">
+             <listBibl>
+         <bibl n="1">ნოდარ შოშიაშვილი, ქართული წარწერების კორპუსი<ptr target="bibliography.xml#b101"/>, <citedRange>გვ. 269-270</citedRange></bibl>
+         <bibl n="2">ვალერი სილოგავა, სამცხის ლაპიდარული ეპიგრაფიკა<ptr target="bibliography.xml#b149"/>, <citedRange>გვ. 118-169</citedRange></bibl>        
+             </listBibl> 
+            </div>
+            
+            <div type="edition" xml:lang="ka" xml:space="preserve">
+                
+                        <!--  სხლითა ღთა მე ჩ
+                              ქრმნ და ძმთ
+                              ა ჩემთა დავ
+                              დგით ესე ეკლეს–
+                              ჲ ქრკნი იყო
+                              სიე--> 
+                                                            
+                <ab>
+                   <lb n="1"/><w lemma="სახელ"><expan><abbr>ს</abbr><ex>ა</ex><abbr>ხ</abbr><ex>ე</ex><abbr>ლითა</abbr></expan></w> 
+                                <w lemma="ღმერთ"><expan><abbr>ღ</abbr><ex>მრთისაჲ</ex><abbr>თა</abbr></expan></w> 
+                                <w lemma="მე">მე</w> 
+                                <name nymRef="ჩქარ"><expan><abbr>ჩ
+                   <lb n="2" break="no"/>ქ</abbr><ex>ა</ex><abbr>რმ</abbr><ex>ა</ex><abbr>ნ</abbr></expan></name> 
+                                <w lemma="და">და</w> 
+                                <w lemma="ძმა"><expan><abbr>ძმ</abbr><ex>ა</ex><abbr>თ
+                    <lb n="3" break="no"/>ა</abbr></expan></w> 
+                                    <w lemma="მე">ჩემთა</w> 
+                                    <w lemma="დადგმა">დავ 
+                    <lb n="4" break="no"/>დგით</w> 
+                                <w lemma="ესე">ესე</w> 
+                                <w lemma="ეკლესია"><expan><abbr>ეკლეს</abbr><ex>ია</ex>
+                    <lb n="5" break="no"/><abbr>ჲ</abbr></expan></w> 
+                               <rs type="date"><w lemma="ქრონიკონი"><expan><abbr>ქრ</abbr><ex>ონი</ex><abbr>კ</abbr><ex>ო</ex>ნი</expan></w> 
+                               <w lemma="ყოფა">იყო</w>
+                    <lb n="6"/><num value="215">სიე</num></rs>
+                </ab>
+               </div>
+              
+            
+         <div type="translation" xml:lang="ka">
+             <p>ღვთის სახელით მე, ჩქარმა, და ჩემმა ძმებმა დავდგით ეს ეკლესია, ქრონიკონი იყო 215.</p>
+         </div>    
+                             
+                
+            <div type="commentary">
+                <p>ნოდარ შოშიაშვილის ქართული წარწერების კორპუსი მიხედვით, #150.
+                    საამშენებლო წარწერა უნდა ეკუთვნოდეს ქტიტორს ან ხუროთმოძღვარს. უფრო მისაღები ვარაუდი მეორე ჩანს. 
+                    ვალერი სილოგავას აზრით, საინტერესოა, რომ წარწერაში ეკლესიის აშენების ფაქტი გადმოცემულია სიტყვით „დავდგი“ 
+                და არა „აღვაშენე“, როგორც ეს სხვა შემთხვევებშია (შეიძლება ეს გამოწვეულია იმით, რომ წარწერა ამოკვეთილია ტრაპეზის ქვაზე, რომელიც „დაიდგმებოდა“ და არა „აღეშენებოდა“).
+                წარწერა მნიშვნელოვანია პალეოგრაფიულადაც, ის თარიღიანია, ამდენად, თავისთავად დასაყრდენი წერილობითი ძეგლი უთარიღო წარწერების დათარიღებისათვის და,
+                მეორეც, მასში „ლასი“ გადმოცემულია ასომთავრული („სახელითა“ - 1 სტრქ.) და ნუსხური („ეკლესიაჲ“ - მე-4 სტრქ.) დაწერილობით - ამით
+                დოკუმენტურად, თარიღით, დადასტურებულია ასომთავრულში ნუსხური ასოების (პირველ რიგში და ყველაზე ადრე „ლასის“) შერევის ფაქტი, რომელსაც X ს-ში
+                დაწყებულად მიიჩნევდნენ. წარწერაში განკვეთილობის ნიშნები და ქარაგმები არ არის გამოყენებული. სიტყვები ერთმანეთს არ არის დაცილებული. </p>                
+            </div>
+        </body>
+    </text>
+</TEI>

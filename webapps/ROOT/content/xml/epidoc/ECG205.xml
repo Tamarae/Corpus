@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.stoa.org/epidoc/schema/8.23/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.stoa.org/epidoc/schema/8.23/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:space="preserve" xml:lang="ka">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt><title>IX-X სს. ფრაგმენტი</title></titleStmt>
+            <publicationStmt>
+                <authority>ილიას სახელმწიფო უნივერსიტეტი</authority>
+                <idno type="filename">ECG205</idno>
+                <availability><licence target="http://creativecommons.org/licenses/by-nc-sa/3.0/">
+                    დოკუმენტი ვრცელდება Creative Commons Attribution-NonCommercial-ShareAlike 3.0 ლიცენზიით</licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier><msName type="invNo"></msName></msIdentifier>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc><support><objectype ref="">კრამიტის ნატეხი</objectype>
+                                <material ref="">კრამიტი</material>
+                                
+                            </support>
+                            </supportDesc>
+                            <layoutDesc>
+                                <layout><p>კრამიტის ნატეხი, რომელზეც ამოკვეთილია ორი გრაფემა</p></layout>
+                                <dimencion unit="cm">
+                                    <height>1,50</height>
+                                    <width>70</width>
+                                    <depth>80</depth>
+                                </dimencion>
+                            </layoutDesc>
+                        </objectDesc>
+                        <handDesc>
+                            <handNote><p> სარკისებური წაკითხვის შემთხვევაში იძლევა ნუსხურ ნიშნებს </p>
+                                <dimensions unit="mm">
+                                    <height></height>
+                                </dimensions>    
+                            </handNote>
+                        </handDesc>
+                    </physDesc>
+                    <history>
+                        <origin>
+                            <origPlace>ნაგზაურა</origPlace>
+                            <origDate >IX-X AD</origDate>
+                        </origin>
+                        <provenance ></provenance>
+                        
+                    </history>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text><!-- 
+    1. ო
+    -->
+        <body>
+            <div type="bibliography">
+                <bibl>
+                    <editor>
+                        <name>გიორგი</name>
+                        <surname>ოთხმეზური</surname>
+                    </editor>
+                    <title type="main">დმანისი</title> 
+                    <title type="sub">ქვემო ქართლის ეპიგრაფიკული კორპუსი</title>
+                    <bibl type="vol"></bibl>
+                    <bibl type="pp">95</bibl>
+                    <pubPlace>თბილისი</pubPlace> 
+                    <date>2018</date>
+                </bibl></div>
+            
+            <div type="edition" xml:space="preserve">
+                <div type="textpart" subtype="fragment" n="1">
+                <ab>
+                    <lb n="1"/> ოჳ
+                </ab>
+                </div>
+            </div>
+            <div type="translation">
+                <p></p>
+            </div>
+            <div type="commentary">
+                <p>კრამიტის ნატეხი, რომელზეც ამოკვეთილია ორი გრაფემა, სარკისებური წაკითხვის შემთხვევაში იძლევა ნუსხურ "უ" - ს. ფილაზე სხვა ასოების კვალი არ ჩანს. 
+                    დაზიანება: წარწერაფრამნეტულია.
+                    წარწერის დათარიღება წინა გამოცემაში: IX-X სს. (ალექსიძე)
+                    წარმოდგენილ გამოცემაში გაზიარებულია მოცემული დათარიღება.
+                </p>
+                
+                <div type="bibliography" subtype="otherpublications"> 
+                    <listBibl>
+                        
+                        <bibl> 
+                            <author><name>ზაზა</name><surName>ალექსიძე</surName></author> 
+                            <title type="main" level="a">ადრექრისტიანული საეკლესი კომპლექსი დმანისიდან </title>
+                            <title level="s"></title>
+                            <bibl type="vol"></bibl>
+                            <bibl type="pp">85</bibl>
+                            <pubPlace>თბილისი</pubPlace>
+                            <date>2012</date>
+                        </bibl>
+                        
+                        
+                    </listBibl>
+                </div>
+                
+            </div>
+        </body>
+    </text>
+</TEI>
+
+
+
+
+
+
+
+

@@ -1,0 +1,179 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.stoa.org/epidoc/schema/8.23/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.stoa.org/epidoc/schema/8.23/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:space="preserve" xml:lang="ka">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>ბოლნისის სიონის ეპიტაფია იოანე ბოლნელისა და მოსახსენებელი შუშანიკისა</title>
+                <editor>ნოდარ შოშიაშვილი</editor>
+            </titleStmt>
+            <publicationStmt>
+                <authority>ილიას სახელმწიფო უნივერსიტეტი, ლინგვისტურ კვლევათა ინსტიტუტი</authority>
+                <idno type="filename">ECG067</idno>
+                <availability>
+                    <licence target="http://creativecommons.org/licenses/by-nc-sa/3.0/">
+                        დოკუმენტი ვრცელდება Creative Commons Attribution-NonCommercial-ShareAlike 3.0 ლიცენზიით.
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <collection>ბოლნისი</collection>
+                    </msIdentifier>
+                    
+                    <msContents>
+                        <summary>
+                            <seg xml:lang="ka">ეპიტაფია</seg>
+                            <seg xml:lang="en"/>
+                        </summary>
+                    </msContents>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>
+                                    <objectType ref="http://www.eagle-network.eu/voc/objtyp/lod/1483">ფილა</objectType>
+                                    <material ref="http://www.eagle-network.eu/voc/material/lod/2">მწვანე ქვა</material>
+                                    <dimensions unit="cm">
+                                        <height>57</height>
+                                        <width>27,5</width>
+                                    </dimensions>
+                                </support>
+                            </supportDesc>
+                            <layoutDesc>
+                                <layout writtenLines="7">
+                                    წარწერა შვიდსტრიქონიანია. ფილა იმავე ქვისაა, რომლითაც აშენებულია ბოლნისის ტაძარი. 
+                                        I გვერდზე, ზემო ნაწილში, რელიეფით გამოქანდაკებულია მედალიონში ჩასმული „ბოლნური ჯვარი“, 
+                                        რომლის ქვემოთ ამოჭრილია ოთხი სტრიქონი. 
+                                        II გვერდზე, ფილის ზურგზე, ამოჭრილია დანარჩენი სამი სტრიქონი.
+                                      <dimensions unit="cm">
+                                        <height>26</height>
+                                        <width>17</width>
+                                    </dimensions>
+                                    <dimensions unit="cm">
+                                        <height>21</height>
+                                        <width>16</width>
+                                    </dimensions>
+                                   </layout>
+                            </layoutDesc>
+                        </objectDesc>                     
+                        <handDesc>
+                            <handNote script="asomtavruli" style="inscribed">
+                                <rs type="execution">ამოღარული</rs> <rs type="script">ასომთავრული</rs> წარწერა
+                              <height unit="cm">4-6</height>
+                             </handNote>
+                        </handDesc>
+                    </physDesc>              
+                    <history>
+                        <origin>
+                            <origPlace>ბოლნისის სიონი</origPlace>
+                           <origDate notBefore="0800" notAfter="0900">IX AD</origDate>
+                        </origin>
+                        
+                        <provenance type="found" when="1937">
+                            <placeName type="ancientFindspot" ref="http://pleiades.stoa.org/places/863760">ბოლნისის სიონი</placeName>
+                            <!-- 41.389081, 44.512551 -->
+                            <rs type="monuList"/>
+                            <rs type="circumstances">ბოლნისის ტაძარი მდებარეობს ისტორიულ ქვემო ქართლში, 
+                                9 კმ. მანძილზე ქ. ბოლნისიდან სამხრეთით, 1 კმ. მანძილზე სოფ. ბონის-ხაჩინიდან. წარწერა 1937 წელს აღმოაჩინა კულტურულ ძეგლთა
+                            დაცვის კომიტეტის მიერ მოწყობილმა არქეოლოგიურმა ექსპედიციამ, რომელსაც ლევან მუსხელიშვილი ხელმძღვანელობდა.</rs>
+                            <rs type="context"/>            
+                        </provenance>                       
+                        <provenance type="observed">
+                            <placeName type="modernSpot" ref="http://museum.ge/">საქართველოს ეროვნული მუზეუმი</placeName>
+                             <idno type="invNo">139 (სხსმ 166)</idno>
+                        </provenance>
+                    </history>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <revisionDesc><change when="2019-10-29" who="Eka Kvirkvelia">ტექსტის სრული კოდირება, მეტამონაცემების სრული კოდირება, 
+            ბმულებით დაკავშირება ავტორიტეტულ წყაროსთან</change></revisionDesc>
+    </teiHeader>
+    <facsimile>
+        <surface>
+            <graphic url="ecg067.jpg">
+                <desc xml:lang="ka">ბოლნისის სიონის ეპიტაფია იოანე ბოლნელისა და მოსახსენებელი შუშანიკისა</desc>
+                <desc xml:lang="en"></desc>
+            </graphic>
+        </surface>
+    </facsimile> 
+    <text>
+        <body>
+          <div type="bibliography"> 
+                <listBibl>
+                    <bibl n="1">ნოდარ შოშიაშვილი, ქართული წარწერების კორპუსი, ლაპიდარული წარწერები<ptr target="bibliography.xml#b101"/>, <citedRange>გვ. 153-154</citedRange></bibl>
+                    <bibl n="2">ლევან მუსხელიშვილი, ბოლნისი<ptr target="bibliography.xml#b93"/>, <citedRange>გვ. 337-339</citedRange></bibl>
+                    <bibl n="3">საქართველოს სახელმწიფო მუზეუმის ქართული ეპიგრაფიკული ძეგლების კატალოგი<ptr target="bibliography.xml#b111"/>, <citedRange>გვ. 22-23</citedRange></bibl>
+                </listBibl>
+            </div>
+            
+            <div type="edition" xml:space="preserve" xml:lang="ka">  
+                              
+                    <!--I გვერდი                        
+                       „ესე სფნი ინე
+                        ბნლ ეპკნი
+                        და ვინ სხჲ დფლს
+                        ამცა ნუ გბს"-->
+                <div type="textpart" subtype="section" n="1">            
+                       <ab>
+                           <lb n="1"/><w lemma="ესე">ესე</w> <w lemma="საფლავ"><expan><abbr>ს</abbr><ex>ა</ex><abbr>ფ</abbr><ex>ლავ</ex><abbr>ნი</abbr></expan></w> 
+                                            <name nymRef="იოვანე"><expan><abbr>ი</abbr><ex>ოვა</ex><abbr>ნე</abbr></expan></name> 
+                           <lb n="2"/><roleName><w lemma="ბოლნელ"><expan><abbr>ბ</abbr><ex>ოლ</ex><abbr>ნ</abbr><ex>ე</ex><abbr>ლ</abbr></expan></w> 
+                                <w lemma="ეპისკოპოს"><expan><abbr>ეპ</abbr><ex>ის</ex><abbr>კ</abbr><ex>ოპოსის</ex><abbr>ნი</abbr></expan></w></roleName>
+                           <lb n="3"/> და 
+                                     <w lemma="ვინ">ვინ</w> <w lemma="სხუა"><expan><abbr>სხ</abbr><ex>უა</ex><abbr>ჲ</abbr></expan></w> 
+                                     <w lemma="დაფლვა"><expan><abbr>დ</abbr><ex>აე</ex><abbr>ფლ</abbr><ex>ა</ex><abbr>ს</abbr></expan></w> 
+                           <lb n="4"/><w lemma="ესე"><expan><abbr>ამ</abbr><ex>ას</ex><abbr>ცა</abbr></expan></w> <w lemma="ნუ">ნუ</w> 
+                                        <w lemma="გება"><expan><ex>ე</ex><abbr>გ</abbr><ex>ე</ex><abbr>ბ</abbr><ex>ი</ex><abbr>ს</abbr></expan></w>
+                       </ab>
+                </div>                                                                                     
+                       
+                                     <!-- II გვერდი                        
+                                           „ესე ჯი შ
+                                            უშანი
+                                            კისი"-->
+                                
+                     <div type="textpart" subtype="section" n="2">
+                       <ab>
+                           <lb n="1"/><w lemma="ესე">ესე</w> <w lemma="ჯუარ"><expan><abbr>ჯ</abbr><ex>უარ</ex><abbr>ი</abbr></expan></w> 
+                                    <name nymRef="შუშანიკ">შ
+                           <lb n="2" break="no"/>უშანი               
+                           <lb n="3" break="no"/>კისი</name>            
+                          </ab>                                                                      
+                </div>
+                    
+		</div>
+            <div type="translation" xml:lang="ka">
+                <p n="1">ეს საფლავი არის იოანე ბოლნელი ეპისკოპოსისა და მასზე სხვა რომ დაეფლას, ნუ მოხდება.</p>
+                 <p n="2">შუშანიკის ეს ჯვარი.</p>                                                                                                                                                                                                                                                                     
+            </div>
+            
+            <div type="apparatus" xml:space="preserve">
+              <head>Apparatus</head>   
+                   <p><app loc="1"> <lem>საფლავ</lem> 
+                 <rdg resp="ლევან მუსხელიშვილი">საყოფელნი</rdg>
+                 </app></p>
+                
+                 <p><app loc="1"> <lem>იოვანე</lem> 
+                 <rdg resp="ლევან მუსხელიშვილი">იოანე</rdg>
+                 </app></p>
+                
+                <p><app loc="2"> <lem>ეპისკოპოს</lem> 
+                 <rdg resp="ლევან მუსხელიშვილი">ეპისკოპოსისანი</rdg>
+                 </app></p>
+           </div>
+            
+
+            <div type="commentary">
+                <p> ნოდარ შოშიაშვილის ქართული წარწერების კორპუსის მიხედვით #64-65.
+                    ქარაგმის ნიშნად გამოყენებულია გრძელი, განივი, სწორი ხაზი. განკვეთილობის ნიშნები არ ახლავს.  
+                     წარწერის დათარიღების პალეოგრაფიული საფუძველია: Ⴊ, Ⴌ გრაფემების მიდრეკილება განუსხურებისაკენ, გახსნილია Ⴁ და შეკრულია Ⴣ; 
+                     წარწერა არ უნდა იყოს „ბოლნური ჯვრის“ თანადროული. 
+                     II გვერდის წარწერაზე მეორე სტრიქონში ასოები Ⴣ და Ⴘ შეცდომით გვერდზე შეტრიალებულადაა ამოკვეთილი.
+                  </p>
+               </div>        
+        </body>
+    </text>
+</TEI>

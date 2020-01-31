@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+<?xml-model href="http://www.stoa.org/epidoc/schema/8.23/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.stoa.org/epidoc/schema/8.23/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:space="preserve" xml:lang="ka">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>აგარის (ურავლის) თეოდორეს წარწერა</title>
+                <editor>ვალერი სილოგავა</editor>
+            </titleStmt>
+            <publicationStmt>
+                <authority>ილიას სახელმწიფო უნივერსიტეტი, ლინგვისტურ კვლევათა ინსტიტუტი</authority>
+                 <idno type="filename">ECG083</idno>
+                <availability>
+                    <licence target="http://creativecommons.org/licenses/by-nc-sa/3.0/">
+                       დოკუმენტი ვრცელდება Creative Commons Attribution-NonCommercial-ShareAlike 3.0 ლიცენზიით.
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <collection>აგარა (ურვალი)</collection>
+                    </msIdentifier>
+                    <msContents>
+                        <summary>
+                            <seg xml:lang="ka">საამშენებლო</seg>
+                            <seg xml:lang="en"/>
+                        </summary>
+                    </msContents>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>                             
+                                    <objectType ref="http://www.eagle-network.eu/voc/objtyp/lod/1483">ფასადი</objectType>
+                                    <material ref="http://www.eagle-network.eu/voc/material/lod/2">ქვა</material>                                   
+                                      <dimensions unit="cm">
+                                        <width></width>
+                                        <height></height>
+                                        <depth></depth>
+                                      </dimensions>
+                                </support>
+                            </supportDesc>
+                                <layoutDesc>
+                                    <layout writtenLines="11">წარწერა თერთმეტსტრიქონიანია.
+                                         ეკლესიის აღმოსავლეთ ფასადის ცენტრალური სარკმლის ზემოთ ჩასმულია ფილა, რომელზედაც წარმოდგენილია რელიეფური კომპოზიცია - მთელი ტანით გამოსახული
+                                ქტიტორი ეკლესიის მოდელით ხელში ვედრების პოზით მიმართულია ფილის მარჯვენა ნაწილში გამოსახული მაცხოვრისაკენ. მაცხოვარი წარმოდგენილია მთელი ტანით,
+                                ტახტზე მჯდომარე, მაღლა შემართული მარჯვენით, რომლითაც იგი კურთხევის ნიშნად ეხება ეკლესიის მოდელს. ფილის მარჯვენა მხარეს, ქტიტორის უკან, დატოვებულია
+                                განიერი არშია (სიგანე - 17 სმ), რომელზედაც ამოკვეთილია წარწერა. ბოლო სტრიქონი, არშიის გარეთ, გრძელდება ქვემოთ, ფილის მთელ სიგანზე.
+                                        <dimensions unit="cm">
+                                         <width></width>
+                                         <height></height> 
+                                          </dimensions>  
+                                    </layout>                                   
+                                </layoutDesc>
+                        </objectDesc>                        
+                        <handDesc>
+                            <handNote script="asomtavruli" style="inscribed">
+                                <rs type="execution">ამოღარული</rs> <rs type="script">ასომთავრული</rs> წარწერა, კიდურწერტილოვანი, ლამაზი, თანაბარასოიანი
+                                   <height/> 
+                            </handNote>
+                        </handDesc>
+                    </physDesc>
+                    <history>
+                            <origin>
+                                <origPlace>აგარის (ურავლის) ეკლესია</origPlace>
+                                <origDate notBefore-custom="900" notAfter-custom="1000" 
+                                    evidence="context" datingMethod="#julian">X AD</origDate>
+                            </origin>
+                            <provenance type="found">
+                                <placeName type ="ancientFindspot">აგარის (ურავლის) ეკლესია</placeName>
+                                <!-- "41.559454, 43.077875"--> 
+                                <rs type="circumstances"></rs>
+                                <rs type="context"></rs>
+                                <rs type="monuList"/></provenance>                                
+                            <provenance type="observed">
+                                <placeName type="modernSpot">აგარის (ურავლის) ეკლესია</placeName>
+                                <idno type="invNo"/></provenance> 
+                    </history>                   
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <revisionDesc><change when="2019-10-29" who="Eka Kvirkvelia">ტექსტის სრული კოდირება, მეტამონაცემების სრული კოდირება, 
+            ბმულებით დაკავშირება ავტორიტეტულ წყაროსთან</change></revisionDesc>
+    </teiHeader>
+    <facsimile>
+        <surface>
+            <graphic url="ecg083.jpg">
+                <desc xml:lang="ka">აგარა (ურვალის)</desc>
+                <desc xml:lang="en"></desc>
+            </graphic>
+        </surface>
+    </facsimile> 
+    <text>
+        <body>    
+            <div type="bibliography">
+             <listBibl>
+         <bibl n="1">ვალერი სილოგავა, სამცხის ლაპიდარული ეპიგრაფიკა<ptr target="bibliography.xml#b149"/>, <citedRange>გვ. 118-169</citedRange></bibl>
+         <bibl n="2">ვალერი სილოგავა, სამხრეთ საქართველოს წარწერების შესწავლა ხელნაწერთა ინსტიტუტის ეპიგრაფიკული ექსპედიციის მიერ<ptr target="bibliography.xml#b148"/>, <citedRange>გვ. 273-274</citedRange></bibl>
+             </listBibl> 
+               </div>
+            
+            <div type="edition" xml:lang="ka" xml:space="preserve">
+                
+                        <!--  სხლითა 
+                              ღჲთა მე
+                        თე აღვა
+                        შნე ესე
+                        სტოაჲ
+                        სლცვლდ
+                        ამისად
+                        გ[ლ]ისა ოა
+                        თდთჳს ღნ
+                        აკხნდა
+                        ყნიშვილ[ნ]ი ამის ეკლ[ესსანი შნ]--> 
+                
+                <ab>
+                   <lb n="1"/><w lemma="სახელ"><expan><abbr>ს</abbr><ex>ა</ex><abbr>ხ</abbr><ex>ე</ex><abbr>ლითა</abbr></expan></w> 
+                   <lb n="2"/><w lemma="ღმერთ"><expan><abbr>ღ</abbr><ex>მრთისა</ex><abbr>ჲთა</abbr></expan></w> 
+                            <w lemma="მე">მე</w>    
+                    <lb n="3"/><name nymRef="თეოდორე"><expan><abbr>თ</abbr><ex>ეოდორ</ex><abbr>ე</abbr></expan></name> 
+                            <w lemma="აღშენება"><expan><abbr>აღვა
+                    <lb n="4" break="no"/>შ</abbr><ex>ე</ex><abbr>ნე</abbr></expan></w> 
+                            <w lemma="ესე">ესე</w>
+                    <lb n="5"/><w lemma="სტოა">სტოაჲ</w>
+                    <lb n="6"/><w lemma="სალოცველ"><expan><abbr>ს</abbr><ex>ა</ex><abbr>ლ</abbr><ex>ო</ex><abbr>ცვ</abbr><ex>ე</ex><abbr>ლ</abbr><ex>ა</ex><abbr>დ</abbr></expan></w>
+                    <lb n="7"/><w lemma="ესე">ამის</w>
+                             <w lemma="ადგილ"><expan><abbr>ად
+                    <lb n="8" break="no"/>გ</abbr><ex>ი</ex><supplied reason="lost"><abbr>ლ</abbr></supplied><abbr>ისა</abbr></expan></w> 
+                            <w lemma="უფალ"><expan><abbr>ო</abbr><ex>ჳფლის</ex><abbr>ა</abbr></expan></w>
+                    <lb n="9"/><name nymRef="თეოდორე"><expan><abbr>თ</abbr><ex>ეო</ex><abbr>დ</abbr><ex>ორესა</ex><abbr>თჳს</abbr></expan></name> 
+                                <w lemma="ღმერთ"><expan><abbr>ღ</abbr><ex>მერთმა</ex><abbr>ნ</abbr></expan></w>
+                    <lb n="10"/><w lemma="კურთხევა"><expan><abbr>აკ</abbr><ex>ურთ</ex><abbr>ხ</abbr><ex>ე</ex><abbr>ნ</abbr></expan></w>
+                                <w lemma="და">და</w>
+                    <lb n="11"/><w lemma="ყოველ"><expan><abbr>ყ</abbr><ex>ოველ</ex><abbr>ნი</abbr></expan></w> 
+                                <w lemma="შვილ">შვილ<supplied reason="lost">ნ</supplied>ი</w> 
+                                <w lemma="ესე">ამის</w> 
+                                <w lemma="ეკლესია"><expan><abbr>ეკლ</abbr><supplied reason="lost"><abbr>ესი</abbr><ex>ი</ex><abbr>სანი</abbr></supplied></expan></w> 
+                                <w lemma="შეიწყალე"><expan><abbr>შ</abbr><ex>ეიწყალე</ex><abbr>ნ</abbr></expan></w>
+                </ab>
+               </div>
+              
+            
+         <div type="translation" xml:lang="ka">
+             <p>ღვთის სახელით მე, თეოდორემ, ავაშენე ეს სტოა ამ ადგილის სალოცველად უფლისა თეოდორესათვის, ღმერთმა
+           აკურთხოს და ამ ეკლესიის ყოველი შვილი შეიწყალე, [უფალო].</p>
+         </div>    
+                             
+                
+            <div type="commentary">
+                <p>ურავლის აგარაში მოზრდილი სამონასტრო კომპლექსი ყოფილა, შემორჩენილ ნაგებობათაგან მნიშვნელოვანია ორი - ეკლესია და 
+                                სატრაპეზო. ორივეზე მოიპოვება ასომთავრული საამშენებლო წარწერები. ეკლესიის წარწერა X საუკუნისაა, ხოლო სატრაპეზოსი - XI საუკუნისა.
+                                აგარის ეკლესიის წარწერის მიხედვით, სხვა წყაროებით უცნობ ვინმე თეოდორეს აუშენებია სტოა - ეკლესიის გარშემოსავლელი. ვალერი სილოგავას აზრით, ვინაიდან წარწერიანი ფილა
+                ეკლესიის აღმოსავლეთის ფასადის სარკმლის ზემოთაა ჩასმული (იგი მისი ზედა და ქვემო ჭრილით კარგად არის მორგებული სარკმლის ღიობს, 
+                თუმცა აცდენილია სიგანით ღიობის ორივე მხარეს აყოლილ ორნამენტს), ხოლო ტაძრის გარშემო სტოა არსად ჩანს, აშკარაა, რომ იგი თავდაპირველ ადგილას არ ზის და აქ მეორედ 
+                გამოყენების შედეგად არის მოხვედრილი. ფილაზე, მარცხნივ, წარმოდგენილია ქტიტორი, მთელი ტანით, ოდნავ მარცხნივ მიბრუნებით და ეკლესიის მოდელით ხელში,
+                რომელსაც მიართმევს მარჯვნივ გამოსახულ მაცხოვარს. მაცხოვარს მაკურთხებელი მარჯვენა დარბაზული ეკლესიის სახურავზე აქვს შეხებული.
+                ვალერი სილოგავას აზრით, ეს წარწერა X საუკუნის იმ რელიეფების ჯგუფში თავსდება (ოპიზა, ბრეძა, ახაშენი, ოშკი, ჯოისუბანი, ქოროღლო, ფეთობანი, კვაისა-ჯვარი...),
+                რომლებზედაც წარმოდგენილია ქტიტორების გამოსახულება ეკლესიის მოდელით ხელში. 
+                ასეთი კომპოზიცია დამახასიათებელია სწორედ აღნიშნული დროის ქართული საეკლესიო სკულპტურისათვის.</p>                
+            </div>
+        </body>
+    </text>
+</TEI>

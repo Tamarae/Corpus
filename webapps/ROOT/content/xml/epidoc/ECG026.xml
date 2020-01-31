@@ -1,0 +1,180 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.stoa.org/epidoc/schema/8.23/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.stoa.org/epidoc/schema/8.23/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:space="preserve" xml:lang="ka">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>მცხეთის ჯვრის მოსახსენებელი სტეფანოს ქართლის პატრიკიოსისა</title>
+                <editor>ნოდარ შოშიაშვილი</editor>
+            </titleStmt>
+            <publicationStmt>
+                <authority>ილიას სახელმწიფო უნივერსიტეტი, ლინგვისტურ კვლევათა ინსტიტუტი</authority>
+                 <idno type="filename">ECG026</idno>
+                <availability>
+                    <licence target="http://creativecommons.org/licenses/by-nc-sa/3.0/">
+                       დოკუმენტი ვრცელდება Creative Commons Attribution-NonCommercial-ShareAlike 3.0 ლიცენზიით.
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                   <msIdentifier>
+                        <collection>მცხეთა</collection>
+                    </msIdentifier>
+                    
+                    <msContents>
+                        <summary>
+                            <seg xml:lang="ka">მოსახსენებელი</seg>
+                            <seg xml:lang="en"/>
+                        </summary>
+                    </msContents>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>                             
+                                   <material ref="http://www.eagle-network.eu/voc/material/lod/2.html">ქვა</material>
+                                   <objectType ref="http://www.eagle-network.eu/voc/objtyp/lod/1483.html">ფასადი</objectType>
+                                <dimensions unit="cm">
+                                        <width>87/101</width>
+                                        <height>138</height>
+                                    </dimensions>
+                                </support>
+                            </supportDesc>
+                                <layoutDesc>
+                                    <layout writtenLines="6"> 
+                                      წარწერა 6 სტრიქონიანია. ექვსივე სტრიქონი თითქმის დაუზიანებლად არის მოღწეული.
+                                      წარწერა მდებარეობს ჯვრის ტაძრის აღმოსავლეთ ფასადის ცენტრალურ ბარელიეფზე, არაწესიერი სწორკუთხედის ფორმის ფილაზე,
+                                   რომელსაც გარს უვლის რელიეფური ჩარჩო, თავზე ლავგარდანით. ფილაზე გამოკვეთილია კომპოზიცია:
+                                   en face  მდგარი ქრისტე და მის წინ მუხლმოდრეკილი სტეფანოსი. წარწერა განთავსებულია სტეფანოსის თავს ზემოთ, თავისუფალ არეზე.
+                                        <dimensions unit="cm">
+                                            <width>36</width>
+                                            <height>43</height>
+                                        </dimensions>
+                                    </layout>
+                                </layoutDesc>
+                        </objectDesc>                        
+                        <handDesc>
+                            <handNote script="asomtavruli" style="inscribed">
+                                <rs type="execution">ამოღარული</rs> <rs type="script">ასომთავრული</rs> წარწერა.
+                                <height/>
+                            </handNote>
+                        </handDesc>
+                        <decoDesc>
+                            <decoNote>
+                                რელიეფური ჩარჩო, თავზე ლავგარდანით.
+                            </decoNote>
+                        </decoDesc>
+                    </physDesc>
+                    <history>
+                            <origin>
+                                <origPlace>ჯვრის მონასტერი, მცხეთა</origPlace>
+                                <origDate notBefore-custom="0595" notAfter-custom="0605" precision="medium" 
+                                    evidence="lettering" datingMethod="#julian">595-605 AD</origDate>
+                            </origin>
+                            <provenance type="found">
+                                <placeName type ="ancientFindspot" ref="https://pleiades.stoa.org/places/863840">ჯვრის მონასტერი, მცხეთა</placeName>
+                               <!--  "41.838634, 44.734011"--> 
+                                <rs type="circumstances"></rs>
+                                <rs type="context"/>
+                                <rs type="monuList"/>
+                            </provenance> 
+                             <provenance type="observed">
+                            <placeName type="modernSpot">ჯვრის მონასტერი, მცხეთა</placeName>
+                            <idno/>
+                        </provenance>
+                    </history>                   
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+       <revisionDesc><change when="2019-11-06" who="Eka Kvirkvelia">ტექსტის სრული კოდირება, მეტამონაცემების სრული კოდირება, 
+           ბმულებით დაკავშირება ავტორიტეტულ წყაროსთან</change></revisionDesc>
+    </teiHeader>
+
+    <facsimile>
+        <surface>
+            <graphic url="ecg026.jpg">
+                <desc xml:lang="ka">მცხეთის ჯვრის მოსახსენებელი სტეფანოს ქართლის პატრიკიოსისა</desc>
+                <desc xml:lang="en"></desc>
+            </graphic>
+        </surface>
+    </facsimile>
+ 
+    <text>
+        <body>
+             <div type="bibliography">
+                <listBibl>
+              <bibl n="1">ნოდარ შოშიაშვილი, ქართული წარწერების კორპუსი<ptr target="bibliography.xml#b101"/>, <citedRange>გვ. 159-160</citedRange></bibl>
+              <bibl n="2">M. Brosset, Explications, Mémoire de l'Academie Impériale des Sciences<ptr target="bibliography.xml#b18"/></bibl>
+              <bibl n="3">M. Brosset, Rapports I<ptr target="bibliography.xml#b21"/></bibl>
+              <bibl n="4">J. Bartholomaei, Letter, M. Brosset, Bibliographie analytique des oeuvres de Marie-Felicité Brosset<ptr target="bibliography.xml#b16"/>, <citedRange>p. 79</citedRange></bibl>
+              <bibl n="5">თედო ჟორდანია, ქრონიკები და სხვა მასალა საქართველოს ისტორიისა და მწერლობისა<ptr target="bibliography.xml#b77"/>, <citedRange>გვ. 61</citedRange></bibl>
+              <bibl n="6">А. Натроев, Мцхета и его собор Светицховели<ptr target="bibliography.xml#b35"/>, <citedRange>ст. 18</citedRange></bibl>
+              <bibl n="7">ჯაჭვის წმ. ჯვრის მონასტერი<ptr target="bibliography.xml#b118"/>, <citedRange>გვ. 23</citedRange></bibl>
+              <bibl n="8">ექვთიმე თაყაიშვილი, ჯვრის მონასტრის წარწერები<ptr target="bibliography.xml#b71"/></bibl>
+              <bibl n="9">ივანე ჯავახიშვილი, ახლად აღმოჩენილი უძველესი ქართული ხელნაწერები და მათი მნიშვნელობა მეცნიერებისათვის<ptr target="bibliography.xml#b85"/></bibl>
+              <bibl n="10">გიორგი ჩუბინაშვილი, რამოდენიმე თავი ქართული ხელოვნების ისტორიიდან<ptr target="bibliography.xml#b66"/>,<citedRange>გვ. 162</citedRange></bibl>
+              <bibl n="11">I. Sauer, Kreuzcirche bei Mzchet (Georgien) in ihrer geschichtlicgen Bedeutung<ptr target="bibliography.xml#b130"/>,<citedRange>pg. 607-612</citedRange></bibl>
+              <bibl n="12">აკაკი შანიძე, ძველი ქართულის ქრესტომათია<ptr target="bibliography.xml#b59"/></bibl>
+              <bibl n="13">გიორგი ჩუბინაშვილი, ქართული ხელოვნების ისტორია<ptr target="bibliography.xml#b131"/>,<citedRange>გვ. 108-109</citedRange></bibl>
+              <bibl n="14">ქართული არქიტექტურის გზები, მოხსენება გ. ჩუბინაშვილისა და ნ. სევეროვის, წაკითხული სრულიად საქართველოს საბჭოთა არქიტექტორების პირველ ყრილობაზე 1936 წლის 21 თებერვალს<ptr target="bibliography.xml#b132"/>,<citedRange>გვ. 26</citedRange></bibl>
+              <bibl n="15">შ. ამირანაშვილი, ქართული ხელოვნების ისტორია<ptr target="bibliography.xml#b114"/>,<citedRange>გვ. 168</citedRange></bibl>
+              <bibl n="16">Н. Г. Чубинашвили, Памятники типа Джвари<ptr target="bibliography.xml#b47"/>,<citedRange>ст. 142-143</citedRange></bibl>
+              <bibl n="17">ილია აბულაძე, ქართული წერის ნიმუშები, პალეოგრაფიული ალბომი<ptr target="bibliography.xml#b88"/>,<citedRange>გვ. 4-5</citedRange></bibl>
+              <bibl n="18">ქართული ენის ისტორიული ქრესტომათია<ptr target="bibliography.xml#b112"/>,<citedRange>გვ. 2</citedRange></bibl>
+              <bibl n="19">M. Tarchnišvili, Les récentes découverstes épigraphiques et litteraires en géorgien<ptr target="bibliography.xml#b24"/>,<citedRange>p. 252</citedRange></bibl>
+              <bibl n="20">I. Molitor, MIA CSCO<ptr target="bibliography.xml#b15"/></bibl>
+              <bibl n="21">კორნელი კეკელიძე, ქართული ლიტერატურის ისტორია<ptr target="bibliography.xml#b91"/></bibl>
+              <bibl n="22">W. Djobadze, The sculptures on Eastern Facade of the Holy Cross of Mtzkhetâ<ptr target="bibliography.xml#b33"/>,<citedRange>p. 114</citedRange></bibl>
+              <bibl n="23">შალვა ამირანაშვილი, ქართული ხელოვნების ისტორია<ptr target="bibliography.xml#b114"/></bibl>
+              <bibl n="24">Ш. Я. Амиранашвили, Вклад Грузии в сокровищницу художественной культуры<ptr target="bibliography.xml#b133"/></bibl>
+              <bibl n="25">Ш. Я. Амиранашвили, История грузинского искусства<ptr target="bibliography.xml#b56"/></bibl>
+              <bibl n="26">Пути грузинской архитектуры<ptr target="bibliography.xml#b134"/></bibl>
+              <bibl n="27">ალ. გამყრელიძე, ქართული დამწერლობის უძველესი ნიმუშები<ptr target="bibliography.xml#b62"/>, <citedRange>გვ.20</citedRange></bibl>
+              <bibl n="28">ილ. აბულაძე, ქართული წერის ნიმუშები, პალეოგრაფიული ალბომი<ptr target="bibliography.xml#b89"/>, <citedRange>გვ.12-13</citedRange></bibl>
+              <bibl n="29">კორნელი დანელია, ზურაბ სარჯველაძე, ქართული პალეოგრაფია<ptr target="bibliography.xml#b92"/>, <citedRange>გვ. 32</citedRange></bibl>
+           </listBibl>
+            </div>  
+            
+            <div type="edition" xml:lang="ka" xml:space="preserve">
+                
+                        <!--  “[ჯ]ო მაც
+                              ხოვრისა
+                              ო სტეფანო
+                              ს ქართლისა 
+                              პატრი
+                              კიოსი შე” -->
+                                 
+                <ab>
+                   <lb n="1"/><w lemma="ჯუარ"><expan><supplied reason="lost"><abbr>ჯ</abbr></supplied><ex>უარ</ex><abbr>ო</abbr></expan></w> 
+                            <w lemma="მაცხოვარ">მაც
+                    <lb n="2" break="no"/>ხოვრისა
+                    <lb n="3" break="no"/>ო</w> <name nymRef="სტეფანოს ქართლისა პატრიკიოსი">სტეფანო
+                    <lb n="4" break="no"/>ს</name> <placeName nymRef="ქართლ"><w lemma="ქართლ">ქართლისა</w></placeName>
+                    <lb n="5"/><roleName nymRef="პატრიკიოს"><w lemma="პატრიკიოს">პატრი
+                    <lb n="6" break="no"/>კიოს</w></roleName> <w lemma="შეწყალება"><expan><abbr>შ</abbr><ex>ეიწყალ</ex><abbr>ე</abbr></expan></w>
+                </ab>
+             
+            </div>
+                
+            <div type="translation" xml:lang="ka">
+                <p>ჯუარო მაცხოვრისაო, სტეფანოს ქართლისა პატრიკიოსი შეიწყალე.</p>
+            </div>
+            
+            <div type="apparatus" xml:space="preserve"/>
+            
+            <div type="commentary">
+                <p>ნოდარ შოშიაშვილის ქართული წარწერების კორპუსის მიხედვით # 68. ივ. ჯავახიშვილის აზრით, წარწერა VI საუკუნის ბოლოს არის ამოკვეთილი.
+               იგი წერს, რომ ვახუშტის სტეფანოზ I ერისმთავრობის თარიღად 600-619 წწ. აქვს მიღებული.
+                  ეკლესიის ნამდვილი აღმშენებელნი სტეფანოზ ქართლისა პატრიკიოსი და დემეტრე ჳპატოსი ძმები ყოფილან (მოქცევაჲ ქართლისაჲ II, 724).
+                  სტეფანოზ I, ფულების პირველი ჯგუფის მიხედვით, 590-591 წ. ქართლის მთავრად შეიძლება ვიგულისხმოთ. დაახლოებით 604-605 წ., უკვე 606 წლამდე, 
+                  აღმოსავლეთ საქართველოს მთავართა სათავეში სტეფანოსი აღარა ჩანს. პატრიკიოსობის მიღება მას მხოლოდ ბიზანტიის კეისრისგან შეეძლო იმ დროს,
+                  როდესაც აღმოსავლეთ საქართველო ბიზანტიის მეფის მფარველობის ქვეშ მოექცა, ე.ი. 591-604 წწ. შუა. ამ დროს უნდა მიეღოს დემეტრეს ჳპატოსობაც. 
+                  აქედან გამომდინარე ეს წარწერები დაახლოებით იმავე ხანას, VI ს. უკანასკნელ ათეულს უნდა ეკუთვნოდეს.
+
+                </p>
+            </div>
+                   
+           </body>
+    </text>
+</TEI>

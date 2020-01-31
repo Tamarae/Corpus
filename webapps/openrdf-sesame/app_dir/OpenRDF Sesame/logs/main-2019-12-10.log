@@ -1,0 +1,20 @@
+[INFO ] 2019-12-10 16:03:51,043 [main] Logback logging API implementation is configured.
+[INFO ] 2019-12-10 16:03:56,453 [main] FrameworkServlet 'openrdf-http-server': initialization completed in 11031 ms
+[INFO ] 2019-12-10 16:04:40,284 [repositories/kiln] POST query -2042401445
+[INFO ] 2019-12-10 16:04:40,446 [repositories/kiln] Request for query -2042401445 is finished
+[INFO ] 2019-12-10 16:04:54,920 [repositories/kiln] POST query -2042401445
+[INFO ] 2019-12-10 16:04:54,935 [repositories/kiln] Request for query -2042401445 is finished
+[INFO ] 2019-12-10 16:07:07,488 [repositories/kiln] POST query -2042401445
+[INFO ] 2019-12-10 16:07:07,518 [repositories/kiln] Request for query -2042401445 is finished
+[INFO ] 2019-12-10 16:07:15,491 [repositories/kiln] POST query -2042401445
+[INFO ] 2019-12-10 16:07:15,522 [repositories/kiln] Request for query -2042401445 is finished
+[INFO ] 2019-12-10 16:07:17,760 [repositories/kiln] POST query -2042401445
+[INFO ] 2019-12-10 16:07:17,780 [repositories/kiln] Request for query -2042401445 is finished
+[INFO ] 2019-12-10 16:07:25,957 [repositories/kiln] POST query -2042401445
+[INFO ] 2019-12-10 16:07:25,974 [repositories/kiln] Request for query -2042401445 is finished
+[INFO ] 2019-12-10 16:07:39,041 [repositories/kiln] POST query -2042401445
+[INFO ] 2019-12-10 16:07:39,053 [repositories/kiln] Request for query -2042401445 is finished
+[INFO ] 2019-12-10 16:07:50,136 [repositories/kiln] POST query -2042401445
+[INFO ] 2019-12-10 16:07:50,145 [repositories/kiln] Request for query -2042401445 is finished
+[INFO ] 2019-12-10 16:08:19,392 [repositories/kiln] POST query -2042401445
+[INFO ] 2019-12-10 16:08:19,402 [repositories/kiln] Request for query -2042401445 is finished

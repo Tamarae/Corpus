@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?xml-model href="http://www.stoa.org/epidoc/schema/8.23/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.stoa.org/epidoc/schema/8.23/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:space="preserve" xml:lang="ka">
+    <teiHeader>
+        <fileDesc>
+            
+            <titleStmt>
+                <title>უკანგორი, V/VI სს. მოსახსენებელი (II)</title>
+                <editor>ნოდარ შოშიაშვილი</editor>
+            </titleStmt>
+            
+            <publicationStmt>
+                <authority>ილიას სახელმწიფო უნივერსიტეტი, ლინგვისტურ კვლევათა ინსტიტუტი
+                </authority>
+                 <idno type="filename">ECG78</idno>
+                <availability>
+                    <licence target="http://creativecommons.org/licenses/by-nc-sa/3.0/">
+                         დოკუმენტი ვრცელდება Creative Commons Attribution-NonCommercial-ShareAlike 3.0 ლიცენზიით.
+                    </licence>
+                </availability>
+            </publicationStmt>
+            
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <collection>უკანგორი</collection>
+                    </msIdentifier>
+                     <msContents>
+                        <summary>
+                            <seg xml:lang="ka">მოსახსენებელი</seg>
+                            <seg xml:lang="en"/>
+                        </summary>
+                    </msContents>
+                    
+                    <physDesc> 
+                        <objectDesc>
+                            <supportDesc>
+                                <support>
+                                    <objectType ref="http://www.eagle-network.eu/voc/objtyp/lod/53">ჯვრის სწორკუთხოვანი კვარცხლბეკი</objectType>
+                                    <material ref="http://www.eagle-network.eu/voc/material/lod/2">მოვარდისფრო ქვა</material>     
+                                    <dimensions unit="cm">                                     
+                                        <height>39</height>
+                                        <width>35</width>
+                                    </dimensions>
+                                </support>
+                            </supportDesc>
+                            <layoutDesc>
+                                <layout>
+                                    კვარცხლბეკის ზედა წახნაგზე ამოკვეთილია მრგვალი ბუდე ქვაჯვრის ჩასადგმელად. ერთ-ერთ წახნაგზე 
+                                    <dimensions unit="cm"> 
+                                        <height>5</height>
+                                        <width>31</width>
+                                    </dimensions>
+                                    </layout>
+                            </layoutDesc>
+                        </objectDesc>
+                        
+                         <handDesc>                        
+                            <handNote script="asomtavruli" style="embossed">
+                                <p>გამოქანდაკებული შვიდსტრიქონიანი ასომთავრული წარწერა. განკვეთის ნიშნები არ ახლავს. ქარაგმის ნიშანი და წარწერის დიდი ნაწილი გადაშლილია.</p>
+                                <height unit="cm">6</height>                  
+                             </handNote>
+                        </handDesc>
+                        
+                    </physDesc>
+      
+                    <history>       
+                        <origin>
+                            <origPlace>უკანგორი</origPlace> 
+                            <origDate evidence="lettering">VI A.C. </origDate>
+                        </origin>
+                        
+                      
+                        <provenance type="found" when="1937">
+                            <placeName>უკანგორი</placeName>
+                            <rs type="monuList"/>
+                             <rs type="circumstances">1937 წ. ძეგლს მიაკვლია დმანისის არქეოლოგიურმა ექსპედიციამ, ლ. მუსხელიშვილის ხელმძღვანელობით. კვარცხლბეკი ეგდო სოფ. უკანგორის ეკლესიის ეზოში. </rs> 
+                        </provenance>
+                        
+
+                        <provenance>
+                           <placeName type="modernSpot">საქართველოს ეროვნული მუზეუმი</placeName>       
+                                               <idno type="invNo">27</idno>
+                       </provenance>
+       
+                    </history>
+                </msDesc> 
+            </sourceDesc>
+        </fileDesc>
+        
+    </teiHeader>
+
+    <text>
+        <body>
+            
+             
+            <div type="edition" xml:space="preserve">  
+                
+                
+                   <!-- [შ(ე)წ(ევნი)თა ქ(რისტ)ჱსი]
+                        თა [ჩ(უე)ნ ]
+                        და []
+                        ˹ა˺ღხ˹უ˺[მართეთ]
+                        ესე ჯ˹უ)[არი სა]
+                        ლოცვე[ლად]
+                        ˹ჩ˺(უე)ნდა
+ -->
+            
+                <ab>
+                    <lb n="1"/><w lemma="შეწევნა"><supplied reason="lost"><expan><abbr>შ</abbr><ex>ე</ex><abbr>წ</abbr><ex>ევნი</ex><abbr>თა</abbr></expan></supplied></w> <w lemma="ქრისტჱ"><supplied reason="lost"><expan><abbr>ქ</abbr><ex>რისტ</ex><abbr>ჱსი</abbr>
+                    <lb n="2" break="no"/>თა</expan></supplied></w> <w lemma="ჩუენ"><supplied reason="lost"><expan><abbr>ჩ</abbr><ex>უე</ex><abbr>ნ</abbr></expan></supplied></w> 
+                    <lb n="3"/><w lemma="და">და</w> 
+                    <lb n="4"/><rs type="pn"><w lemma="აღხუმართა">აღხუ<supplied reason="lost">მართეთ</supplied></w></rs> 
+                    <lb n="5"/><w lemma="ესე">ესე</w> <w lemma="ჯუარი"><expan><abbr>ჯ</abbr><ex>უ</ex><supplied reason="lost"><abbr>არი</abbr></supplied></expan></w> <w lemma="სალოცველი"><supplied reason="lost">სა</supplied>
+                    <lb n="6" break="no"/>ლოცვე<supplied reason="lost">ლად</supplied> </w>
+                    <lb n="7"/><w lemma="ჩუენ"><expan><abbr>ჩ</abbr><ex>უე</ex><abbr>ნდა</abbr></expan></w>
+            
+                 </ab>
+
+            </div>   
+
+
+            <div type="translation" xml:lang="ka"/>
+            
+            <div type="apparatus" xml:space="preserve"/>   
+ 
+
+            <div type="commentary">
+                 <p n="1">წარმოდგენლი დათარიღების საფუძველი: წარწერა, თავისი დამწერლობის მიხედვით, ერთდროული ჩანს უკანგორის მეორე კვარცხლბეკის წარწერისა.</p>
+            </div>
+            
+            <div type="bibliography">
+             <listBibl>
+                      <bibl>
+                        <author>
+                            <forename>ნოდარ</forename>
+                            <surname>შოშიაშვილი</surname>
+                        </author>
+                        <title level="m" type="main">ქართული წარწერების კორპუსი</title>
+                        <biblScope>ტ. I აღმოსავლედ და სამხრეთ საქართველო (V-X სს.)</biblScope>
+                       <pubPlace>თბილისი</pubPlace>
+                       <date>1980</date>
+                       <biblScope>გვ. 91</biblScope>
+                    </bibl>
+                 <bibl type="publication" subtype="other"><forename>კორნელი</forename><surname>დანელია</surname>, <forename>ზურაბ</forename><surname>სარჯველაძე</surname>, <title level="m">ქართული პალეოგრაფია</title>, <date>1997</date>, <biblScope>გვ. 25-26</biblScope>. </bibl>
+                 <bibl type="publication" subtype="other"><author><forename>ლ.</forename><surname>მუსხელიშვილი</surname></author>, <title type="main">არქეოლოგიური ექსკურსიები მაშავრის ხეობაში</title>, <pubPlace>თბილისი</pubPlace>, <date>1941</date>, <biblScope>გვ. 8-23</biblScope>. </bibl>
+                 <bibl type="publication" subtype="other"><author><forename>ლ.</forename><surname>მუსხელიშვილი</surname></author>, <title level="a">უკანგორის ისტორიული ნაშთები</title>, <title level="s">ენიმკის მოამბე</title>, <biblScope>ტ. X</biblScope>, <date>1941</date>, <biblScope>გვ. 159-182</biblScope>. </bibl>
+                 <bibl type="publication" subtype="other"><title level="s">ქართული საბჭოთა ენციკლოპედია</title>, <title level="a">უკანგორი</title>, <pubPlace>თბილისი</pubPlace>, <date>1986</date>, <biblScope>გვ. 119</biblScope>. </bibl>
+                 <bibl type="publication" subtype="other"><author><forename>ვ.</forename><surname>შუბითიძე</surname></author>, <title level="m">ქართული ციხესიმაგრეები და ეკლესია მონასტრები</title>, <pubPlace>თბილისი</pubPlace>, <date>2012</date>, <biblScope>გვ. 68</biblScope>. </bibl>
+             </listBibl>
+            </div>
+        </body>
+    </text>
+</TEI>

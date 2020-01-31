@@ -1,0 +1,138 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.stoa.org/epidoc/schema/8.23/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.stoa.org/epidoc/schema/8.23/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:space="preserve" xml:lang="ka">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>ბოლნისის სიონის V/VI სს. ბოლნისის ნახპეტის წარწერა</title>
+                <editor>ნოდარ შოშიაშვილი</editor>
+            </titleStmt>
+            <publicationStmt>
+                <authority>ილიას სახელმწიფო უნივერსიტეტი, ლინგვისტურ კვლევათა ინსტიტუტი</authority>  
+                <idno type="filename">ECG057</idno>
+                <availability>
+                    <licence target="http://creativecommons.org/licenses/by-nc-sa/3.0/">
+                        დოკუმენტი ვრცელდება Creative Commons Attribution-NonCommercial-ShareAlike 3.0 ლიცენზიით.
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <collection>ბოლნისი</collection>
+                    </msIdentifier>
+                     <msContents>
+                        <summary>
+                            <seg xml:lang="ka">მემორიალური</seg>
+                            <seg xml:lang="en"/>
+                        </summary>
+                    </msContents>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>
+                                    <objectType  ref="http://www.eagle-network.eu/voc/objtyp/lod/1483">ფილა</objectType>
+                                    <material  ref="http://www.eagle-network.eu/voc/material/lod/2">მომწვანო ქვა</material>
+                                    <dimensions unit="cm">
+                                        <height>39</height>
+                                        <width>26</width>
+                                     </dimensions>
+                                </support>
+                            </supportDesc>
+                            <layoutDesc>
+                                <layout writtenLines="4">
+                                    წარწერა ოთხსტრიქონიანია. ქვის ზედა ნაწილში რელიეფურად გამოქანდაკებულია პატარა სამკუთხედებისაგან შემდგარ
+                                    მედალიონში ჩასმული „ბოლნური ჯვარი“ ბუნზე. მის ქვემოთ კი წარწერაა მოთავსებული.
+                                        <dimensions unit="cm">
+                                        <height>10,5</height>
+                                        <width>22</width>
+                                    </dimensions>
+                                   </layout>
+                            </layoutDesc>
+                        </objectDesc>                    
+                        <handDesc>
+                            <handNote script="asomtavruli" style="embossed">
+                                <rs type="execution">რელიეფური</rs> <rs type="script">ასომთავრული</rs> წარწერა
+                              <height unit="cm">2,5-3</height>
+                               </handNote>
+                        </handDesc>
+                    </physDesc>
+                    
+                    <history>
+                        <origin>
+                            <origPlace>ბოლნისის სიონი</origPlace>
+                           <origDate notBefore="0400" notAfter="0600">V-VI AD</origDate>
+                        </origin>
+                        
+                        <provenance type="found" when="1937">
+                            <placeName type="ancientFindspot" ref="http://pleiades.stoa.org/places/863760">ბოლნისის სიონი</placeName>
+                            <!-- 41.389081, 44.512551 --> 
+                            <rs type="monuList"/>
+                            <rs type="circumstances">ბოლნისის ტაძარი მდებარეობს ისტორიულ ქვემო ქართლში, 
+                                9 კმ. მანძილზე ქ. ბოლნისიდან სამხრეთით, 1 კმ. მანძილზე სოფ. ბონის-ხაჩინიდან. 
+                                წარწერა ბოლნისის სიონის ტერიტორიაზე 1937 წელს აღმოაჩინა კულტურულ ძეგლთა
+                            დაცვის კომიტეტის მიერ მოწყობილმა არქეოლოგიურმა ექსპედიციამ, რომელსაც ლევან მუსხელიშვილი ხელმძღვანელობდა.</rs>
+                            <rs type="context"/>
+                        </provenance>                     
+                        <provenance type="observed">
+                            <placeName type="modernSpot" ref="http://museum.ge/">საქართველოს ეროვნული მუზეუმი</placeName>
+                             <idno type="invNo">329</idno>
+                        </provenance>
+                    </history>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <revisionDesc><change when="2019-10-29" who="Eka Kvirkvelia">ტექსტის სრული კოდირება, მეტამონაცემების სრული კოდირება, 
+            ბმულებით დაკავშირება ავტორიტეტულ წყაროსთან</change></revisionDesc>
+    </teiHeader>
+     <facsimile>
+        <surface>
+            <graphic url="ecg057.jpg">
+                <desc xml:lang="ka">ბოლნისის სიონის V/VI სს. ბოლნისის ნახპეტის წარწერა</desc>
+                <desc xml:lang="en"></desc>
+            </graphic>
+        </surface>
+    </facsimile>
+    <text>
+        <body>
+            <div type="bibliography"> 
+                <listBibl>
+                    <bibl n="1">ნოდარ შოშიაშვილი, ქართული წარწერების კორპუსი, ლაპიდარული წარწერები<ptr target="bibliography.xml#b101"/>, <citedRange>გვ. 75-76</citedRange></bibl>
+                    <bibl n="2">Н. Г. Чубинашвили, Болнисский сион<ptr target="bibliography.xml#b45"/>, <citedRange>ст. 101-102</citedRange></bibl>
+                    <bibl n="3">საქართველოს სახელმწიფო მუზეუმის ქართული ეპიგრაფიკული ძეგლების კატალოგი<ptr target="bibliography.xml#b111"/>, <citedRange>გვ. 42</citedRange></bibl>
+                </listBibl>
+            </div> 
+            
+          <div type="edition" xml:space="preserve">  
+                
+                    <!-- „ესე ჯუა[რ]
+                        [ი] [წ(მი)დ]აჲ ბო
+                        [ლნის]ის ნახ
+                        [პეტისაჲ]“  -->
+     
+                     <ab>
+                       <lb n="1"/><w lemma="ესე">ესე</w> <w lemma="ჯუარ">ჯუა<supplied reason="lost">რ</supplied>
+                       <lb n="2" break="no"/><supplied reason="lost">ი</supplied></w> 
+                                <w lemma="წმიდა"><expan><supplied reason="lost"><abbr>წ</abbr><ex>მი</ex><abbr>დ</abbr></supplied><abbr>აჲ</abbr></expan></w> 
+                                    <placeName><w lemma="ბოლნის">ბო
+                       <lb n="3" break="no"/><supplied reason="lost">ლნის</supplied>ის</w></placeName> 
+                                        <roleName><w lemma="ნახპეტ">ნახ
+                       <lb n="4" break="no"/><supplied reason="lost">პეტისაჲ</supplied></w></roleName>
+                    </ab>                                    
+               </div>
+
+            <div type="translation" xml:lang="ka">
+                <p>ეს წმინდა ჯვარი ბოლნისის ნახპეტისა.</p></div>
+            
+            <div type="apparatus" xml:space="preserve"/>
+                 
+            <div type="commentary">
+                <p> ნოდარ შოშიაშვილის ქართული წარწერების კორპუსის მიხედვით #9. წარწერას განკვეთილობის ნიშნები არ ახლავს. 
+                    სიტყვები ერთმანეთისაგან არ არის დაცილებული. 
+                    პალეოგრაფიული ნიშნების საფუძველზე ნოდარ შოშიაშვილმა წარწერა V-VI საუკუნეების მიჯნით დაათარიღა.
+                </p>
+               </div>       
+        </body>
+    </text>
+</TEI>

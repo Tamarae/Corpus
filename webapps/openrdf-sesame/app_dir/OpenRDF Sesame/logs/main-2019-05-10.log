@@ -1,0 +1,1607 @@
+[INFO ] 2019-05-10 00:06:19,225 [repositories/kiln] POST query -2042401445
+[INFO ] 2019-05-10 00:06:19,244 [repositories/kiln] Request for query -2042401445 is finished
+[INFO ] 2019-05-10 00:06:31,589 [repositories/kiln] POST query -2042401445
+[INFO ] 2019-05-10 00:06:31,598 [repositories/kiln] Request for query -2042401445 is finished
+[INFO ] 2019-05-10 00:24:49,386 [Thread-1] Closing org.springframework.web.context.support.XmlWebApplicationContext@70b9cdcc: display name [WebApplicationContext for namespace 'openrdf-http-server-servlet']; startup date [Thu May 09 13:21:51 GET 2019]; root of context hierarchy
+[INFO ] 2019-05-10 00:24:49,390 [Thread-1] Destroying singletons in org.springframework.beans.factory.support.DefaultListableBeanFactory@5a8fb312: defining beans [messageSource,adunaAppVersion,adunaAppConfig,adunaWebappNavigation,adunaWebappCommonValuesInserter,adunaWebappMessageInserter,adunaWebappNavigationInserter,filenameViewController,viewResolver,adunaWebappSystemUrlMapping,adunaWebappSystemOverviewController,adunaWebappLoggingOverviewController,adunaWebappSystemInfoController,openrdfRepositoryManager,scopedTarget.openrdfRepositoryInterceptor,openrdfRepositoryInterceptor,openrdfProtocolUrlMapping,openrdfRepositoryListUrlMapping,openrdfRepositoryUrlMapping,openrdfServerHomeUrlMapping,openrdfHandlerExceptionResolver,openrdfProtocolController,openrdfRepositoryListController,openrdfRepositoryController,openrdfRepositoryContextsController,openrdfRepositoryNamespacesController,openrdfRepositoryNamespaceController,openrdfRepositorySizeController,openrdfRepositoryStatementsController,openrdfRepositoryGraphController]; root of factory hierarchy
+[INFO ] 2019-05-10 00:25:02,006 [main] Logback logging API implementation is configured.
+[INFO ] 2019-05-10 00:25:02,387 [main] FrameworkServlet 'openrdf-http-server': initialization completed in 754 ms
+[INFO ] 2019-05-10 00:29:01,495 [Thread-1] Closing org.springframework.web.context.support.XmlWebApplicationContext@70b9cdcc: display name [WebApplicationContext for namespace 'openrdf-http-server-servlet']; startup date [Fri May 10 00:25:01 GET 2019]; root of context hierarchy
+[INFO ] 2019-05-10 00:29:01,496 [Thread-1] Destroying singletons in org.springframework.beans.factory.support.DefaultListableBeanFactory@5a8fb312: defining beans [messageSource,adunaAppVersion,adunaAppConfig,adunaWebappNavigation,adunaWebappCommonValuesInserter,adunaWebappMessageInserter,adunaWebappNavigationInserter,filenameViewController,viewResolver,adunaWebappSystemUrlMapping,adunaWebappSystemOverviewController,adunaWebappLoggingOverviewController,adunaWebappSystemInfoController,openrdfRepositoryManager,scopedTarget.openrdfRepositoryInterceptor,openrdfRepositoryInterceptor,openrdfProtocolUrlMapping,openrdfRepositoryListUrlMapping,openrdfRepositoryUrlMapping,openrdfServerHomeUrlMapping,openrdfHandlerExceptionResolver,openrdfProtocolController,openrdfRepositoryListController,openrdfRepositoryController,openrdfRepositoryContextsController,openrdfRepositoryNamespacesController,openrdfRepositoryNamespaceController,openrdfRepositorySizeController,openrdfRepositoryStatementsController,openrdfRepositoryGraphController]; root of factory hierarchy
+[INFO ] 2019-05-10 00:29:15,224 [main] Logback logging API implementation is configured.
+[INFO ] 2019-05-10 00:29:15,572 [main] FrameworkServlet 'openrdf-http-server': initialization completed in 792 ms
+[INFO ] 2019-05-10 00:33:02,794 [Thread-1] Closing org.springframework.web.context.support.XmlWebApplicationContext@70b9cdcc: display name [WebApplicationContext for namespace 'openrdf-http-server-servlet']; startup date [Fri May 10 00:29:14 GET 2019]; root of context hierarchy
+[INFO ] 2019-05-10 00:33:02,798 [Thread-1] Destroying singletons in org.springframework.beans.factory.support.DefaultListableBeanFactory@5a8fb312: defining beans [messageSource,adunaAppVersion,adunaAppConfig,adunaWebappNavigation,adunaWebappCommonValuesInserter,adunaWebappMessageInserter,adunaWebappNavigationInserter,filenameViewController,viewResolver,adunaWebappSystemUrlMapping,adunaWebappSystemOverviewController,adunaWebappLoggingOverviewController,adunaWebappSystemInfoController,openrdfRepositoryManager,scopedTarget.openrdfRepositoryInterceptor,openrdfRepositoryInterceptor,openrdfProtocolUrlMapping,openrdfRepositoryListUrlMapping,openrdfRepositoryUrlMapping,openrdfServerHomeUrlMapping,openrdfHandlerExceptionResolver,openrdfProtocolController,openrdfRepositoryListController,openrdfRepositoryController,openrdfRepositoryContextsController,openrdfRepositoryNamespacesController,openrdfRepositoryNamespaceController,openrdfRepositorySizeController,openrdfRepositoryStatementsController,openrdfRepositoryGraphController]; root of factory hierarchy
+[INFO ] 2019-05-10 00:33:15,548 [main] Logback logging API implementation is configured.
+[INFO ] 2019-05-10 00:33:16,007 [main] FrameworkServlet 'openrdf-http-server': initialization completed in 996 ms
+[INFO ] 2019-05-10 00:38:49,246 [repositories/kiln] POST query -2042401445
+[INFO ] 2019-05-10 00:38:49,358 [repositories/kiln] Request for query -2042401445 is finished
+[INFO ] 2019-05-10 00:39:23,975 [repositories/kiln] POST query -2042401445
+[INFO ] 2019-05-10 00:39:23,996 [repositories/kiln] Request for query -2042401445 is finished
+[INFO ] 2019-05-10 00:39:24,963 [repositories/kiln] POST query -2042401445
+[INFO ] 2019-05-10 00:39:24,972 [repositories/kiln] Request for query -2042401445 is finished
+[INFO ] 2019-05-10 00:39:38,693 [repositories/kiln] POST query -2042401445
+[INFO ] 2019-05-10 00:39:38,699 [repositories/kiln] Request for query -2042401445 is finished
+[INFO ] 2019-05-10 00:40:27,014 [repositories/kiln] POST query -2042401445
+[INFO ] 2019-05-10 00:40:27,019 [repositories/kiln] Request for query -2042401445 is finished
+[INFO ] 2019-05-10 00:40:34,305 [Thread-1] Closing org.springframework.web.context.support.XmlWebApplicationContext@70b9cdcc: display name [WebApplicationContext for namespace 'openrdf-http-server-servlet']; startup date [Fri May 10 00:33:15 GET 2019]; root of context hierarchy
+[INFO ] 2019-05-10 00:40:34,305 [Thread-1] Destroying singletons in org.springframework.beans.factory.support.DefaultListableBeanFactory@5a8fb312: defining beans [messageSource,adunaAppVersion,adunaAppConfig,adunaWebappNavigation,adunaWebappCommonValuesInserter,adunaWebappMessageInserter,adunaWebappNavigationInserter,filenameViewController,viewResolver,adunaWebappSystemUrlMapping,adunaWebappSystemOverviewController,adunaWebappLoggingOverviewController,adunaWebappSystemInfoController,openrdfRepositoryManager,scopedTarget.openrdfRepositoryInterceptor,openrdfRepositoryInterceptor,openrdfProtocolUrlMapping,openrdfRepositoryListUrlMapping,openrdfRepositoryUrlMapping,openrdfServerHomeUrlMapping,openrdfHandlerExceptionResolver,openrdfProtocolController,openrdfRepositoryListController,openrdfRepositoryController,openrdfRepositoryContextsController,openrdfRepositoryNamespacesController,openrdfRepositoryNamespaceController,openrdfRepositorySizeController,openrdfRepositoryStatementsController,openrdfRepositoryGraphController]; root of factory hierarchy
+[INFO ] 2019-05-10 00:40:46,206 [main] Logback logging API implementation is configured.
+[INFO ] 2019-05-10 00:40:46,460 [main] FrameworkServlet 'openrdf-http-server': initialization completed in 595 ms
+[INFO ] 2019-05-10 00:40:52,589 [repositories/kiln] POST query -2042401445
+[INFO ] 2019-05-10 00:40:52,693 [repositories/kiln] Request for query -2042401445 is finished
+[INFO ] 2019-05-10 00:41:12,527 [repositories/kiln] POST transaction to repository
+[WARN ] 2019-05-10 00:41:12,530 [repositories/kiln] Class org.apache.xerces.parsers.SAXParser not found
+[INFO ] 2019-05-10 00:41:12,695 [repositories/kiln] POST data to repository
+[INFO ] 2019-05-10 00:41:12,704 [repositories/kiln] no base URI specified, using dummy 'foo:bar'
+[WARN ] 2019-05-10 00:41:12,717 [repositories/kiln] Class org.apache.xerces.parsers.SAXParser not found
+[INFO ] 2019-05-10 00:41:12,753 [repositories/kiln] POST transaction to repository
+[WARN ] 2019-05-10 00:41:12,754 [repositories/kiln] Class org.apache.xerces.parsers.SAXParser not found
+[INFO ] 2019-05-10 00:41:12,829 [repositories/kiln] POST data to repository
+[INFO ] 2019-05-10 00:41:12,829 [repositories/kiln] no base URI specified, using dummy 'foo:bar'
+[WARN ] 2019-05-10 00:41:12,830 [repositories/kiln] Class org.apache.xerces.parsers.SAXParser not found
+[INFO ] 2019-05-10 00:41:12,867 [repositories/kiln] POST transaction to repository
+[WARN ] 2019-05-10 00:41:12,867 [repositories/kiln] Class org.apache.xerces.parsers.SAXParser not found
+[INFO ] 2019-05-10 00:41:12,924 [repositories/kiln] POST data to repository
+[INFO ] 2019-05-10 00:41:12,924 [repositories/kiln] no base URI specified, using dummy 'foo:bar'
+[WARN ] 2019-05-10 00:41:12,924 [repositories/kiln] Class org.apache.xerces.parsers.SAXParser not found
+[INFO ] 2019-05-10 00:41:12,956 [repositories/kiln] POST transaction to repository
+[WARN ] 2019-05-10 00:41:12,956 [repositories/kiln] Class org.apache.xerces.parsers.SAXParser not found
+[INFO ] 2019-05-10 00:41:13,009 [repositories/kiln] POST data to repository
+[INFO ] 2019-05-10 00:41:13,009 [repositories/kiln] no base URI specified, using dummy 'foo:bar'
+[WARN ] 2019-05-10 00:41:13,009 [repositories/kiln] Class org.apache.xerces.parsers.SAXParser not found
+[INFO ] 2019-05-10 00:41:13,038 [repositories/kiln] POST transaction to repository
+[WARN ] 2019-05-10 00:41:13,038 [repositories/kiln] Class org.apache.xerces.parsers.SAXParser not found
+[INFO ] 2019-05-10 00:41:13,083 [repositories/kiln] POST data to repository
+[INFO ] 2019-05-10 00:41:13,083 [repositories/kiln] no base URI specified, using dummy 'foo:bar'
+[WARN ] 2019-05-10 00:41:13,083 [repositories/kiln] Class org.apache.xerces.parsers.SAXParser not found
+[INFO ] 2019-05-10 00:41:13,115 [repositories/kiln] POST transaction to repository
+[WARN ] 2019-05-10 00:41:13,115 [repositories/kiln] Class org.apache.xerces.parsers.SAXParser not found
+[INFO ] 2019-05-10 00:41:13,158 [repositories/kiln] POST data to repository
+[INFO ] 2019-05-10 00:41:13,159 [repositories/kiln] no base URI specified, using dummy 'foo:bar'
+[WARN ] 2019-05-10 00:41:13,159 [repositories/kiln] Class org.apache.xerces.parsers.SAXParser not found
+[INFO ] 2019-05-10 00:41:13,192 [repositories/kiln] POST transaction to repository
+[WARN ] 2019-05-10 00:41:13,192 [repositories/kiln] Class org.apache.xerces.parsers.SAXParser not found
+[INFO ] 2019-05-10 00:41:13,240 [repositories/kiln] POST data to repository
+[INFO ] 2019-05-10 00:41:13,240 [repositories/kiln] no base URI specified, using dummy 'foo:bar'
+[WARN ] 2019-05-10 00:41:13,241 [repositories/kiln] Class org.apache.xerces.parsers.SAXParser not found
+[INFO ] 2019-05-10 00:41:13,286 [repositories/kiln] POST transaction to repository
+[WARN ] 2019-05-10 00:41:13,286 [repositories/kiln] Class org.apache.xerces.parsers.SAXParser not found
+[INFO ] 2019-05-10 00:41:13,294 [repositories/kiln] POST data to repository
+[INFO ] 2019-05-10 00:41:13,294 [repositories/kiln] no base URI specified, using dummy 'foo:bar'
+[WARN ] 2019-05-10 00:41:13,295 [repositories/kiln] Class org.apache.xerces.parsers.SAXParser not found
+[INFO ] 2019-05-10 00:41:13,302 [repositories/kiln] POST transaction to repository
+[WARN ] 2019-05-10 00:41:13,303 [repositories/kiln] Class org.apache.xerces.parsers.SAXParser not found
+[INFO ] 2019-05-10 00:41:13,309 [repositories/kiln] POST data to repository
+[INFO ] 2019-05-10 00:41:13,309 [repositories/kiln] no base URI specified, using dummy 'foo:bar'
+[WARN ] 2019-05-10 00:41:13,310 [repositories/kiln] Class org.apache.xerces.parsers.SAXParser not found
+[INFO ] 2019-05-10 00:41:13,316 [repositories/kiln] POST transaction to repository
+[WARN ] 2019-05-10 00:41:13,317 [repositories/kiln] Class org.apache.xerces.parsers.SAXParser not found
+[INFO ] 2019-05-10 00:41:13,326 [repositories/kiln] POST data to repository
+[INFO ] 2019-05-10 00:41:13,326 [repositories/kiln] no base URI specified, using dummy 'foo:bar'
+[WARN ] 2019-05-10 00:41:13,327 [repositories/kiln] Class org.apache.xerces.parsers.SAXParser not found
+[INFO ] 2019-05-10 00:41:13,334 [repositories/kiln] POST transaction to repository
+[WARN ] 2019-05-10 00:41:13,334 [repositories/kiln] Class org.apache.xerces.parsers.SAXParser not found
+[INFO ] 2019-05-10 00:41:13,341 [repositories/kiln] POST data to repository
+[INFO ] 2019-05-10 00:41:13,342 [repositories/kiln] no base URI specified, using dummy 'foo:bar'
+[WARN ] 2019-05-10 00:41:13,342 [repositories/kiln] Class org.apache.xerces.parsers.SAXParser not found
+[INFO ] 2019-05-10 00:41:13,349 [repositories/kiln] POST transaction to repository
+[WARN ] 2019-05-10 00:41:13,349 [repositories/kiln] Class org.apache.xerces.parsers.SAXParser not found
+[INFO ] 2019-05-10 00:41:13,355 [repositories/kiln] POST data to repository
+[INFO ] 2019-05-10 00:41:13,356 [repositories/kiln] no base URI specified, using dummy 'foo:bar'
+[WARN ] 2019-05-10 00:41:13,356 [repositories/kiln] Class org.apache.xerces.parsers.SAXParser not found
+[INFO ] 2019-05-10 00:41:13,363 [repositories/kiln] POST transaction to repository
+[WARN ] 2019-05-10 00:41:13,364 [repositories/kiln] Class org.apache.xerces.parsers.SAXParser not found
+[INFO ] 2019-05-10 00:41:13,371 [repositories/kiln] POST data to repository
+[INFO ] 2019-05-10 00:41:13,371 [repositories/kiln] no base URI specified, using dummy 'foo:bar'
+[WARN ] 2019-05-10 00:41:13,371 [repositories/kiln] Class org.apache.xerces.parsers.SAXParser not found
+[INFO ] 2019-05-10 00:41:13,378 [repositories/kiln] POST transaction to repository
+[WARN ] 2019-05-10 00:41:13,378 [repositories/kiln] Class org.apache.xerces.parsers.SAXParser not found
+[INFO ] 2019-05-10 00:41:13,385 [repositories/kiln] POST data to repository
+[INFO ] 2019-05-10 00:41:13,385 [repositories/kiln] no base URI specified, using dummy 'foo:bar'
+[WARN ] 2019-05-10 00:41:13,385 [repositories/kiln] Class org.apache.xerces.parsers.SAXParser not found
+[INFO ] 2019-05-10 00:41:13,392 [repositories/kiln] POST transaction to repository
+[WARN ] 2019-05-10 00:41:13,392 [repositories/kiln] Class org.apache.xerces.parsers.SAXParser not found
+[INFO ] 2019-05-10 00:41:13,399 [repositories/kiln] POST data to repository
+[INFO ] 2019-05-10 00:41:13,399 [repositories/kiln] no base URI specified, using dummy 'foo:bar'
+[WARN ] 2019-05-10 00:41:13,399 [repositories/kiln] Class org.apache.xerces.parsers.SAXParser not found
+[INFO ] 2019-05-10 00:41:13,405 [repositories/kiln] POST transaction to repository
+[WARN ] 2019-05-10 00:41:13,405 [repositories/kiln] Class org.apache.xerces.parsers.SAXParser not found
+[INFO ] 2019-05-10 00:41:13,412 [repositories/kiln] POST data to repository
+[INFO ] 2019-05-10 00:41:13,412 [repositories/kiln] no base URI specified, using dummy 'foo:bar'
+[WARN ] 2019-05-10 00:41:13,412 [repositories/kiln] Class org.apache.xerces.parsers.SAXParser not found
+[INFO ] 2019-05-10 00:41:13,418 [repositories/kiln] POST transaction to repository
+[WARN ] 2019-05-10 00:41:13,419 [repositories/kiln] Class org.apache.xerces.parsers.SAXParser not found
+[INFO ] 2019-05-10 00:41:13,426 [repositories/kiln] POST data to repository
+[INFO ] 2019-05-10 00:41:13,426 [repositories/kiln] no base URI specified, using dummy 'foo:bar'
+[WARN ] 2019-05-10 00:41:13,426 [repositories/kiln] Class org.apache.xerces.parsers.SAXParser not found
+[INFO ] 2019-05-10 00:41:13,433 [repositories/kiln] POST transaction to repository
+[WARN ] 2019-05-10 00:41:13,433 [repositories/kiln] Class org.apache.xerces.parsers.SAXParser not found
+[INFO ] 2019-05-10 00:41:13,441 [repositories/kiln] POST data to repository
+[INFO ] 2019-05-10 00:41:13,441 [repositories/kiln] no base URI specified, using dummy 'foo:bar'
+[WARN ] 2019-05-10 00:41:13,441 [repositories/kiln] Class org.apache.xerces.parsers.SAXParser not found
+[INFO ] 2019-05-10 00:41:13,448 [repositories/kiln] POST transaction to repository
+[WARN ] 2019-05-10 00:41:13,448 [repositories/kiln] Class org.apache.xerces.parsers.SAXParser not found
+[INFO ] 2019-05-10 00:41:13,454 [repositories/kiln] POST data to repository
+[INFO ] 2019-05-10 00:41:13,455 [repositories/kiln] no base URI specified, using dummy 'foo:bar'
+[WARN ] 2019-05-10 00:41:13,455 [repositories/kiln] Class org.apache.xerces.parsers.SAXParser not found
+[INFO ] 2019-05-10 00:41:13,461 [repositories/kiln] POST transaction to repository
+[WARN ] 2019-05-10 00:41:13,462 [repositories/kiln] Class org.apache.xerces.parsers.SAXParser not found
+[INFO ] 2019-05-10 00:41:13,469 [repositories/kiln] POST data to repository
+[INFO ] 2019-05-10 00:41:13,469 [repositories/kiln] no base URI specified, using dummy 'foo:bar'
+[WARN ] 2019-05-10 00:41:13,469 [repositories/kiln] Class org.apache.xerces.parsers.SAXParser not found
+[INFO ] 2019-05-10 00:41:13,477 [repositories/kiln] POST transaction to repository
+[WARN ] 2019-05-10 00:41:13,478 [repositories/kiln] Class org.apache.xerces.parsers.SAXParser not found
+[INFO ] 2019-05-10 00:41:13,484 [repositories/kiln] POST data to repository
+[INFO ] 2019-05-10 00:41:13,484 [repositories/kiln] no base URI specified, using dummy 'foo:bar'
+[WARN ] 2019-05-10 00:41:13,485 [repositories/kiln] Class org.apache.xerces.parsers.SAXParser not found
+[INFO ] 2019-05-10 00:41:13,492 [repositories/kiln] POST transaction to repository
+[WARN ] 2019-05-10 00:41:13,492 [repositories/kiln] Class org.apache.xerces.parsers.SAXParser not found
+[INFO ] 2019-05-10 00:41:13,499 [repositories/kiln] POST data to repository
+[INFO ] 2019-05-10 00:41:13,499 [repositories/kiln] no base URI specified, using dummy 'foo:bar'
+[WARN ] 2019-05-10 00:41:13,499 [repositories/kiln] Class org.apache.xerces.parsers.SAXParser not found
+[INFO ] 2019-05-10 00:41:13,505 [repositories/kiln] POST transaction to repository
+[WARN ] 2019-05-10 00:41:13,506 [repositories/kiln] Class org.apache.xerces.parsers.SAXParser not found
+[INFO ] 2019-05-10 00:41:13,513 [repositories/kiln] POST data to repository
+[INFO ] 2019-05-10 00:41:13,514 [repositories/kiln] no base URI specified, using dummy 'foo:bar'
+[WARN ] 2019-05-10 00:41:13,514 [repositories/kiln] Class org.apache.xerces.parsers.SAXParser not found
+[INFO ] 2019-05-10 00:41:13,521 [repositories/kiln] POST transaction to repository
+[WARN ] 2019-05-10 00:41:13,521 [repositories/kiln] Class org.apache.xerces.parsers.SAXParser not found
+[INFO ] 2019-05-10 00:41:13,528 [repositories/kiln] POST data to repository
+[INFO ] 2019-05-10 00:41:13,528 [repositories/kiln] no base URI specified, using dummy 'foo:bar'
+[WARN ] 2019-05-10 00:41:13,529 [repositories/kiln] Class org.apache.xerces.parsers.SAXParser not found
+[INFO ] 2019-05-10 00:41:13,535 [repositories/kiln] POST transaction to repository
+[WARN ] 2019-05-10 00:41:13,535 [repositories/kiln] Class org.apache.xerces.parsers.SAXParser not found
+[INFO ] 2019-05-10 00:41:13,543 [repositories/kiln] POST data to repository
+[INFO ] 2019-05-10 00:41:13,543 [repositories/kiln] no base URI specified, using dummy 'foo:bar'
+[WARN ] 2019-05-10 00:41:13,543 [repositories/kiln] Class org.apache.xerces.parsers.SAXParser not found
+[INFO ] 2019-05-10 00:41:13,549 [repositories/kiln] POST transaction to repository
+[WARN ] 2019-05-10 00:41:13,550 [repositories/kiln] Class org.apache.xerces.parsers.SAXParser not found
+[INFO ] 2019-05-10 00:41:13,556 [repositories/kiln] POST data to repository
+[INFO ] 2019-05-10 00:41:13,556 [repositories/kiln] no base URI specified, using dummy 'foo:bar'
+[WARN ] 2019-05-10 00:41:13,556 [repositories/kiln] Class org.apache.xerces.parsers.SAXParser not found
+[INFO ] 2019-05-10 00:41:13,563 [repositories/kiln] POST transaction to repository
+[WARN ] 2019-05-10 00:41:13,563 [repositories/kiln] Class org.apache.xerces.parsers.SAXParser not found
+[INFO ] 2019-05-10 00:41:13,570 [repositories/kiln] POST data to repository
+[INFO ] 2019-05-10 00:41:13,570 [repositories/kiln] no base URI specified, using dummy 'foo:bar'
+[WARN ] 2019-05-10 00:41:13,570 [repositories/kiln] Class org.apache.xerces.parsers.SAXParser not found
+[INFO ] 2019-05-10 00:41:13,577 [repositories/kiln] POST transaction to repository
+[WARN ] 2019-05-10 00:41:13,578 [repositories/kiln] Class org.apache.xerces.parsers.SAXParser not found
+[INFO ] 2019-05-10 00:41:13,584 [repositories/kiln] POST data to repository
+[INFO ] 2019-05-10 00:41:13,584 [repositories/kiln] no base URI specified, using dummy 'foo:bar'
+[WARN ] 2019-05-10 00:41:13,584 [repositories/kiln] Class org.apache.xerces.parsers.SAXParser not found
+[INFO ] 2019-05-10 00:41:13,592 [repositories/kiln] POST transaction to repository
+[WARN ] 2019-05-10 00:41:13,592 [repositories/kiln] Class org.apache.xerces.parsers.SAXParser not found
+[INFO ] 2019-05-10 00:41:13,598 [repositories/kiln] POST data to repository
+[INFO ] 2019-05-10 00:41:13,598 [repositories/kiln] no base URI specified, using dummy 'foo:bar'
+[WARN ] 2019-05-10 00:41:13,599 [repositories/kiln] Class org.apache.xerces.parsers.SAXParser not found
+[INFO ] 2019-05-10 00:41:13,605 [repositories/kiln] POST transaction to repository
+[WARN ] 2019-05-10 00:41:13,606 [repositories/kiln] Class org.apache.xerces.parsers.SAXParser not found
+[INFO ] 2019-05-10 00:41:13,612 [repositories/kiln] POST data to repository
+[INFO ] 2019-05-10 00:41:13,613 [repositories/kiln] no base URI specified, using dummy 'foo:bar'
+[WARN ] 2019-05-10 00:41:13,613 [repositories/kiln] Class org.apache.xerces.parsers.SAXParser not found
+[INFO ] 2019-05-10 00:41:13,619 [repositories/kiln] POST transaction to repository
+[WARN ] 2019-05-10 00:41:13,619 [repositories/kiln] Class org.apache.xerces.parsers.SAXParser not found
+[INFO ] 2019-05-10 00:41:13,627 [repositories/kiln] POST data to repository
+[INFO ] 2019-05-10 00:41:13,627 [repositories/kiln] no base URI specified, using dummy 'foo:bar'
+[WARN ] 2019-05-10 00:41:13,628 [repositories/kiln] Class org.apache.xerces.parsers.SAXParser not found
+[INFO ] 2019-05-10 00:41:13,634 [repositories/kiln] POST transaction to repository
+[WARN ] 2019-05-10 00:41:13,634 [repositories/kiln] Class org.apache.xerces.parsers.SAXParser not found
+[INFO ] 2019-05-10 00:41:13,642 [repositories/kiln] POST data to repository
+[INFO ] 2019-05-10 00:41:13,642 [repositories/kiln] no base URI specified, using dummy 'foo:bar'
+[WARN ] 2019-05-10 00:41:13,642 [repositories/kiln] Class org.apache.xerces.parsers.SAXParser not found
+[INFO ] 2019-05-10 00:41:13,648 [repositories/kiln] POST transaction to repository
+[WARN ] 2019-05-10 00:41:13,649 [repositories/kiln] Class org.apache.xerces.parsers.SAXParser not found
+[INFO ] 2019-05-10 00:41:13,655 [repositories/kiln] POST data to repository
+[INFO ] 2019-05-10 00:41:13,656 [repositories/kiln] no base URI specified, using dummy 'foo:bar'
+[WARN ] 2019-05-10 00:41:13,656 [repositories/kiln] Class org.apache.xerces.parsers.SAXParser not found
+[INFO ] 2019-05-10 00:41:13,664 [repositories/kiln] POST transaction to repository
+[WARN ] 2019-05-10 00:41:13,664 [repositories/kiln] Class org.apache.xerces.parsers.SAXParser not found
+[INFO ] 2019-05-10 00:41:13,671 [repositories/kiln] POST data to repository
+[INFO ] 2019-05-10 00:41:13,671 [repositories/kiln] no base URI specified, using dummy 'foo:bar'
+[WARN ] 2019-05-10 00:41:13,671 [repositories/kiln] Class org.apache.xerces.parsers.SAXParser not found
+[INFO ] 2019-05-10 00:41:13,680 [repositories/kiln] POST transaction to repository
+[WARN ] 2019-05-10 00:41:13,681 [repositories/kiln] Class org.apache.xerces.parsers.SAXParser not found
+[INFO ] 2019-05-10 00:41:13,687 [repositories/kiln] POST data to repository
+[INFO ] 2019-05-10 00:41:13,687 [repositories/kiln] no base URI specified, using dummy 'foo:bar'
+[WARN ] 2019-05-10 00:41:13,688 [repositories/kiln] Class org.apache.xerces.parsers.SAXParser not found
+[INFO ] 2019-05-10 00:41:13,695 [repositories/kiln] POST transaction to repository
+[WARN ] 2019-05-10 00:41:13,695 [repositories/kiln] Class org.apache.xerces.parsers.SAXParser not found
+[INFO ] 2019-05-10 00:41:13,701 [repositories/kiln] POST data to repository
+[INFO ] 2019-05-10 00:41:13,701 [repositories/kiln] no base URI specified, using dummy 'foo:bar'
+[WARN ] 2019-05-10 00:41:13,702 [repositories/kiln] Class org.apache.xerces.parsers.SAXParser not found
+[INFO ] 2019-05-10 00:41:13,709 [repositories/kiln] POST transaction to repository
+[WARN ] 2019-05-10 00:41:13,709 [repositories/kiln] Class org.apache.xerces.parsers.SAXParser not found
+[INFO ] 2019-05-10 00:41:13,716 [repositories/kiln] POST data to repository
+[INFO ] 2019-05-10 00:41:13,716 [repositories/kiln] no base URI specified, using dummy 'foo:bar'
+[WARN ] 2019-05-10 00:41:13,716 [repositories/kiln] Class org.apache.xerces.parsers.SAXParser not found
+[INFO ] 2019-05-10 00:41:13,724 [repositories/kiln] POST transaction to repository
+[WARN ] 2019-05-10 00:41:13,724 [repositories/kiln] Class org.apache.xerces.parsers.SAXParser not found
+[INFO ] 2019-05-10 00:41:13,730 [repositories/kiln] POST data to repository
+[INFO ] 2019-05-10 00:41:13,730 [repositories/kiln] no base URI specified, using dummy 'foo:bar'
+[WARN ] 2019-05-10 00:41:13,731 [repositories/kiln] Class org.apache.xerces.parsers.SAXParser not found
+[INFO ] 2019-05-10 00:41:13,738 [repositories/kiln] POST transaction to repository
+[WARN ] 2019-05-10 00:41:13,738 [repositories/kiln] Class org.apache.xerces.parsers.SAXParser not found
+[INFO ] 2019-05-10 00:41:13,745 [repositories/kiln] POST data to repository
+[INFO ] 2019-05-10 00:41:13,745 [repositories/kiln] no base URI specified, using dummy 'foo:bar'
+[WARN ] 2019-05-10 00:41:13,746 [repositories/kiln] Class org.apache.xerces.parsers.SAXParser not found
+[INFO ] 2019-05-10 00:41:13,753 [repositories/kiln] POST transaction to repository
+[WARN ] 2019-05-10 00:41:13,753 [repositories/kiln] Class org.apache.xerces.parsers.SAXParser not found
+[INFO ] 2019-05-10 00:41:13,760 [repositories/kiln] POST data to repository
+[INFO ] 2019-05-10 00:41:13,760 [repositories/kiln] no base URI specified, using dummy 'foo:bar'
+[WARN ] 2019-05-10 00:41:13,760 [repositories/kiln] Class org.apache.xerces.parsers.SAXParser not found
+[INFO ] 2019-05-10 00:41:13,767 [repositories/kiln] POST transaction to repository
+[WARN ] 2019-05-10 00:41:13,767 [repositories/kiln] Class org.apache.xerces.parsers.SAXParser not found
+[INFO ] 2019-05-10 00:41:13,773 [repositories/kiln] POST data to repository
+[INFO ] 2019-05-10 00:41:13,774 [repositories/kiln] no base URI specified, using dummy 'foo:bar'
+[WARN ] 2019-05-10 00:41:13,774 [repositories/kiln] Class org.apache.xerces.parsers.SAXParser not found
+[INFO ] 2019-05-10 00:41:13,781 [repositories/kiln] POST transaction to repository
+[WARN ] 2019-05-10 00:41:13,781 [repositories/kiln] Class org.apache.xerces.parsers.SAXParser not found
+[INFO ] 2019-05-10 00:41:13,787 [repositories/kiln] POST data to repository
+[INFO ] 2019-05-10 00:41:13,787 [repositories/kiln] no base URI specified, using dummy 'foo:bar'
+[WARN ] 2019-05-10 00:41:13,788 [repositories/kiln] Class org.apache.xerces.parsers.SAXParser not found
+[INFO ] 2019-05-10 00:41:13,795 [repositories/kiln] POST transaction to repository
+[WARN ] 2019-05-10 00:41:13,796 [repositories/kiln] Class org.apache.xerces.parsers.SAXParser not found
+[INFO ] 2019-05-10 00:41:13,802 [repositories/kiln] POST data to repository
+[INFO ] 2019-05-10 00:41:13,802 [repositories/kiln] no base URI specified, using dummy 'foo:bar'
+[WARN ] 2019-05-10 00:41:13,802 [repositories/kiln] Class org.apache.xerces.parsers.SAXParser not found
+[INFO ] 2019-05-10 00:41:13,809 [repositories/kiln] POST transaction to repository
+[WARN ] 2019-05-10 00:41:13,810 [repositories/kiln] Class org.apache.xerces.parsers.SAXParser not found
+[INFO ] 2019-05-10 00:41:13,816 [repositories/kiln] POST data to repository
+[INFO ] 2019-05-10 00:41:13,816 [repositories/kiln] no base URI specified, using dummy 'foo:bar'
+[WARN ] 2019-05-10 00:41:13,816 [repositories/kiln] Class org.apache.xerces.parsers.SAXParser not found
+[INFO ] 2019-05-10 00:41:13,823 [repositories/kiln] POST transaction to repository
+[WARN ] 2019-05-10 00:41:13,823 [repositories/kiln] Class org.apache.xerces.parsers.SAXParser not found
+[INFO ] 2019-05-10 00:41:13,829 [repositories/kiln] POST data to repository
+[INFO ] 2019-05-10 00:41:13,829 [repositories/kiln] no base URI specified, using dummy 'foo:bar'
+[WARN ] 2019-05-10 00:41:13,829 [repositories/kiln] Class org.apache.xerces.parsers.SAXParser not found
+[INFO ] 2019-05-10 00:41:13,836 [repositories/kiln] POST transaction to repository
+[WARN ] 2019-05-10 00:41:13,836 [repositories/kiln] Class org.apache.xerces.parsers.SAXParser not found
+[INFO ] 2019-05-10 00:41:13,843 [repositories/kiln] POST data to repository
+[INFO ] 2019-05-10 00:41:13,843 [repositories/kiln] no base URI specified, using dummy 'foo:bar'
+[WARN ] 2019-05-10 00:41:13,844 [repositories/kiln] Class org.apache.xerces.parsers.SAXParser not found
+[INFO ] 2019-05-10 00:41:13,850 [repositories/kiln] POST transaction to repository
+[WARN ] 2019-05-10 00:41:13,850 [repositories/kiln] Class org.apache.xerces.parsers.SAXParser not found
+[INFO ] 2019-05-10 00:41:13,856 [repositories/kiln] POST data to repository
+[INFO ] 2019-05-10 00:41:13,856 [repositories/kiln] no base URI specified, using dummy 'foo:bar'
+[WARN ] 2019-05-10 00:41:13,857 [repositories/kiln] Class org.apache.xerces.parsers.SAXParser not found
+[INFO ] 2019-05-10 00:41:13,866 [repositories/kiln] POST transaction to repository
+[WARN ] 2019-05-10 00:41:13,866 [repositories/kiln] Class org.apache.xerces.parsers.SAXParser not found
+[INFO ] 2019-05-10 00:41:13,874 [repositories/kiln] POST data to repository
+[INFO ] 2019-05-10 00:41:13,874 [repositories/kiln] no base URI specified, using dummy 'foo:bar'
+[WARN ] 2019-05-10 00:41:13,874 [repositories/kiln] Class org.apache.xerces.parsers.SAXParser not found
+[INFO ] 2019-05-10 00:41:13,883 [repositories/kiln] POST transaction to repository
+[WARN ] 2019-05-10 00:41:13,883 [repositories/kiln] Class org.apache.xerces.parsers.SAXParser not found
+[INFO ] 2019-05-10 00:41:13,889 [repositories/kiln] POST data to repository
+[INFO ] 2019-05-10 00:41:13,889 [repositories/kiln] no base URI specified, using dummy 'foo:bar'
+[WARN ] 2019-05-10 00:41:13,890 [repositories/kiln] Class org.apache.xerces.parsers.SAXParser not found
+[INFO ] 2019-05-10 00:41:13,899 [repositories/kiln] POST transaction to repository
+[WARN ] 2019-05-10 00:41:13,899 [repositories/kiln] Class org.apache.xerces.parsers.SAXParser not found
+[INFO ] 2019-05-10 00:41:13,904 [repositories/kiln] POST data to repository
+[INFO ] 2019-05-10 00:41:13,905 [repositories/kiln] no base URI specified, using dummy 'foo:bar'
+[WARN ] 2019-05-10 00:41:13,905 [repositories/kiln] Class org.apache.xerces.parsers.SAXParser not found
+[INFO ] 2019-05-10 00:41:13,914 [repositories/kiln] POST transaction to repository
+[WARN ] 2019-05-10 00:41:13,915 [repositories/kiln] Class org.apache.xerces.parsers.SAXParser not found
+[INFO ] 2019-05-10 00:41:13,921 [repositories/kiln] POST data to repository
+[INFO ] 2019-05-10 00:41:13,921 [repositories/kiln] no base URI specified, using dummy 'foo:bar'
+[WARN ] 2019-05-10 00:41:13,921 [repositories/kiln] Class org.apache.xerces.parsers.SAXParser not found
+[INFO ] 2019-05-10 00:41:13,932 [repositories/kiln] POST transaction to repository
+[WARN ] 2019-05-10 00:41:13,932 [repositories/kiln] Class org.apache.xerces.parsers.SAXParser not found
+[INFO ] 2019-05-10 00:41:13,938 [repositories/kiln] POST data to repository
+[INFO ] 2019-05-10 00:41:13,938 [repositories/kiln] no base URI specified, using dummy 'foo:bar'
+[WARN ] 2019-05-10 00:41:13,939 [repositories/kiln] Class org.apache.xerces.parsers.SAXParser not found
+[INFO ] 2019-05-10 00:41:13,948 [repositories/kiln] POST transaction to repository
+[WARN ] 2019-05-10 00:41:13,948 [repositories/kiln] Class org.apache.xerces.parsers.SAXParser not found
+[INFO ] 2019-05-10 00:41:13,954 [repositories/kiln] POST data to repository
+[INFO ] 2019-05-10 00:41:13,955 [repositories/kiln] no base URI specified, using dummy 'foo:bar'
+[WARN ] 2019-05-10 00:41:13,955 [repositories/kiln] Class org.apache.xerces.parsers.SAXParser not found
+[INFO ] 2019-05-10 00:41:13,964 [repositories/kiln] POST transaction to repository
+[WARN ] 2019-05-10 00:41:13,964 [repositories/kiln] Class org.apache.xerces.parsers.SAXParser not found
+[INFO ] 2019-05-10 00:41:13,971 [repositories/kiln] POST data to repository
+[INFO ] 2019-05-10 00:41:13,971 [repositories/kiln] no base URI specified, using dummy 'foo:bar'
+[WARN ] 2019-05-10 00:41:13,971 [repositories/kiln] Class org.apache.xerces.parsers.SAXParser not found
+[INFO ] 2019-05-10 00:41:13,981 [repositories/kiln] POST transaction to repository
+[WARN ] 2019-05-10 00:41:13,981 [repositories/kiln] Class org.apache.xerces.parsers.SAXParser not found
+[INFO ] 2019-05-10 00:41:13,987 [repositories/kiln] POST data to repository
+[INFO ] 2019-05-10 00:41:13,988 [repositories/kiln] no base URI specified, using dummy 'foo:bar'
+[WARN ] 2019-05-10 00:41:13,988 [repositories/kiln] Class org.apache.xerces.parsers.SAXParser not found
+[INFO ] 2019-05-10 00:41:13,998 [repositories/kiln] POST transaction to repository
+[WARN ] 2019-05-10 00:41:13,998 [repositories/kiln] Class org.apache.xerces.parsers.SAXParser not found
+[INFO ] 2019-05-10 00:41:14,003 [repositories/kiln] POST data to repository
+[INFO ] 2019-05-10 00:41:14,004 [repositories/kiln] no base URI specified, using dummy 'foo:bar'
+[WARN ] 2019-05-10 00:41:14,004 [repositories/kiln] Class org.apache.xerces.parsers.SAXParser not found
+[INFO ] 2019-05-10 00:41:14,013 [repositories/kiln] POST transaction to repository
+[WARN ] 2019-05-10 00:41:14,013 [repositories/kiln] Class org.apache.xerces.parsers.SAXParser not found
+[INFO ] 2019-05-10 00:44:21,564 [repositories/SYSTEM] GET statements
+[INFO ] 2019-05-10 00:44:21,701 [qtp1538399081-21] Request for query 3392903 is finished
+[INFO ] 2019-05-10 00:44:23,623 [repositories/SYSTEM] GET statements
+[INFO ] 2019-05-10 00:44:23,630 [qtp1538399081-16] Request for query 3392903 is finished
+[INFO ] 2019-05-10 00:44:23,707 [repositories/SYSTEM] GET statements
+[INFO ] 2019-05-10 00:44:51,651 [qtp1538399081-51] Request for query 3392903 is finished
+[INFO ] 2019-05-10 00:45:16,960 [qtp1538399081-49] Request for query 3392903 is finished
+[INFO ] 2019-05-10 00:45:19,451 [repositories/SYSTEM] GET statements
+[INFO ] 2019-05-10 00:45:19,466 [repositories/SYSTEM] GET statements
+[INFO ] 2019-05-10 00:45:19,471 [repositories/kiln] DELETE request invoked for repository 'kiln'
+[INFO ] 2019-05-10 00:45:19,481 [repositories/kiln] DELETE request successfully completed
+[INFO ] 2019-05-10 00:45:19,489 [qtp1538399081-15] Request for query 3392903 is finished
+[INFO ] 2019-05-10 00:46:03,590 [repositories/SYSTEM] GET statements
+[INFO ] 2019-05-10 00:46:03,652 [repositories/SYSTEM] GET statements
+[INFO ] 2019-05-10 00:46:03,667 [repositories/SYSTEM] POST transaction to repository
+[WARN ] 2019-05-10 00:46:03,667 [repositories/SYSTEM] Class org.apache.xerces.parsers.SAXParser not found
+[INFO ] 2019-05-10 00:46:03,708 [repositories/SYSTEM] GET statements
+[INFO ] 2019-05-10 00:46:23,803 [repositories/kiln] POST transaction to repository
+[WARN ] 2019-05-10 00:46:23,803 [repositories/kiln] Class org.apache.xerces.parsers.SAXParser not found
+[INFO ] 2019-05-10 00:46:23,809 [repositories/kiln] POST data to repository
+[INFO ] 2019-05-10 00:46:23,809 [repositories/kiln] no base URI specified, using dummy 'foo:bar'
+[WARN ] 2019-05-10 00:46:23,810 [repositories/kiln] Class org.apache.xerces.parsers.SAXParser not found
+[INFO ] 2019-05-10 00:46:23,840 [repositories/kiln] POST transaction to repository
+[WARN ] 2019-05-10 00:46:23,840 [repositories/kiln] Class org.apache.xerces.parsers.SAXParser not found
+[INFO ] 2019-05-10 00:46:23,848 [repositories/kiln] POST data to repository
+[INFO ] 2019-05-10 00:46:23,848 [repositories/kiln] no base URI specified, using dummy 'foo:bar'
+[WARN ] 2019-05-10 00:46:23,849 [repositories/kiln] Class org.apache.xerces.parsers.SAXParser not found
+[INFO ] 2019-05-10 00:46:23,868 [repositories/kiln] POST transaction to repository
+[WARN ] 2019-05-10 00:46:23,869 [repositories/kiln] Class org.apache.xerces.parsers.SAXParser not found
+[INFO ] 2019-05-10 00:46:23,876 [repositories/kiln] POST data to repository
+[INFO ] 2019-05-10 00:46:23,877 [repositories/kiln] no base URI specified, using dummy 'foo:bar'
+[WARN ] 2019-05-10 00:46:23,877 [repositories/kiln] Class org.apache.xerces.parsers.SAXParser not found
+[INFO ] 2019-05-10 00:46:23,899 [repositories/kiln] POST transaction to repository
+[WARN ] 2019-05-10 00:46:23,899 [repositories/kiln] Class org.apache.xerces.parsers.SAXParser not found
+[INFO ] 2019-05-10 00:46:23,905 [repositories/kiln] POST data to repository
+[INFO ] 2019-05-10 00:46:23,905 [repositories/kiln] no base URI specified, using dummy 'foo:bar'
+[WARN ] 2019-05-10 00:46:23,905 [repositories/kiln] Class org.apache.xerces.parsers.SAXParser not found
+[INFO ] 2019-05-10 00:46:23,928 [repositories/kiln] POST transaction to repository
+[WARN ] 2019-05-10 00:46:23,928 [repositories/kiln] Class org.apache.xerces.parsers.SAXParser not found
+[INFO ] 2019-05-10 00:46:23,938 [repositories/kiln] POST data to repository
+[INFO ] 2019-05-10 00:46:23,938 [repositories/kiln] no base URI specified, using dummy 'foo:bar'
+[WARN ] 2019-05-10 00:46:23,938 [repositories/kiln] Class org.apache.xerces.parsers.SAXParser not found
+[INFO ] 2019-05-10 00:46:23,971 [repositories/kiln] POST transaction to repository
+[WARN ] 2019-05-10 00:46:23,971 [repositories/kiln] Class org.apache.xerces.parsers.SAXParser not found
+[INFO ] 2019-05-10 00:46:23,977 [repositories/kiln] POST data to repository
+[INFO ] 2019-05-10 00:46:23,977 [repositories/kiln] no base URI specified, using dummy 'foo:bar'
+[WARN ] 2019-05-10 00:46:23,978 [repositories/kiln] Class org.apache.xerces.parsers.SAXParser not found
+[INFO ] 2019-05-10 00:46:24,018 [repositories/kiln] POST transaction to repository
+[WARN ] 2019-05-10 00:46:24,018 [repositories/kiln] Class org.apache.xerces.parsers.SAXParser not found
+[INFO ] 2019-05-10 00:46:24,023 [repositories/kiln] POST data to repository
+[INFO ] 2019-05-10 00:46:24,023 [repositories/kiln] no base URI specified, using dummy 'foo:bar'
+[WARN ] 2019-05-10 00:46:24,023 [repositories/kiln] Class org.apache.xerces.parsers.SAXParser not found
+[INFO ] 2019-05-10 00:46:24,051 [repositories/kiln] POST transaction to repository
+[WARN ] 2019-05-10 00:46:24,052 [repositories/kiln] Class org.apache.xerces.parsers.SAXParser not found
+[INFO ] 2019-05-10 00:46:24,055 [repositories/kiln] POST data to repository
+[INFO ] 2019-05-10 00:46:24,055 [repositories/kiln] no base URI specified, using dummy 'foo:bar'
+[WARN ] 2019-05-10 00:46:24,056 [repositories/kiln] Class org.apache.xerces.parsers.SAXParser not found
+[INFO ] 2019-05-10 00:46:24,062 [repositories/kiln] POST transaction to repository
+[WARN ] 2019-05-10 00:46:24,062 [repositories/kiln] Class org.apache.xerces.parsers.SAXParser not found
+[INFO ] 2019-05-10 00:46:24,065 [repositories/kiln] POST data to repository
+[INFO ] 2019-05-10 00:46:24,066 [repositories/kiln] no base URI specified, using dummy 'foo:bar'
+[WARN ] 2019-05-10 00:46:24,066 [repositories/kiln] Class org.apache.xerces.parsers.SAXParser not found
+[INFO ] 2019-05-10 00:46:24,071 [repositories/kiln] POST transaction to repository
+[WARN ] 2019-05-10 00:46:24,071 [repositories/kiln] Class org.apache.xerces.parsers.SAXParser not found
+[INFO ] 2019-05-10 00:46:24,075 [repositories/kiln] POST data to repository
+[INFO ] 2019-05-10 00:46:24,075 [repositories/kiln] no base URI specified, using dummy 'foo:bar'
+[WARN ] 2019-05-10 00:46:24,075 [repositories/kiln] Class org.apache.xerces.parsers.SAXParser not found
+[INFO ] 2019-05-10 00:46:24,081 [repositories/kiln] POST transaction to repository
+[WARN ] 2019-05-10 00:46:24,081 [repositories/kiln] Class org.apache.xerces.parsers.SAXParser not found
+[INFO ] 2019-05-10 00:46:24,086 [repositories/kiln] POST data to repository
+[INFO ] 2019-05-10 00:46:24,086 [repositories/kiln] no base URI specified, using dummy 'foo:bar'
+[WARN ] 2019-05-10 00:46:24,086 [repositories/kiln] Class org.apache.xerces.parsers.SAXParser not found
+[INFO ] 2019-05-10 00:46:24,092 [repositories/kiln] POST transaction to repository
+[WARN ] 2019-05-10 00:46:24,092 [repositories/kiln] Class org.apache.xerces.parsers.SAXParser not found
+[INFO ] 2019-05-10 00:46:24,096 [repositories/kiln] POST data to repository
+[INFO ] 2019-05-10 00:46:24,096 [repositories/kiln] no base URI specified, using dummy 'foo:bar'
+[WARN ] 2019-05-10 00:46:24,097 [repositories/kiln] Class org.apache.xerces.parsers.SAXParser not found
+[INFO ] 2019-05-10 00:46:24,102 [repositories/kiln] POST transaction to repository
+[WARN ] 2019-05-10 00:46:24,103 [repositories/kiln] Class org.apache.xerces.parsers.SAXParser not found
+[INFO ] 2019-05-10 00:46:24,107 [repositories/kiln] POST data to repository
+[INFO ] 2019-05-10 00:46:24,107 [repositories/kiln] no base URI specified, using dummy 'foo:bar'
+[WARN ] 2019-05-10 00:46:24,108 [repositories/kiln] Class org.apache.xerces.parsers.SAXParser not found
+[INFO ] 2019-05-10 00:46:24,114 [repositories/kiln] POST transaction to repository
+[WARN ] 2019-05-10 00:46:24,114 [repositories/kiln] Class org.apache.xerces.parsers.SAXParser not found
+[INFO ] 2019-05-10 00:46:24,117 [repositories/kiln] POST data to repository
+[INFO ] 2019-05-10 00:46:24,118 [repositories/kiln] no base URI specified, using dummy 'foo:bar'
+[WARN ] 2019-05-10 00:46:24,118 [repositories/kiln] Class org.apache.xerces.parsers.SAXParser not found
+[INFO ] 2019-05-10 00:46:24,124 [repositories/kiln] POST transaction to repository
+[WARN ] 2019-05-10 00:46:24,124 [repositories/kiln] Class org.apache.xerces.parsers.SAXParser not found
+[INFO ] 2019-05-10 00:46:24,128 [repositories/kiln] POST data to repository
+[INFO ] 2019-05-10 00:46:24,128 [repositories/kiln] no base URI specified, using dummy 'foo:bar'
+[WARN ] 2019-05-10 00:46:24,128 [repositories/kiln] Class org.apache.xerces.parsers.SAXParser not found
+[INFO ] 2019-05-10 00:46:24,135 [repositories/kiln] POST transaction to repository
+[WARN ] 2019-05-10 00:46:24,135 [repositories/kiln] Class org.apache.xerces.parsers.SAXParser not found
+[INFO ] 2019-05-10 00:46:24,139 [repositories/kiln] POST data to repository
+[INFO ] 2019-05-10 00:46:24,139 [repositories/kiln] no base URI specified, using dummy 'foo:bar'
+[WARN ] 2019-05-10 00:46:24,139 [repositories/kiln] Class org.apache.xerces.parsers.SAXParser not found
+[INFO ] 2019-05-10 00:46:24,145 [repositories/kiln] POST transaction to repository
+[WARN ] 2019-05-10 00:46:24,145 [repositories/kiln] Class org.apache.xerces.parsers.SAXParser not found
+[INFO ] 2019-05-10 00:46:24,150 [repositories/kiln] POST data to repository
+[INFO ] 2019-05-10 00:46:24,150 [repositories/kiln] no base URI specified, using dummy 'foo:bar'
+[WARN ] 2019-05-10 00:46:24,150 [repositories/kiln] Class org.apache.xerces.parsers.SAXParser not found
+[INFO ] 2019-05-10 00:46:24,156 [repositories/kiln] POST transaction to repository
+[WARN ] 2019-05-10 00:46:24,156 [repositories/kiln] Class org.apache.xerces.parsers.SAXParser not found
+[INFO ] 2019-05-10 00:46:24,160 [repositories/kiln] POST data to repository
+[INFO ] 2019-05-10 00:46:24,160 [repositories/kiln] no base URI specified, using dummy 'foo:bar'
+[WARN ] 2019-05-10 00:46:24,160 [repositories/kiln] Class org.apache.xerces.parsers.SAXParser not found
+[INFO ] 2019-05-10 00:46:24,166 [repositories/kiln] POST transaction to repository
+[WARN ] 2019-05-10 00:46:24,166 [repositories/kiln] Class org.apache.xerces.parsers.SAXParser not found
+[INFO ] 2019-05-10 00:46:24,171 [repositories/kiln] POST data to repository
+[INFO ] 2019-05-10 00:46:24,171 [repositories/kiln] no base URI specified, using dummy 'foo:bar'
+[WARN ] 2019-05-10 00:46:24,171 [repositories/kiln] Class org.apache.xerces.parsers.SAXParser not found
+[INFO ] 2019-05-10 00:46:24,177 [repositories/kiln] POST transaction to repository
+[WARN ] 2019-05-10 00:46:24,177 [repositories/kiln] Class org.apache.xerces.parsers.SAXParser not found
+[INFO ] 2019-05-10 00:46:24,181 [repositories/kiln] POST data to repository
+[INFO ] 2019-05-10 00:46:24,181 [repositories/kiln] no base URI specified, using dummy 'foo:bar'
+[WARN ] 2019-05-10 00:46:24,182 [repositories/kiln] Class org.apache.xerces.parsers.SAXParser not found
+[INFO ] 2019-05-10 00:46:24,188 [repositories/kiln] POST transaction to repository
+[WARN ] 2019-05-10 00:46:24,188 [repositories/kiln] Class org.apache.xerces.parsers.SAXParser not found
+[INFO ] 2019-05-10 00:46:24,192 [repositories/kiln] POST data to repository
+[INFO ] 2019-05-10 00:46:24,192 [repositories/kiln] no base URI specified, using dummy 'foo:bar'
+[WARN ] 2019-05-10 00:46:24,192 [repositories/kiln] Class org.apache.xerces.parsers.SAXParser not found
+[INFO ] 2019-05-10 00:46:24,198 [repositories/kiln] POST transaction to repository
+[WARN ] 2019-05-10 00:46:24,199 [repositories/kiln] Class org.apache.xerces.parsers.SAXParser not found
+[INFO ] 2019-05-10 00:46:24,202 [repositories/kiln] POST data to repository
+[INFO ] 2019-05-10 00:46:24,203 [repositories/kiln] no base URI specified, using dummy 'foo:bar'
+[WARN ] 2019-05-10 00:46:24,203 [repositories/kiln] Class org.apache.xerces.parsers.SAXParser not found
+[INFO ] 2019-05-10 00:46:24,210 [repositories/kiln] POST transaction to repository
+[WARN ] 2019-05-10 00:46:24,211 [repositories/kiln] Class org.apache.xerces.parsers.SAXParser not found
+[INFO ] 2019-05-10 00:46:24,214 [repositories/kiln] POST data to repository
+[INFO ] 2019-05-10 00:46:24,214 [repositories/kiln] no base URI specified, using dummy 'foo:bar'
+[WARN ] 2019-05-10 00:46:24,215 [repositories/kiln] Class org.apache.xerces.parsers.SAXParser not found
+[INFO ] 2019-05-10 00:46:24,222 [repositories/kiln] POST transaction to repository
+[WARN ] 2019-05-10 00:46:24,222 [repositories/kiln] Class org.apache.xerces.parsers.SAXParser not found
+[INFO ] 2019-05-10 00:46:24,227 [repositories/kiln] POST data to repository
+[INFO ] 2019-05-10 00:46:24,227 [repositories/kiln] no base URI specified, using dummy 'foo:bar'
+[WARN ] 2019-05-10 00:46:24,228 [repositories/kiln] Class org.apache.xerces.parsers.SAXParser not found
+[INFO ] 2019-05-10 00:46:24,234 [repositories/kiln] POST transaction to repository
+[WARN ] 2019-05-10 00:46:24,234 [repositories/kiln] Class org.apache.xerces.parsers.SAXParser not found
+[INFO ] 2019-05-10 00:46:24,238 [repositories/kiln] POST data to repository
+[INFO ] 2019-05-10 00:46:24,238 [repositories/kiln] no base URI specified, using dummy 'foo:bar'
+[WARN ] 2019-05-10 00:46:24,239 [repositories/kiln] Class org.apache.xerces.parsers.SAXParser not found
+[INFO ] 2019-05-10 00:46:24,246 [repositories/kiln] POST transaction to repository
+[WARN ] 2019-05-10 00:46:24,246 [repositories/kiln] Class org.apache.xerces.parsers.SAXParser not found
+[INFO ] 2019-05-10 00:46:24,250 [repositories/kiln] POST data to repository
+[INFO ] 2019-05-10 00:46:24,250 [repositories/kiln] no base URI specified, using dummy 'foo:bar'
+[WARN ] 2019-05-10 00:46:24,251 [repositories/kiln] Class org.apache.xerces.parsers.SAXParser not found
+[INFO ] 2019-05-10 00:46:24,258 [repositories/kiln] POST transaction to repository
+[WARN ] 2019-05-10 00:46:24,258 [repositories/kiln] Class org.apache.xerces.parsers.SAXParser not found
+[INFO ] 2019-05-10 00:46:24,263 [repositories/kiln] POST data to repository
+[INFO ] 2019-05-10 00:46:24,263 [repositories/kiln] no base URI specified, using dummy 'foo:bar'
+[WARN ] 2019-05-10 00:46:24,263 [repositories/kiln] Class org.apache.xerces.parsers.SAXParser not found
+[INFO ] 2019-05-10 00:46:24,271 [repositories/kiln] POST transaction to repository
+[WARN ] 2019-05-10 00:46:24,271 [repositories/kiln] Class org.apache.xerces.parsers.SAXParser not found
+[INFO ] 2019-05-10 00:46:24,274 [repositories/kiln] POST data to repository
+[INFO ] 2019-05-10 00:46:24,274 [repositories/kiln] no base URI specified, using dummy 'foo:bar'
+[WARN ] 2019-05-10 00:46:24,275 [repositories/kiln] Class org.apache.xerces.parsers.SAXParser not found
+[INFO ] 2019-05-10 00:46:24,281 [repositories/kiln] POST transaction to repository
+[WARN ] 2019-05-10 00:46:24,282 [repositories/kiln] Class org.apache.xerces.parsers.SAXParser not found
+[INFO ] 2019-05-10 00:46:24,286 [repositories/kiln] POST data to repository
+[INFO ] 2019-05-10 00:46:24,286 [repositories/kiln] no base URI specified, using dummy 'foo:bar'
+[WARN ] 2019-05-10 00:46:24,286 [repositories/kiln] Class org.apache.xerces.parsers.SAXParser not found
+[INFO ] 2019-05-10 00:46:24,292 [repositories/kiln] POST transaction to repository
+[WARN ] 2019-05-10 00:46:24,292 [repositories/kiln] Class org.apache.xerces.parsers.SAXParser not found
+[INFO ] 2019-05-10 00:46:24,295 [repositories/kiln] POST data to repository
+[INFO ] 2019-05-10 00:46:24,296 [repositories/kiln] no base URI specified, using dummy 'foo:bar'
+[WARN ] 2019-05-10 00:46:24,296 [repositories/kiln] Class org.apache.xerces.parsers.SAXParser not found
+[INFO ] 2019-05-10 00:46:24,301 [repositories/kiln] POST transaction to repository
+[WARN ] 2019-05-10 00:46:24,301 [repositories/kiln] Class org.apache.xerces.parsers.SAXParser not found
+[INFO ] 2019-05-10 00:46:24,304 [repositories/kiln] POST data to repository
+[INFO ] 2019-05-10 00:46:24,304 [repositories/kiln] no base URI specified, using dummy 'foo:bar'
+[WARN ] 2019-05-10 00:46:24,305 [repositories/kiln] Class org.apache.xerces.parsers.SAXParser not found
+[INFO ] 2019-05-10 00:46:24,309 [repositories/kiln] POST transaction to repository
+[WARN ] 2019-05-10 00:46:24,309 [repositories/kiln] Class org.apache.xerces.parsers.SAXParser not found
+[INFO ] 2019-05-10 00:46:24,313 [repositories/kiln] POST data to repository
+[INFO ] 2019-05-10 00:46:24,313 [repositories/kiln] no base URI specified, using dummy 'foo:bar'
+[WARN ] 2019-05-10 00:46:24,313 [repositories/kiln] Class org.apache.xerces.parsers.SAXParser not found
+[INFO ] 2019-05-10 00:46:24,320 [repositories/kiln] POST transaction to repository
+[WARN ] 2019-05-10 00:46:24,320 [repositories/kiln] Class org.apache.xerces.parsers.SAXParser not found
+[INFO ] 2019-05-10 00:46:24,325 [repositories/kiln] POST data to repository
+[INFO ] 2019-05-10 00:46:24,326 [repositories/kiln] no base URI specified, using dummy 'foo:bar'
+[WARN ] 2019-05-10 00:46:24,326 [repositories/kiln] Class org.apache.xerces.parsers.SAXParser not found
+[INFO ] 2019-05-10 00:46:24,332 [repositories/kiln] POST transaction to repository
+[WARN ] 2019-05-10 00:46:24,333 [repositories/kiln] Class org.apache.xerces.parsers.SAXParser not found
+[INFO ] 2019-05-10 00:46:24,337 [repositories/kiln] POST data to repository
+[INFO ] 2019-05-10 00:46:24,337 [repositories/kiln] no base URI specified, using dummy 'foo:bar'
+[WARN ] 2019-05-10 00:46:24,337 [repositories/kiln] Class org.apache.xerces.parsers.SAXParser not found
+[INFO ] 2019-05-10 00:46:24,343 [repositories/kiln] POST transaction to repository
+[WARN ] 2019-05-10 00:46:24,343 [repositories/kiln] Class org.apache.xerces.parsers.SAXParser not found
+[INFO ] 2019-05-10 00:46:24,346 [repositories/kiln] POST data to repository
+[INFO ] 2019-05-10 00:46:24,346 [repositories/kiln] no base URI specified, using dummy 'foo:bar'
+[WARN ] 2019-05-10 00:46:24,347 [repositories/kiln] Class org.apache.xerces.parsers.SAXParser not found
+[INFO ] 2019-05-10 00:46:24,352 [repositories/kiln] POST transaction to repository
+[WARN ] 2019-05-10 00:46:24,352 [repositories/kiln] Class org.apache.xerces.parsers.SAXParser not found
+[INFO ] 2019-05-10 00:46:24,355 [repositories/kiln] POST data to repository
+[INFO ] 2019-05-10 00:46:24,355 [repositories/kiln] no base URI specified, using dummy 'foo:bar'
+[WARN ] 2019-05-10 00:46:24,355 [repositories/kiln] Class org.apache.xerces.parsers.SAXParser not found
+[INFO ] 2019-05-10 00:46:24,361 [repositories/kiln] POST transaction to repository
+[WARN ] 2019-05-10 00:46:24,361 [repositories/kiln] Class org.apache.xerces.parsers.SAXParser not found
+[INFO ] 2019-05-10 00:46:24,365 [repositories/kiln] POST data to repository
+[INFO ] 2019-05-10 00:46:24,365 [repositories/kiln] no base URI specified, using dummy 'foo:bar'
+[WARN ] 2019-05-10 00:46:24,365 [repositories/kiln] Class org.apache.xerces.parsers.SAXParser not found
+[INFO ] 2019-05-10 00:46:24,371 [repositories/kiln] POST transaction to repository
+[WARN ] 2019-05-10 00:46:24,371 [repositories/kiln] Class org.apache.xerces.parsers.SAXParser not found
+[INFO ] 2019-05-10 00:46:24,374 [repositories/kiln] POST data to repository
+[INFO ] 2019-05-10 00:46:24,374 [repositories/kiln] no base URI specified, using dummy 'foo:bar'
+[WARN ] 2019-05-10 00:46:24,374 [repositories/kiln] Class org.apache.xerces.parsers.SAXParser not found
+[INFO ] 2019-05-10 00:46:24,380 [repositories/kiln] POST transaction to repository
+[WARN ] 2019-05-10 00:46:24,380 [repositories/kiln] Class org.apache.xerces.parsers.SAXParser not found
+[INFO ] 2019-05-10 00:46:24,384 [repositories/kiln] POST data to repository
+[INFO ] 2019-05-10 00:46:24,384 [repositories/kiln] no base URI specified, using dummy 'foo:bar'
+[WARN ] 2019-05-10 00:46:24,384 [repositories/kiln] Class org.apache.xerces.parsers.SAXParser not found
+[INFO ] 2019-05-10 00:46:24,389 [repositories/kiln] POST transaction to repository
+[WARN ] 2019-05-10 00:46:24,390 [repositories/kiln] Class org.apache.xerces.parsers.SAXParser not found
+[INFO ] 2019-05-10 00:46:24,393 [repositories/kiln] POST data to repository
+[INFO ] 2019-05-10 00:46:24,393 [repositories/kiln] no base URI specified, using dummy 'foo:bar'
+[WARN ] 2019-05-10 00:46:24,394 [repositories/kiln] Class org.apache.xerces.parsers.SAXParser not found
+[INFO ] 2019-05-10 00:46:24,399 [repositories/kiln] POST transaction to repository
+[WARN ] 2019-05-10 00:46:24,399 [repositories/kiln] Class org.apache.xerces.parsers.SAXParser not found
+[INFO ] 2019-05-10 00:46:24,403 [repositories/kiln] POST data to repository
+[INFO ] 2019-05-10 00:46:24,403 [repositories/kiln] no base URI specified, using dummy 'foo:bar'
+[WARN ] 2019-05-10 00:46:24,403 [repositories/kiln] Class org.apache.xerces.parsers.SAXParser not found
+[INFO ] 2019-05-10 00:46:24,408 [repositories/kiln] POST transaction to repository
+[WARN ] 2019-05-10 00:46:24,409 [repositories/kiln] Class org.apache.xerces.parsers.SAXParser not found
+[INFO ] 2019-05-10 00:46:24,412 [repositories/kiln] POST data to repository
+[INFO ] 2019-05-10 00:46:24,412 [repositories/kiln] no base URI specified, using dummy 'foo:bar'
+[WARN ] 2019-05-10 00:46:24,413 [repositories/kiln] Class org.apache.xerces.parsers.SAXParser not found
+[INFO ] 2019-05-10 00:46:24,418 [repositories/kiln] POST transaction to repository
+[WARN ] 2019-05-10 00:46:24,418 [repositories/kiln] Class org.apache.xerces.parsers.SAXParser not found
+[INFO ] 2019-05-10 00:46:24,421 [repositories/kiln] POST data to repository
+[INFO ] 2019-05-10 00:46:24,421 [repositories/kiln] no base URI specified, using dummy 'foo:bar'
+[WARN ] 2019-05-10 00:46:24,422 [repositories/kiln] Class org.apache.xerces.parsers.SAXParser not found
+[INFO ] 2019-05-10 00:46:24,427 [repositories/kiln] POST transaction to repository
+[WARN ] 2019-05-10 00:46:24,428 [repositories/kiln] Class org.apache.xerces.parsers.SAXParser not found
+[INFO ] 2019-05-10 00:46:24,431 [repositories/kiln] POST data to repository
+[INFO ] 2019-05-10 00:46:24,431 [repositories/kiln] no base URI specified, using dummy 'foo:bar'
+[WARN ] 2019-05-10 00:46:24,432 [repositories/kiln] Class org.apache.xerces.parsers.SAXParser not found
+[INFO ] 2019-05-10 00:46:24,437 [repositories/kiln] POST transaction to repository
+[WARN ] 2019-05-10 00:46:24,437 [repositories/kiln] Class org.apache.xerces.parsers.SAXParser not found
+[INFO ] 2019-05-10 00:46:24,441 [repositories/kiln] POST data to repository
+[INFO ] 2019-05-10 00:46:24,441 [repositories/kiln] no base URI specified, using dummy 'foo:bar'
+[WARN ] 2019-05-10 00:46:24,441 [repositories/kiln] Class org.apache.xerces.parsers.SAXParser not found
+[INFO ] 2019-05-10 00:46:24,446 [repositories/kiln] POST transaction to repository
+[WARN ] 2019-05-10 00:46:24,447 [repositories/kiln] Class org.apache.xerces.parsers.SAXParser not found
+[INFO ] 2019-05-10 00:46:24,450 [repositories/kiln] POST data to repository
+[INFO ] 2019-05-10 00:46:24,450 [repositories/kiln] no base URI specified, using dummy 'foo:bar'
+[WARN ] 2019-05-10 00:46:24,450 [repositories/kiln] Class org.apache.xerces.parsers.SAXParser not found
+[INFO ] 2019-05-10 00:46:24,455 [repositories/kiln] POST transaction to repository
+[WARN ] 2019-05-10 00:46:24,455 [repositories/kiln] Class org.apache.xerces.parsers.SAXParser not found
+[INFO ] 2019-05-10 00:46:24,459 [repositories/kiln] POST data to repository
+[INFO ] 2019-05-10 00:46:24,459 [repositories/kiln] no base URI specified, using dummy 'foo:bar'
+[WARN ] 2019-05-10 00:46:24,459 [repositories/kiln] Class org.apache.xerces.parsers.SAXParser not found
+[INFO ] 2019-05-10 00:46:24,464 [repositories/kiln] POST transaction to repository
+[WARN ] 2019-05-10 00:46:24,464 [repositories/kiln] Class org.apache.xerces.parsers.SAXParser not found
+[INFO ] 2019-05-10 00:46:24,468 [repositories/kiln] POST data to repository
+[INFO ] 2019-05-10 00:46:24,468 [repositories/kiln] no base URI specified, using dummy 'foo:bar'
+[WARN ] 2019-05-10 00:46:24,468 [repositories/kiln] Class org.apache.xerces.parsers.SAXParser not found
+[INFO ] 2019-05-10 00:46:24,473 [repositories/kiln] POST transaction to repository
+[WARN ] 2019-05-10 00:46:24,473 [repositories/kiln] Class org.apache.xerces.parsers.SAXParser not found
+[INFO ] 2019-05-10 00:46:24,477 [repositories/kiln] POST data to repository
+[INFO ] 2019-05-10 00:46:24,477 [repositories/kiln] no base URI specified, using dummy 'foo:bar'
+[WARN ] 2019-05-10 00:46:24,478 [repositories/kiln] Class org.apache.xerces.parsers.SAXParser not found
+[INFO ] 2019-05-10 00:46:24,482 [repositories/kiln] POST transaction to repository
+[WARN ] 2019-05-10 00:46:24,483 [repositories/kiln] Class org.apache.xerces.parsers.SAXParser not found
+[INFO ] 2019-05-10 00:46:24,486 [repositories/kiln] POST data to repository
+[INFO ] 2019-05-10 00:46:24,486 [repositories/kiln] no base URI specified, using dummy 'foo:bar'
+[WARN ] 2019-05-10 00:46:24,486 [repositories/kiln] Class org.apache.xerces.parsers.SAXParser not found
+[INFO ] 2019-05-10 00:46:24,491 [repositories/kiln] POST transaction to repository
+[WARN ] 2019-05-10 00:46:24,491 [repositories/kiln] Class org.apache.xerces.parsers.SAXParser not found
+[INFO ] 2019-05-10 00:46:24,494 [repositories/kiln] POST data to repository
+[INFO ] 2019-05-10 00:46:24,494 [repositories/kiln] no base URI specified, using dummy 'foo:bar'
+[WARN ] 2019-05-10 00:46:24,495 [repositories/kiln] Class org.apache.xerces.parsers.SAXParser not found
+[INFO ] 2019-05-10 00:46:24,499 [repositories/kiln] POST transaction to repository
+[WARN ] 2019-05-10 00:46:24,500 [repositories/kiln] Class org.apache.xerces.parsers.SAXParser not found
+[INFO ] 2019-05-10 00:46:24,503 [repositories/kiln] POST data to repository
+[INFO ] 2019-05-10 00:46:24,503 [repositories/kiln] no base URI specified, using dummy 'foo:bar'
+[WARN ] 2019-05-10 00:46:24,504 [repositories/kiln] Class org.apache.xerces.parsers.SAXParser not found
+[INFO ] 2019-05-10 00:46:24,509 [repositories/kiln] POST transaction to repository
+[WARN ] 2019-05-10 00:46:24,509 [repositories/kiln] Class org.apache.xerces.parsers.SAXParser not found
+[INFO ] 2019-05-10 00:46:24,513 [repositories/kiln] POST data to repository
+[INFO ] 2019-05-10 00:46:24,513 [repositories/kiln] no base URI specified, using dummy 'foo:bar'
+[WARN ] 2019-05-10 00:46:24,513 [repositories/kiln] Class org.apache.xerces.parsers.SAXParser not found
+[INFO ] 2019-05-10 00:46:24,519 [repositories/kiln] POST transaction to repository
+[WARN ] 2019-05-10 00:46:24,519 [repositories/kiln] Class org.apache.xerces.parsers.SAXParser not found
+[INFO ] 2019-05-10 00:46:24,522 [repositories/kiln] POST data to repository
+[INFO ] 2019-05-10 00:46:24,522 [repositories/kiln] no base URI specified, using dummy 'foo:bar'
+[WARN ] 2019-05-10 00:46:24,523 [repositories/kiln] Class org.apache.xerces.parsers.SAXParser not found
+[INFO ] 2019-05-10 00:46:24,527 [repositories/kiln] POST transaction to repository
+[WARN ] 2019-05-10 00:46:24,528 [repositories/kiln] Class org.apache.xerces.parsers.SAXParser not found
+[INFO ] 2019-05-10 00:46:24,531 [repositories/kiln] POST data to repository
+[INFO ] 2019-05-10 00:46:24,531 [repositories/kiln] no base URI specified, using dummy 'foo:bar'
+[WARN ] 2019-05-10 00:46:24,531 [repositories/kiln] Class org.apache.xerces.parsers.SAXParser not found
+[INFO ] 2019-05-10 00:46:24,536 [repositories/kiln] POST transaction to repository
+[WARN ] 2019-05-10 00:46:24,536 [repositories/kiln] Class org.apache.xerces.parsers.SAXParser not found
+[INFO ] 2019-05-10 00:46:24,539 [repositories/kiln] POST data to repository
+[INFO ] 2019-05-10 00:46:24,539 [repositories/kiln] no base URI specified, using dummy 'foo:bar'
+[WARN ] 2019-05-10 00:46:24,539 [repositories/kiln] Class org.apache.xerces.parsers.SAXParser not found
+[INFO ] 2019-05-10 00:46:24,543 [repositories/kiln] POST transaction to repository
+[WARN ] 2019-05-10 00:46:24,544 [repositories/kiln] Class org.apache.xerces.parsers.SAXParser not found
+[INFO ] 2019-05-10 00:50:51,098 [repositories/kiln] POST transaction to repository
+[WARN ] 2019-05-10 00:50:51,099 [repositories/kiln] Class org.apache.xerces.parsers.SAXParser not found
+[INFO ] 2019-05-10 00:50:51,151 [repositories/kiln] POST data to repository
+[INFO ] 2019-05-10 00:50:51,151 [repositories/kiln] no base URI specified, using dummy 'foo:bar'
+[WARN ] 2019-05-10 00:50:51,151 [repositories/kiln] Class org.apache.xerces.parsers.SAXParser not found
+[INFO ] 2019-05-10 00:50:51,178 [repositories/kiln] POST transaction to repository
+[WARN ] 2019-05-10 00:50:51,178 [repositories/kiln] Class org.apache.xerces.parsers.SAXParser not found
+[INFO ] 2019-05-10 00:50:51,225 [repositories/kiln] POST data to repository
+[INFO ] 2019-05-10 00:50:51,225 [repositories/kiln] no base URI specified, using dummy 'foo:bar'
+[WARN ] 2019-05-10 00:50:51,225 [repositories/kiln] Class org.apache.xerces.parsers.SAXParser not found
+[INFO ] 2019-05-10 00:50:51,254 [repositories/kiln] POST transaction to repository
+[WARN ] 2019-05-10 00:50:51,254 [repositories/kiln] Class org.apache.xerces.parsers.SAXParser not found
+[INFO ] 2019-05-10 00:50:51,298 [repositories/kiln] POST data to repository
+[INFO ] 2019-05-10 00:50:51,298 [repositories/kiln] no base URI specified, using dummy 'foo:bar'
+[WARN ] 2019-05-10 00:50:51,299 [repositories/kiln] Class org.apache.xerces.parsers.SAXParser not found
+[INFO ] 2019-05-10 00:50:51,328 [repositories/kiln] POST transaction to repository
+[WARN ] 2019-05-10 00:50:51,329 [repositories/kiln] Class org.apache.xerces.parsers.SAXParser not found
+[INFO ] 2019-05-10 00:50:51,373 [repositories/kiln] POST data to repository
+[INFO ] 2019-05-10 00:50:51,373 [repositories/kiln] no base URI specified, using dummy 'foo:bar'
+[WARN ] 2019-05-10 00:50:51,373 [repositories/kiln] Class org.apache.xerces.parsers.SAXParser not found
+[INFO ] 2019-05-10 00:50:51,398 [repositories/kiln] POST transaction to repository
+[WARN ] 2019-05-10 00:50:51,398 [repositories/kiln] Class org.apache.xerces.parsers.SAXParser not found
+[INFO ] 2019-05-10 00:50:51,427 [repositories/kiln] POST data to repository
+[INFO ] 2019-05-10 00:50:51,428 [repositories/kiln] no base URI specified, using dummy 'foo:bar'
+[WARN ] 2019-05-10 00:50:51,428 [repositories/kiln] Class org.apache.xerces.parsers.SAXParser not found
+[INFO ] 2019-05-10 00:50:51,452 [repositories/kiln] POST transaction to repository
+[WARN ] 2019-05-10 00:50:51,452 [repositories/kiln] Class org.apache.xerces.parsers.SAXParser not found
+[INFO ] 2019-05-10 00:50:51,481 [repositories/kiln] POST data to repository
+[INFO ] 2019-05-10 00:50:51,481 [repositories/kiln] no base URI specified, using dummy 'foo:bar'
+[WARN ] 2019-05-10 00:50:51,481 [repositories/kiln] Class org.apache.xerces.parsers.SAXParser not found
+[INFO ] 2019-05-10 00:50:51,527 [repositories/kiln] POST transaction to repository
+[WARN ] 2019-05-10 00:50:51,527 [repositories/kiln] Class org.apache.xerces.parsers.SAXParser not found
+[INFO ] 2019-05-10 00:50:51,558 [repositories/kiln] POST data to repository
+[INFO ] 2019-05-10 00:50:51,558 [repositories/kiln] no base URI specified, using dummy 'foo:bar'
+[WARN ] 2019-05-10 00:50:51,558 [repositories/kiln] Class org.apache.xerces.parsers.SAXParser not found
+[INFO ] 2019-05-10 00:50:51,579 [repositories/kiln] POST transaction to repository
+[WARN ] 2019-05-10 00:50:51,579 [repositories/kiln] Class org.apache.xerces.parsers.SAXParser not found
+[INFO ] 2019-05-10 00:50:51,582 [repositories/kiln] POST data to repository
+[INFO ] 2019-05-10 00:50:51,582 [repositories/kiln] no base URI specified, using dummy 'foo:bar'
+[WARN ] 2019-05-10 00:50:51,582 [repositories/kiln] Class org.apache.xerces.parsers.SAXParser not found
+[INFO ] 2019-05-10 00:50:51,587 [repositories/kiln] POST transaction to repository
+[WARN ] 2019-05-10 00:50:51,587 [repositories/kiln] Class org.apache.xerces.parsers.SAXParser not found
+[INFO ] 2019-05-10 00:50:51,590 [repositories/kiln] POST data to repository
+[INFO ] 2019-05-10 00:50:51,590 [repositories/kiln] no base URI specified, using dummy 'foo:bar'
+[WARN ] 2019-05-10 00:50:51,591 [repositories/kiln] Class org.apache.xerces.parsers.SAXParser not found
+[INFO ] 2019-05-10 00:50:51,595 [repositories/kiln] POST transaction to repository
+[WARN ] 2019-05-10 00:50:51,595 [repositories/kiln] Class org.apache.xerces.parsers.SAXParser not found
+[INFO ] 2019-05-10 00:50:51,598 [repositories/kiln] POST data to repository
+[INFO ] 2019-05-10 00:50:51,598 [repositories/kiln] no base URI specified, using dummy 'foo:bar'
+[WARN ] 2019-05-10 00:50:51,598 [repositories/kiln] Class org.apache.xerces.parsers.SAXParser not found
+[INFO ] 2019-05-10 00:50:51,603 [repositories/kiln] POST transaction to repository
+[WARN ] 2019-05-10 00:50:51,604 [repositories/kiln] Class org.apache.xerces.parsers.SAXParser not found
+[INFO ] 2019-05-10 00:50:51,607 [repositories/kiln] POST data to repository
+[INFO ] 2019-05-10 00:50:51,607 [repositories/kiln] no base URI specified, using dummy 'foo:bar'
+[WARN ] 2019-05-10 00:50:51,607 [repositories/kiln] Class org.apache.xerces.parsers.SAXParser not found
+[INFO ] 2019-05-10 00:50:51,613 [repositories/kiln] POST transaction to repository
+[WARN ] 2019-05-10 00:50:51,613 [repositories/kiln] Class org.apache.xerces.parsers.SAXParser not found
+[INFO ] 2019-05-10 00:50:51,615 [repositories/kiln] POST data to repository
+[INFO ] 2019-05-10 00:50:51,616 [repositories/kiln] no base URI specified, using dummy 'foo:bar'
+[WARN ] 2019-05-10 00:50:51,616 [repositories/kiln] Class org.apache.xerces.parsers.SAXParser not found
+[INFO ] 2019-05-10 00:50:51,621 [repositories/kiln] POST transaction to repository
+[WARN ] 2019-05-10 00:50:51,622 [repositories/kiln] Class org.apache.xerces.parsers.SAXParser not found
+[INFO ] 2019-05-10 00:50:51,625 [repositories/kiln] POST data to repository
+[INFO ] 2019-05-10 00:50:51,625 [repositories/kiln] no base URI specified, using dummy 'foo:bar'
+[WARN ] 2019-05-10 00:50:51,625 [repositories/kiln] Class org.apache.xerces.parsers.SAXParser not found
+[INFO ] 2019-05-10 00:50:51,630 [repositories/kiln] POST transaction to repository
+[WARN ] 2019-05-10 00:50:51,630 [repositories/kiln] Class org.apache.xerces.parsers.SAXParser not found
+[INFO ] 2019-05-10 00:50:51,634 [repositories/kiln] POST data to repository
+[INFO ] 2019-05-10 00:50:51,634 [repositories/kiln] no base URI specified, using dummy 'foo:bar'
+[WARN ] 2019-05-10 00:50:51,634 [repositories/kiln] Class org.apache.xerces.parsers.SAXParser not found
+[INFO ] 2019-05-10 00:50:51,640 [repositories/kiln] POST transaction to repository
+[WARN ] 2019-05-10 00:50:51,640 [repositories/kiln] Class org.apache.xerces.parsers.SAXParser not found
+[INFO ] 2019-05-10 00:50:51,643 [repositories/kiln] POST data to repository
+[INFO ] 2019-05-10 00:50:51,643 [repositories/kiln] no base URI specified, using dummy 'foo:bar'
+[WARN ] 2019-05-10 00:50:51,644 [repositories/kiln] Class org.apache.xerces.parsers.SAXParser not found
+[INFO ] 2019-05-10 00:50:51,648 [repositories/kiln] POST transaction to repository
+[WARN ] 2019-05-10 00:50:51,649 [repositories/kiln] Class org.apache.xerces.parsers.SAXParser not found
+[INFO ] 2019-05-10 00:50:51,652 [repositories/kiln] POST data to repository
+[INFO ] 2019-05-10 00:50:51,652 [repositories/kiln] no base URI specified, using dummy 'foo:bar'
+[WARN ] 2019-05-10 00:50:51,652 [repositories/kiln] Class org.apache.xerces.parsers.SAXParser not found
+[INFO ] 2019-05-10 00:50:51,657 [repositories/kiln] POST transaction to repository
+[WARN ] 2019-05-10 00:50:51,657 [repositories/kiln] Class org.apache.xerces.parsers.SAXParser not found
+[INFO ] 2019-05-10 00:50:51,660 [repositories/kiln] POST data to repository
+[INFO ] 2019-05-10 00:50:51,661 [repositories/kiln] no base URI specified, using dummy 'foo:bar'
+[WARN ] 2019-05-10 00:50:51,661 [repositories/kiln] Class org.apache.xerces.parsers.SAXParser not found
+[INFO ] 2019-05-10 00:50:51,666 [repositories/kiln] POST transaction to repository
+[WARN ] 2019-05-10 00:50:51,666 [repositories/kiln] Class org.apache.xerces.parsers.SAXParser not found
+[INFO ] 2019-05-10 00:50:51,669 [repositories/kiln] POST data to repository
+[INFO ] 2019-05-10 00:50:51,669 [repositories/kiln] no base URI specified, using dummy 'foo:bar'
+[WARN ] 2019-05-10 00:50:51,669 [repositories/kiln] Class org.apache.xerces.parsers.SAXParser not found
+[INFO ] 2019-05-10 00:50:51,674 [repositories/kiln] POST transaction to repository
+[WARN ] 2019-05-10 00:50:51,674 [repositories/kiln] Class org.apache.xerces.parsers.SAXParser not found
+[INFO ] 2019-05-10 00:50:51,677 [repositories/kiln] POST data to repository
+[INFO ] 2019-05-10 00:50:51,677 [repositories/kiln] no base URI specified, using dummy 'foo:bar'
+[WARN ] 2019-05-10 00:50:51,677 [repositories/kiln] Class org.apache.xerces.parsers.SAXParser not found
+[INFO ] 2019-05-10 00:50:51,682 [repositories/kiln] POST transaction to repository
+[WARN ] 2019-05-10 00:50:51,682 [repositories/kiln] Class org.apache.xerces.parsers.SAXParser not found
+[INFO ] 2019-05-10 00:50:51,685 [repositories/kiln] POST data to repository
+[INFO ] 2019-05-10 00:50:51,685 [repositories/kiln] no base URI specified, using dummy 'foo:bar'
+[WARN ] 2019-05-10 00:50:51,685 [repositories/kiln] Class org.apache.xerces.parsers.SAXParser not found
+[INFO ] 2019-05-10 00:50:51,689 [repositories/kiln] POST transaction to repository
+[WARN ] 2019-05-10 00:50:51,690 [repositories/kiln] Class org.apache.xerces.parsers.SAXParser not found
+[INFO ] 2019-05-10 00:50:51,693 [repositories/kiln] POST data to repository
+[INFO ] 2019-05-10 00:50:51,693 [repositories/kiln] no base URI specified, using dummy 'foo:bar'
+[WARN ] 2019-05-10 00:50:51,693 [repositories/kiln] Class org.apache.xerces.parsers.SAXParser not found
+[INFO ] 2019-05-10 00:50:51,698 [repositories/kiln] POST transaction to repository
+[WARN ] 2019-05-10 00:50:51,698 [repositories/kiln] Class org.apache.xerces.parsers.SAXParser not found
+[INFO ] 2019-05-10 00:50:51,701 [repositories/kiln] POST data to repository
+[INFO ] 2019-05-10 00:50:51,701 [repositories/kiln] no base URI specified, using dummy 'foo:bar'
+[WARN ] 2019-05-10 00:50:51,702 [repositories/kiln] Class org.apache.xerces.parsers.SAXParser not found
+[INFO ] 2019-05-10 00:50:51,706 [repositories/kiln] POST transaction to repository
+[WARN ] 2019-05-10 00:50:51,706 [repositories/kiln] Class org.apache.xerces.parsers.SAXParser not found
+[INFO ] 2019-05-10 00:50:51,709 [repositories/kiln] POST data to repository
+[INFO ] 2019-05-10 00:50:51,709 [repositories/kiln] no base URI specified, using dummy 'foo:bar'
+[WARN ] 2019-05-10 00:50:51,709 [repositories/kiln] Class org.apache.xerces.parsers.SAXParser not found
+[INFO ] 2019-05-10 00:50:51,713 [repositories/kiln] POST transaction to repository
+[WARN ] 2019-05-10 00:50:51,714 [repositories/kiln] Class org.apache.xerces.parsers.SAXParser not found
+[INFO ] 2019-05-10 00:50:51,717 [repositories/kiln] POST data to repository
+[INFO ] 2019-05-10 00:50:51,717 [repositories/kiln] no base URI specified, using dummy 'foo:bar'
+[WARN ] 2019-05-10 00:50:51,718 [repositories/kiln] Class org.apache.xerces.parsers.SAXParser not found
+[INFO ] 2019-05-10 00:50:51,723 [repositories/kiln] POST transaction to repository
+[WARN ] 2019-05-10 00:50:51,723 [repositories/kiln] Class org.apache.xerces.parsers.SAXParser not found
+[INFO ] 2019-05-10 00:50:51,726 [repositories/kiln] POST data to repository
+[INFO ] 2019-05-10 00:50:51,726 [repositories/kiln] no base URI specified, using dummy 'foo:bar'
+[WARN ] 2019-05-10 00:50:51,726 [repositories/kiln] Class org.apache.xerces.parsers.SAXParser not found
+[INFO ] 2019-05-10 00:50:51,730 [repositories/kiln] POST transaction to repository
+[WARN ] 2019-05-10 00:50:51,730 [repositories/kiln] Class org.apache.xerces.parsers.SAXParser not found
+[INFO ] 2019-05-10 00:50:51,733 [repositories/kiln] POST data to repository
+[INFO ] 2019-05-10 00:50:51,733 [repositories/kiln] no base URI specified, using dummy 'foo:bar'
+[WARN ] 2019-05-10 00:50:51,733 [repositories/kiln] Class org.apache.xerces.parsers.SAXParser not found
+[INFO ] 2019-05-10 00:50:51,738 [repositories/kiln] POST transaction to repository
+[WARN ] 2019-05-10 00:50:51,738 [repositories/kiln] Class org.apache.xerces.parsers.SAXParser not found
+[INFO ] 2019-05-10 00:50:51,741 [repositories/kiln] POST data to repository
+[INFO ] 2019-05-10 00:50:51,741 [repositories/kiln] no base URI specified, using dummy 'foo:bar'
+[WARN ] 2019-05-10 00:50:51,742 [repositories/kiln] Class org.apache.xerces.parsers.SAXParser not found
+[INFO ] 2019-05-10 00:50:51,746 [repositories/kiln] POST transaction to repository
+[WARN ] 2019-05-10 00:50:51,746 [repositories/kiln] Class org.apache.xerces.parsers.SAXParser not found
+[INFO ] 2019-05-10 00:50:51,749 [repositories/kiln] POST data to repository
+[INFO ] 2019-05-10 00:50:51,749 [repositories/kiln] no base URI specified, using dummy 'foo:bar'
+[WARN ] 2019-05-10 00:50:51,750 [repositories/kiln] Class org.apache.xerces.parsers.SAXParser not found
+[INFO ] 2019-05-10 00:50:51,755 [repositories/kiln] POST transaction to repository
+[WARN ] 2019-05-10 00:50:51,755 [repositories/kiln] Class org.apache.xerces.parsers.SAXParser not found
+[INFO ] 2019-05-10 00:50:51,758 [repositories/kiln] POST data to repository
+[INFO ] 2019-05-10 00:50:51,758 [repositories/kiln] no base URI specified, using dummy 'foo:bar'
+[WARN ] 2019-05-10 00:50:51,758 [repositories/kiln] Class org.apache.xerces.parsers.SAXParser not found
+[INFO ] 2019-05-10 00:50:51,763 [repositories/kiln] POST transaction to repository
+[WARN ] 2019-05-10 00:50:51,763 [repositories/kiln] Class org.apache.xerces.parsers.SAXParser not found
+[INFO ] 2019-05-10 00:50:51,766 [repositories/kiln] POST data to repository
+[INFO ] 2019-05-10 00:50:51,766 [repositories/kiln] no base URI specified, using dummy 'foo:bar'
+[WARN ] 2019-05-10 00:50:51,767 [repositories/kiln] Class org.apache.xerces.parsers.SAXParser not found
+[INFO ] 2019-05-10 00:50:51,771 [repositories/kiln] POST transaction to repository
+[WARN ] 2019-05-10 00:50:51,771 [repositories/kiln] Class org.apache.xerces.parsers.SAXParser not found
+[INFO ] 2019-05-10 00:50:51,774 [repositories/kiln] POST data to repository
+[INFO ] 2019-05-10 00:50:51,774 [repositories/kiln] no base URI specified, using dummy 'foo:bar'
+[WARN ] 2019-05-10 00:50:51,775 [repositories/kiln] Class org.apache.xerces.parsers.SAXParser not found
+[INFO ] 2019-05-10 00:50:51,779 [repositories/kiln] POST transaction to repository
+[WARN ] 2019-05-10 00:50:51,779 [repositories/kiln] Class org.apache.xerces.parsers.SAXParser not found
+[INFO ] 2019-05-10 00:50:51,782 [repositories/kiln] POST data to repository
+[INFO ] 2019-05-10 00:50:51,783 [repositories/kiln] no base URI specified, using dummy 'foo:bar'
+[WARN ] 2019-05-10 00:50:51,783 [repositories/kiln] Class org.apache.xerces.parsers.SAXParser not found
+[INFO ] 2019-05-10 00:50:51,788 [repositories/kiln] POST transaction to repository
+[WARN ] 2019-05-10 00:50:51,788 [repositories/kiln] Class org.apache.xerces.parsers.SAXParser not found
+[INFO ] 2019-05-10 00:50:51,791 [repositories/kiln] POST data to repository
+[INFO ] 2019-05-10 00:50:51,791 [repositories/kiln] no base URI specified, using dummy 'foo:bar'
+[WARN ] 2019-05-10 00:50:51,792 [repositories/kiln] Class org.apache.xerces.parsers.SAXParser not found
+[INFO ] 2019-05-10 00:50:51,798 [repositories/kiln] POST transaction to repository
+[WARN ] 2019-05-10 00:50:51,798 [repositories/kiln] Class org.apache.xerces.parsers.SAXParser not found
+[INFO ] 2019-05-10 00:50:51,801 [repositories/kiln] POST data to repository
+[INFO ] 2019-05-10 00:50:51,801 [repositories/kiln] no base URI specified, using dummy 'foo:bar'
+[WARN ] 2019-05-10 00:50:51,802 [repositories/kiln] Class org.apache.xerces.parsers.SAXParser not found
+[INFO ] 2019-05-10 00:50:51,807 [repositories/kiln] POST transaction to repository
+[WARN ] 2019-05-10 00:50:51,807 [repositories/kiln] Class org.apache.xerces.parsers.SAXParser not found
+[INFO ] 2019-05-10 00:50:51,810 [repositories/kiln] POST data to repository
+[INFO ] 2019-05-10 00:50:51,810 [repositories/kiln] no base URI specified, using dummy 'foo:bar'
+[WARN ] 2019-05-10 00:50:51,810 [repositories/kiln] Class org.apache.xerces.parsers.SAXParser not found
+[INFO ] 2019-05-10 00:50:51,815 [repositories/kiln] POST transaction to repository
+[WARN ] 2019-05-10 00:50:51,815 [repositories/kiln] Class org.apache.xerces.parsers.SAXParser not found
+[INFO ] 2019-05-10 00:50:51,819 [repositories/kiln] POST data to repository
+[INFO ] 2019-05-10 00:50:51,819 [repositories/kiln] no base URI specified, using dummy 'foo:bar'
+[WARN ] 2019-05-10 00:50:51,819 [repositories/kiln] Class org.apache.xerces.parsers.SAXParser not found
+[INFO ] 2019-05-10 00:50:51,824 [repositories/kiln] POST transaction to repository
+[WARN ] 2019-05-10 00:50:51,825 [repositories/kiln] Class org.apache.xerces.parsers.SAXParser not found
+[INFO ] 2019-05-10 00:50:51,829 [repositories/kiln] POST data to repository
+[INFO ] 2019-05-10 00:50:51,829 [repositories/kiln] no base URI specified, using dummy 'foo:bar'
+[WARN ] 2019-05-10 00:50:51,829 [repositories/kiln] Class org.apache.xerces.parsers.SAXParser not found
+[INFO ] 2019-05-10 00:50:51,834 [repositories/kiln] POST transaction to repository
+[WARN ] 2019-05-10 00:50:51,834 [repositories/kiln] Class org.apache.xerces.parsers.SAXParser not found
+[INFO ] 2019-05-10 00:50:51,838 [repositories/kiln] POST data to repository
+[INFO ] 2019-05-10 00:50:51,838 [repositories/kiln] no base URI specified, using dummy 'foo:bar'
+[WARN ] 2019-05-10 00:50:51,838 [repositories/kiln] Class org.apache.xerces.parsers.SAXParser not found
+[INFO ] 2019-05-10 00:50:51,842 [repositories/kiln] POST transaction to repository
+[WARN ] 2019-05-10 00:50:51,842 [repositories/kiln] Class org.apache.xerces.parsers.SAXParser not found
+[INFO ] 2019-05-10 00:50:51,846 [repositories/kiln] POST data to repository
+[INFO ] 2019-05-10 00:50:51,846 [repositories/kiln] no base URI specified, using dummy 'foo:bar'
+[WARN ] 2019-05-10 00:50:51,846 [repositories/kiln] Class org.apache.xerces.parsers.SAXParser not found
+[INFO ] 2019-05-10 00:50:51,850 [repositories/kiln] POST transaction to repository
+[WARN ] 2019-05-10 00:50:51,850 [repositories/kiln] Class org.apache.xerces.parsers.SAXParser not found
+[INFO ] 2019-05-10 00:50:51,853 [repositories/kiln] POST data to repository
+[INFO ] 2019-05-10 00:50:51,853 [repositories/kiln] no base URI specified, using dummy 'foo:bar'
+[WARN ] 2019-05-10 00:50:51,853 [repositories/kiln] Class org.apache.xerces.parsers.SAXParser not found
+[INFO ] 2019-05-10 00:50:51,857 [repositories/kiln] POST transaction to repository
+[WARN ] 2019-05-10 00:50:51,857 [repositories/kiln] Class org.apache.xerces.parsers.SAXParser not found
+[INFO ] 2019-05-10 00:50:51,860 [repositories/kiln] POST data to repository
+[INFO ] 2019-05-10 00:50:51,860 [repositories/kiln] no base URI specified, using dummy 'foo:bar'
+[WARN ] 2019-05-10 00:50:51,860 [repositories/kiln] Class org.apache.xerces.parsers.SAXParser not found
+[INFO ] 2019-05-10 00:50:51,865 [repositories/kiln] POST transaction to repository
+[WARN ] 2019-05-10 00:50:51,866 [repositories/kiln] Class org.apache.xerces.parsers.SAXParser not found
+[INFO ] 2019-05-10 00:50:51,869 [repositories/kiln] POST data to repository
+[INFO ] 2019-05-10 00:50:51,869 [repositories/kiln] no base URI specified, using dummy 'foo:bar'
+[WARN ] 2019-05-10 00:50:51,869 [repositories/kiln] Class org.apache.xerces.parsers.SAXParser not found
+[INFO ] 2019-05-10 00:50:51,874 [repositories/kiln] POST transaction to repository
+[WARN ] 2019-05-10 00:50:51,875 [repositories/kiln] Class org.apache.xerces.parsers.SAXParser not found
+[INFO ] 2019-05-10 00:50:51,877 [repositories/kiln] POST data to repository
+[INFO ] 2019-05-10 00:50:51,878 [repositories/kiln] no base URI specified, using dummy 'foo:bar'
+[WARN ] 2019-05-10 00:50:51,878 [repositories/kiln] Class org.apache.xerces.parsers.SAXParser not found
+[INFO ] 2019-05-10 00:50:51,882 [repositories/kiln] POST transaction to repository
+[WARN ] 2019-05-10 00:50:51,882 [repositories/kiln] Class org.apache.xerces.parsers.SAXParser not found
+[INFO ] 2019-05-10 00:50:51,886 [repositories/kiln] POST data to repository
+[INFO ] 2019-05-10 00:50:51,886 [repositories/kiln] no base URI specified, using dummy 'foo:bar'
+[WARN ] 2019-05-10 00:50:51,886 [repositories/kiln] Class org.apache.xerces.parsers.SAXParser not found
+[INFO ] 2019-05-10 00:50:51,892 [repositories/kiln] POST transaction to repository
+[WARN ] 2019-05-10 00:50:51,892 [repositories/kiln] Class org.apache.xerces.parsers.SAXParser not found
+[INFO ] 2019-05-10 00:50:51,895 [repositories/kiln] POST data to repository
+[INFO ] 2019-05-10 00:50:51,895 [repositories/kiln] no base URI specified, using dummy 'foo:bar'
+[WARN ] 2019-05-10 00:50:51,896 [repositories/kiln] Class org.apache.xerces.parsers.SAXParser not found
+[INFO ] 2019-05-10 00:50:51,900 [repositories/kiln] POST transaction to repository
+[WARN ] 2019-05-10 00:50:51,901 [repositories/kiln] Class org.apache.xerces.parsers.SAXParser not found
+[INFO ] 2019-05-10 00:50:51,909 [repositories/kiln] POST data to repository
+[INFO ] 2019-05-10 00:50:51,909 [repositories/kiln] no base URI specified, using dummy 'foo:bar'
+[WARN ] 2019-05-10 00:50:51,910 [repositories/kiln] Class org.apache.xerces.parsers.SAXParser not found
+[INFO ] 2019-05-10 00:50:51,916 [repositories/kiln] POST transaction to repository
+[WARN ] 2019-05-10 00:50:51,916 [repositories/kiln] Class org.apache.xerces.parsers.SAXParser not found
+[INFO ] 2019-05-10 00:50:51,920 [repositories/kiln] POST data to repository
+[INFO ] 2019-05-10 00:50:51,920 [repositories/kiln] no base URI specified, using dummy 'foo:bar'
+[WARN ] 2019-05-10 00:50:51,920 [repositories/kiln] Class org.apache.xerces.parsers.SAXParser not found
+[INFO ] 2019-05-10 00:50:51,925 [repositories/kiln] POST transaction to repository
+[WARN ] 2019-05-10 00:50:51,926 [repositories/kiln] Class org.apache.xerces.parsers.SAXParser not found
+[INFO ] 2019-05-10 00:50:51,929 [repositories/kiln] POST data to repository
+[INFO ] 2019-05-10 00:50:51,929 [repositories/kiln] no base URI specified, using dummy 'foo:bar'
+[WARN ] 2019-05-10 00:50:51,929 [repositories/kiln] Class org.apache.xerces.parsers.SAXParser not found
+[INFO ] 2019-05-10 00:50:51,932 [repositories/kiln] POST transaction to repository
+[WARN ] 2019-05-10 00:50:51,933 [repositories/kiln] Class org.apache.xerces.parsers.SAXParser not found
+[INFO ] 2019-05-10 00:50:51,936 [repositories/kiln] POST data to repository
+[INFO ] 2019-05-10 00:50:51,936 [repositories/kiln] no base URI specified, using dummy 'foo:bar'
+[WARN ] 2019-05-10 00:50:51,936 [repositories/kiln] Class org.apache.xerces.parsers.SAXParser not found
+[INFO ] 2019-05-10 00:50:51,941 [repositories/kiln] POST transaction to repository
+[WARN ] 2019-05-10 00:50:51,941 [repositories/kiln] Class org.apache.xerces.parsers.SAXParser not found
+[INFO ] 2019-05-10 00:50:51,944 [repositories/kiln] POST data to repository
+[INFO ] 2019-05-10 00:50:51,944 [repositories/kiln] no base URI specified, using dummy 'foo:bar'
+[WARN ] 2019-05-10 00:50:51,945 [repositories/kiln] Class org.apache.xerces.parsers.SAXParser not found
+[INFO ] 2019-05-10 00:50:51,950 [repositories/kiln] POST transaction to repository
+[WARN ] 2019-05-10 00:50:51,951 [repositories/kiln] Class org.apache.xerces.parsers.SAXParser not found
+[INFO ] 2019-05-10 00:50:51,954 [repositories/kiln] POST data to repository
+[INFO ] 2019-05-10 00:50:51,954 [repositories/kiln] no base URI specified, using dummy 'foo:bar'
+[WARN ] 2019-05-10 00:50:51,954 [repositories/kiln] Class org.apache.xerces.parsers.SAXParser not found
+[INFO ] 2019-05-10 00:50:51,959 [repositories/kiln] POST transaction to repository
+[WARN ] 2019-05-10 00:50:51,959 [repositories/kiln] Class org.apache.xerces.parsers.SAXParser not found
+[INFO ] 2019-05-10 00:50:51,962 [repositories/kiln] POST data to repository
+[INFO ] 2019-05-10 00:50:51,963 [repositories/kiln] no base URI specified, using dummy 'foo:bar'
+[WARN ] 2019-05-10 00:50:51,963 [repositories/kiln] Class org.apache.xerces.parsers.SAXParser not found
+[INFO ] 2019-05-10 00:50:51,969 [repositories/kiln] POST transaction to repository
+[WARN ] 2019-05-10 00:50:51,969 [repositories/kiln] Class org.apache.xerces.parsers.SAXParser not found
+[INFO ] 2019-05-10 00:50:51,972 [repositories/kiln] POST data to repository
+[INFO ] 2019-05-10 00:50:51,972 [repositories/kiln] no base URI specified, using dummy 'foo:bar'
+[WARN ] 2019-05-10 00:50:51,973 [repositories/kiln] Class org.apache.xerces.parsers.SAXParser not found
+[INFO ] 2019-05-10 00:50:51,993 [repositories/kiln] POST transaction to repository
+[WARN ] 2019-05-10 00:50:51,993 [repositories/kiln] Class org.apache.xerces.parsers.SAXParser not found
+[INFO ] 2019-05-10 00:50:51,997 [repositories/kiln] POST data to repository
+[INFO ] 2019-05-10 00:50:51,997 [repositories/kiln] no base URI specified, using dummy 'foo:bar'
+[WARN ] 2019-05-10 00:50:51,998 [repositories/kiln] Class org.apache.xerces.parsers.SAXParser not found
+[INFO ] 2019-05-10 00:50:52,003 [repositories/kiln] POST transaction to repository
+[WARN ] 2019-05-10 00:50:52,004 [repositories/kiln] Class org.apache.xerces.parsers.SAXParser not found
+[INFO ] 2019-05-10 00:50:52,007 [repositories/kiln] POST data to repository
+[INFO ] 2019-05-10 00:50:52,007 [repositories/kiln] no base URI specified, using dummy 'foo:bar'
+[WARN ] 2019-05-10 00:50:52,007 [repositories/kiln] Class org.apache.xerces.parsers.SAXParser not found
+[INFO ] 2019-05-10 00:50:52,012 [repositories/kiln] POST transaction to repository
+[WARN ] 2019-05-10 00:50:52,013 [repositories/kiln] Class org.apache.xerces.parsers.SAXParser not found
+[INFO ] 2019-05-10 00:50:52,016 [repositories/kiln] POST data to repository
+[INFO ] 2019-05-10 00:50:52,016 [repositories/kiln] no base URI specified, using dummy 'foo:bar'
+[WARN ] 2019-05-10 00:50:52,016 [repositories/kiln] Class org.apache.xerces.parsers.SAXParser not found
+[INFO ] 2019-05-10 00:50:52,021 [repositories/kiln] POST transaction to repository
+[WARN ] 2019-05-10 00:50:52,022 [repositories/kiln] Class org.apache.xerces.parsers.SAXParser not found
+[INFO ] 2019-05-10 00:58:32,072 [repositories/kiln] POST transaction to repository
+[WARN ] 2019-05-10 00:58:32,073 [repositories/kiln] Class org.apache.xerces.parsers.SAXParser not found
+[INFO ] 2019-05-10 00:58:32,123 [repositories/kiln] POST data to repository
+[INFO ] 2019-05-10 00:58:32,123 [repositories/kiln] no base URI specified, using dummy 'foo:bar'
+[WARN ] 2019-05-10 00:58:32,123 [repositories/kiln] Class org.apache.xerces.parsers.SAXParser not found
+[INFO ] 2019-05-10 00:58:32,154 [repositories/kiln] POST transaction to repository
+[WARN ] 2019-05-10 00:58:32,154 [repositories/kiln] Class org.apache.xerces.parsers.SAXParser not found
+[INFO ] 2019-05-10 00:58:32,201 [repositories/kiln] POST data to repository
+[INFO ] 2019-05-10 00:58:32,201 [repositories/kiln] no base URI specified, using dummy 'foo:bar'
+[WARN ] 2019-05-10 00:58:32,202 [repositories/kiln] Class org.apache.xerces.parsers.SAXParser not found
+[INFO ] 2019-05-10 00:58:32,227 [repositories/kiln] POST transaction to repository
+[WARN ] 2019-05-10 00:58:32,227 [repositories/kiln] Class org.apache.xerces.parsers.SAXParser not found
+[INFO ] 2019-05-10 00:58:32,256 [repositories/kiln] POST data to repository
+[INFO ] 2019-05-10 00:58:32,256 [repositories/kiln] no base URI specified, using dummy 'foo:bar'
+[WARN ] 2019-05-10 00:58:32,256 [repositories/kiln] Class org.apache.xerces.parsers.SAXParser not found
+[INFO ] 2019-05-10 00:58:32,276 [repositories/kiln] POST transaction to repository
+[WARN ] 2019-05-10 00:58:32,276 [repositories/kiln] Class org.apache.xerces.parsers.SAXParser not found
+[INFO ] 2019-05-10 00:58:32,310 [repositories/kiln] POST data to repository
+[INFO ] 2019-05-10 00:58:32,310 [repositories/kiln] no base URI specified, using dummy 'foo:bar'
+[WARN ] 2019-05-10 00:58:32,310 [repositories/kiln] Class org.apache.xerces.parsers.SAXParser not found
+[INFO ] 2019-05-10 00:58:32,333 [repositories/kiln] POST transaction to repository
+[WARN ] 2019-05-10 00:58:32,334 [repositories/kiln] Class org.apache.xerces.parsers.SAXParser not found
+[INFO ] 2019-05-10 00:58:32,396 [repositories/kiln] POST data to repository
+[INFO ] 2019-05-10 00:58:32,396 [repositories/kiln] no base URI specified, using dummy 'foo:bar'
+[WARN ] 2019-05-10 00:58:32,396 [repositories/kiln] Class org.apache.xerces.parsers.SAXParser not found
+[INFO ] 2019-05-10 00:58:32,420 [repositories/kiln] POST transaction to repository
+[WARN ] 2019-05-10 00:58:32,420 [repositories/kiln] Class org.apache.xerces.parsers.SAXParser not found
+[INFO ] 2019-05-10 00:58:32,447 [repositories/kiln] POST data to repository
+[INFO ] 2019-05-10 00:58:32,447 [repositories/kiln] no base URI specified, using dummy 'foo:bar'
+[WARN ] 2019-05-10 00:58:32,447 [repositories/kiln] Class org.apache.xerces.parsers.SAXParser not found
+[INFO ] 2019-05-10 00:58:32,471 [repositories/kiln] POST transaction to repository
+[WARN ] 2019-05-10 00:58:32,472 [repositories/kiln] Class org.apache.xerces.parsers.SAXParser not found
+[INFO ] 2019-05-10 00:58:32,533 [repositories/kiln] POST data to repository
+[INFO ] 2019-05-10 00:58:32,533 [repositories/kiln] no base URI specified, using dummy 'foo:bar'
+[WARN ] 2019-05-10 00:58:32,534 [repositories/kiln] Class org.apache.xerces.parsers.SAXParser not found
+[INFO ] 2019-05-10 00:58:32,582 [repositories/kiln] POST transaction to repository
+[WARN ] 2019-05-10 00:58:32,582 [repositories/kiln] Class org.apache.xerces.parsers.SAXParser not found
+[INFO ] 2019-05-10 00:58:32,585 [repositories/kiln] POST data to repository
+[INFO ] 2019-05-10 00:58:32,586 [repositories/kiln] no base URI specified, using dummy 'foo:bar'
+[WARN ] 2019-05-10 00:58:32,586 [repositories/kiln] Class org.apache.xerces.parsers.SAXParser not found
+[INFO ] 2019-05-10 00:58:32,591 [repositories/kiln] POST transaction to repository
+[WARN ] 2019-05-10 00:58:32,592 [repositories/kiln] Class org.apache.xerces.parsers.SAXParser not found
+[INFO ] 2019-05-10 00:58:32,596 [repositories/kiln] POST data to repository
+[INFO ] 2019-05-10 00:58:32,596 [repositories/kiln] no base URI specified, using dummy 'foo:bar'
+[WARN ] 2019-05-10 00:58:32,597 [repositories/kiln] Class org.apache.xerces.parsers.SAXParser not found
+[INFO ] 2019-05-10 00:58:32,600 [repositories/kiln] POST transaction to repository
+[WARN ] 2019-05-10 00:58:32,600 [repositories/kiln] Class org.apache.xerces.parsers.SAXParser not found
+[INFO ] 2019-05-10 00:58:32,603 [repositories/kiln] POST data to repository
+[INFO ] 2019-05-10 00:58:32,603 [repositories/kiln] no base URI specified, using dummy 'foo:bar'
+[WARN ] 2019-05-10 00:58:32,603 [repositories/kiln] Class org.apache.xerces.parsers.SAXParser not found
+[INFO ] 2019-05-10 00:58:32,608 [repositories/kiln] POST transaction to repository
+[WARN ] 2019-05-10 00:58:32,617 [repositories/kiln] Class org.apache.xerces.parsers.SAXParser not found
+[INFO ] 2019-05-10 00:58:32,624 [repositories/kiln] POST data to repository
+[INFO ] 2019-05-10 00:58:32,624 [repositories/kiln] no base URI specified, using dummy 'foo:bar'
+[WARN ] 2019-05-10 00:58:32,625 [repositories/kiln] Class org.apache.xerces.parsers.SAXParser not found
+[INFO ] 2019-05-10 00:58:32,632 [repositories/kiln] POST transaction to repository
+[WARN ] 2019-05-10 00:58:32,632 [repositories/kiln] Class org.apache.xerces.parsers.SAXParser not found
+[INFO ] 2019-05-10 00:58:32,646 [repositories/kiln] POST data to repository
+[INFO ] 2019-05-10 00:58:32,646 [repositories/kiln] no base URI specified, using dummy 'foo:bar'
+[WARN ] 2019-05-10 00:58:32,646 [repositories/kiln] Class org.apache.xerces.parsers.SAXParser not found
+[INFO ] 2019-05-10 00:58:32,652 [repositories/kiln] POST transaction to repository
+[WARN ] 2019-05-10 00:58:32,653 [repositories/kiln] Class org.apache.xerces.parsers.SAXParser not found
+[INFO ] 2019-05-10 00:58:32,656 [repositories/kiln] POST data to repository
+[INFO ] 2019-05-10 00:58:32,656 [repositories/kiln] no base URI specified, using dummy 'foo:bar'
+[WARN ] 2019-05-10 00:58:32,656 [repositories/kiln] Class org.apache.xerces.parsers.SAXParser not found
+[INFO ] 2019-05-10 00:58:32,662 [repositories/kiln] POST transaction to repository
+[WARN ] 2019-05-10 00:58:32,662 [repositories/kiln] Class org.apache.xerces.parsers.SAXParser not found
+[INFO ] 2019-05-10 00:58:32,665 [repositories/kiln] POST data to repository
+[INFO ] 2019-05-10 00:58:32,665 [repositories/kiln] no base URI specified, using dummy 'foo:bar'
+[WARN ] 2019-05-10 00:58:32,666 [repositories/kiln] Class org.apache.xerces.parsers.SAXParser not found
+[INFO ] 2019-05-10 00:58:32,672 [repositories/kiln] POST transaction to repository
+[WARN ] 2019-05-10 00:58:32,672 [repositories/kiln] Class org.apache.xerces.parsers.SAXParser not found
+[INFO ] 2019-05-10 00:58:32,677 [repositories/kiln] POST data to repository
+[INFO ] 2019-05-10 00:58:32,677 [repositories/kiln] no base URI specified, using dummy 'foo:bar'
+[WARN ] 2019-05-10 00:58:32,678 [repositories/kiln] Class org.apache.xerces.parsers.SAXParser not found
+[INFO ] 2019-05-10 00:58:32,683 [repositories/kiln] POST transaction to repository
+[WARN ] 2019-05-10 00:58:32,683 [repositories/kiln] Class org.apache.xerces.parsers.SAXParser not found
+[INFO ] 2019-05-10 00:58:32,686 [repositories/kiln] POST data to repository
+[INFO ] 2019-05-10 00:58:32,686 [repositories/kiln] no base URI specified, using dummy 'foo:bar'
+[WARN ] 2019-05-10 00:58:32,687 [repositories/kiln] Class org.apache.xerces.parsers.SAXParser not found
+[INFO ] 2019-05-10 00:58:32,692 [repositories/kiln] POST transaction to repository
+[WARN ] 2019-05-10 00:58:32,693 [repositories/kiln] Class org.apache.xerces.parsers.SAXParser not found
+[INFO ] 2019-05-10 00:58:32,696 [repositories/kiln] POST data to repository
+[INFO ] 2019-05-10 00:58:32,696 [repositories/kiln] no base URI specified, using dummy 'foo:bar'
+[WARN ] 2019-05-10 00:58:32,696 [repositories/kiln] Class org.apache.xerces.parsers.SAXParser not found
+[INFO ] 2019-05-10 00:58:32,701 [repositories/kiln] POST transaction to repository
+[WARN ] 2019-05-10 00:58:32,702 [repositories/kiln] Class org.apache.xerces.parsers.SAXParser not found
+[INFO ] 2019-05-10 00:58:32,704 [repositories/kiln] POST data to repository
+[INFO ] 2019-05-10 00:58:32,704 [repositories/kiln] no base URI specified, using dummy 'foo:bar'
+[WARN ] 2019-05-10 00:58:32,705 [repositories/kiln] Class org.apache.xerces.parsers.SAXParser not found
+[INFO ] 2019-05-10 00:58:32,710 [repositories/kiln] POST transaction to repository
+[WARN ] 2019-05-10 00:58:32,710 [repositories/kiln] Class org.apache.xerces.parsers.SAXParser not found
+[INFO ] 2019-05-10 00:58:32,713 [repositories/kiln] POST data to repository
+[INFO ] 2019-05-10 00:58:32,713 [repositories/kiln] no base URI specified, using dummy 'foo:bar'
+[WARN ] 2019-05-10 00:58:32,713 [repositories/kiln] Class org.apache.xerces.parsers.SAXParser not found
+[INFO ] 2019-05-10 00:58:32,718 [repositories/kiln] POST transaction to repository
+[WARN ] 2019-05-10 00:58:32,718 [repositories/kiln] Class org.apache.xerces.parsers.SAXParser not found
+[INFO ] 2019-05-10 00:58:32,721 [repositories/kiln] POST data to repository
+[INFO ] 2019-05-10 00:58:32,721 [repositories/kiln] no base URI specified, using dummy 'foo:bar'
+[WARN ] 2019-05-10 00:58:32,722 [repositories/kiln] Class org.apache.xerces.parsers.SAXParser not found
+[INFO ] 2019-05-10 00:58:32,727 [repositories/kiln] POST transaction to repository
+[WARN ] 2019-05-10 00:58:32,728 [repositories/kiln] Class org.apache.xerces.parsers.SAXParser not found
+[INFO ] 2019-05-10 00:58:32,731 [repositories/kiln] POST data to repository
+[INFO ] 2019-05-10 00:58:32,731 [repositories/kiln] no base URI specified, using dummy 'foo:bar'
+[WARN ] 2019-05-10 00:58:32,731 [repositories/kiln] Class org.apache.xerces.parsers.SAXParser not found
+[INFO ] 2019-05-10 00:58:32,736 [repositories/kiln] POST transaction to repository
+[WARN ] 2019-05-10 00:58:32,736 [repositories/kiln] Class org.apache.xerces.parsers.SAXParser not found
+[INFO ] 2019-05-10 00:58:32,743 [repositories/kiln] POST data to repository
+[INFO ] 2019-05-10 00:58:32,743 [repositories/kiln] no base URI specified, using dummy 'foo:bar'
+[WARN ] 2019-05-10 00:58:32,744 [repositories/kiln] Class org.apache.xerces.parsers.SAXParser not found
+[INFO ] 2019-05-10 00:58:32,748 [repositories/kiln] POST transaction to repository
+[WARN ] 2019-05-10 00:58:32,749 [repositories/kiln] Class org.apache.xerces.parsers.SAXParser not found
+[INFO ] 2019-05-10 00:58:32,751 [repositories/kiln] POST data to repository
+[INFO ] 2019-05-10 00:58:32,752 [repositories/kiln] no base URI specified, using dummy 'foo:bar'
+[WARN ] 2019-05-10 00:58:32,752 [repositories/kiln] Class org.apache.xerces.parsers.SAXParser not found
+[INFO ] 2019-05-10 00:58:32,756 [repositories/kiln] POST transaction to repository
+[WARN ] 2019-05-10 00:58:32,757 [repositories/kiln] Class org.apache.xerces.parsers.SAXParser not found
+[INFO ] 2019-05-10 00:58:32,760 [repositories/kiln] POST data to repository
+[INFO ] 2019-05-10 00:58:32,760 [repositories/kiln] no base URI specified, using dummy 'foo:bar'
+[WARN ] 2019-05-10 00:58:32,760 [repositories/kiln] Class org.apache.xerces.parsers.SAXParser not found
+[INFO ] 2019-05-10 00:58:32,764 [repositories/kiln] POST transaction to repository
+[WARN ] 2019-05-10 00:58:32,765 [repositories/kiln] Class org.apache.xerces.parsers.SAXParser not found
+[INFO ] 2019-05-10 00:58:32,768 [repositories/kiln] POST data to repository
+[INFO ] 2019-05-10 00:58:32,768 [repositories/kiln] no base URI specified, using dummy 'foo:bar'
+[WARN ] 2019-05-10 00:58:32,768 [repositories/kiln] Class org.apache.xerces.parsers.SAXParser not found
+[INFO ] 2019-05-10 00:58:32,772 [repositories/kiln] POST transaction to repository
+[WARN ] 2019-05-10 00:58:32,772 [repositories/kiln] Class org.apache.xerces.parsers.SAXParser not found
+[INFO ] 2019-05-10 00:58:32,775 [repositories/kiln] POST data to repository
+[INFO ] 2019-05-10 00:58:32,775 [repositories/kiln] no base URI specified, using dummy 'foo:bar'
+[WARN ] 2019-05-10 00:58:32,775 [repositories/kiln] Class org.apache.xerces.parsers.SAXParser not found
+[INFO ] 2019-05-10 00:58:32,780 [repositories/kiln] POST transaction to repository
+[WARN ] 2019-05-10 00:58:32,780 [repositories/kiln] Class org.apache.xerces.parsers.SAXParser not found
+[INFO ] 2019-05-10 00:58:32,783 [repositories/kiln] POST data to repository
+[INFO ] 2019-05-10 00:58:32,783 [repositories/kiln] no base URI specified, using dummy 'foo:bar'
+[WARN ] 2019-05-10 00:58:32,783 [repositories/kiln] Class org.apache.xerces.parsers.SAXParser not found
+[INFO ] 2019-05-10 00:58:32,786 [repositories/kiln] POST transaction to repository
+[WARN ] 2019-05-10 00:58:32,787 [repositories/kiln] Class org.apache.xerces.parsers.SAXParser not found
+[INFO ] 2019-05-10 00:58:32,789 [repositories/kiln] POST data to repository
+[INFO ] 2019-05-10 00:58:32,789 [repositories/kiln] no base URI specified, using dummy 'foo:bar'
+[WARN ] 2019-05-10 00:58:32,790 [repositories/kiln] Class org.apache.xerces.parsers.SAXParser not found
+[INFO ] 2019-05-10 00:58:32,794 [repositories/kiln] POST transaction to repository
+[WARN ] 2019-05-10 00:58:32,795 [repositories/kiln] Class org.apache.xerces.parsers.SAXParser not found
+[INFO ] 2019-05-10 00:58:32,797 [repositories/kiln] POST data to repository
+[INFO ] 2019-05-10 00:58:32,797 [repositories/kiln] no base URI specified, using dummy 'foo:bar'
+[WARN ] 2019-05-10 00:58:32,797 [repositories/kiln] Class org.apache.xerces.parsers.SAXParser not found
+[INFO ] 2019-05-10 00:58:32,802 [repositories/kiln] POST transaction to repository
+[WARN ] 2019-05-10 00:58:32,802 [repositories/kiln] Class org.apache.xerces.parsers.SAXParser not found
+[INFO ] 2019-05-10 00:58:32,804 [repositories/kiln] POST data to repository
+[INFO ] 2019-05-10 00:58:32,804 [repositories/kiln] no base URI specified, using dummy 'foo:bar'
+[WARN ] 2019-05-10 00:58:32,805 [repositories/kiln] Class org.apache.xerces.parsers.SAXParser not found
+[INFO ] 2019-05-10 00:58:32,808 [repositories/kiln] POST transaction to repository
+[WARN ] 2019-05-10 00:58:32,808 [repositories/kiln] Class org.apache.xerces.parsers.SAXParser not found
+[INFO ] 2019-05-10 00:58:32,811 [repositories/kiln] POST data to repository
+[INFO ] 2019-05-10 00:58:32,811 [repositories/kiln] no base URI specified, using dummy 'foo:bar'
+[WARN ] 2019-05-10 00:58:32,811 [repositories/kiln] Class org.apache.xerces.parsers.SAXParser not found
+[INFO ] 2019-05-10 00:58:32,815 [repositories/kiln] POST transaction to repository
+[WARN ] 2019-05-10 00:58:32,816 [repositories/kiln] Class org.apache.xerces.parsers.SAXParser not found
+[INFO ] 2019-05-10 00:58:32,819 [repositories/kiln] POST data to repository
+[INFO ] 2019-05-10 00:58:32,819 [repositories/kiln] no base URI specified, using dummy 'foo:bar'
+[WARN ] 2019-05-10 00:58:32,819 [repositories/kiln] Class org.apache.xerces.parsers.SAXParser not found
+[INFO ] 2019-05-10 00:58:32,823 [repositories/kiln] POST transaction to repository
+[WARN ] 2019-05-10 00:58:32,823 [repositories/kiln] Class org.apache.xerces.parsers.SAXParser not found
+[INFO ] 2019-05-10 00:58:32,826 [repositories/kiln] POST data to repository
+[INFO ] 2019-05-10 00:58:32,826 [repositories/kiln] no base URI specified, using dummy 'foo:bar'
+[WARN ] 2019-05-10 00:58:32,826 [repositories/kiln] Class org.apache.xerces.parsers.SAXParser not found
+[INFO ] 2019-05-10 00:58:32,831 [repositories/kiln] POST transaction to repository
+[WARN ] 2019-05-10 00:58:32,831 [repositories/kiln] Class org.apache.xerces.parsers.SAXParser not found
+[INFO ] 2019-05-10 00:58:32,834 [repositories/kiln] POST data to repository
+[INFO ] 2019-05-10 00:58:32,834 [repositories/kiln] no base URI specified, using dummy 'foo:bar'
+[WARN ] 2019-05-10 00:58:32,834 [repositories/kiln] Class org.apache.xerces.parsers.SAXParser not found
+[INFO ] 2019-05-10 00:58:32,838 [repositories/kiln] POST transaction to repository
+[WARN ] 2019-05-10 00:58:32,838 [repositories/kiln] Class org.apache.xerces.parsers.SAXParser not found
+[INFO ] 2019-05-10 00:58:32,840 [repositories/kiln] POST data to repository
+[INFO ] 2019-05-10 00:58:32,840 [repositories/kiln] no base URI specified, using dummy 'foo:bar'
+[WARN ] 2019-05-10 00:58:32,840 [repositories/kiln] Class org.apache.xerces.parsers.SAXParser not found
+[INFO ] 2019-05-10 00:58:32,844 [repositories/kiln] POST transaction to repository
+[WARN ] 2019-05-10 00:58:32,844 [repositories/kiln] Class org.apache.xerces.parsers.SAXParser not found
+[INFO ] 2019-05-10 00:58:32,846 [repositories/kiln] POST data to repository
+[INFO ] 2019-05-10 00:58:32,846 [repositories/kiln] no base URI specified, using dummy 'foo:bar'
+[WARN ] 2019-05-10 00:58:32,847 [repositories/kiln] Class org.apache.xerces.parsers.SAXParser not found
+[INFO ] 2019-05-10 00:58:32,849 [repositories/kiln] POST transaction to repository
+[WARN ] 2019-05-10 00:58:32,850 [repositories/kiln] Class org.apache.xerces.parsers.SAXParser not found
+[INFO ] 2019-05-10 00:58:32,852 [repositories/kiln] POST data to repository
+[INFO ] 2019-05-10 00:58:32,852 [repositories/kiln] no base URI specified, using dummy 'foo:bar'
+[WARN ] 2019-05-10 00:58:32,852 [repositories/kiln] Class org.apache.xerces.parsers.SAXParser not found
+[INFO ] 2019-05-10 00:58:32,856 [repositories/kiln] POST transaction to repository
+[WARN ] 2019-05-10 00:58:32,857 [repositories/kiln] Class org.apache.xerces.parsers.SAXParser not found
+[INFO ] 2019-05-10 00:58:32,860 [repositories/kiln] POST data to repository
+[INFO ] 2019-05-10 00:58:32,860 [repositories/kiln] no base URI specified, using dummy 'foo:bar'
+[WARN ] 2019-05-10 00:58:32,860 [repositories/kiln] Class org.apache.xerces.parsers.SAXParser not found
+[INFO ] 2019-05-10 00:58:32,865 [repositories/kiln] POST transaction to repository
+[WARN ] 2019-05-10 00:58:32,865 [repositories/kiln] Class org.apache.xerces.parsers.SAXParser not found
+[INFO ] 2019-05-10 00:58:32,868 [repositories/kiln] POST data to repository
+[INFO ] 2019-05-10 00:58:32,868 [repositories/kiln] no base URI specified, using dummy 'foo:bar'
+[WARN ] 2019-05-10 00:58:32,869 [repositories/kiln] Class org.apache.xerces.parsers.SAXParser not found
+[INFO ] 2019-05-10 00:58:32,872 [repositories/kiln] POST transaction to repository
+[WARN ] 2019-05-10 00:58:32,872 [repositories/kiln] Class org.apache.xerces.parsers.SAXParser not found
+[INFO ] 2019-05-10 00:58:32,874 [repositories/kiln] POST data to repository
+[INFO ] 2019-05-10 00:58:32,874 [repositories/kiln] no base URI specified, using dummy 'foo:bar'
+[WARN ] 2019-05-10 00:58:32,875 [repositories/kiln] Class org.apache.xerces.parsers.SAXParser not found
+[INFO ] 2019-05-10 00:58:32,879 [repositories/kiln] POST transaction to repository
+[WARN ] 2019-05-10 00:58:32,879 [repositories/kiln] Class org.apache.xerces.parsers.SAXParser not found
+[INFO ] 2019-05-10 00:58:32,882 [repositories/kiln] POST data to repository
+[INFO ] 2019-05-10 00:58:32,882 [repositories/kiln] no base URI specified, using dummy 'foo:bar'
+[WARN ] 2019-05-10 00:58:32,883 [repositories/kiln] Class org.apache.xerces.parsers.SAXParser not found
+[INFO ] 2019-05-10 00:58:32,903 [repositories/kiln] POST transaction to repository
+[WARN ] 2019-05-10 00:58:32,903 [repositories/kiln] Class org.apache.xerces.parsers.SAXParser not found
+[INFO ] 2019-05-10 00:58:32,907 [repositories/kiln] POST data to repository
+[INFO ] 2019-05-10 00:58:32,907 [repositories/kiln] no base URI specified, using dummy 'foo:bar'
+[WARN ] 2019-05-10 00:58:32,908 [repositories/kiln] Class org.apache.xerces.parsers.SAXParser not found
+[INFO ] 2019-05-10 00:58:32,913 [repositories/kiln] POST transaction to repository
+[WARN ] 2019-05-10 00:58:32,913 [repositories/kiln] Class org.apache.xerces.parsers.SAXParser not found
+[INFO ] 2019-05-10 00:58:32,916 [repositories/kiln] POST data to repository
+[INFO ] 2019-05-10 00:58:32,916 [repositories/kiln] no base URI specified, using dummy 'foo:bar'
+[WARN ] 2019-05-10 00:58:32,917 [repositories/kiln] Class org.apache.xerces.parsers.SAXParser not found
+[INFO ] 2019-05-10 00:58:32,921 [repositories/kiln] POST transaction to repository
+[WARN ] 2019-05-10 00:58:32,922 [repositories/kiln] Class org.apache.xerces.parsers.SAXParser not found
+[INFO ] 2019-05-10 00:58:32,924 [repositories/kiln] POST data to repository
+[INFO ] 2019-05-10 00:58:32,925 [repositories/kiln] no base URI specified, using dummy 'foo:bar'
+[WARN ] 2019-05-10 00:58:32,925 [repositories/kiln] Class org.apache.xerces.parsers.SAXParser not found
+[INFO ] 2019-05-10 00:58:32,929 [repositories/kiln] POST transaction to repository
+[WARN ] 2019-05-10 00:58:32,929 [repositories/kiln] Class org.apache.xerces.parsers.SAXParser not found
+[INFO ] 2019-05-10 00:58:32,932 [repositories/kiln] POST data to repository
+[INFO ] 2019-05-10 00:58:32,932 [repositories/kiln] no base URI specified, using dummy 'foo:bar'
+[WARN ] 2019-05-10 00:58:32,932 [repositories/kiln] Class org.apache.xerces.parsers.SAXParser not found
+[INFO ] 2019-05-10 00:58:32,935 [repositories/kiln] POST transaction to repository
+[WARN ] 2019-05-10 00:58:32,935 [repositories/kiln] Class org.apache.xerces.parsers.SAXParser not found
+[INFO ] 2019-05-10 00:58:32,938 [repositories/kiln] POST data to repository
+[INFO ] 2019-05-10 00:58:32,938 [repositories/kiln] no base URI specified, using dummy 'foo:bar'
+[WARN ] 2019-05-10 00:58:32,938 [repositories/kiln] Class org.apache.xerces.parsers.SAXParser not found
+[INFO ] 2019-05-10 00:58:32,941 [repositories/kiln] POST transaction to repository
+[WARN ] 2019-05-10 00:58:32,941 [repositories/kiln] Class org.apache.xerces.parsers.SAXParser not found
+[INFO ] 2019-05-10 00:58:32,943 [repositories/kiln] POST data to repository
+[INFO ] 2019-05-10 00:58:32,943 [repositories/kiln] no base URI specified, using dummy 'foo:bar'
+[WARN ] 2019-05-10 00:58:32,944 [repositories/kiln] Class org.apache.xerces.parsers.SAXParser not found
+[INFO ] 2019-05-10 00:58:32,946 [repositories/kiln] POST transaction to repository
+[WARN ] 2019-05-10 00:58:32,947 [repositories/kiln] Class org.apache.xerces.parsers.SAXParser not found
+[INFO ] 2019-05-10 00:58:32,949 [repositories/kiln] POST data to repository
+[INFO ] 2019-05-10 00:58:32,949 [repositories/kiln] no base URI specified, using dummy 'foo:bar'
+[WARN ] 2019-05-10 00:58:32,949 [repositories/kiln] Class org.apache.xerces.parsers.SAXParser not found
+[INFO ] 2019-05-10 00:58:32,953 [repositories/kiln] POST transaction to repository
+[WARN ] 2019-05-10 00:58:32,953 [repositories/kiln] Class org.apache.xerces.parsers.SAXParser not found
+[INFO ] 2019-05-10 00:58:32,955 [repositories/kiln] POST data to repository
+[INFO ] 2019-05-10 00:58:32,955 [repositories/kiln] no base URI specified, using dummy 'foo:bar'
+[WARN ] 2019-05-10 00:58:32,955 [repositories/kiln] Class org.apache.xerces.parsers.SAXParser not found
+[INFO ] 2019-05-10 00:58:32,959 [repositories/kiln] POST transaction to repository
+[WARN ] 2019-05-10 00:58:32,959 [repositories/kiln] Class org.apache.xerces.parsers.SAXParser not found
+[INFO ] 2019-05-10 00:58:32,961 [repositories/kiln] POST data to repository
+[INFO ] 2019-05-10 00:58:32,961 [repositories/kiln] no base URI specified, using dummy 'foo:bar'
+[WARN ] 2019-05-10 00:58:32,962 [repositories/kiln] Class org.apache.xerces.parsers.SAXParser not found
+[INFO ] 2019-05-10 00:58:32,965 [repositories/kiln] POST transaction to repository
+[WARN ] 2019-05-10 00:58:32,966 [repositories/kiln] Class org.apache.xerces.parsers.SAXParser not found
+[INFO ] 2019-05-10 00:58:32,968 [repositories/kiln] POST data to repository
+[INFO ] 2019-05-10 00:58:32,968 [repositories/kiln] no base URI specified, using dummy 'foo:bar'
+[WARN ] 2019-05-10 00:58:32,969 [repositories/kiln] Class org.apache.xerces.parsers.SAXParser not found
+[INFO ] 2019-05-10 00:58:32,972 [repositories/kiln] POST transaction to repository
+[WARN ] 2019-05-10 00:58:32,972 [repositories/kiln] Class org.apache.xerces.parsers.SAXParser not found
+[INFO ] 2019-05-10 00:58:32,974 [repositories/kiln] POST data to repository
+[INFO ] 2019-05-10 00:58:32,974 [repositories/kiln] no base URI specified, using dummy 'foo:bar'
+[WARN ] 2019-05-10 00:58:32,975 [repositories/kiln] Class org.apache.xerces.parsers.SAXParser not found
+[INFO ] 2019-05-10 00:58:32,979 [repositories/kiln] POST transaction to repository
+[WARN ] 2019-05-10 00:58:32,979 [repositories/kiln] Class org.apache.xerces.parsers.SAXParser not found
+[INFO ] 2019-05-10 00:58:32,982 [repositories/kiln] POST data to repository
+[INFO ] 2019-05-10 00:58:32,982 [repositories/kiln] no base URI specified, using dummy 'foo:bar'
+[WARN ] 2019-05-10 00:58:32,982 [repositories/kiln] Class org.apache.xerces.parsers.SAXParser not found
+[INFO ] 2019-05-10 00:58:32,986 [repositories/kiln] POST transaction to repository
+[WARN ] 2019-05-10 00:58:32,986 [repositories/kiln] Class org.apache.xerces.parsers.SAXParser not found
+[INFO ] 2019-05-10 00:58:32,989 [repositories/kiln] POST data to repository
+[INFO ] 2019-05-10 00:58:32,989 [repositories/kiln] no base URI specified, using dummy 'foo:bar'
+[WARN ] 2019-05-10 00:58:32,989 [repositories/kiln] Class org.apache.xerces.parsers.SAXParser not found
+[INFO ] 2019-05-10 00:58:32,992 [repositories/kiln] POST transaction to repository
+[WARN ] 2019-05-10 00:58:32,993 [repositories/kiln] Class org.apache.xerces.parsers.SAXParser not found
+[INFO ] 2019-05-10 00:58:32,995 [repositories/kiln] POST data to repository
+[INFO ] 2019-05-10 00:58:32,995 [repositories/kiln] no base URI specified, using dummy 'foo:bar'
+[WARN ] 2019-05-10 00:58:32,996 [repositories/kiln] Class org.apache.xerces.parsers.SAXParser not found
+[INFO ] 2019-05-10 00:58:32,998 [repositories/kiln] POST transaction to repository
+[WARN ] 2019-05-10 00:58:32,999 [repositories/kiln] Class org.apache.xerces.parsers.SAXParser not found
+[INFO ] 2019-05-10 00:58:33,001 [repositories/kiln] POST data to repository
+[INFO ] 2019-05-10 00:58:33,001 [repositories/kiln] no base URI specified, using dummy 'foo:bar'
+[WARN ] 2019-05-10 00:58:33,002 [repositories/kiln] Class org.apache.xerces.parsers.SAXParser not found
+[INFO ] 2019-05-10 00:58:33,005 [repositories/kiln] POST transaction to repository
+[WARN ] 2019-05-10 00:58:33,005 [repositories/kiln] Class org.apache.xerces.parsers.SAXParser not found
+[INFO ] 2019-05-10 00:59:02,413 [repositories/kiln] POST transaction to repository
+[WARN ] 2019-05-10 00:59:02,419 [repositories/kiln] Class org.apache.xerces.parsers.SAXParser not found
+[INFO ] 2019-05-10 00:59:02,456 [repositories/kiln] POST data to repository
+[INFO ] 2019-05-10 00:59:02,456 [repositories/kiln] no base URI specified, using dummy 'foo:bar'
+[WARN ] 2019-05-10 00:59:02,456 [repositories/kiln] Class org.apache.xerces.parsers.SAXParser not found
+[INFO ] 2019-05-10 00:59:02,478 [repositories/kiln] POST transaction to repository
+[WARN ] 2019-05-10 00:59:02,478 [repositories/kiln] Class org.apache.xerces.parsers.SAXParser not found
+[INFO ] 2019-05-10 00:59:02,527 [repositories/kiln] POST data to repository
+[INFO ] 2019-05-10 00:59:02,527 [repositories/kiln] no base URI specified, using dummy 'foo:bar'
+[WARN ] 2019-05-10 00:59:02,527 [repositories/kiln] Class org.apache.xerces.parsers.SAXParser not found
+[INFO ] 2019-05-10 00:59:02,545 [repositories/kiln] POST transaction to repository
+[WARN ] 2019-05-10 00:59:02,545 [repositories/kiln] Class org.apache.xerces.parsers.SAXParser not found
+[INFO ] 2019-05-10 00:59:02,574 [repositories/kiln] POST data to repository
+[INFO ] 2019-05-10 00:59:02,574 [repositories/kiln] no base URI specified, using dummy 'foo:bar'
+[WARN ] 2019-05-10 00:59:02,574 [repositories/kiln] Class org.apache.xerces.parsers.SAXParser not found
+[INFO ] 2019-05-10 00:59:02,601 [repositories/kiln] POST transaction to repository
+[WARN ] 2019-05-10 00:59:02,602 [repositories/kiln] Class org.apache.xerces.parsers.SAXParser not found
+[INFO ] 2019-05-10 00:59:02,631 [repositories/kiln] POST data to repository
+[INFO ] 2019-05-10 00:59:02,631 [repositories/kiln] no base URI specified, using dummy 'foo:bar'
+[WARN ] 2019-05-10 00:59:02,632 [repositories/kiln] Class org.apache.xerces.parsers.SAXParser not found
+[INFO ] 2019-05-10 00:59:02,655 [repositories/kiln] POST transaction to repository
+[WARN ] 2019-05-10 00:59:02,656 [repositories/kiln] Class org.apache.xerces.parsers.SAXParser not found
+[INFO ] 2019-05-10 00:59:02,688 [repositories/kiln] POST data to repository
+[INFO ] 2019-05-10 00:59:02,688 [repositories/kiln] no base URI specified, using dummy 'foo:bar'
+[WARN ] 2019-05-10 00:59:02,689 [repositories/kiln] Class org.apache.xerces.parsers.SAXParser not found
+[INFO ] 2019-05-10 00:59:02,716 [repositories/kiln] POST transaction to repository
+[WARN ] 2019-05-10 00:59:02,716 [repositories/kiln] Class org.apache.xerces.parsers.SAXParser not found
+[INFO ] 2019-05-10 00:59:02,754 [repositories/kiln] POST data to repository
+[INFO ] 2019-05-10 00:59:02,754 [repositories/kiln] no base URI specified, using dummy 'foo:bar'
+[WARN ] 2019-05-10 00:59:02,754 [repositories/kiln] Class org.apache.xerces.parsers.SAXParser not found
+[INFO ] 2019-05-10 00:59:02,779 [repositories/kiln] POST transaction to repository
+[WARN ] 2019-05-10 00:59:02,780 [repositories/kiln] Class org.apache.xerces.parsers.SAXParser not found
+[INFO ] 2019-05-10 00:59:02,810 [repositories/kiln] POST data to repository
+[INFO ] 2019-05-10 00:59:02,810 [repositories/kiln] no base URI specified, using dummy 'foo:bar'
+[WARN ] 2019-05-10 00:59:02,811 [repositories/kiln] Class org.apache.xerces.parsers.SAXParser not found
+[INFO ] 2019-05-10 00:59:02,843 [repositories/kiln] POST transaction to repository
+[WARN ] 2019-05-10 00:59:02,843 [repositories/kiln] Class org.apache.xerces.parsers.SAXParser not found
+[INFO ] 2019-05-10 00:59:02,847 [repositories/kiln] POST data to repository
+[INFO ] 2019-05-10 00:59:02,847 [repositories/kiln] no base URI specified, using dummy 'foo:bar'
+[WARN ] 2019-05-10 00:59:02,847 [repositories/kiln] Class org.apache.xerces.parsers.SAXParser not found
+[INFO ] 2019-05-10 00:59:02,853 [repositories/kiln] POST transaction to repository
+[WARN ] 2019-05-10 00:59:02,853 [repositories/kiln] Class org.apache.xerces.parsers.SAXParser not found
+[INFO ] 2019-05-10 00:59:02,858 [repositories/kiln] POST data to repository
+[INFO ] 2019-05-10 00:59:02,858 [repositories/kiln] no base URI specified, using dummy 'foo:bar'
+[WARN ] 2019-05-10 00:59:02,858 [repositories/kiln] Class org.apache.xerces.parsers.SAXParser not found
+[INFO ] 2019-05-10 00:59:02,866 [repositories/kiln] POST transaction to repository
+[WARN ] 2019-05-10 00:59:02,866 [repositories/kiln] Class org.apache.xerces.parsers.SAXParser not found
+[INFO ] 2019-05-10 00:59:02,873 [repositories/kiln] POST data to repository
+[INFO ] 2019-05-10 00:59:02,873 [repositories/kiln] no base URI specified, using dummy 'foo:bar'
+[WARN ] 2019-05-10 00:59:02,873 [repositories/kiln] Class org.apache.xerces.parsers.SAXParser not found
+[INFO ] 2019-05-10 00:59:02,880 [repositories/kiln] POST transaction to repository
+[WARN ] 2019-05-10 00:59:02,880 [repositories/kiln] Class org.apache.xerces.parsers.SAXParser not found
+[INFO ] 2019-05-10 00:59:02,884 [repositories/kiln] POST data to repository
+[INFO ] 2019-05-10 00:59:02,884 [repositories/kiln] no base URI specified, using dummy 'foo:bar'
+[WARN ] 2019-05-10 00:59:02,884 [repositories/kiln] Class org.apache.xerces.parsers.SAXParser not found
+[INFO ] 2019-05-10 00:59:02,889 [repositories/kiln] POST transaction to repository
+[WARN ] 2019-05-10 00:59:02,889 [repositories/kiln] Class org.apache.xerces.parsers.SAXParser not found
+[INFO ] 2019-05-10 00:59:02,891 [repositories/kiln] POST data to repository
+[INFO ] 2019-05-10 00:59:02,892 [repositories/kiln] no base URI specified, using dummy 'foo:bar'
+[WARN ] 2019-05-10 00:59:02,892 [repositories/kiln] Class org.apache.xerces.parsers.SAXParser not found
+[INFO ] 2019-05-10 00:59:02,897 [repositories/kiln] POST transaction to repository
+[WARN ] 2019-05-10 00:59:02,897 [repositories/kiln] Class org.apache.xerces.parsers.SAXParser not found
+[INFO ] 2019-05-10 00:59:02,901 [repositories/kiln] POST data to repository
+[INFO ] 2019-05-10 00:59:02,901 [repositories/kiln] no base URI specified, using dummy 'foo:bar'
+[WARN ] 2019-05-10 00:59:02,902 [repositories/kiln] Class org.apache.xerces.parsers.SAXParser not found
+[INFO ] 2019-05-10 00:59:02,908 [repositories/kiln] POST transaction to repository
+[WARN ] 2019-05-10 00:59:02,909 [repositories/kiln] Class org.apache.xerces.parsers.SAXParser not found
+[INFO ] 2019-05-10 00:59:02,914 [repositories/kiln] POST data to repository
+[INFO ] 2019-05-10 00:59:02,914 [repositories/kiln] no base URI specified, using dummy 'foo:bar'
+[WARN ] 2019-05-10 00:59:02,915 [repositories/kiln] Class org.apache.xerces.parsers.SAXParser not found
+[INFO ] 2019-05-10 00:59:02,921 [repositories/kiln] POST transaction to repository
+[WARN ] 2019-05-10 00:59:02,921 [repositories/kiln] Class org.apache.xerces.parsers.SAXParser not found
+[INFO ] 2019-05-10 00:59:02,924 [repositories/kiln] POST data to repository
+[INFO ] 2019-05-10 00:59:02,924 [repositories/kiln] no base URI specified, using dummy 'foo:bar'
+[WARN ] 2019-05-10 00:59:02,924 [repositories/kiln] Class org.apache.xerces.parsers.SAXParser not found
+[INFO ] 2019-05-10 00:59:02,928 [repositories/kiln] POST transaction to repository
+[WARN ] 2019-05-10 00:59:02,928 [repositories/kiln] Class org.apache.xerces.parsers.SAXParser not found
+[INFO ] 2019-05-10 00:59:02,930 [repositories/kiln] POST data to repository
+[INFO ] 2019-05-10 00:59:02,930 [repositories/kiln] no base URI specified, using dummy 'foo:bar'
+[WARN ] 2019-05-10 00:59:02,931 [repositories/kiln] Class org.apache.xerces.parsers.SAXParser not found
+[INFO ] 2019-05-10 00:59:02,934 [repositories/kiln] POST transaction to repository
+[WARN ] 2019-05-10 00:59:02,935 [repositories/kiln] Class org.apache.xerces.parsers.SAXParser not found
+[INFO ] 2019-05-10 00:59:02,937 [repositories/kiln] POST data to repository
+[INFO ] 2019-05-10 00:59:02,937 [repositories/kiln] no base URI specified, using dummy 'foo:bar'
+[WARN ] 2019-05-10 00:59:02,937 [repositories/kiln] Class org.apache.xerces.parsers.SAXParser not found
+[INFO ] 2019-05-10 00:59:02,940 [repositories/kiln] POST transaction to repository
+[WARN ] 2019-05-10 00:59:02,940 [repositories/kiln] Class org.apache.xerces.parsers.SAXParser not found
+[INFO ] 2019-05-10 00:59:02,942 [repositories/kiln] POST data to repository
+[INFO ] 2019-05-10 00:59:02,943 [repositories/kiln] no base URI specified, using dummy 'foo:bar'
+[WARN ] 2019-05-10 00:59:02,943 [repositories/kiln] Class org.apache.xerces.parsers.SAXParser not found
+[INFO ] 2019-05-10 00:59:02,946 [repositories/kiln] POST transaction to repository
+[WARN ] 2019-05-10 00:59:02,946 [repositories/kiln] Class org.apache.xerces.parsers.SAXParser not found
+[INFO ] 2019-05-10 00:59:02,948 [repositories/kiln] POST data to repository
+[INFO ] 2019-05-10 00:59:02,948 [repositories/kiln] no base URI specified, using dummy 'foo:bar'
+[WARN ] 2019-05-10 00:59:02,948 [repositories/kiln] Class org.apache.xerces.parsers.SAXParser not found
+[INFO ] 2019-05-10 00:59:02,951 [repositories/kiln] POST transaction to repository
+[WARN ] 2019-05-10 00:59:02,951 [repositories/kiln] Class org.apache.xerces.parsers.SAXParser not found
+[INFO ] 2019-05-10 00:59:02,953 [repositories/kiln] POST data to repository
+[INFO ] 2019-05-10 00:59:02,953 [repositories/kiln] no base URI specified, using dummy 'foo:bar'
+[WARN ] 2019-05-10 00:59:02,954 [repositories/kiln] Class org.apache.xerces.parsers.SAXParser not found
+[INFO ] 2019-05-10 00:59:02,957 [repositories/kiln] POST transaction to repository
+[WARN ] 2019-05-10 00:59:02,957 [repositories/kiln] Class org.apache.xerces.parsers.SAXParser not found
+[INFO ] 2019-05-10 00:59:02,959 [repositories/kiln] POST data to repository
+[INFO ] 2019-05-10 00:59:02,959 [repositories/kiln] no base URI specified, using dummy 'foo:bar'
+[WARN ] 2019-05-10 00:59:02,959 [repositories/kiln] Class org.apache.xerces.parsers.SAXParser not found
+[INFO ] 2019-05-10 00:59:02,963 [repositories/kiln] POST transaction to repository
+[WARN ] 2019-05-10 00:59:02,963 [repositories/kiln] Class org.apache.xerces.parsers.SAXParser not found
+[INFO ] 2019-05-10 00:59:02,965 [repositories/kiln] POST data to repository
+[INFO ] 2019-05-10 00:59:02,965 [repositories/kiln] no base URI specified, using dummy 'foo:bar'
+[WARN ] 2019-05-10 00:59:02,965 [repositories/kiln] Class org.apache.xerces.parsers.SAXParser not found
+[INFO ] 2019-05-10 00:59:02,968 [repositories/kiln] POST transaction to repository
+[WARN ] 2019-05-10 00:59:02,969 [repositories/kiln] Class org.apache.xerces.parsers.SAXParser not found
+[INFO ] 2019-05-10 00:59:02,971 [repositories/kiln] POST data to repository
+[INFO ] 2019-05-10 00:59:02,971 [repositories/kiln] no base URI specified, using dummy 'foo:bar'
+[WARN ] 2019-05-10 00:59:02,971 [repositories/kiln] Class org.apache.xerces.parsers.SAXParser not found
+[INFO ] 2019-05-10 00:59:02,974 [repositories/kiln] POST transaction to repository
+[WARN ] 2019-05-10 00:59:02,974 [repositories/kiln] Class org.apache.xerces.parsers.SAXParser not found
+[INFO ] 2019-05-10 00:59:02,977 [repositories/kiln] POST data to repository
+[INFO ] 2019-05-10 00:59:02,977 [repositories/kiln] no base URI specified, using dummy 'foo:bar'
+[WARN ] 2019-05-10 00:59:02,977 [repositories/kiln] Class org.apache.xerces.parsers.SAXParser not found
+[INFO ] 2019-05-10 00:59:02,981 [repositories/kiln] POST transaction to repository
+[WARN ] 2019-05-10 00:59:02,981 [repositories/kiln] Class org.apache.xerces.parsers.SAXParser not found
+[INFO ] 2019-05-10 00:59:02,985 [repositories/kiln] POST data to repository
+[INFO ] 2019-05-10 00:59:02,985 [repositories/kiln] no base URI specified, using dummy 'foo:bar'
+[WARN ] 2019-05-10 00:59:02,985 [repositories/kiln] Class org.apache.xerces.parsers.SAXParser not found
+[INFO ] 2019-05-10 00:59:02,990 [repositories/kiln] POST transaction to repository
+[WARN ] 2019-05-10 00:59:02,991 [repositories/kiln] Class org.apache.xerces.parsers.SAXParser not found
+[INFO ] 2019-05-10 00:59:02,993 [repositories/kiln] POST data to repository
+[INFO ] 2019-05-10 00:59:02,994 [repositories/kiln] no base URI specified, using dummy 'foo:bar'
+[WARN ] 2019-05-10 00:59:02,994 [repositories/kiln] Class org.apache.xerces.parsers.SAXParser not found
+[INFO ] 2019-05-10 00:59:02,998 [repositories/kiln] POST transaction to repository
+[WARN ] 2019-05-10 00:59:02,999 [repositories/kiln] Class org.apache.xerces.parsers.SAXParser not found
+[INFO ] 2019-05-10 00:59:03,003 [repositories/kiln] POST data to repository
+[INFO ] 2019-05-10 00:59:03,003 [repositories/kiln] no base URI specified, using dummy 'foo:bar'
+[WARN ] 2019-05-10 00:59:03,004 [repositories/kiln] Class org.apache.xerces.parsers.SAXParser not found
+[INFO ] 2019-05-10 00:59:03,010 [repositories/kiln] POST transaction to repository
+[WARN ] 2019-05-10 00:59:03,010 [repositories/kiln] Class org.apache.xerces.parsers.SAXParser not found
+[INFO ] 2019-05-10 00:59:03,013 [repositories/kiln] POST data to repository
+[INFO ] 2019-05-10 00:59:03,013 [repositories/kiln] no base URI specified, using dummy 'foo:bar'
+[WARN ] 2019-05-10 00:59:03,014 [repositories/kiln] Class org.apache.xerces.parsers.SAXParser not found
+[INFO ] 2019-05-10 00:59:03,019 [repositories/kiln] POST transaction to repository
+[WARN ] 2019-05-10 00:59:03,019 [repositories/kiln] Class org.apache.xerces.parsers.SAXParser not found
+[INFO ] 2019-05-10 00:59:03,022 [repositories/kiln] POST data to repository
+[INFO ] 2019-05-10 00:59:03,022 [repositories/kiln] no base URI specified, using dummy 'foo:bar'
+[WARN ] 2019-05-10 00:59:03,022 [repositories/kiln] Class org.apache.xerces.parsers.SAXParser not found
+[INFO ] 2019-05-10 00:59:03,027 [repositories/kiln] POST transaction to repository
+[WARN ] 2019-05-10 00:59:03,041 [repositories/kiln] Class org.apache.xerces.parsers.SAXParser not found
+[INFO ] 2019-05-10 00:59:03,045 [repositories/kiln] POST data to repository
+[INFO ] 2019-05-10 00:59:03,046 [repositories/kiln] no base URI specified, using dummy 'foo:bar'
+[WARN ] 2019-05-10 00:59:03,046 [repositories/kiln] Class org.apache.xerces.parsers.SAXParser not found
+[INFO ] 2019-05-10 00:59:03,054 [repositories/kiln] POST transaction to repository
+[WARN ] 2019-05-10 00:59:03,054 [repositories/kiln] Class org.apache.xerces.parsers.SAXParser not found
+[INFO ] 2019-05-10 00:59:03,057 [repositories/kiln] POST data to repository
+[INFO ] 2019-05-10 00:59:03,058 [repositories/kiln] no base URI specified, using dummy 'foo:bar'
+[WARN ] 2019-05-10 00:59:03,058 [repositories/kiln] Class org.apache.xerces.parsers.SAXParser not found
+[INFO ] 2019-05-10 00:59:03,062 [repositories/kiln] POST transaction to repository
+[WARN ] 2019-05-10 00:59:03,062 [repositories/kiln] Class org.apache.xerces.parsers.SAXParser not found
+[INFO ] 2019-05-10 00:59:03,066 [repositories/kiln] POST data to repository
+[INFO ] 2019-05-10 00:59:03,066 [repositories/kiln] no base URI specified, using dummy 'foo:bar'
+[WARN ] 2019-05-10 00:59:03,066 [repositories/kiln] Class org.apache.xerces.parsers.SAXParser not found
+[INFO ] 2019-05-10 00:59:03,072 [repositories/kiln] POST transaction to repository
+[WARN ] 2019-05-10 00:59:03,072 [repositories/kiln] Class org.apache.xerces.parsers.SAXParser not found
+[INFO ] 2019-05-10 00:59:03,076 [repositories/kiln] POST data to repository
+[INFO ] 2019-05-10 00:59:03,076 [repositories/kiln] no base URI specified, using dummy 'foo:bar'
+[WARN ] 2019-05-10 00:59:03,077 [repositories/kiln] Class org.apache.xerces.parsers.SAXParser not found
+[INFO ] 2019-05-10 00:59:03,081 [repositories/kiln] POST transaction to repository
+[WARN ] 2019-05-10 00:59:03,082 [repositories/kiln] Class org.apache.xerces.parsers.SAXParser not found
+[INFO ] 2019-05-10 00:59:03,086 [repositories/kiln] POST data to repository
+[INFO ] 2019-05-10 00:59:03,086 [repositories/kiln] no base URI specified, using dummy 'foo:bar'
+[WARN ] 2019-05-10 00:59:03,086 [repositories/kiln] Class org.apache.xerces.parsers.SAXParser not found
+[INFO ] 2019-05-10 00:59:03,091 [repositories/kiln] POST transaction to repository
+[WARN ] 2019-05-10 00:59:03,091 [repositories/kiln] Class org.apache.xerces.parsers.SAXParser not found
+[INFO ] 2019-05-10 00:59:03,094 [repositories/kiln] POST data to repository
+[INFO ] 2019-05-10 00:59:03,094 [repositories/kiln] no base URI specified, using dummy 'foo:bar'
+[WARN ] 2019-05-10 00:59:03,094 [repositories/kiln] Class org.apache.xerces.parsers.SAXParser not found
+[INFO ] 2019-05-10 00:59:03,098 [repositories/kiln] POST transaction to repository
+[WARN ] 2019-05-10 00:59:03,098 [repositories/kiln] Class org.apache.xerces.parsers.SAXParser not found
+[INFO ] 2019-05-10 00:59:03,115 [repositories/kiln] POST data to repository
+[INFO ] 2019-05-10 00:59:03,115 [repositories/kiln] no base URI specified, using dummy 'foo:bar'
+[WARN ] 2019-05-10 00:59:03,115 [repositories/kiln] Class org.apache.xerces.parsers.SAXParser not found
+[INFO ] 2019-05-10 00:59:03,121 [repositories/kiln] POST transaction to repository
+[WARN ] 2019-05-10 00:59:03,122 [repositories/kiln] Class org.apache.xerces.parsers.SAXParser not found
+[INFO ] 2019-05-10 00:59:03,126 [repositories/kiln] POST data to repository
+[INFO ] 2019-05-10 00:59:03,126 [repositories/kiln] no base URI specified, using dummy 'foo:bar'
+[WARN ] 2019-05-10 00:59:03,126 [repositories/kiln] Class org.apache.xerces.parsers.SAXParser not found
+[INFO ] 2019-05-10 00:59:03,134 [repositories/kiln] POST transaction to repository
+[WARN ] 2019-05-10 00:59:03,134 [repositories/kiln] Class org.apache.xerces.parsers.SAXParser not found
+[INFO ] 2019-05-10 00:59:03,137 [repositories/kiln] POST data to repository
+[INFO ] 2019-05-10 00:59:03,137 [repositories/kiln] no base URI specified, using dummy 'foo:bar'
+[WARN ] 2019-05-10 00:59:03,138 [repositories/kiln] Class org.apache.xerces.parsers.SAXParser not found
+[INFO ] 2019-05-10 00:59:03,141 [repositories/kiln] POST transaction to repository
+[WARN ] 2019-05-10 00:59:03,141 [repositories/kiln] Class org.apache.xerces.parsers.SAXParser not found
+[INFO ] 2019-05-10 00:59:03,143 [repositories/kiln] POST data to repository
+[INFO ] 2019-05-10 00:59:03,143 [repositories/kiln] no base URI specified, using dummy 'foo:bar'
+[WARN ] 2019-05-10 00:59:03,143 [repositories/kiln] Class org.apache.xerces.parsers.SAXParser not found
+[INFO ] 2019-05-10 00:59:03,146 [repositories/kiln] POST transaction to repository
+[WARN ] 2019-05-10 00:59:03,146 [repositories/kiln] Class org.apache.xerces.parsers.SAXParser not found
+[INFO ] 2019-05-10 00:59:03,148 [repositories/kiln] POST data to repository
+[INFO ] 2019-05-10 00:59:03,148 [repositories/kiln] no base URI specified, using dummy 'foo:bar'
+[WARN ] 2019-05-10 00:59:03,148 [repositories/kiln] Class org.apache.xerces.parsers.SAXParser not found
+[INFO ] 2019-05-10 00:59:03,152 [repositories/kiln] POST transaction to repository
+[WARN ] 2019-05-10 00:59:03,153 [repositories/kiln] Class org.apache.xerces.parsers.SAXParser not found
+[INFO ] 2019-05-10 00:59:03,156 [repositories/kiln] POST data to repository
+[INFO ] 2019-05-10 00:59:03,156 [repositories/kiln] no base URI specified, using dummy 'foo:bar'
+[WARN ] 2019-05-10 00:59:03,156 [repositories/kiln] Class org.apache.xerces.parsers.SAXParser not found
+[INFO ] 2019-05-10 00:59:03,160 [repositories/kiln] POST transaction to repository
+[WARN ] 2019-05-10 00:59:03,161 [repositories/kiln] Class org.apache.xerces.parsers.SAXParser not found
+[INFO ] 2019-05-10 00:59:03,163 [repositories/kiln] POST data to repository
+[INFO ] 2019-05-10 00:59:03,163 [repositories/kiln] no base URI specified, using dummy 'foo:bar'
+[WARN ] 2019-05-10 00:59:03,163 [repositories/kiln] Class org.apache.xerces.parsers.SAXParser not found
+[INFO ] 2019-05-10 00:59:03,166 [repositories/kiln] POST transaction to repository
+[WARN ] 2019-05-10 00:59:03,167 [repositories/kiln] Class org.apache.xerces.parsers.SAXParser not found
+[INFO ] 2019-05-10 00:59:03,169 [repositories/kiln] POST data to repository
+[INFO ] 2019-05-10 00:59:03,170 [repositories/kiln] no base URI specified, using dummy 'foo:bar'
+[WARN ] 2019-05-10 00:59:03,170 [repositories/kiln] Class org.apache.xerces.parsers.SAXParser not found
+[INFO ] 2019-05-10 00:59:03,173 [repositories/kiln] POST transaction to repository
+[WARN ] 2019-05-10 00:59:03,173 [repositories/kiln] Class org.apache.xerces.parsers.SAXParser not found
+[INFO ] 2019-05-10 00:59:03,175 [repositories/kiln] POST data to repository
+[INFO ] 2019-05-10 00:59:03,175 [repositories/kiln] no base URI specified, using dummy 'foo:bar'
+[WARN ] 2019-05-10 00:59:03,175 [repositories/kiln] Class org.apache.xerces.parsers.SAXParser not found
+[INFO ] 2019-05-10 00:59:03,178 [repositories/kiln] POST transaction to repository
+[WARN ] 2019-05-10 00:59:03,179 [repositories/kiln] Class org.apache.xerces.parsers.SAXParser not found
+[INFO ] 2019-05-10 00:59:03,181 [repositories/kiln] POST data to repository
+[INFO ] 2019-05-10 00:59:03,181 [repositories/kiln] no base URI specified, using dummy 'foo:bar'
+[WARN ] 2019-05-10 00:59:03,182 [repositories/kiln] Class org.apache.xerces.parsers.SAXParser not found
+[INFO ] 2019-05-10 00:59:03,185 [repositories/kiln] POST transaction to repository
+[WARN ] 2019-05-10 00:59:03,185 [repositories/kiln] Class org.apache.xerces.parsers.SAXParser not found
+[INFO ] 2019-05-10 00:59:03,187 [repositories/kiln] POST data to repository
+[INFO ] 2019-05-10 00:59:03,187 [repositories/kiln] no base URI specified, using dummy 'foo:bar'
+[WARN ] 2019-05-10 00:59:03,187 [repositories/kiln] Class org.apache.xerces.parsers.SAXParser not found
+[INFO ] 2019-05-10 00:59:03,191 [repositories/kiln] POST transaction to repository
+[WARN ] 2019-05-10 00:59:03,191 [repositories/kiln] Class org.apache.xerces.parsers.SAXParser not found
+[INFO ] 2019-05-10 00:59:03,193 [repositories/kiln] POST data to repository
+[INFO ] 2019-05-10 00:59:03,193 [repositories/kiln] no base URI specified, using dummy 'foo:bar'
+[WARN ] 2019-05-10 00:59:03,193 [repositories/kiln] Class org.apache.xerces.parsers.SAXParser not found
+[INFO ] 2019-05-10 00:59:03,196 [repositories/kiln] POST transaction to repository
+[WARN ] 2019-05-10 00:59:03,197 [repositories/kiln] Class org.apache.xerces.parsers.SAXParser not found
+[INFO ] 2019-05-10 00:59:03,198 [repositories/kiln] POST data to repository
+[INFO ] 2019-05-10 00:59:03,198 [repositories/kiln] no base URI specified, using dummy 'foo:bar'
+[WARN ] 2019-05-10 00:59:03,199 [repositories/kiln] Class org.apache.xerces.parsers.SAXParser not found
+[INFO ] 2019-05-10 00:59:03,202 [repositories/kiln] POST transaction to repository
+[WARN ] 2019-05-10 00:59:03,202 [repositories/kiln] Class org.apache.xerces.parsers.SAXParser not found
+[INFO ] 2019-05-10 00:59:03,205 [repositories/kiln] POST data to repository
+[INFO ] 2019-05-10 00:59:03,205 [repositories/kiln] no base URI specified, using dummy 'foo:bar'
+[WARN ] 2019-05-10 00:59:03,205 [repositories/kiln] Class org.apache.xerces.parsers.SAXParser not found
+[INFO ] 2019-05-10 00:59:03,208 [repositories/kiln] POST transaction to repository
+[WARN ] 2019-05-10 00:59:03,208 [repositories/kiln] Class org.apache.xerces.parsers.SAXParser not found
+[INFO ] 2019-05-10 00:59:03,210 [repositories/kiln] POST data to repository
+[INFO ] 2019-05-10 00:59:03,210 [repositories/kiln] no base URI specified, using dummy 'foo:bar'
+[WARN ] 2019-05-10 00:59:03,210 [repositories/kiln] Class org.apache.xerces.parsers.SAXParser not found
+[INFO ] 2019-05-10 00:59:03,213 [repositories/kiln] POST transaction to repository
+[WARN ] 2019-05-10 00:59:03,214 [repositories/kiln] Class org.apache.xerces.parsers.SAXParser not found
+[INFO ] 2019-05-10 00:59:03,216 [repositories/kiln] POST data to repository
+[INFO ] 2019-05-10 00:59:03,216 [repositories/kiln] no base URI specified, using dummy 'foo:bar'
+[WARN ] 2019-05-10 00:59:03,216 [repositories/kiln] Class org.apache.xerces.parsers.SAXParser not found
+[INFO ] 2019-05-10 00:59:03,220 [repositories/kiln] POST transaction to repository
+[WARN ] 2019-05-10 00:59:03,220 [repositories/kiln] Class org.apache.xerces.parsers.SAXParser not found
+[INFO ] 2019-05-10 00:59:03,222 [repositories/kiln] POST data to repository
+[INFO ] 2019-05-10 00:59:03,222 [repositories/kiln] no base URI specified, using dummy 'foo:bar'
+[WARN ] 2019-05-10 00:59:03,222 [repositories/kiln] Class org.apache.xerces.parsers.SAXParser not found
+[INFO ] 2019-05-10 00:59:03,225 [repositories/kiln] POST transaction to repository
+[WARN ] 2019-05-10 00:59:03,225 [repositories/kiln] Class org.apache.xerces.parsers.SAXParser not found
+[INFO ] 2019-05-10 00:59:03,227 [repositories/kiln] POST data to repository
+[INFO ] 2019-05-10 00:59:03,227 [repositories/kiln] no base URI specified, using dummy 'foo:bar'
+[WARN ] 2019-05-10 00:59:03,228 [repositories/kiln] Class org.apache.xerces.parsers.SAXParser not found
+[INFO ] 2019-05-10 00:59:03,230 [repositories/kiln] POST transaction to repository
+[WARN ] 2019-05-10 00:59:03,231 [repositories/kiln] Class org.apache.xerces.parsers.SAXParser not found
+[INFO ] 2019-05-10 00:59:03,233 [repositories/kiln] POST data to repository
+[INFO ] 2019-05-10 00:59:03,233 [repositories/kiln] no base URI specified, using dummy 'foo:bar'
+[WARN ] 2019-05-10 00:59:03,233 [repositories/kiln] Class org.apache.xerces.parsers.SAXParser not found
+[INFO ] 2019-05-10 00:59:03,237 [repositories/kiln] POST transaction to repository
+[WARN ] 2019-05-10 00:59:03,237 [repositories/kiln] Class org.apache.xerces.parsers.SAXParser not found
+[INFO ] 2019-05-10 00:59:03,239 [repositories/kiln] POST data to repository
+[INFO ] 2019-05-10 00:59:03,240 [repositories/kiln] no base URI specified, using dummy 'foo:bar'
+[WARN ] 2019-05-10 00:59:03,240 [repositories/kiln] Class org.apache.xerces.parsers.SAXParser not found
+[INFO ] 2019-05-10 00:59:03,244 [repositories/kiln] POST transaction to repository
+[WARN ] 2019-05-10 00:59:03,245 [repositories/kiln] Class org.apache.xerces.parsers.SAXParser not found
+[INFO ] 2019-05-10 00:59:03,247 [repositories/kiln] POST data to repository
+[INFO ] 2019-05-10 00:59:03,247 [repositories/kiln] no base URI specified, using dummy 'foo:bar'
+[WARN ] 2019-05-10 00:59:03,247 [repositories/kiln] Class org.apache.xerces.parsers.SAXParser not found
+[INFO ] 2019-05-10 00:59:03,250 [repositories/kiln] POST transaction to repository
+[WARN ] 2019-05-10 00:59:03,251 [repositories/kiln] Class org.apache.xerces.parsers.SAXParser not found
+[INFO ] 2019-05-10 01:07:37,142 [repositories/kiln] POST transaction to repository
+[WARN ] 2019-05-10 01:07:37,146 [repositories/kiln] Class org.apache.xerces.parsers.SAXParser not found
+[INFO ] 2019-05-10 01:07:37,241 [repositories/kiln] POST data to repository
+[INFO ] 2019-05-10 01:07:37,241 [repositories/kiln] no base URI specified, using dummy 'foo:bar'
+[WARN ] 2019-05-10 01:07:37,241 [repositories/kiln] Class org.apache.xerces.parsers.SAXParser not found
+[INFO ] 2019-05-10 01:07:59,427 [repositories/kiln] POST query -2042401445
+[INFO ] 2019-05-10 01:07:59,439 [repositories/kiln] Request for query -2042401445 is finished
+[INFO ] 2019-05-10 01:08:10,412 [repositories/kiln] POST transaction to repository
+[WARN ] 2019-05-10 01:08:10,412 [repositories/kiln] Class org.apache.xerces.parsers.SAXParser not found
+[INFO ] 2019-05-10 01:08:10,462 [repositories/kiln] POST data to repository
+[INFO ] 2019-05-10 01:08:10,462 [repositories/kiln] no base URI specified, using dummy 'foo:bar'
+[WARN ] 2019-05-10 01:08:10,462 [repositories/kiln] Class org.apache.xerces.parsers.SAXParser not found
+[INFO ] 2019-05-10 01:08:24,429 [repositories/kiln] POST query -2042401445
+[INFO ] 2019-05-10 01:08:24,436 [repositories/kiln] Request for query -2042401445 is finished
+[INFO ] 2019-05-10 01:08:38,507 [repositories/kiln] POST transaction to repository
+[WARN ] 2019-05-10 01:08:38,508 [repositories/kiln] Class org.apache.xerces.parsers.SAXParser not found
+[INFO ] 2019-05-10 01:08:38,565 [repositories/kiln] POST data to repository
+[INFO ] 2019-05-10 01:08:38,565 [repositories/kiln] no base URI specified, using dummy 'foo:bar'
+[WARN ] 2019-05-10 01:08:38,566 [repositories/kiln] Class org.apache.xerces.parsers.SAXParser not found
+[INFO ] 2019-05-10 01:08:48,945 [repositories/kiln] POST transaction to repository
+[WARN ] 2019-05-10 01:08:48,945 [repositories/kiln] Class org.apache.xerces.parsers.SAXParser not found
+[INFO ] 2019-05-10 01:08:48,989 [repositories/kiln] POST data to repository
+[INFO ] 2019-05-10 01:08:48,989 [repositories/kiln] no base URI specified, using dummy 'foo:bar'
+[WARN ] 2019-05-10 01:08:48,990 [repositories/kiln] Class org.apache.xerces.parsers.SAXParser not found
+[INFO ] 2019-05-10 01:09:02,700 [repositories/kiln] POST query -2042401445
+[INFO ] 2019-05-10 01:09:02,704 [repositories/kiln] Request for query -2042401445 is finished
+[INFO ] 2019-05-10 01:09:07,843 [repositories/kiln] POST query -2042401445
+[INFO ] 2019-05-10 01:09:07,846 [repositories/kiln] Request for query -2042401445 is finished
+[INFO ] 2019-05-10 01:09:11,630 [repositories/kiln] POST query -2042401445
+[INFO ] 2019-05-10 01:09:11,633 [repositories/kiln] Request for query -2042401445 is finished
+[INFO ] 2019-05-10 01:09:17,903 [repositories/kiln] POST transaction to repository
+[WARN ] 2019-05-10 01:09:17,904 [repositories/kiln] Class org.apache.xerces.parsers.SAXParser not found
+[INFO ] 2019-05-10 01:09:17,955 [repositories/kiln] POST data to repository
+[INFO ] 2019-05-10 01:09:17,955 [repositories/kiln] no base URI specified, using dummy 'foo:bar'
+[WARN ] 2019-05-10 01:09:17,955 [repositories/kiln] Class org.apache.xerces.parsers.SAXParser not found
+[INFO ] 2019-05-10 01:09:22,129 [repositories/kiln] POST transaction to repository
+[WARN ] 2019-05-10 01:09:22,130 [repositories/kiln] Class org.apache.xerces.parsers.SAXParser not found
+[INFO ] 2019-05-10 01:09:22,175 [repositories/kiln] POST data to repository
+[INFO ] 2019-05-10 01:09:22,176 [repositories/kiln] no base URI specified, using dummy 'foo:bar'
+[WARN ] 2019-05-10 01:09:22,176 [repositories/kiln] Class org.apache.xerces.parsers.SAXParser not found
+[INFO ] 2019-05-10 01:09:25,713 [repositories/kiln] POST transaction to repository
+[WARN ] 2019-05-10 01:09:25,714 [repositories/kiln] Class org.apache.xerces.parsers.SAXParser not found
+[INFO ] 2019-05-10 01:09:25,783 [repositories/kiln] POST data to repository
+[INFO ] 2019-05-10 01:09:25,783 [repositories/kiln] no base URI specified, using dummy 'foo:bar'
+[WARN ] 2019-05-10 01:09:25,783 [repositories/kiln] Class org.apache.xerces.parsers.SAXParser not found
+[INFO ] 2019-05-10 01:09:29,297 [repositories/kiln] POST transaction to repository
+[WARN ] 2019-05-10 01:09:29,298 [repositories/kiln] Class org.apache.xerces.parsers.SAXParser not found
+[INFO ] 2019-05-10 01:09:29,350 [repositories/kiln] POST data to repository
+[INFO ] 2019-05-10 01:09:29,351 [repositories/kiln] no base URI specified, using dummy 'foo:bar'
+[WARN ] 2019-05-10 01:09:29,351 [repositories/kiln] Class org.apache.xerces.parsers.SAXParser not found
+[INFO ] 2019-05-10 01:09:33,021 [repositories/kiln] POST transaction to repository
+[WARN ] 2019-05-10 01:09:33,021 [repositories/kiln] Class org.apache.xerces.parsers.SAXParser not found
+[INFO ] 2019-05-10 01:09:33,071 [repositories/kiln] POST data to repository
+[INFO ] 2019-05-10 01:09:33,071 [repositories/kiln] no base URI specified, using dummy 'foo:bar'
+[WARN ] 2019-05-10 01:09:33,071 [repositories/kiln] Class org.apache.xerces.parsers.SAXParser not found
+[INFO ] 2019-05-10 01:09:37,224 [repositories/kiln] POST transaction to repository
+[WARN ] 2019-05-10 01:09:37,224 [repositories/kiln] Class org.apache.xerces.parsers.SAXParser not found
+[INFO ] 2019-05-10 01:09:37,279 [repositories/kiln] POST data to repository
+[INFO ] 2019-05-10 01:09:37,279 [repositories/kiln] no base URI specified, using dummy 'foo:bar'
+[WARN ] 2019-05-10 01:09:37,280 [repositories/kiln] Class org.apache.xerces.parsers.SAXParser not found
+[INFO ] 2019-05-10 01:09:40,327 [repositories/kiln] POST transaction to repository
+[WARN ] 2019-05-10 01:09:40,328 [repositories/kiln] Class org.apache.xerces.parsers.SAXParser not found
+[INFO ] 2019-05-10 01:09:40,424 [repositories/kiln] POST data to repository
+[INFO ] 2019-05-10 01:09:40,424 [repositories/kiln] no base URI specified, using dummy 'foo:bar'
+[WARN ] 2019-05-10 01:09:40,425 [repositories/kiln] Class org.apache.xerces.parsers.SAXParser not found
+[INFO ] 2019-05-10 01:35:11,714 [repositories/kiln] POST transaction to repository
+[WARN ] 2019-05-10 01:35:11,716 [repositories/kiln] Class org.apache.xerces.parsers.SAXParser not found
+[INFO ] 2019-05-10 01:35:11,793 [repositories/kiln] POST data to repository
+[INFO ] 2019-05-10 01:35:11,794 [repositories/kiln] no base URI specified, using dummy 'foo:bar'
+[WARN ] 2019-05-10 01:35:11,795 [repositories/kiln] Class org.apache.xerces.parsers.SAXParser not found
+[INFO ] 2019-05-10 13:47:20,715 [repositories/kiln] POST query -2042401445
+[INFO ] 2019-05-10 13:47:20,725 [repositories/kiln] Request for query -2042401445 is finished
+[INFO ] 2019-05-10 13:47:28,956 [repositories/kiln] POST query -2042401445
+[INFO ] 2019-05-10 13:47:28,959 [repositories/kiln] Request for query -2042401445 is finished
+[INFO ] 2019-05-10 13:47:41,889 [repositories/kiln] POST query -2042401445
+[INFO ] 2019-05-10 13:47:41,892 [repositories/kiln] Request for query -2042401445 is finished
+[INFO ] 2019-05-10 13:47:55,658 [repositories/kiln] POST query -2042401445
+[INFO ] 2019-05-10 13:47:55,662 [repositories/kiln] Request for query -2042401445 is finished
+[INFO ] 2019-05-10 13:47:58,753 [repositories/kiln] POST query -2042401445
+[INFO ] 2019-05-10 13:47:58,756 [repositories/kiln] Request for query -2042401445 is finished
+[INFO ] 2019-05-10 13:52:32,997 [repositories/kiln] POST query -2042401445
+[INFO ] 2019-05-10 13:52:33,000 [repositories/kiln] Request for query -2042401445 is finished
+[INFO ] 2019-05-10 13:59:12,395 [repositories/kiln] POST query -2042401445
+[INFO ] 2019-05-10 13:59:12,403 [repositories/kiln] Request for query -2042401445 is finished
+[INFO ] 2019-05-10 14:33:39,543 [repositories/kiln] POST query -2042401445
+[INFO ] 2019-05-10 14:33:39,553 [repositories/kiln] Request for query -2042401445 is finished
+[INFO ] 2019-05-10 14:33:53,567 [repositories/kiln] POST query -2042401445
+[INFO ] 2019-05-10 14:33:53,573 [repositories/kiln] Request for query -2042401445 is finished
+[INFO ] 2019-05-10 14:33:55,649 [repositories/kiln] POST query -2042401445
+[INFO ] 2019-05-10 14:33:55,653 [repositories/kiln] Request for query -2042401445 is finished
+[INFO ] 2019-05-10 14:33:57,604 [repositories/kiln] POST query -2042401445
+[INFO ] 2019-05-10 14:33:57,607 [repositories/kiln] Request for query -2042401445 is finished
+[INFO ] 2019-05-10 14:34:09,237 [repositories/kiln] POST query -2042401445
+[INFO ] 2019-05-10 14:34:09,241 [repositories/kiln] Request for query -2042401445 is finished
+[INFO ] 2019-05-10 14:34:15,846 [repositories/kiln] POST query -2042401445
+[INFO ] 2019-05-10 14:34:15,850 [repositories/kiln] Request for query -2042401445 is finished
+[INFO ] 2019-05-10 14:34:16,857 [repositories/kiln] POST query -2042401445
+[INFO ] 2019-05-10 14:34:16,866 [repositories/kiln] Request for query -2042401445 is finished
+[INFO ] 2019-05-10 14:34:17,593 [repositories/kiln] POST query -2042401445
+[INFO ] 2019-05-10 14:34:17,598 [repositories/kiln] Request for query -2042401445 is finished
+[INFO ] 2019-05-10 14:34:18,169 [repositories/kiln] POST query -2042401445
+[INFO ] 2019-05-10 14:34:18,173 [repositories/kiln] Request for query -2042401445 is finished
+[INFO ] 2019-05-10 14:35:09,630 [repositories/kiln] POST query -2042401445
+[INFO ] 2019-05-10 14:35:09,632 [repositories/kiln] Request for query -2042401445 is finished
+[INFO ] 2019-05-10 14:36:32,807 [Thread-1] Closing org.springframework.web.context.support.XmlWebApplicationContext@70b9cdcc: display name [WebApplicationContext for namespace 'openrdf-http-server-servlet']; startup date [Fri May 10 00:40:45 GET 2019]; root of context hierarchy
+[INFO ] 2019-05-10 14:36:32,809 [Thread-1] Destroying singletons in org.springframework.beans.factory.support.DefaultListableBeanFactory@5a8fb312: defining beans [messageSource,adunaAppVersion,adunaAppConfig,adunaWebappNavigation,adunaWebappCommonValuesInserter,adunaWebappMessageInserter,adunaWebappNavigationInserter,filenameViewController,viewResolver,adunaWebappSystemUrlMapping,adunaWebappSystemOverviewController,adunaWebappLoggingOverviewController,adunaWebappSystemInfoController,openrdfRepositoryManager,scopedTarget.openrdfRepositoryInterceptor,openrdfRepositoryInterceptor,openrdfProtocolUrlMapping,openrdfRepositoryListUrlMapping,openrdfRepositoryUrlMapping,openrdfServerHomeUrlMapping,openrdfHandlerExceptionResolver,openrdfProtocolController,openrdfRepositoryListController,openrdfRepositoryController,openrdfRepositoryContextsController,openrdfRepositoryNamespacesController,openrdfRepositoryNamespaceController,openrdfRepositorySizeController,openrdfRepositoryStatementsController,openrdfRepositoryGraphController]; root of factory hierarchy
+[INFO ] 2019-05-10 14:36:59,614 [main] Logback logging API implementation is configured.
+[INFO ] 2019-05-10 14:37:04,969 [main] FrameworkServlet 'openrdf-http-server': initialization completed in 10733 ms
+[INFO ] 2019-05-10 14:37:47,810 [repositories/kiln] POST query -2042401445
+[INFO ] 2019-05-10 14:37:47,931 [repositories/kiln] Request for query -2042401445 is finished
+[INFO ] 2019-05-10 14:37:52,206 [repositories/kiln] POST query -2042401445
+[INFO ] 2019-05-10 14:37:52,215 [repositories/kiln] Request for query -2042401445 is finished
+[INFO ] 2019-05-10 14:37:54,705 [repositories/kiln] POST query -2042401445
+[INFO ] 2019-05-10 14:37:54,712 [repositories/kiln] Request for query -2042401445 is finished
+[INFO ] 2019-05-10 14:37:57,838 [repositories/kiln] POST query -2042401445
+[INFO ] 2019-05-10 14:37:57,845 [repositories/kiln] Request for query -2042401445 is finished
+[INFO ] 2019-05-10 14:38:00,481 [repositories/kiln] POST query -2042401445
+[INFO ] 2019-05-10 14:38:00,485 [repositories/kiln] Request for query -2042401445 is finished
+[INFO ] 2019-05-10 14:38:30,522 [repositories/kiln] POST query -2042401445
+[INFO ] 2019-05-10 14:38:30,526 [repositories/kiln] Request for query -2042401445 is finished
+[INFO ] 2019-05-10 14:38:35,195 [repositories/kiln] POST query -2042401445
+[INFO ] 2019-05-10 14:38:35,200 [repositories/kiln] Request for query -2042401445 is finished
+[INFO ] 2019-05-10 14:38:37,667 [repositories/kiln] POST query -2042401445
+[INFO ] 2019-05-10 14:38:37,670 [repositories/kiln] Request for query -2042401445 is finished
+[INFO ] 2019-05-10 14:38:40,243 [repositories/kiln] POST query -2042401445
+[INFO ] 2019-05-10 14:38:40,248 [repositories/kiln] Request for query -2042401445 is finished
+[INFO ] 2019-05-10 15:41:47,760 [repositories/kiln] POST query -2042401445
+[INFO ] 2019-05-10 15:41:47,769 [repositories/kiln] Request for query -2042401445 is finished
+[INFO ] 2019-05-10 15:45:47,279 [Thread-1] Closing org.springframework.web.context.support.XmlWebApplicationContext@70b9cdcc: display name [WebApplicationContext for namespace 'openrdf-http-server-servlet']; startup date [Fri May 10 14:36:54 GET 2019]; root of context hierarchy
+[INFO ] 2019-05-10 15:45:47,284 [Thread-1] Destroying singletons in org.springframework.beans.factory.support.DefaultListableBeanFactory@5a8fb312: defining beans [messageSource,adunaAppVersion,adunaAppConfig,adunaWebappNavigation,adunaWebappCommonValuesInserter,adunaWebappMessageInserter,adunaWebappNavigationInserter,filenameViewController,viewResolver,adunaWebappSystemUrlMapping,adunaWebappSystemOverviewController,adunaWebappLoggingOverviewController,adunaWebappSystemInfoController,openrdfRepositoryManager,scopedTarget.openrdfRepositoryInterceptor,openrdfRepositoryInterceptor,openrdfProtocolUrlMapping,openrdfRepositoryListUrlMapping,openrdfRepositoryUrlMapping,openrdfServerHomeUrlMapping,openrdfHandlerExceptionResolver,openrdfProtocolController,openrdfRepositoryListController,openrdfRepositoryController,openrdfRepositoryContextsController,openrdfRepositoryNamespacesController,openrdfRepositoryNamespaceController,openrdfRepositorySizeController,openrdfRepositoryStatementsController,openrdfRepositoryGraphController]; root of factory hierarchy
+[INFO ] 2019-05-10 15:46:14,912 [main] Logback logging API implementation is configured.
+[INFO ] 2019-05-10 15:46:20,266 [main] FrameworkServlet 'openrdf-http-server': initialization completed in 10683 ms
+[INFO ] 2019-05-10 15:46:56,146 [repositories/kiln] POST query -2042401445
+[INFO ] 2019-05-10 15:46:56,304 [repositories/kiln] Request for query -2042401445 is finished
+[INFO ] 2019-05-10 15:46:56,433 [repositories/kiln] POST query -2042401445
+[INFO ] 2019-05-10 15:46:56,445 [repositories/kiln] Request for query -2042401445 is finished
+[INFO ] 2019-05-10 15:47:13,538 [repositories/kiln] POST query -2042401445
+[INFO ] 2019-05-10 15:47:13,548 [repositories/kiln] Request for query -2042401445 is finished
+[INFO ] 2019-05-10 15:47:15,644 [repositories/kiln] POST query -2042401445
+[INFO ] 2019-05-10 15:47:15,655 [repositories/kiln] Request for query -2042401445 is finished
+[INFO ] 2019-05-10 15:47:23,284 [repositories/kiln] POST query -2042401445
+[INFO ] 2019-05-10 15:47:23,289 [repositories/kiln] Request for query -2042401445 is finished
+[INFO ] 2019-05-10 15:54:57,545 [repositories/kiln] POST query -2042401445
+[INFO ] 2019-05-10 15:54:57,550 [repositories/kiln] Request for query -2042401445 is finished
+[INFO ] 2019-05-10 15:55:04,549 [repositories/kiln] POST query -2042401445
+[INFO ] 2019-05-10 15:55:04,552 [repositories/kiln] Request for query -2042401445 is finished
+[INFO ] 2019-05-10 15:55:06,626 [repositories/kiln] POST query -2042401445
+[INFO ] 2019-05-10 15:55:06,631 [repositories/kiln] Request for query -2042401445 is finished

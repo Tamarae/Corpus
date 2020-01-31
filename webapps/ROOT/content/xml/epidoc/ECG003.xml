@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.stoa.org/epidoc/schema/8.23/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.stoa.org/epidoc/schema/8.23/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:space="preserve" xml:lang="ka">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title xml:lang="ka">სეფიეთის კირქვის ფილა</title>
+                <editor>თინათინ ყაუხჩიშვილი</editor>
+            </titleStmt>
+            <publicationStmt>
+                <authority>ილიას სახელმწიფო უნივერსიტეტი, ლინგვისტურ კვლევათა ინსტიტუტი</authority>
+                 <idno type="filename">ECG003</idno>
+                <availability>
+                    <licence target="http://creativecommons.org/licenses/by-nc-sa/3.0/">
+                       დოკუმენტი ვრცელდება Creative Commons Attribution-NonCommercial-ShareAlike 3.0 ლიცენზიით.
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                     <collection>
+                         სეფიეთი
+                     </collection>
+                    </msIdentifier>
+                    <msContents>
+                        <summary>
+                            <seg xml:lang="ka">მოსახსენებელი</seg>
+                            <seg xml:lang="en"/>
+                        </summary>
+                    </msContents>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>                             
+                                   <material ref="http://www.eagle-network.eu/voc/material/lod/66">კირქვა</material>
+                                   <objectType ref="http://www.eagle-network.eu/voc/objtyp/lod/1483">ფილა</objectType>
+                                </support>
+                            </supportDesc>
+                                <layoutDesc>
+                                    <layout writtenLines="4">
+                                        <p>ფილის ფრაგმენტზე შემორჩენილია ბერძნული ასომთავრული წარწერის ნაწილი. დაცულია 3 სტრიქონის ასოები, IV სტრიქონიდან მოჩანს 2 ასოს მხოლოდ ზედა მცირე ნაწილი.</p>
+                                      <dimensions unit="cm">
+                                        <width>26</width>
+                                        <height>21</height>
+                                      </dimensions>
+                                    </layout>
+                                </layoutDesc>
+                        </objectDesc>                        
+                        <handDesc>
+                            <handNote>
+                                <p>წარწერა მკაფიო ჩაღრმავებული ასოებით არის შესრულებული. პირველი 2 სტრიქონი შედარებით უფრო მჭიდროდაა ნაწერი, III უფრო თავისუფლად; I სტრიქონი ოდნავ უფრო 
+                                მსხვილი ასოებითაა ნაწერი, ვიდრე მეორე.  წარწერაში ასოების სიმაღლე და განი დაახლოებით ერთნაირია. I-II სტრიქონებში ასოთა ვერტიკალური შტრიხები დაახლ. 4 სმ-ია, აბსოლუტურად მრგვალი 
+                                ο-ის დიამეტრი დაახლ. 3,5 სმ-ია. III სტრიქონის ρ-ს სიმაღლე დაახლ. 5 სმ-ია, ο-ს დიამეტრი განში მეტია, ვიდრე სიმაღლეში (4,5 და 4 სმ).</p>         
+                                <height unit="cm" precision="medium">4-5</height>
+                                <width unit="cm" precision="medium"></width>    
+                             </handNote>
+                        </handDesc>
+                        <decoDesc>
+                            <decoNote></decoNote>
+                        </decoDesc>
+                    </physDesc>
+                    <history>
+                            <origin>
+                                <origPlace>სეფიეთი</origPlace>
+                                <origDate notBefore="0501" notAfter="0700" precision="medium" 
+                                    evidence="lettering" datingMethod="#julian">VI-VII AD</origDate>
+                              </origin>
+                            <provenance type="found" when="1989">
+                                <placeName type ="ancientFindspot">სეფიეთი</placeName> 
+                                <rs type="circumstances">ფილა აღმოჩენილია ნოქალაქევის ექსპედიციის მიერ სეფიეთის მთავარანგელოზის ეკლესიის ირგვლივ თხრის დროს.</rs>
+                                <rs type="context"/>
+                                <rs type="monuList"/>
+                            </provenance>                        
+                            <provenance type="observed">
+                            <placeName type="modernSpot">სეფიეთი</placeName>
+                            <idno/>
+                        </provenance>
+                    </history>                   
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>         
+    <facsimile>
+        <surface>
+            <graphic url="ecg003.jpg">
+                <desc xml:lang="ka">სეფიეთის ფილა, 1989</desc>
+                <desc xml:lang="en">Sepieti plaque, 1989</desc>
+            </graphic>
+        </surface>
+    </facsimile>    
+    <text>
+        <body>
+            
+            <div type="bibliography">
+                <listBibl>
+                    <bibl n="1">თინათინ ყაუხჩიშვილი, საქართველოს ბერძნული წარწერების კორპუსი<ptr target="bibliography.xml#b130"/>, <citedRange>გვ. 122</citedRange></bibl>
+                </listBibl>
+            </div>
+            
+            <div type="edition" xml:lang="grc" xml:space="preserve">
+                
+                        <!-- [†ὑπὲρ εὐχ]ῆς δούλου Κ[λήμεντο]
+                            ς καὶ δ[ιαφε]
+                            ρόν[τ]ων [αὐτοῦ]
+                            ον                                                                                 -->
+                    <ab>
+                     <lb n="1"/><supplied reason="lost"><g type="cross">&#10013;</g></supplied><w lemma="ὑπερ"><supplied reason="lost">ὑπὲρ</supplied></w> <w lemma="εὐχή"><supplied reason="lost">εὐχ</supplied>ῆς</w> <w lemma="δοῦλος"><supplied reason="subaudible">δ</supplied>ούλου</w> <persName><name nymRef="Κλήμης">Κ<supplied reason="subaudible">λήμεντο</supplied>
+                     <lb n="2" break="no"/>ς</name></persName> <w lemma="καί">καὶ</w> <w lemma="ὁ">τῶν</w> <w lemma="διαφέρω">δ<supplied reason="lost">ιαφε</supplied>
+                     <lb n="3" break="no"/>ρόν<supplied reason="lost">τ</supplied>ων</w> <w lemma="αὐτος"><supplied reason="lost">αὐτοῦ</supplied>
+                     <lb n="4"/>ον</w> <!-- ბოლო ორი ხაზის შედარება კორპუსის აღდგენასთან -->
+                   </ab>    
+
+            </div>
+                
+            <div type="translation" xml:lang="ka">
+                <p>სალოცველად მონისა კლიმენტისა და მახლობელთა მისთა.</p>
+            </div>
+            
+           <div type="apparatus" xml:space="preserve">                                                                                                                                                          <!-- კრიტიკული აპარატი -->
+              <head>კრიტიკული აპარატი</head>
+              <p><app loc="1"><lem>δοῦλος</lem>
+              <rdg>წარწერის ტექსტში ვხვდებით სიტყვას - γούλου</rdg>
+              </app></p>
+            </div>
+           
+            <div type="commentary">
+                <p>ყურადღებას იპყრობს დაწერილობა γουλου, სიტყვისთვის δούλου, რაც ბერძნული ენის განვითარების მთელ მანძილზე გუტურალთა და დენტალთა მონაცვლეობით უნდა აიხსნას.</p>
+                <p>საკუთარი სახელი კლიმენტი - Κλήμεντος პირობითად არის აღდგენილი.</p>
+                <p>წარწერის დათარიღების საფუძველია ასოთა მოხაზულობა (Α, Δ, C, Υ), ο-ის ხმარება ω-ს ნაცვლად, გავრცელებული ფორმულა (ὑπὲρ εὐχῆς).</p>
+            </div>
+                   
+         </body>
+    </text>
+</TEI>

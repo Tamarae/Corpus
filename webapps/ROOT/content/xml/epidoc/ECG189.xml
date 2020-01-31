@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.stoa.org/epidoc/schema/8.23/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.stoa.org/epidoc/schema/8.23/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:space="preserve" xml:lang="ka">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>მიქაელ და გაბრიელ მთავარანგელოზთა განმარტებითი წარწერა</title>
+                <editor>გიორგი ოთხმეზური</editor>
+            </titleStmt>
+            <publicationStmt>
+                <authority>ილიას სახელმწიფო უნივერსიტეტი</authority>
+                <idno type="filename">ECG189</idno>
+                <availability><licence target="http://creativecommons.org/licenses/by-nc-sa/3.0/">
+                    დოკუმენტი ვრცელდება Creative Commons Attribution-NonCommercial-ShareAlike 3.0 ლიცენზიით</licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                    <collection>დმანისი</collection>
+                    </msIdentifier>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>
+                                    <objectType>სწორკუთხა ჯვრის კვარცხლბეკი</objectType>
+                                    <material>რუხი ფერის ქვა</material>
+                                    <dimensions>
+                                    <height>48</height>
+                                    <width>55</width>
+                                    <depth>70</depth>
+                                    </dimensions>
+                                </support>
+                            </supportDesc>
+                            <layoutDesc>
+                                <layout>
+                                    
+                                </layout>
+
+                            </layoutDesc>
+                        </objectDesc>
+                        <handDesc>
+                            <handNote script="asomtavruli">ასომთავრული წარწერა 
+                                <dimensions unit="mm">
+                                    <height/>
+                                </dimensions>    
+                            </handNote>
+                        </handDesc>
+                    </physDesc>
+                    <history>
+                        <origin>
+                            <origPlace>პანტიანი</origPlace>
+                            <origDate evidence ="lettering">VII</origDate>
+                        </origin>
+                        <provenance type="found" when="1966"></provenance>
+                        
+                    </history>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text><!-- 
+    1.  მ(ი)ქ(აე)ლ  გ(ა)ბ(რიე)ლ
+    -->
+        <body>
+
+            <div type="edition" xml:space="preserve">
+
+                <ab>
+                    <lb n="1"/><persName><expan><abbr>მ</abbr><ex>ი</ex><abbr>ქ</abbr><ex>აე</ex><abbr>ლ</abbr></expan></persName> <persName><expan><abbr>გ</abbr><ex>ა</ex><abbr>ბ</abbr><ex>რიე</ex><abbr>ლ</abbr></expan></persName>
+                </ab>
+                
+            </div>
+            <div type="translation"/>
+            
+            <div type="commentary">
+                <p>სწორკუთხა ჯვრის კვარცხლბეკის დას. წახნაგზე ამოკვეთილია ჯვრის ამაღლება მიქაელ და გაბრიელ მთავარანგელოზთა მიერ, განმარტებითი ასომთავრული
+                    წარწერით. 
+                    დაზიანება : ქვის ზედაპირი ნაწილობრივ დაფარულია მომწვანო-მოყვითალო ფერის საკმაოდ მყარი ხავსის მსგავსი მცენარით. 
+                    წარწერის დათარიღება წინა გამოცემაში: VIს. ის შუა ხანების ახლო (ჩუბინაშვილი); VII ს.(შოშიაშვილი)
+                    წარმოდგენილ გამოცემაში გაზიარებულია ნ. შოშიაშვილის მოცემული დათარიღება, VII ს. 
+                </p>
+                
+                <div type="bibliography"> 
+                    <listBibl>
+                      
+                  <bibl>
+                    <editor>
+                        <name>გიორგი</name>
+                        <surname>ოთხმეზური</surname>
+                    </editor>
+                    <title type="main">დმანისი</title> 
+                    <title type="sub">ქვემო ქართლის ეპიგრაფიკული კორპუსი</title>
+                    <bibl type="vol"></bibl>
+                    <bibl type="pp">82</bibl>
+                    <pubPlace>თბილისი</pubPlace> 
+                    <date>2018</date>
+                </bibl>
+                      
+                        <bibl> 
+                            <author>ნოდარ შოშიაშვილი</author> 
+                            <title type="main" level="a">ქართული წარწერების კორპუსი</title>
+                            <title level="s">ლაპიდარული წარწერები</title>
+                            <bibl type="vol">I</bibl>
+                            <bibl type="pp">99-100</bibl>
+                            <pubPlace>თბილისი</pubPlace>
+                            <date>1980</date>
+                        </bibl>
+                        <bibl> 
+                            <author>Н. Чубинашвили</author> 
+                            <title type="main" level="a">Проблема рельефа на приморе одной группй грузинских стел последней четверди V века VI и первой половины VII века </title>
+                            <title level="s">ლაპიდარული წარწერები</title>
+                            <bibl type="vol"></bibl>
+                            <bibl type="pp">53-54</bibl>
+                            <pubPlace>Тб.</pubPlace>
+                            <date>1972</date>
+                            
+                        </bibl>
+                        
+                    </listBibl>
+                </div>
+                
+            </div>
+        </body>
+    </text>
+</TEI>
+

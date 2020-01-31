@@ -1,0 +1,147 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.stoa.org/epidoc/schema/8.23/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.stoa.org/epidoc/schema/8.23/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:space="preserve" xml:lang="ka">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>ბოლნისის სიონის მოსახსენებელი ჩორაჩისა</title>
+                <editor>ნოდარ შოშიაშვილი</editor>
+            </titleStmt>
+            <publicationStmt>
+                <authority>ილიას სახელმწიფო უნივერსიტეტი, ლინგვისტურ კვლევათა ინსტიტუტი</authority>
+                <idno type="filename">ECG065</idno>
+                <availability>
+                    <licence target="http://creativecommons.org/licenses/by-nc-sa/3.0/">
+                        დოკუმენტი ვრცელდება Creative Commons Attribution-NonCommercial-ShareAlike 3.0 ლიცენზიით.
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <collection>ბოლნისი</collection>
+                    </msIdentifier>
+                    
+                    <msContents>
+                        <summary>
+                            <seg xml:lang="ka">მოსახსენებელი</seg>
+                            <seg xml:lang="en"/>
+                        </summary>
+                    </msContents>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>
+                                    <objectType ref="http://www.eagle-network.eu/voc/objtyp/lod/111">ჯვარი</objectType>
+                                    <material ref="http://www.eagle-network.eu/voc/material/lod/2">ქვა</material>
+                                    <dimensions unit="cm">
+                                        <height>41</height>
+                                        <width>12</width>
+                                    </dimensions>
+                                </support>
+                            </supportDesc>
+                            <layoutDesc>
+                                <layout writtenLines="7">
+                                    წარწერა შვიდსტრიქონიანია. ოთხწახნაგა ქვის (როგორც ჩანს, ქვაჯვრის ქვედა მკლავი) ქვედა ნაწილში გამოკვეთილია კვარცხლბეკის ბუდეში ჩასადგემელი ფეხი. 
+                                    ქვის ორი წახნაგი გლუვია, ერთზე გამოყვანილია რელიეფური, წიწვოვანი ორნამენტით შემკობილ ტარზე დასმულ მედალიონში ჩასმული ექვსყურა როზეტი. 
+                                    მეოთხე წახნაგზე ამოღარულია წარწერა.
+                                        <dimensions unit="cm"> 
+                                        <height/>
+                                        <width/>
+                                    </dimensions>
+                                   </layout>
+                            </layoutDesc>
+                        </objectDesc>                       
+                        <handDesc>
+                            <handNote script="asomtavruli" style="inscribed">
+                                <rs type="execution">ამოღარული</rs> <rs type="script">ასომთავრული</rs> წარწერა
+                                <height unit="cm">1-2</height>                              
+                            </handNote>
+                        </handDesc>
+                    </physDesc>           
+                    <history>
+                        <origin>
+                            <origPlace>ბოლნისის სიონი</origPlace>
+                           <origDate notBefore="0700" notAfter="0800">VIII AD</origDate>
+                        </origin>
+                        
+                        <provenance type="found" when="1937">
+                            <placeName type="ancientFindspot" ref="http://pleiades.stoa.org/places/863760">ბოლნისის სიონი</placeName>
+                            <!-- 41.389081, 44.512551 -->
+                            <rs type="monuList"/>
+                            <rs type="circumstances">ბოლნისის ტაძარი მდებარეობს ისტორიულ ქვემო ქართლში, 
+                                9 კმ. მანძილზე ქ. ბოლნისიდან სამხრეთით, 1 კმ. მანძილზე სოფ. ბონის-ხაჩინიდან. წარწერა 1937 წელს აღმოაჩინა კულტურულ ძეგლთა
+                            დაცვის კომიტეტის მიერ მოწყობილმა არქეოლოგიურმა ექსპედიციამ, რომელსაც ლევან მუსხელიშვილი ხელმძღვანელობდა.</rs>
+                            <rs type="context"/> 
+                        </provenance>                      
+                        <provenance type="observed">
+                            <placeName type="modernSpot" ref="http://museum.ge/">საქართველოს ეროვნული მუზეუმი</placeName>
+                             <idno type="invNo">135</idno>
+                        </provenance>
+                    </history>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <revisionDesc><change when="2019-10-29" who="Eka Kvirkvelia">ტექსტის სრული კოდირება, მეტამონაცემების სრული კოდირება, 
+            ბმულებით დაკავშირება ავტორიტეტულ წყაროსთან</change></revisionDesc>
+    </teiHeader>  
+    <facsimile>
+        <surface>
+            <graphic url="ecg065.jpg">
+                <desc xml:lang="ka">ბოლნისის სიონის მოსახსენებელი ჩორაჩისა</desc>
+                <desc xml:lang="en"></desc>
+            </graphic>
+        </surface>
+    </facsimile> 
+    <text>
+        <body>   
+             <div type="bibliography"> 
+                <listBibl>
+                    <bibl n="1">ნოდარ შოშიაშვილი, ქართული წარწერების კორპუსი, ლაპიდარული წარწერები<ptr target="bibliography.xml#b101"/>, <citedRange>გვ. 118</citedRange></bibl>
+                    <bibl n="2">ლევან მუსხელიშვილი, ბოლნისი<ptr target="bibliography.xml#b93"/>, <citedRange>გვ. 332-333</citedRange></bibl>
+                    <bibl n="3">საქართველოს სახელმწიფო მუზეუმის ქართული ეპიგრაფიკული ძეგლების კატალოგი<ptr target="bibliography.xml#b111"/>, <citedRange>გვ. 22</citedRange></bibl>
+                </listBibl>
+            </div> 
+            
+            <div type="edition" xml:space="preserve" xml:lang="ka"> 
+                              
+                    <!-- „ჩო
+                        რაჩ
+                        ქე შე
+                        ცოლ
+                        შვილი
+                        თურ
+                        თ"-->
+            
+                   <ab>
+                       <lb n="1"/><name nymRef="ჩორაჩ">ჩო
+                       <lb n="2" break="no"/>რაჩ</name>
+                       <lb n="3"/><w lemma="ქრისტე"><expan><abbr>ქ</abbr><ex>რისტ</ex><abbr>ე</abbr></expan></w> 
+                                <w lemma="შეწყალება"><expan><abbr>შ</abbr><ex>ეიწყალ</ex><abbr>ე</abbr></expan></w>
+                       <lb n="4"/><w lemma="ცოლ-შვილ">ცოლ 
+                       <lb n="5" break="no"/>შვილი
+                       <lb n="6" break="no"/>თურ
+                       <lb n="7" break="no"/>თ</w>
+                   </ab>                                                
+         </div>   
+
+            <div type="translation" xml:lang="ka">
+                <p>ქრისტე, შეიწყალე ჩორაჩ ცოლ-შვილთან ერთად.</p>                                                                                                                                                                                                                                                                      
+            </div>  
+            
+            <div type="apparatus" xml:space="preserve">  
+                <p><app loc="1"> <lem>ჩორაჩ</lem> 
+                 <rdg resp="აკაკი ბაქარაძე, ლევან მუსხელიშვილი">ჩორან</rdg>
+                 </app></p>
+                    </div>
+
+            <div type="commentary">
+                <p> ნოდარ შოშიაშვილის ქართული წარწერების კორპუსის მიხედვით #47. ქარაგმის ნიშნად გამოყენებულია საშუალო ზომის განივი, სწორი ხაზი. განკეთილობის ნიშნები არ ახლავს.
+                    წარწერის დათარიღების პალეოგრაფიული ნიშნებია: კუთხოვანი Ⴇ გრაფემა, ძლიერ გახსნილი Ⴐ, Ⴄ და Ⴊ ოდნავ შესამჩნევი მარცხნივ გაზიდული ხაზებით, 
+                    ზედა რკალშეკრული Ⴘ. 
+                  </p>
+               </div>          
+        </body>
+    </text>
+</TEI>

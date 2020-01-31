@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+<?xml-model href="http://www.stoa.org/epidoc/schema/8.23/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.stoa.org/epidoc/schema/8.23/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:space="preserve" xml:lang="ka">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>საფარის წმ. გიორგის ეკლესიის გრიგოლ ნაფშუენისძის წარწერა (II)</title>
+                <editor>ვალერი სილოგავა</editor>
+            </titleStmt>
+            <publicationStmt>
+                <authority>ილიას სახელმწიფო უნივერსიტეტი, ლინგვისტურ კვლევათა ინსტიტუტი</authority>
+                 <idno type="filename">ECG097</idno>
+                <availability>
+                    <licence target="http://creativecommons.org/licenses/by-nc-sa/3.0/">
+                       დოკუმენტი ვრცელდება Creative Commons Attribution-NonCommercial-ShareAlike 3.0 ლიცენზიით.
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <collection>საფარა</collection>
+                    </msIdentifier>
+                     <msContents>
+                        <summary>
+                            <seg xml:lang="ka">მოსახსენებელი</seg>
+                            <seg xml:lang="en"/>
+                        </summary>
+                    </msContents>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>                             
+                                    <objectType ref="http://www.eagle-network.eu/voc/objtyp/lod/1483">ფასადი</objectType>
+                                    <material ref="http://www.eagle-network.eu/voc/material/lod/2">ქვა</material>                                   
+                                      <dimensions unit="cm">
+                                        <width/>
+                                        <height/>
+                                        <depth/>
+                                      </dimensions>
+                                </support>
+                            </supportDesc>
+                                <layoutDesc>
+                                    <layout writtenLines="4">წარწერა ოთხსტრიქონიანია.
+                                        იგი შესრულებულია საფარის წმ. გიორგის სახელობის საშუალო ზომის დარბაზულ ეკლესიაზე, სამხრეთის კედლის
+                                    სარკმლის ზემოთ ჩასმულ ქვის ფილაზე
+                                        <dimensions unit="cm">
+                                         <width/>
+                                         <height/> 
+                                        </dimensions>  
+                                    </layout>                                   
+                                </layoutDesc>
+                        </objectDesc>                        
+                        <handDesc>
+                            <handNote script="asomtavruli" style="inscribed">
+                                 <rs type="execution">ამოღარული</rs> <rs type="script">ასომთავრული</rs> წარწერა
+                               <height></height> 
+                            </handNote>
+                        </handDesc>
+                    </physDesc>
+                    <history>
+                            <origin>
+                                <origPlace>საფარის მონასტერი</origPlace>
+                                 <origDate notBefore-custom="1400" notAfter-custom="1500" precision="medium" 
+                                    evidence="context" datingMethod="#julian">XV AD</origDate>
+                            </origin>
+                            <provenance type="found">
+                                <placeName type ="ancientFindspot">საფარის მონასტერი</placeName>
+                                <!-- "41.602116, 43.031036"--> 
+                                <rs type="circumstances"></rs>
+                                <rs type="context"></rs>
+                                <rs type="monuList"/>
+                            </provenance>                                
+                            <provenance type="observed">
+                                <placeName type="modernSpot">საფარის მონასტერი</placeName>
+                                <idno type="invNo"/>
+                            </provenance> 
+                    </history>                   
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <revisionDesc><change when="2019-10-29" who="Eka Kvirkvelia">ტექსტის სრული კოდირება, მეტამონაცემების სრული კოდირება, 
+            ბმულებით დაკავშირება ავტორიტეტულ წყაროსთან</change></revisionDesc>
+    </teiHeader>
+    <!--<facsimile>
+        <surface>
+            <graphic url="ecg097.jpg">
+                <desc xml:lang="ka">საფარის წმ. გიორგის ეკლესიის გრიგოლ ნაფშუენისძის წარწერა (II)</desc>
+                <desc xml:lang="en"></desc>
+            </graphic>
+        </surface>
+    </facsimile>--> 
+    <text>
+        <body>              
+            <div type="bibliography">
+              <listBibl>
+           <bibl n="1">ვალერი სილოგავა, სამცხის ლაპიდარული ეპიგრაფიკა<ptr target="bibliography.xml#b149"/>, <citedRange>გვ. 118-169</citedRange></bibl>
+              </listBibl> 
+            </div>
+
+            <div type="edition" xml:lang="ka" xml:space="preserve">
+                
+                        <!--  "† ამისა აღმშ
+                            ნბლსა გგლს
+                            მძღორსა შნ
+                            ღნ"--> 
+                                                            
+                <ab>
+                   <lb n="1"/>&#8224;<w lemma="ესე">ამისა</w> 
+                              <w lemma="აღმშენებელ"><expan><abbr>აღმშ</abbr>
+                   <lb n="2" break="no"/><ex>ე</ex><abbr>ნ</abbr><ex>ე</ex><abbr>ბ</abbr><ex>ე</ex><abbr>ლსა</abbr></expan></w> 
+                            <name nymRef="გრიგოლ" type="forename"><expan><abbr>გ</abbr><ex>რი</ex><abbr>გ</abbr><ex>ო</ex><abbr>ლს</abbr></expan></name>
+                   <lb n="3"/><roleName nymRef="მოძღუარ"><expan><abbr>მ</abbr><ex>ო</ex><abbr>ძღო</abbr><ex>ჳა</ex><abbr>რსა</abbr></expan></roleName>
+                            <w lemma="შენდობა"><expan><abbr>შ</abbr><ex>ეუნდვე</ex><abbr>ნ</abbr></expan></w>
+                   <lb n="4"/><w lemma="ღმერთ"><expan><abbr>ღ</abbr><ex>მერთმა</ex><abbr>ნ</abbr></expan></w>             
+                   </ab>
+               </div>           
+         <div type="translation" xml:lang="ka">
+             <p>† ამის (ტაძრის) აღმშენებელ გრიგოლ მოძღვარს შეუნდოს ღმერთმა.</p>
+         </div>    
+                             
+               <div type="commentary">
+                <p>საფარის მონასტერი ძველი დროიდანვე სხვადასხვა დანიშნულების 12 ნაგებობისაგან შედგებოდა. მათ შორის მთავარია წმ. საბას
+                   სახელობის ტაძარი, აგებული ბექა სამცხის სპასალარისა და მანდატურთუხუცესის მიერ XIII-XIV სს. მიჯნაზე. საფარაში ამაზე ძველი ეკლესიაც არსებობს, X ს-ის
+                   ღვთისმშობლის მიძინების სახელობის ტაძარი, რომელსაც ჩრდილოეთიდან მიდგმული აქვს ზემოხსენებული წმ. საბას ტაძარი. 
+                   ვალერი სილოგავას აზრით, წმინდა გიორგის ტაძარი, რომელზეც ეს წარწერაა შესრულებული, აგებულია XV საუკუნეში. მასზე შესრულებული წარწერებიც
+                   თანადროული უნდა იყოს. 
+               </p>                
+            </div>
+        </body>
+    </text>
+</TEI>

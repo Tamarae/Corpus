@@ -1,0 +1,62 @@
+[INFO ] 2019-04-21 00:03:22,049 [Thread-1] Closing org.springframework.web.context.support.XmlWebApplicationContext@70b9cdcc: display name [WebApplicationContext for namespace 'openrdf-http-server-servlet']; startup date [Sat Apr 20 23:17:02 GET 2019]; root of context hierarchy
+[INFO ] 2019-04-21 00:03:22,052 [Thread-1] Destroying singletons in org.springframework.beans.factory.support.DefaultListableBeanFactory@5a8fb312: defining beans [messageSource,adunaAppVersion,adunaAppConfig,adunaWebappNavigation,adunaWebappCommonValuesInserter,adunaWebappMessageInserter,adunaWebappNavigationInserter,filenameViewController,viewResolver,adunaWebappSystemUrlMapping,adunaWebappSystemOverviewController,adunaWebappLoggingOverviewController,adunaWebappSystemInfoController,openrdfRepositoryManager,scopedTarget.openrdfRepositoryInterceptor,openrdfRepositoryInterceptor,openrdfProtocolUrlMapping,openrdfRepositoryListUrlMapping,openrdfRepositoryUrlMapping,openrdfServerHomeUrlMapping,openrdfHandlerExceptionResolver,openrdfProtocolController,openrdfRepositoryListController,openrdfRepositoryController,openrdfRepositoryContextsController,openrdfRepositoryNamespacesController,openrdfRepositoryNamespaceController,openrdfRepositorySizeController,openrdfRepositoryStatementsController,openrdfRepositoryGraphController]; root of factory hierarchy
+[INFO ] 2019-04-21 00:03:37,899 [main] Logback logging API implementation is configured.
+[INFO ] 2019-04-21 00:03:38,186 [main] FrameworkServlet 'openrdf-http-server': initialization completed in 760 ms
+[INFO ] 2019-04-21 00:04:06,158 [repositories/kiln] POST query -1227659729
+[INFO ] 2019-04-21 00:04:06,304 [repositories/kiln] Request for query -1227659729 is finished
+[INFO ] 2019-04-21 00:04:48,630 [repositories/kiln] POST query -1227659729
+[INFO ] 2019-04-21 00:04:48,653 [repositories/kiln] Request for query -1227659729 is finished
+[INFO ] 2019-04-21 00:04:51,125 [repositories/kiln] POST query -1227659729
+[INFO ] 2019-04-21 00:04:51,139 [repositories/kiln] Request for query -1227659729 is finished
+[INFO ] 2019-04-21 00:17:13,023 [Thread-1] Closing org.springframework.web.context.support.XmlWebApplicationContext@70b9cdcc: display name [WebApplicationContext for namespace 'openrdf-http-server-servlet']; startup date [Sun Apr 21 00:03:37 GET 2019]; root of context hierarchy
+[INFO ] 2019-04-21 00:17:13,026 [Thread-1] Destroying singletons in org.springframework.beans.factory.support.DefaultListableBeanFactory@5a8fb312: defining beans [messageSource,adunaAppVersion,adunaAppConfig,adunaWebappNavigation,adunaWebappCommonValuesInserter,adunaWebappMessageInserter,adunaWebappNavigationInserter,filenameViewController,viewResolver,adunaWebappSystemUrlMapping,adunaWebappSystemOverviewController,adunaWebappLoggingOverviewController,adunaWebappSystemInfoController,openrdfRepositoryManager,scopedTarget.openrdfRepositoryInterceptor,openrdfRepositoryInterceptor,openrdfProtocolUrlMapping,openrdfRepositoryListUrlMapping,openrdfRepositoryUrlMapping,openrdfServerHomeUrlMapping,openrdfHandlerExceptionResolver,openrdfProtocolController,openrdfRepositoryListController,openrdfRepositoryController,openrdfRepositoryContextsController,openrdfRepositoryNamespacesController,openrdfRepositoryNamespaceController,openrdfRepositorySizeController,openrdfRepositoryStatementsController,openrdfRepositoryGraphController]; root of factory hierarchy
+[INFO ] 2019-04-21 00:17:29,413 [main] Logback logging API implementation is configured.
+[INFO ] 2019-04-21 00:17:29,869 [main] FrameworkServlet 'openrdf-http-server': initialization completed in 834 ms
+[INFO ] 2019-04-21 00:25:07,806 [repositories/kiln] POST query -1227659729
+[INFO ] 2019-04-21 00:25:07,946 [repositories/kiln] Request for query -1227659729 is finished
+[INFO ] 2019-04-21 00:25:11,275 [repositories/kiln] POST query -1227659729
+[INFO ] 2019-04-21 00:25:11,291 [repositories/kiln] Request for query -1227659729 is finished
+[INFO ] 2019-04-21 00:27:24,590 [repositories/kiln] POST query -1227659729
+[INFO ] 2019-04-21 00:27:24,613 [repositories/kiln] Request for query -1227659729 is finished
+[INFO ] 2019-04-21 00:28:08,670 [repositories/kiln] POST query -1227659729
+[INFO ] 2019-04-21 00:28:08,686 [repositories/kiln] Request for query -1227659729 is finished
+[INFO ] 2019-04-21 00:28:19,584 [repositories/kiln] POST query -1227659729
+[INFO ] 2019-04-21 00:28:19,604 [repositories/kiln] Request for query -1227659729 is finished
+[INFO ] 2019-04-21 00:28:22,236 [repositories/kiln] POST query -1227659729
+[INFO ] 2019-04-21 00:28:22,255 [repositories/kiln] Request for query -1227659729 is finished
+[INFO ] 2019-04-21 00:28:23,769 [repositories/kiln] POST query -1227659729
+[INFO ] 2019-04-21 00:28:23,783 [repositories/kiln] Request for query -1227659729 is finished
+[INFO ] 2019-04-21 00:28:28,202 [repositories/kiln] POST query -1227659729
+[INFO ] 2019-04-21 00:28:28,225 [repositories/kiln] Request for query -1227659729 is finished
+[INFO ] 2019-04-21 00:28:29,135 [repositories/kiln] POST query -1227659729
+[INFO ] 2019-04-21 00:28:29,147 [repositories/kiln] Request for query -1227659729 is finished
+[INFO ] 2019-04-21 00:28:30,964 [repositories/kiln] POST query -1227659729
+[INFO ] 2019-04-21 00:28:30,976 [repositories/kiln] Request for query -1227659729 is finished
+[INFO ] 2019-04-21 00:29:47,430 [repositories/kiln] POST query -1227659729
+[INFO ] 2019-04-21 00:29:47,444 [repositories/kiln] Request for query -1227659729 is finished
+[INFO ] 2019-04-21 00:33:00,435 [repositories/kiln] POST query -1227659729
+[INFO ] 2019-04-21 00:33:00,446 [repositories/kiln] Request for query -1227659729 is finished
+[INFO ] 2019-04-21 00:36:29,183 [repositories/kiln] POST query -1227659729
+[INFO ] 2019-04-21 00:36:29,196 [repositories/kiln] Request for query -1227659729 is finished
+[INFO ] 2019-04-21 00:37:00,601 [repositories/kiln] POST query -1227659729
+[INFO ] 2019-04-21 00:37:00,611 [repositories/kiln] Request for query -1227659729 is finished
+[INFO ] 2019-04-21 00:37:03,206 [repositories/kiln] POST query -1227659729
+[INFO ] 2019-04-21 00:37:03,215 [repositories/kiln] Request for query -1227659729 is finished
+[INFO ] 2019-04-21 00:37:22,167 [repositories/kiln] POST query -1227659729
+[INFO ] 2019-04-21 00:37:22,177 [repositories/kiln] Request for query -1227659729 is finished
+[INFO ] 2019-04-21 00:37:23,855 [repositories/kiln] POST query -1227659729
+[INFO ] 2019-04-21 00:37:23,866 [repositories/kiln] Request for query -1227659729 is finished
+[INFO ] 2019-04-21 00:37:26,053 [repositories/kiln] POST query -1227659729
+[INFO ] 2019-04-21 00:37:26,062 [repositories/kiln] Request for query -1227659729 is finished
+[INFO ] 2019-04-21 00:37:28,759 [repositories/kiln] POST query -1227659729
+[INFO ] 2019-04-21 00:37:28,773 [repositories/kiln] Request for query -1227659729 is finished
+[INFO ] 2019-04-21 00:37:30,451 [repositories/kiln] POST query -1227659729
+[INFO ] 2019-04-21 00:37:30,456 [repositories/kiln] Request for query -1227659729 is finished
+[INFO ] 2019-04-21 00:37:35,292 [repositories/kiln] POST query -1227659729
+[INFO ] 2019-04-21 00:37:35,298 [repositories/kiln] Request for query -1227659729 is finished
+[INFO ] 2019-04-21 00:37:37,159 [repositories/kiln] POST query -1227659729
+[INFO ] 2019-04-21 00:37:37,167 [repositories/kiln] Request for query -1227659729 is finished
+[INFO ] 2019-04-21 00:38:27,467 [repositories/kiln] POST query -1227659729
+[INFO ] 2019-04-21 00:38:27,474 [repositories/kiln] Request for query -1227659729 is finished
+[INFO ] 2019-04-21 00:38:43,387 [repositories/kiln] POST query -1227659729
+[INFO ] 2019-04-21 00:38:43,395 [repositories/kiln] Request for query -1227659729 is finished

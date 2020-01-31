@@ -1,0 +1,138 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.stoa.org/epidoc/schema/8.23/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.stoa.org/epidoc/schema/8.23/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:space="preserve" xml:lang="ka">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>ზემო ნიქოზის ღვთაების ტაძრის საამშენებლო წარწერა ეპისკოპოსისა</title>
+                <editor>ნოდარ შოშიაშვილი</editor>
+            </titleStmt>
+            <publicationStmt>
+                <authority>ილიას სახელმწიფო უნივერსიტეტი, ლინგვისტურ კვლევათა ინსტიტუტი</authority>
+                 <idno type="filename">ECG023</idno>
+                <availability>
+                    <licence target="http://creativecommons.org/licenses/by-nc-sa/3.0/">
+                       დოკუმენტი ვრცელდება Creative Commons Attribution-NonCommercial-ShareAlike 3.0 ლიცენზიით.
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                   <msIdentifier>
+                        <collection>ზემო ნიქოზი</collection>
+                    </msIdentifier>
+                    
+                    <msContents>
+                        <summary>
+                            <seg xml:lang="ka">საამშენებლო</seg>
+                            <seg xml:lang="en"/>
+                        </summary>
+                    </msContents>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>                             
+                                   <material ref="http://www.eagle-network.eu/voc/material/lod/2">ქვა</material>
+                                   <objectType ref="http://www.eagle-network.eu/voc/objtyp/lod/1483">ფასადი</objectType>
+                                <dimensions unit="cm">
+                                        <width/>
+                                        <height/>
+                                    </dimensions>
+                                </support>
+                            </supportDesc>
+                                <layoutDesc>
+                                    <layout writtenLines="3"> 
+                                        წარწერა 3 სტრიქონიანია. იგი ამოკვეთილია ტაძრის სამხრეთის ფასადის ზემო აღმოსავლეთ კუთხეში, კარნიზის ქვემოთ, 
+                                    კედლის წყობის სწორკუთხა ქვაზე. ქვის დადაბლებულ ფონზე გარშემო უვლის იმავე ქვის რელიეფური ჩარჩო.                                                              
+                                        <dimensions unit="cm">
+                                            <width>32</width>
+                                            <height>20</height>
+                                        </dimensions>
+                                    </layout>
+                                </layoutDesc>
+                        </objectDesc>                        
+                        <handDesc>                               
+                            <handNote script="asomtavruli" style="embossed">
+                                <rs type="execution">რელიეფური</rs> <rs type="script">ასომთავრული</rs> წარწერა                   
+                                <height>4,5-6</height>
+                            </handNote>
+                        </handDesc>
+                    </physDesc>
+                    <history>
+                            <origin>
+                                <origPlace>ზემო ნიქოზი, ღვთაების ტაძარი</origPlace>
+                                <origDate notBefore-custom="0900" notAfter-custom="1000" precision="medium" 
+                                    evidence="lettering" datingMethod="#julian">X AD</origDate>
+                            </origin>
+                            <provenance type="found">
+                                <placeName type="ancientFindspot">ზემო ნიქოზი, ღვთაების ტაძარი</placeName> 
+                                <!--  "42.199704, 43.958037"-->
+                                <rs type="circumstances"></rs> 
+                                <rs type="context"/>
+                                <rs type="monuList"/>
+                            </provenance> 
+                             <provenance type="observed">
+                            <placeName type="modernSpot">ზემო ნიქოზი, ღვთაების ტაძარი</placeName>
+                            <idno type="invNo"/>
+                        </provenance>                 
+                    </history>                   
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+     <revisionDesc><change when="2019-11-05" who="Eka Kvirkvelia">ტექსტის სრული კოდირება, მეტამონაცემების სრული კოდირება, 
+            ბმულებით დაკავშირება ავტორიტეტულ წყაროსთან</change></revisionDesc>
+    </teiHeader>
+    
+    <facsimile>
+        <surface>
+            <graphic url="ecg023.jpg">
+                <desc xml:lang="ka">ზემო ნიქოზის ღვთაების ტაძრის საამშენებლო წარწერა ეპისკოპოსისა</desc>
+                <desc xml:lang="en"></desc>
+            </graphic>
+        </surface>
+    </facsimile>
+    
+    <text>
+        <body>
+         <div type="bibliography">
+             <listBibl>           
+              <bibl n="1">ნოდარ შოშიაშვილი, ქართული წარწერების კორპუსი<ptr target="bibliography.xml#b101"/>, <citedRange>გვ. 187-188</citedRange></bibl>
+              <bibl n="2">ივანე მეგრელიძე, სტალინირის და ზემო ნიქოზის სიძველეები<ptr target="bibliography.xml#b83"/>, <citedRange>გვ. 54</citedRange></bibl>
+              <bibl n="3">Р. Меписавили, В. Цинцадзе, Архитектура нагорной части исторической провинции Грузии – Шида Картли<ptr target="bibliography.xml#b50"/>, <citedRange>ст. 12</citedRange></bibl>
+            </listBibl>
+            </div> 
+            
+            <div type="edition" xml:lang="ka" xml:space="preserve">
+                
+                        <!--  "† [ამენ მქლ] ეპი
+                            სკპზმნ აღვ
+                            შნე წჲ ეკლსჲ"-->
+                                 
+                <ab>
+                   <lb n="1"/>† <w lemma="ამენ"><supplied reason="lost">ამენ</supplied></w> 
+                        <name nymRef="მიქაელ"><supplied reason="lost"><expan><abbr>მ</abbr><ex>ი</ex><abbr>ქ</abbr><ex>აე</ex><abbr>ლ</abbr></expan></supplied></name> 
+                        <roleName><w lemma="ეპისკოპოს"><expan><abbr>ეპი
+                   <lb n="2" break="no"/>სკ</abbr><ex>ო</ex><abbr>პ</abbr><ex>ო</ex><abbr>ზმ</abbr><ex>ა</ex><abbr>ნ</abbr></expan></w></roleName> 
+                            <w lemma="აშენება"><expan><abbr>აღვ</abbr>
+                   <lb n="3" break="no"/><ex>ა</ex><abbr>შ</abbr><ex>ე</ex><abbr>ნე</abbr></expan></w> 
+                    <w lemma="წმიდა"><expan><abbr>წ</abbr><ex>მიდა</ex><abbr>ჲ</abbr></expan></w> 
+                    <w lemma="ეკლესია"><expan><abbr>ეკლ</abbr><ex>ე</ex><abbr>ს</abbr><ex>ია</ex><abbr>ჲ</abbr></expan></w>
+                  </ab>
+             
+            </div>
+                
+            <div type="translation" xml:lang="ka">
+                <p>ამენ. მიქაელ ეპისკოპოსმა აღვაშენე წმიდა ეკლესია.</p>
+            </div>
+            
+            <div type="apparatus"/>
+                               
+            
+            <div type="commentary">
+                <p> ნოდარ შოშიაშვილის ქართული წარწერების კორპუსის მიხედვით #95. წარწერას განკვეთილობის ნიშნები არ ახლავს. სიტყვები ერთმანეთისგან დაცილებულია. ქარაგმის ნიშანი - მოკლე, სწორი, განივი ხაზი.
+                პალეოგრაფიული ნიშნები: გრაფემების გაკუთხოვანება, სიტყვების დაცილება, რელიეფურობა.</p>
+            </div>                 
+         </body>
+    </text>
+</TEI>
