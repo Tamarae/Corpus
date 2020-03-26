@@ -5,8 +5,8 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>ქობერის მონასტრის წარწერა (I)</title>
-                <editor></editor>
+                <title>ქობაირის მონასტრის შაჰანშა მანდატურთუხუცესის ძის, ბერი გიორგის, წარწერა</title>
+                <editor>ლეონ მელიქსეთ-ბეგი</editor>
             </titleStmt>
             <publicationStmt>
                 <authority>ილიას სახელმწიფო უნივერსიტეტი, ლინგვისტურ კვლევათა ინსტიტუტი</authority>
@@ -20,14 +20,11 @@
             <sourceDesc>
                 <msDesc>
                        <msIdentifier>
-                        <collection>
-                           ქობერი
-                        </collection>
-                    </msIdentifier>
-                    
+                        <collection>ქობაირი</collection>
+                    </msIdentifier>        
                     <msContents>
                         <summary>
-                            <seg xml:lang="ka">ეპიტაფია</seg>
+                            <seg xml:lang="ka">მოსახსენებელი</seg>
                             <seg xml:lang="en"/>
                         </summary>
                     </msContents>  
@@ -45,8 +42,8 @@
                                 </support>
                             </supportDesc>
                                 <layoutDesc>
-                                    <layout>წარწერა მდებარეობს მთავარი ეკლესიის შესასვლელის მარცხნივ და მარჯვნივ, ორ ნაწილად.
-                                            I ნაწილი შვიდსტრიქონიანია, II - ხუთსტრიქონიანი.                                  
+                                    <layout>წარწერა მდებარეობს მთავარი ეკლესიის ჩრდილოეთ ფასადზე, შესასვლელი კარის მარცხნივ (აღმოსავლეთით)
+                                        და მარჯვნივ (დასავლეთით), ორ ნაწილად. I ნაწილი შვიდსტრიქონიანია, II - ხუთსტრიქონიანი                                 
                                       <dimensions unit="cm">
                                          <width/>
                                          <height/> 
@@ -55,53 +52,55 @@
                                 </layoutDesc>
                         </objectDesc>                        
                         <handDesc>
-                            <handNote>
-                                <rs type="execution">ამოღარული</rs> <rs type="script">ასომთავრული</rs> წარწერა.
+                            <handNote script="asomtavruli" style="inscribed">
+                                <rs type="execution">ამოღარული</rs> <rs type="script">ასომთავრული</rs> წარწერა
                                    <height></height> 
                             </handNote>
                         </handDesc>
                     </physDesc>
                     <history>
                             <origin>
-                                <origPlace>ქობერის მონასტერი, სომხეთი</origPlace>
+                                <origPlace>ქობაირის მონასტერი, სომხეთი</origPlace>
                                 <origDate evidence="lettering" datingMethod="#julian">1292 AD</origDate>
                             </origin>
                             <provenance type="found">
-                                <placeName type ="ancientFindspot">ქობერის მონასტერი, სომხეთი</placeName>
+                                <placeName type ="ancientFindspot">ქობაირის მონასტერი, სომხეთი</placeName>
                                 <!-- "41.005061, 44.635086"--> 
                                 <rs type="circumstances"></rs>
                                 <rs type="context"/>
                                 <rs type="monuList"/></provenance>                                
                             <provenance type="observed">
-                                <placeName type="modernSpot">ქობერის მონასტერი, სომხეთი</placeName>
+                                <placeName type="modernSpot">ქობაირის მონასტერი, სომხეთი</placeName>
                                 <idno type="invNo"/></provenance> 
                     </history>                   
                 </msDesc>
             </sourceDesc>
         </fileDesc>
+        <revisionDesc><change when="2019-12-17" who="Eka Kvirkvelia">ტექსტის სრული კოდირება, მეტამონაცემების სრული კოდირება, 
+            ბმულებით დაკავშირება ავტორიტეტულ წყაროსთან</change></revisionDesc>
     </teiHeader>
+    <facsimile>
+        <surface>
+            <graphic url="ecg349.jpg">
+                <desc xml:lang="ka">ქობაირის მონასტრის შაჰანშა მანდატურთუხუცესის ძის, ბერი გიორგის წარწერა</desc>
+                <desc xml:lang="en"></desc>
+            </graphic>
+             <graphic url="ecg349a.jpg">
+                <desc xml:lang="ka">ქობაირის მონასტრის შაჰანშა მანდატურთუხუცესის ძის, ბერი გიორგის წარწერა</desc>
+                <desc xml:lang="en"></desc>
+            </graphic>
+           </surface>
+    </facsimile>
     <text>
         <body>           
               <div type="bibliography">
-                <listBibl>                               
-                    <bibl>
-                        <author>
-                            <persName>
-                               <forename>ლეონ</forename>
-                               <surname>მელიქსეთ-ბეგი</surname>
-                            </persName>    
-                          </author>
-                        <title level="a">ქობერი და მისი სომხური და ქართული წარწერები</title>                    
-                    <bibl type="journal">
-                        <title level="j">ჟურნალი "ტფილისის უნივერსიტეტის მოამბე"</title>
-                        <pubPlace>თბილისი</pubPlace>
-                        <publisher></publisher>
-                        <date>1927</date>
-                        <biblScope unit="issue">7</biblScope>
-                        <biblScope unit="pp">გვ. 60-73</biblScope>
-                         </bibl>
-                    </bibl>
-                </listBibl>
+               <listBibl>
+    <bibl n="1">ლეონ მელიქსეთ-ბეგი, ქობერი და მისი სომხური და ქართული წარწერები<ptr target="bibliography.xml#b169"/>, <citedRange>გვ. 60-73</citedRange></bibl>
+    <bibl n="2">M. Brosset, Rapports sur un Voyage Archéologiqye dans la Géorgia et dans l'Academie, Exécute en 1847-1848<ptr target="bibliography.xml#b170"/>, <citedRange>pp. 136-137, 139-140</citedRange></bibl>
+    <bibl n="3">თედო ჟორდანია, ქრონიკები და სხვა მასალა საქართველოს ისტორიისა და მწერლობისა<ptr target="bibliography.xml#b171"/>, <citedRange>გვ. 168</citedRange></bibl>
+    <bibl n="4">პარუირ მურადიანი, სომხეთის ქართული წარწერები, წყაროთმცოდნეობითი გამოკვლევა (სომხურ ენაზე)<ptr target="bibliography.xml#b166"/>, <citedRange>გვ. 171-173, 296, ტაბ. XVII, სურ. 1 და 2</citedRange></bibl>            
+    <bibl n="5">შოთა მესხია, საშინაო პოლიტიკური ვითარება და სამოხელეო წყობა XII საუკუნის საქართველოში<ptr target="bibliography.xml#b172"/>, <citedRange>გვ. 270</citedRange></bibl>       
+               </listBibl>
               </div>
             
             <div type="edition" xml:lang="ka" xml:space="preserve">
@@ -112,25 +111,25 @@
                                 ძემნ ბერმნ გ~ი შეწევნჲთა ამჲს ყდ წისთა | დიდსა იწროებსა შა ჟმთსა დავფიქლე ეკლესიაჲ ეს
                                 ე ქოეშეთ კარის ბჭითორთ და დალეწილნი ზედა | ით ქვისგნ მევე შევჰკზმენ სჴსრად ჩემდა მწრეთა ცო
                                 დვთა ჩემთათოჲს და დავჰჴსენ მჲმძლავრ | ებით წანაღები ზუარი რატისეული მეზურჲთა 
-                                და ამასვე ეკლესიასა საზედაშედ მოვაჴ | სენე უცხო თესლთგნ წანღები † --> 
+                                და ამასვე ეკლესიასა საზედაშედ მოვაჴ | სენე უცხო თესლთგნ წანღები --> 
                                                            
                 <ab>
                    <lb n="1"/><rs type="date"><w lemma="ქორონიკონ"><expan><abbr>ქ</abbr><ex>ორონი</ex><abbr>კ</abbr><ex>ო</ex><abbr>ნსა</abbr></expan></w>
                     <lb n="2"/><num value="6896">ხყჟვ</num></rs>
                     <lb n="3"/>&#8224;<w lemma="მოწყალება"><expan><abbr>მ</abbr><ex>ო</ex><abbr>წყ</abbr><ex>ა</ex><abbr>ლ</abbr><ex>ე</ex><abbr>ბითა</abbr></expan></w>
                               <w lemma="ღმერთ"><expan><abbr>ღ</abbr><ex>მრთი</ex><abbr>საითა</abbr></expan></w> 
-                                <w lemma="და">და</w> 
+                                და 
                                 <w lemma="მეოხება">მეოხებჲთა</w> 
                                 <w lemma="ყოველ"><expan><abbr>ყ</abbr><ex>ოვლა</ex><abbr>დ</abbr></expan></w> 
                                 <w lemma="წმიდა"><expan><abbr>წ</abbr><ex>მიდ</ex><abbr>ისა</abbr></expan></w> 
                                  <w lemma="შაშიან"><expan><abbr>შ</abbr><ex>ა</ex><abbr>შ</abbr><ex>ია</ex><abbr>ნ</abbr><ex>ი</ex><abbr>სა</abbr></expan></w> 
                                 <w lemma="ღმრთისმშობელ"><expan><abbr>ღ</abbr><ex>მრთ</ex><abbr>ისმშ</abbr><ex>ო</ex><abbr>ბელისაჲთა</abbr></expan></w> 
                                 <w lemma="მე">მე</w> 
-                                <placeName nymRef="შაჰანშა"><expan><abbr>შ</abbr><ex>ა</ex><abbr>ჰ</abbr><ex>ა</ex><abbr>ნშ</abbr><ex>ა</ex><abbr>ს</abbr></expan></placeName> 
+                                <name nymRef="შაჰანშა"><expan><abbr>შ</abbr><ex>ა</ex><abbr>ჰ</abbr><ex>ა</ex><abbr>ნშ</abbr><ex>ა</ex><abbr>ს</abbr></expan></name> 
                                 <roleName nymRef="მანდატურთუხუცეს"><expan><abbr>მ</abbr><ex>ა</ex><abbr>ნდატ</abbr><ex>უ</ex><abbr>რთუხუცესისა</abbr></expan></roleName>
                     <lb n="4"/><w lemma="ძე"><expan><abbr>ძემ</abbr><ex>ა</ex><abbr>ნ</abbr></expan></w> 
                                 <w lemma="ბერ"><expan><abbr>ბერმ</abbr><ex>ა</ex><abbr>ნ</abbr></expan></w> 
-                                <persName><name nymRef="გიორგი"><expan><abbr>გ</abbr><ex>იორგ</ex><abbr>ი</abbr></expan></name></persName> 
+                                <name nymRef="გიორგი"><expan><abbr>გ</abbr><ex>იორგ</ex><abbr>ი</abbr></expan></name> 
                                     <w lemma="შეწევნა">შეწევნჲთა</w> 
                                     <w lemma="ესე">ამჲს</w> 
                                     <w lemma="ყოველ"><expan><abbr>ყ</abbr><ex>ოვლა</ex><abbr>დ</abbr></expan></w> 
@@ -146,9 +145,9 @@
                                     <w lemma="ქუეშე">ქოეშეთ</w> 
                                     <w lemma="კარ">კარის</w> 
                                     <w lemma="ბჭე"><expan><abbr>ბჭითო</abbr><ex>ჳ</ex><abbr>რთ</abbr></expan></w> 
-                                    <w lemma="და">და</w> 
+                                    და 
                                     <w lemma="დალეწილ">დალეწილნი</w> 
-                                    <w lemma="ზედა">ზედა ით</w> 
+                                    <w lemma="ზედა">ზედაით</w> 
                                     <w lemma="ქვა"><expan><abbr>ქვის</abbr><ex>ა</ex><abbr>გ</abbr><ex>ა</ex><abbr>ნ</abbr></expan></w> 
                                     <w lemma="მე">მევე</w> 
                                     <w lemma="შეკაზმვა">შევჰკზმენ</w> 
@@ -158,21 +157,21 @@
                                     <w lemma="ცოდვა"><expan><abbr>ცო
                     <lb n="6" break="no"/>დვ</abbr><ex>ა</ex><abbr>თა</abbr></expan></w> 
                                     <w lemma="მე"><expan><abbr>ჩემთათო</abbr><ex>ჳ</ex><abbr>ჲს</abbr></expan></w> 
-                                    <w lemma="და">და</w> 
+                                    და 
                                     <w lemma="დაჴსნა">დავჰჴსენ</w> 
                                     <w lemma="მიმძლავრება">მჲმძლავრებით</w> 
                                     <w lemma="წანაღებ">წანაღები</w> 
                                     <w lemma="ზუარ">ზუარი</w> 
-                                    <persName><name nymRef="რატი">რატისეული</name></persName> 
+                                    <name nymRef="რატი">რატისეული</name> 
                                     <w lemma="მეზურე">მეზურჲთა</w>
-                    <lb n="7"/><w lemma="და">და</w> 
+                    <lb n="7"/>და 
                                 <w lemma="ესე">ამასვე</w> 
                                     <w lemma="ეკლესია">ეკლესიასა</w> 
                                     <w lemma="საზედაშე">საზედაშედ</w> 
                                     <w lemma="მოხსენება">მოვაჴსენე</w> 
                                     <w lemma="უცხო">უცხო</w> 
                                     <w lemma="თესლ"><expan><abbr>თესლთ</abbr><ex>ა</ex><abbr>გ</abbr><ex>ა</ex><abbr>ნ</abbr></expan></w> 
-                                    <w lemma="წანაღებ"><expan><abbr>წან</abbr><ex>ა</ex><abbr>ღები</abbr></expan></w>&#8224;
+                                    <w lemma="წანაღებ"><expan><abbr>წან</abbr><ex>ა</ex><abbr>ღები</abbr></expan></w>
                     </ab>
                </div>
              <div type="apparatus"/>

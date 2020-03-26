@@ -36,9 +36,7 @@
                             <supportDesc>
                                 <support>                             
                                    <material></material>
-                                   <objectType ref="https://www.eagle-network.eu/voc/objtyp/lod/178">ფრესკა</objectType>
-                                </support>
-                            </supportDesc>
+                                   <objectType ref="https://www.eagle-network.eu/voc/objtyp/lod/178">ფრესკა</objectType></support></supportDesc>
                                 <layoutDesc>
                                     <layout>
                                        ტიმოთესუბნის ღვთისმშობლის ტაძრის ფრესკებზე მრავალი ქართული, ვრცელი ასომთავრული წარწერის გვერდით არის რაოდენობის მხრივ უმნიშვნელო ბერძნული წარწერებიც.                       
@@ -120,13 +118,13 @@
                                   <w lemma="μήτηρ"><expan><abbr>μ</abbr><ex>ήτη</ex><abbr>ρ</abbr></expan></w> <w lemma="θεός"><expan><abbr>θ</abbr><ex>εο</ex><abbr>ῦ</abbr></expan></w> 
                                  <persName type="divine"><name nymRef="Ἰησοῦς"><expan><abbr>Ἰ</abbr><ex>ησοῦ</ex><abbr>ς</abbr></expan></name> <name nymRef="Χριστός"><expan><abbr>Χ</abbr><ex>ριστὸ</ex><abbr>ς</abbr></expan></name></persName>
                                  <w lemma="ὁ">ὁ</w> <w lemma="πρόδρομος">πρόδρομος</w>
-                                 <persName type="saint"><w lemma="ὁ">ὁ</w> <w lemma="ἀρχάγγελος"><expan><abbr>ἀρχ</abbr><ex>άγγελος</ex></expan></w> <name nymRef="ἀρχάγγελος Ραφαήλ">Ραφα<choice><reg>ή</reg><orig>ι</orig></choice>λ</name></persName>
-                                 <persName type="saint"><w lemma="ὁ">ὁ</w> <w lemma="ἀρχάγγελος"><expan><abbr>ἀρχ</abbr><ex>άγγελος</ex></expan></w> <name nymRef="ἀρχάγγελος Ρασθαήλ">Ρασθα<choice><reg>ή</reg><orig>ι</orig></choice>λ</name></persName>
-                                 <persName type="saint"><w lemma="ὁ">ὁ</w> <w lemma="ἀρχάγγελος"><expan><abbr>ἀρχ</abbr><ex>άγγελος</ex></expan></w> <name nymRef="ἀρχάγγελος Ξεσθαήλ"><supplied reason="subaudible">Ξ</supplied>εσθα<choice><reg>ή</reg><orig>ι</orig></choice>λ</name></persName>
-                                 <persName type="saint"><w lemma="ὁ">ὁ</w> <w lemma="ἀρχάγγελος"><expan><abbr>ἀρχ</abbr><ex>άγγελος</ex></expan></w> <name nymRef="ἀρχάγγελος Μιχαήλ">Μιχα<supplied reason="subaudible"><choice><reg>ή</reg><orig>ι</orig></choice>λ</supplied></name></persName>
-                                 <persName type="saint"><w lemma="ὁ">ὁ</w> <w lemma="ἀρχάγγελος"><expan><abbr>ἀρχ</abbr><ex>άγγελος</ex></expan></w> <name nymRef="ἀρχάγγελος Οὐριήλ">Οὐρι<choice><reg>ή</reg><orig>ι</orig></choice>λ</name></persName>
-                                 <persName type="saint"><w lemma="ὁ">ὁ</w> <w lemma="ἀρχάγγελος"><expan><abbr>ἀρχ</abbr><ex>άγγελος</ex></expan></w> <name nymRef="ἀρχάγγελος Σουριήλ">Σουρι<choice><reg>ή</reg><orig>ι</orig></choice>λ</name></persName>
-                                 <persName type="saint"><w lemma="ὁ">ὁ</w> <w lemma="ἀρχάγγελος"><expan><abbr>ἀρχ</abbr><ex>άγγελος</ex></expan></w> <name nymRef="ἀρχάγγελος Γαβριήλ">Γαβρι<choice><reg>ή</reg><orig>ι</orig></choice>λ</name></persName>
+                                 <persName type="saint"><w lemma="ὁ">ὁ</w> <w lemma="ἀρχάγγελος"><expan><abbr>ἀρχ</abbr><ex>άγγελος</ex></expan></w> <name nymRef="Ραφαήλ">Ραφα<choice><reg>ή</reg><orig>ι</orig></choice>λ</name></persName>
+                                 <persName type="saint"><w lemma="ὁ">ὁ</w> <w lemma="ἀρχάγγελος"><expan><abbr>ἀρχ</abbr><ex>άγγελος</ex></expan></w> <name nymRef="Ρασθαήλ">Ρασθα<choice><reg>ή</reg><orig>ι</orig></choice>λ</name></persName>
+                                 <persName type="saint"><w lemma="ὁ">ὁ</w> <w lemma="ἀρχάγγελος"><expan><abbr>ἀρχ</abbr><ex>άγγελος</ex></expan></w> <name nymRef="Ξεσθαήλ"><supplied reason="subaudible">Ξ</supplied>εσθα<choice><reg>ή</reg><orig>ι</orig></choice>λ</name></persName>
+                                 <persName type="saint"><w lemma="ὁ">ὁ</w> <w lemma="ἀρχάγγελος"><expan><abbr>ἀρχ</abbr><ex>άγγελος</ex></expan></w> <name nymRef="Μιχαήλ">Μιχα<supplied reason="subaudible"><choice><reg>ή</reg><orig>ι</orig></choice>λ</supplied></name></persName>
+                                 <persName type="saint"><w lemma="ὁ">ὁ</w> <w lemma="ἀρχάγγελος"><expan><abbr>ἀρχ</abbr><ex>άγγελος</ex></expan></w> <name nymRef="Οὐριήλ">Οὐρι<choice><reg>ή</reg><orig>ι</orig></choice>λ</name></persName>
+                                 <persName type="saint"><w lemma="ὁ">ὁ</w> <w lemma="ἀρχάγγελος"><expan><abbr>ἀρχ</abbr><ex>άγγελος</ex></expan></w> <name nymRef="Σουριήλ">Σουρι<choice><reg>ή</reg><orig>ι</orig></choice>λ</name></persName>
+                                 <persName type="saint"><w lemma="ὁ">ὁ</w> <w lemma="ἀρχάγγελος"><expan><abbr>ἀρχ</abbr><ex>άγγελος</ex></expan></w> <name nymRef="Γαβριήλ">Γαβρι<choice><reg>ή</reg><orig>ι</orig></choice>λ</name></persName>
                              </ab>    
                   </div> 
                 

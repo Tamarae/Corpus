@@ -5,7 +5,7 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>შეჭედილი ჯვარი წვირმიდან</title>
+                <title>შეჭედილი ჯვარი</title>
                 <editor>თინათინ ყაუხჩიშვილი</editor>
             </titleStmt>
             <publicationStmt>
@@ -39,11 +39,10 @@
                                         შეჭედილ ვერცხლის ჯვარზე ერთი ტიპის ცალკეული გამოსახულებებია. ჯვრის მარცხენა მკლავის 3 გამოსახულებიდან შუა გამოსახულებას ორსავე მხარეს აქვს საკმაოდ გადასული ბერძნული მთავრული წარწერა. მარჯვენა მკლავის 3 
                               გამოსახულებიდან ცენტრიდან პირველს აქვს ბერძნული მთავრული ასოებით წარწერა მარცხნივ და მარჯვნივ.
                                     <dimensions unit="cm">
-                                        <width/>
-                                        <height/>
-                                        <depth/>
-                                    </dimensions>
-                                  </layout>
+                                        <width></width>
+                                        <height></height>
+                                        <depth></depth></dimensions>
+                                    </layout>
                                 </layoutDesc>
                         </objectDesc>                        
                         <handDesc>
@@ -53,7 +52,7 @@
                                   </handNote>
                         </handDesc>
                         <decoDesc>
-                            <decoNote/>
+                            <decoNote></decoNote>
                         </decoDesc>
                     </physDesc>
                     <history>
@@ -119,7 +118,11 @@
                 <p>წმიდა მათე</p>
             </div>
             
-            <div type="apparatus" xml:space="preserve">                                                                                                                         
+            <div type="apparatus" xml:space="preserve">                                                                                                                                                          <!-- კრიტიკული აპარატი -->
+              <head>კრიტიკული აპარატი</head>
+              <p><app><lem></lem>
+              <rdg></rdg>
+              </app></p>
             </div>
            
             <div type="commentary">

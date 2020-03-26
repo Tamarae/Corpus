@@ -5,7 +5,7 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>კერამიკული ფილა სოხუმიდან</title>
+                <title>კერამიკული ფილა</title>
                 <editor>თინათინ ყაუხჩიშვილი</editor>
             </titleStmt>
             <publicationStmt>
@@ -64,7 +64,7 @@
                               </origin>
                             <provenance type="found" when="1952">
                                 <placeName type ="ancientFindspot"  ref="https://pleiades.stoa.org/places/857107">სოხუმი</placeName> 
-                                <rs type="circumstances">ნივთი მოპოვებულია სოხუმის ციხის გათხრისას 1952 წელს.</rs>
+                                <rs type="circumstances">ნივთი მოპოვებულია სოხუმის ციხის გათხრისას.</rs>
                                 <rs type="context"/>
                                 <rs type="monuList"/>
                             </provenance>                        

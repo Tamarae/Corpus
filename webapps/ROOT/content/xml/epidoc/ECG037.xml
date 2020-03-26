@@ -107,7 +107,7 @@
                                შე"-->
                                  
                 <ab>
-                   <lb n="1"/><name nymRef="აბიათარ დეკანოზი"><expan><abbr>აბ</abbr><ex>ია</ex><abbr>თ</abbr><ex>ა</ex><abbr>რ</abbr></expan></name>                         
+                   <lb n="1"/><name nymRef="აბიათარ"><expan><abbr>აბ</abbr><ex>ია</ex><abbr>თ</abbr><ex>ა</ex><abbr>რ</abbr></expan></name>                         
                    <lb n="2"/><roleName><w lemma="დეკანოზ"><expan><abbr>დ</abbr><ex>ე</ex><abbr>კ</abbr><ex>ანო</ex><abbr>ზი</abbr></expan></w></roleName>
                         <w lemma="უფალ"><expan><abbr>ო</abbr><ex>ჳფალ</ex><abbr>ო</abbr></expan></w>
                    <lb n="3"/><w lemma="შეწყალება"><expan><abbr>შ</abbr><ex>ეიწყალ</ex><abbr>ე</abbr></expan></w> 

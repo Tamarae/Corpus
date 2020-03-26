@@ -5,7 +5,7 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>ვერცხლის ლანგრის ფრაგმენტი ზღუდერიდან</title>
+                <title>ვერცხლის ლანგრის ფრაგმენტი</title>
                 <editor>თინათინ ყაუხჩიშვილი</editor>
             </titleStmt>
             <publicationStmt>
@@ -41,10 +41,9 @@
                                         ვერცხლის დიდი ლანგრის ფრაგმენტზე გარედან ირგვლივ იკითხება პუნქტირით გამოყვანილი ბერძნული სიტყვა.
                                         ლანგრის ფსკერზე, შიგნით ყოფილა ასევე პუნქტირით შესრულებული წარწერა, რაც თითქმის არ იკითხება, ჩანს მკაფიოდ ერთი ასო Α.
                                       <dimensions unit="cm">
-                                        <width/>
-                                        <height/>
-                                        <depth/>
-                                      </dimensions>
+                                        <width></width>
+                                        <height></height>
+                                        <depth></depth></dimensions>
                                     </layout>
                                 </layoutDesc>
                         </objectDesc>                        

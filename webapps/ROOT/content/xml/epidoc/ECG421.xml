@@ -3,7 +3,7 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>ჭედური ხატი დოლიდან</title>
+                <title>ჭედური ხატი</title>
                 <editor>თინათინ ყაუხჩიშვილი</editor>
             </titleStmt>
             <publicationStmt>
@@ -36,10 +36,9 @@
                                     <layout>
                                         ხატზე გამოსახულია ღვთისმშობელი ყრმითა და მთავარანგელოზებით, ხატი ჭედურია ჭედურივე წარწერებით. წარწერები ხატის სამ ადგილას არის მოთავსებული.
                                     <dimensions unit="cm">
-                                        <width/>
-                                        <height/>
-                                        <depth/>
-                                    </dimensions>
+                                        <width></width>
+                                        <height></height>
+                                        <depth></depth></dimensions>
                                     </layout>
                                 </layoutDesc>
                         </objectDesc>                        

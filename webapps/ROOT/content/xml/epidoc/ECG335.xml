@@ -5,8 +5,8 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>ჰნევანქის (ძელი ჭეშმარიტი) წარწერა (I)</title>
-                <editor>ლეონ მელიქსეთბეგი</editor>
+                <title>ჰნევანქის (ძელი ჭეშმარიტი) ივანე მანდატურთუხუცესისა და ამირსპასალარის ძის, სუმბატის, წარწერა</title>
+                <editor>ლეონ მელიქსეთ-ბეგი</editor>
             </titleStmt>
             <publicationStmt>
                 <authority>ილიას სახელმწიფო უნივერსიტეტი, ლინგვისტურ კვლევათა ინსტიტუტი</authority>
@@ -20,14 +20,12 @@
             <sourceDesc>
                 <msDesc>
                     <msIdentifier>
-                        <collection>
-                           ჰნევანქი
-                        </collection>
+                        <collection>ჰნევანქი</collection>
                     </msIdentifier>
                     
                     <msContents>
                         <summary>
-                            <seg xml:lang="ka">მემორიალური</seg>
+                            <seg xml:lang="ka">საამშენებლო</seg>
                             <seg xml:lang="en"/>
                         </summary>
                     </msContents>  
@@ -45,7 +43,11 @@
                                 </support>
                             </supportDesc>
                                 <layoutDesc>
-                                    <layout writtenLines="9">წარწერა თერთმეტსტრიქონიანია.                                 
+                                    <layout writtenLines="9">წარწერა თერთმეტსტრიქონიანია. 
+                                        იგი შესრულებულია მონასტრის მთავარი ეკლესიის გუმბათის ყელის ზედა ნაწილის შემოყოლებაზე.
+                                        იგი, როგორც ეტყობა, მოთავსებული იყო 22 სხვადასხვა ზომის ქვაზე, რომელთაგან 
+                                ზოგიერთი, 2, 6, 16, 19, ჩამოვარდნილია და ამის გამო წარწერის შინაარსის მთლიანად აღდგენა შეუძლებელია. გარდა ამისა, დარჩენილ ქვებზეც 
+                                ზოგიერთი ასო დაზიანებულია
                                       <dimensions unit="cm">
                                          <width></width>
                                          <height></height> 
@@ -54,63 +56,58 @@
                                 </layoutDesc>
                         </objectDesc>                        
                         <handDesc>
-                            <handNote>
-                                <p>წარწერა ასომთავრული ანბანით არის შესრულებული.</p>
+                            <handNote script="asomtavruli" style="inscribed">
+                                <rs type="execution">ამოღარული</rs> <rs type="script">ასომთავრული</rs> წარწერა
                                    <height unit="cm" precision="high"></height> 
                             </handNote>
                         </handDesc>
                     </physDesc>
                     <history>
                             <origin>
-                                <origPlace>ჰნევანქი (ძელი ჭეშმარიტი), სომხეთი.</origPlace>
+                                <origPlace>ჰნევანქი (ძელი ჭეშმარიტი), სომხეთი</origPlace>
                                 <origDate notBefore-custom="1200" notAfter-custom="1400" precision="medium" 
                                     evidence="lettering" datingMethod="#julian">XII-XIII AD</origDate>
                             </origin>
                             <provenance type="found">
-                                <placeName type ="ancientFindspot">ჰნევანქი (ძელი ჭეშმარიტი), სომხეთი.</placeName> 
+                                <placeName type ="ancientFindspot">ჰნევანქი (ძელი ჭეშმარიტი), სომხეთი</placeName> 
                                 <!-- "40.959485, 44.585145"-->
-                                <rs type="circumstances">წარწერა 1964 წელს შეისწავლა და გამოსცა ლეონ მელიქსეთ-ბეგმა.</rs>
-                                <rs type="context">ჰნევანქის (ძელი ჭეშმარიტი) ნამონასტრალი მდებარეობს ძორაგეტის ხეობაში, მდინარის მარჯვნივ, რკინიგზის სადგურ თუმანიანიდან
-                                სტეფანავანისკენ მიმავალი გზის პირას, ახლანდელი ძორაჰესის საგუბარს ზემოთ. სამონასტრო კომპლექსი რამდენიმე ნაგებობას შეიცავს, რომელთა შორის
-                                უძველესია ცენტრალურგუმბათიანი ჯვრის რიგის ტრიქონკი, IX საუკუნის შემდეგ არაერთგზის განახლებული. მიშენებული აქვს კარიბჭე სამხრეთის მხრიდან.
-                                წარწერა მდებარეობს გუმბათის ყელის ირგვლივ, მთელს სიგრძეზე. იგი, როგორც ეტყობა, მოთავსებული იყო 22 სხვადასხვა ზომის ქვაზე, რომელთაგან 
-                                ზოგიერთი, 2, 6, 16, 19, ჩამოვარდნილია და ამის გამო წარწერის შინაარსის მთლიანად აღდგენა შეუძლებელია. გარდა ამისა, დარჩენილ ქვებზეც 
-                                ზოგიერთი ასო დაზიანებულია.</rs>
+                                <rs type="circumstances"/>
+                                <rs type="context"/>                              
                                 <rs type="monuList"/></provenance>                                
                             <provenance type="observed">
-                                <placeName type="modernSpot">ჰნევანქი (ძელი ჭეშმარიტი), სომხეთი.</placeName>
+                                <placeName type="modernSpot">ჰნევანქი (ძელი ჭეშმარიტი), სომხეთი</placeName>
                                 <idno type="invNo"/></provenance> 
                     </history>                   
                 </msDesc>
             </sourceDesc>
         </fileDesc>
+        <revisionDesc><change when="2019-12-17" who="Eka Kvirkvelia">ტექსტის სრული კოდირება, მეტამონაცემების სრული კოდირება, 
+            ბმულებით დაკავშირება ავტორიტეტულ წყაროსთან</change></revisionDesc>
     </teiHeader>
-
+    <facsimile>
+        <surface>
+            <graphic url="ecg335.jpg">
+                <desc xml:lang="ka">ჰნევანქის ივანე მანდატურთუხუცესისა და ამირსპასალარის ძის, სუმბატის, წარწერა</desc>
+                <desc xml:lang="en"></desc>
+            </graphic>
+        </surface>
+    </facsimile>
     <text>
         <body>           
-              <div type="bibliography" subtype="principalEdition">
-                            <listBibl>                                                   
-                           <bibl type="article" xml:lang="ka">
-                             <author>
-                            <persName>
-                               <forename>ლეონ</forename>
-                               <surname>მელიქსეთ-ბეგი</surname>
-                            </persName>    
-                        </author>
-                        <title level="a">ლორე-ტაშირის ქართული ეპიგრაფიკა</title>                    
-                    <bibl type="series">
-                        <title level="s">თბილისის სახელმწიფო უნივერსიტეტის შრომები</title>
-                        <pubPlace></pubPlace>
-                        <publisher></publisher>
-                        <date>1964</date>
-                        <biblScope unit="issue">ტ. 108</biblScope>
-                        <biblScope unit="pp">გვ. 309-327</biblScope>
-                         </bibl></bibl> </listBibl>
+              <div type="bibliography">
+                  <listBibl>
+ <bibl n="1">ლეონ მელიქსეთ-ბეგი, ლორე-ტაშირის ქართული ეპიგრაფიკა<ptr target="bibliography.xml#b162"/>, <citedRange>გვ. 309-327</citedRange></bibl>
+ <bibl n="2">ლეონ მელიქსეთ-ბეგი, ჩრდილო მხარეთა სომეხთა მოძღვარნი და მათი ვინაობა, სომეხ-ქართველთა ურთიერთობის საკითხებთან დაკავშირებით<ptr target="bibliography.xml#b176"/>, <citedRange>გვ. 35</citedRange></bibl>
+ <bibl n="3">Г. Чубинашвили, Разыскания по армянской архитектуре<ptr target="bibliography.xml#b177"/>, <citedRange>ст. 73</citedRange></bibl>
+ <bibl n="4">პარუირ მურადიანი, სომხეთის ქართული წარწერები, წყაროთმცოდნეობითი გამოკვლევა (სომხურ ენაზე)<ptr target="bibliography.xml#b166"/>, <citedRange>გვ. 140-141, 294, ტაბ. X</citedRange></bibl>
+ <bibl n="5">შოთა მესხია, საშინაო პოლიტიკური ვითარება და სამოხელეო წყობა XII საუკუნის საქართველოში<ptr target="bibliography.xml#b172"/>, <citedRange>გვ. 13, 21</citedRange></bibl>
+ <bibl n="6">დევი ბერძენიშვილი, დებედის ხეობის ისტორიული გეოგრაფიისათვის<ptr target="bibliography.xml#b178"/>, <citedRange>გვ. 294</citedRange></bibl>
+             </listBibl>                                                             
               </div>                     
                               
    <div type="edition" xml:lang="ka" xml:space="preserve">
                 
-                        <!--სახელითა ღმრთისაჲთა, მეოხებითა 
+                        <!--† სახელითა ღმრთისაჲთა, მეოხებითა 
                         წმიდისა ღმრთისმშობელისაჲთა,
                         შეწევნითა ყოველთა წმიდათაჲთა ღირს ვი
                         ქმენ მე სოჳბატ 
@@ -124,8 +121,8 @@
                                                             
  
                 <ab>
-                    <lb n="1"/><w lemma="სახელ">სახელითა</w> 
-                                <w lemma="ღმერთ">ღმრთისაჲთა</w>
+                    <lb n="1"/>&#8224;<w lemma="სახელ"><expan><abbr>ს</abbr><ex>ა</ex><abbr>ხ</abbr><ex>ე</ex><abbr>ლითა</abbr></expan></w> 
+                                <w lemma="ღმერთ"><expan><abbr>ღ</abbr><ex>მრთისა</ex><abbr>ჲთა</abbr></expan></w>
                                 <w lemma="მეოხება">მეოხებითა</w>
                     <lb n="2"/><w lemma="წმიდა">წმიდისა</w> 
                                 <w lemma="ღმრთისმშობელ">ღმრთისმშობელისაჲთა</w>
@@ -135,16 +132,16 @@
                                 <w lemma="ღირსქმნა">ღირს-ვი
                     <lb n="4" break="no"/>ქმენ</w> 
                                     <w lemma="მე">მე</w> 
-                                    <persName><name nymRef="სუბატ">სოჳბატ</name></persName> 
+                                  <name nymRef="სუბატ">სოჳბატ</name> 
                     <lb n="5"/><supplied reason="lost">ძე</supplied> 
-                                <persName><name nymRef="ივანე მანდატურთუხუცესი"><supplied reason="lost">ივანე</supplied></name>
+                                <name nymRef="ივანე მანდატურთუხუცესი"><supplied reason="lost">ივანე</supplied></name>
                                 <roleName nymRef="მანდატურთუხუცეს"><supplied reason="lost">მანდატურთუხუცე</supplied>
-                    <lb n="6" break="no"/>სისა</roleName></persName> 
+                    <lb n="6" break="no"/>სისა</roleName>
                                     და 
                                     <roleName nymRef="ამირსპასალარ">ამირსპასალარისაჲ</roleName> 
                                     <num value="2"><w lemma="მეორე">მეორედ</w></num> 
                                     <w lemma="განახლება">განახლებად</w> 
-                                    <w lemma="და">და</w> 
+                                    და 
                                     <w lemma="შემკობა">შე
                     <lb n="7" break="no"/>მკობად</w> 
                                     <w lemma="დიდებულ">დიდებულისა</w> 
@@ -153,15 +150,15 @@
                                     <w lemma="ძელ"><supplied reason="lost">ძელი</supplied></w>
                                     <w lemma="ჭეშმარიტ"><supplied reason="lost">ჭეშმარიტი</supplied>სასა</w> 
                                      <w lemma="საოხ">საოხად</w> 
-                                    <w lemma="და">და</w> 
+                                    და
                                     <w lemma="სალხინებელ">სა
                     <lb n="8" break="no"/>ლხინებლად</w> 
                                 <w lemma="სულ">სულთა</w> 
                                 <w lemma="ჩუენ">ჩუენთა</w>
-                    <lb n="9"/><w lemma="და">და</w> 
+                    <lb n="9"/>და 
                                 <w lemma="მშობელ">მშობელთა</w>
                     <lb n="10"/><w lemma="ჩუენ">ჩუენთათჳს</w> 
-                                <w lemma="და">და</w> 
+                                და 
                                 <w lemma="ყოველ">ყოველთა</w>
                     <lb n="11"/><w lemma="მომავალ">მომავალთა</w> 
                                 <w lemma="ჩუენ">ჩუენთათჳს</w> 
@@ -180,25 +177,25 @@
                  </ab>
                </div>
               
-            <div type="apparatus" xml:space="preserve">
-                                
-             <listApp>
-                 <app></app>  
-             </listApp>    
-            </div>
+            <div type="apparatus" xml:space="preserve"/>
+            
             
          <div type="translation" xml:lang="ka">
-             <p>სახელითა ღმრთისაჲთა, წმიდა ღმრთისმშობლის მეოხებით, ყოველთა წმიდათა შეწევნით, ღირსი გავხდი მე, სუბატ, [ძე ივანე მანდატურთუხუცე]სისა 
+             <p>† სახელითა ღმრთისაჲთა, წმიდა ღმრთისმშობლის მეოხებით, ყოველთა წმიდათა შეწევნით, ღირსი გავხდი მე, სუბატ, [ძე ივანე მანდატურთუხუცე]სისა 
                  და ამირსპასალარისა, მეორედ განახლებად და შემკობად დიდებული საყდრის, წმიდა [ძელი ჭეშმარიტი]ს, საოხად და სალხინებლად სულთა ჩუენთა,
                  მშობელთა ჩუენთა და ჩვენს შემდგომად მომავალთა საუკუნოდ. ილოცეთ მონისათვის მოწყალე ღმრთის სადიდებლად. ქრონიკონი იყო ტოფ.</p>
          </div>    
                              
             <div type="commentary">
-                <p>ჰნევანქის მონასტერი ნანახი აქვს ვახუშტი ბატონიშვილს, რომელიც მის შესახებ წერს: 
-                    „კვალად დასავლით ამისა (ქობერისა, ლ. მ.-ბ.) არს მონასტერი ძელი ჭეშმარიტისა — მშვენიერი, ამ ბერდუჯის მდინარესა ზედა, უპყრავსთ სომეხთავე.
+                <p>ჰნევანქის (ძელი ჭეშმარიტი) ნამონასტრალი მდებარეობს ძორაგეტის ხეობაში, მდინარის მარჯვნივ, რკინიგზის სადგურ თუმანიანიდან
+                                სტეფანავანისკენ მიმავალი გზის პირას, ახლანდელი ძორაჰესის საგუბარს ზემოთ. სამონასტრო კომპლექსი რამდენიმე ნაგებობას შეიცავს, რომელთა შორის
+                                უძველესია ცენტრალურგუმბათიანი ჯვრის რიგის ტრიქონკი, IX საუკუნის შემდეგ არაერთგზის განახლებული. მიშენებული აქვს კარიბჭე სამხრეთის მხრიდან.
+                    ჰნევანქის მონასტერი ნანახი აქვს ვახუშტი ბატონიშვილს, რომელიც მის შესახებ წერს: 
+                    „კვალად დასავლით ამისა (ქობერისა, ლ. მ.-ბ.) არს მონასტერი ძელი ჭეშმარიტისა - მშვენიერი, ამ ბერდუჯის მდინარესა ზედა, უპყრავსთ სომეხთავე.
                     აქა არს მაღალს კლდესა შინა ქვაბნი მრავალნი, და მას ქვაბსა შინა მდებარეობენ შიგნნი მრავალნი ძველნი, არამედ კაცთა აუსვლელობით უხმარ არიან.
                     დასავლით ამისსა არს ციხე ლორისა და ქალაქი მცირე“ (ვახუშტი, აღწერა სამეფოსა საქართველოსა, გვ. 35).
-                    ლეონ მელიქსედ-ბეგს მიაჩნია, რომ ეს ძეგლი თავდაპირველად სომეხ ანტიქალკედონიანთა კერა იყო, 
+                    წარწერა ჯერ 1928 წელს, ხოლო მეორედ 1964 წელს შეისწავლა და გამოსცა ლეონ მელიქსეთ-ბეგმა.
+                    მას მიაჩნია, რომ ეს ძეგლი თავდაპირველად სომეხ ანტიქალკედონიანთა კერა იყო, 
                     შემდეგ კი, XII საუკუნიდან, ქალკედონიანთა ხელში გადასულა, რისი დასტურიცაა XII-XIII საუკუნეების 
                     ქართული ასომთავრული წარწერები მის გარე კედლებზე. მისი აზრით, წარწერაში დასახელებული სუბატი უნდა იყოს იგივე სუმბატი, 
                     ან პირველი - ძე დიდი ივანე ორბელისა, დემეტრე I-ის თანამედროვე, ან მეორე - ივანე ორბელის შვილიშვილი, გიორგი III-ის თანამედროვე. 

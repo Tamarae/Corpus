@@ -35,15 +35,14 @@
                         <objectDesc>
                             <supportDesc>
                                 <support>                             
-                                   <material/>
+                                   <material></material>
                                    <objectType ref="https://www.eagle-network.eu/voc/objtyp/lod/305">ფიალა</objectType></support></supportDesc>
                                 <layoutDesc>
                                     <layout>
                                          <dimensions unit="cm">
-                                        <width/>
-                                        <height/>
-                                        <depth/>
-                                         </dimensions>
+                                        <width></width>
+                                        <height></height>
+                                        <depth></depth></dimensions>
                                     </layout>
                                 </layoutDesc>
                         </objectDesc>                        
@@ -113,6 +112,10 @@
             </div>
             
            <div type="apparatus" xml:space="preserve">                                                                                                                                                          <!-- კრიტიკული აპარატი -->
+              <head>კრიტიკული აპარატი</head>
+              <p><app><lem></lem>
+              <rdg></rdg>
+              </app></p>
             </div>
            
             <div type="commentary">

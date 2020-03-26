@@ -6,7 +6,8 @@
         <fileDesc>
             <titleStmt>
                 <title>კოშის წარწერა</title>
-                <editor></editor>
+                <editor>ვალერი სილოგავა</editor>
+                <editor>აკაკი შანიძე</editor>
             </titleStmt>
             <publicationStmt>
                 <authority>ილიას სახელმწიფო უნივერსიტეტი, ლინგვისტურ კვლევათა ინსტიტუტი</authority>
@@ -20,14 +21,11 @@
             <sourceDesc>
                 <msDesc>
                      <msIdentifier>
-                        <collection>
-                           კოში
-                        </collection>
+                        <collection>კოში</collection>
                     </msIdentifier>
-                    
-                    <msContents>
+                <msContents>
                         <summary>
-                            <seg xml:lang="ka">ეპიტაფია</seg>
+                            <seg xml:lang="ka">იურიდიული საბუთი</seg>
                             <seg xml:lang="en"/>
                         </summary>
                     </msContents>  
@@ -45,8 +43,9 @@
                                 </support>
                             </supportDesc>
                                 <layoutDesc>
-                                    <layout writtenLines="13">წარწერა ცამეტსტრიქონიანია. წარწერის ძირითადი ნაწილი დაწერილია ცხრა სტრიქონად. 
-                                        გამორჩენილი ნაწილი მარცხენა მხარეს არის მიწერილი ოთხ სტრიქონად, მეორე სვეტად.                                
+                                    <layout writtenLines="13">წარწერა ცამეტსტრიქონიანია. იგი შესრულებულია სოფ. კოშის ეკლესიის სამხრეთ კედელზე.
+                                        წარწერის ძირითადი ნაწილი დაწერილია ცხრა სტრიქონად. 
+                                        გამორჩენილი ნაწილი მარცხენა მხარეს არის მიწერილი ოთხ სტრიქონად, მეორე სვეტად                               
                                       <dimensions unit="cm">
                                          <width></width>
                                          <height></height> 
@@ -55,8 +54,8 @@
                                 </layoutDesc>
                         </objectDesc>                        
                         <handDesc>
-                            <handNote>
-                                <rs type="execution">ამოღარული</rs> <rs type="script">ასომთავრული</rs> წარწერა.
+                            <handNote script="asomtavruli" style="inscribed">
+                                <rs type="execution">ამოღარული</rs> <rs type="script">ასომთავრული</rs> წარწერა
                                    <height/> 
                             </handNote>
                         </handDesc>
@@ -69,10 +68,8 @@
                             <provenance type="found">
                                 <placeName type ="ancientFindspot">სოფ. კოშის ეკლესია, სომხეთი</placeName>
                                 <!-- "40.300441, 44.152250"--> 
-                                <rs type="circumstances">წარწერა 1959 წელს პირველად გამოაქვეყნა აკაკი შანიძე. შემდეგ კი პარუირ მურადიანმა ნაშრომში: 
-                                    სომხეთის ქართული წარწერები, წყაროთმცოდნეობითი გამოკვლევა სომხურ ენაზე), ერევანი 1977. 
-                                    წარწერა მისეული შესწორებებით 1980 წელს გამოსცა ვალერი სილოგავამ.</rs>
-                                <rs type="context">წარწერა მდებარეობს სოფ. კოშის ეკლესიის სამხრეთ კედელზე.</rs>
+                                <rs type="circumstances"/>
+                                <rs type="context"/>
                                 <rs type="monuList"/></provenance>                                
                             <provenance type="observed">
                                 <placeName type="modernSpot">სოფ. კოშის ეკლესია, სომხეთი</placeName>
@@ -81,30 +78,26 @@
                 </msDesc>
             </sourceDesc>
         </fileDesc>
+        <revisionDesc><change when="2019-12-17" who="Eka Kvirkvelia">ტექსტის სრული კოდირება, მეტამონაცემების სრული კოდირება, 
+            ბმულებით დაკავშირება ავტორიტეტულ წყაროსთან</change></revisionDesc>
     </teiHeader>
+    <facsimile>
+        <surface>
+            <graphic url="ecg352.jpg">
+                <desc xml:lang="ka">კოშის წარწერა</desc>
+                <desc xml:lang="en"></desc>
+            </graphic>
+        </surface>
+    </facsimile>
     <text>
         <body>           
               <div type="bibliography">
-                <listBibl>                               
-                    <bibl type="article" xml:lang="ka">
-                        <author>
-                            <persName>
-                               <forename>ვალერი</forename>
-                               <surname>სილოგავა</surname>
-                            </persName>    
-                          </author>
-                        <title level="a">ცნობები და შენიშვნები სომხეთის ქართული ეპიგრაფიკული ძეგლების გამოცემის შესახებ</title>                    
-                    <bibl type="series">
-                        <title level="s">საქართველოს სსრ მეცნიერებათა აკადემიის მაცნე, ენისა და ლიტერატურის სერია</title>
-                        <pubPlace>თბილისი</pubPlace>
-                        <publisher></publisher>
-                        <date>1980</date>
-                        <biblScope unit="issue">2</biblScope>
-                        <biblScope unit="pp">გვ. 142-175</biblScope>
-                         </bibl>
-                    </bibl>
-                </listBibl>
-              </div>
+                <listBibl> 
+<bibl n="1">ვალერი სილოგავა, ცნობები და შენიშვნები სომხეთის ქართული ეპიგრაფიკული ძეგლების გამოცემის შესახებ<ptr target="bibliography.xml#b168"/>, <citedRange>გვ. 142-175</citedRange></bibl>
+<bibl n="2">А. Г. Шанидзе, Грузинская надпись XIII века в сел. Кош (Армянская ССР)<ptr target="bibliography.xml#b175"/>, <citedRange>გვ. 7-19</citedRange></bibl>                   
+<bibl n="3">პარუირ მურადიანი, სომხეთის ქართული წარწერები, წყაროთმცოდნეობითი გამოკვლევა (სომხურ ენაზე)<ptr target="bibliography.xml#b166"/>, <citedRange>გვ. 5-256</citedRange></bibl>                                     
+              </listBibl> 
+            </div>
             
             <div type="edition" xml:lang="ka" xml:space="preserve">
                 
@@ -129,14 +122,14 @@
                                 <w lemma="ღმრთისმშობელ"><expan><abbr>ღ</abbr><ex>მრ</ex><abbr>თისმშ</abbr><ex>ო</ex><abbr>ბლ</abbr><ex>ი</ex><abbr>ს</abbr><ex>ა</ex><abbr>ჲთ</abbr><ex>ა</ex></expan></w>
                    <lb n="2"/><w lemma="ჩუენ"><expan><abbr>ჩ</abbr><ex>უე</ex><abbr>ნ</abbr></expan></w> 
                             <roleName nymRef="მანდატურთხუცეს"><expan><abbr>მ</abbr><ex>ა</ex><abbr>ნდატ</abbr><ex>უ</ex><abbr>რთო</abbr><ex>ჳ</ex><abbr>ხ</abbr><ex>უ</ex><abbr>ცესმ</abbr><ex>ა</ex><abbr>ნ</abbr></expan></roleName> 
-                            <persName><name nymRef="ივანე"><expan><abbr>ივ</abbr><ex>ა</ex><abbr>ნე</abbr></expan></name></persName>
-                            <w lemma="და">და</w>
-                            <persName><name nymRef="შაჰანშე"><expan><abbr>შ</abbr><ex>აჰა</ex><abbr>ნშეს</abbr></expan></name></persName> 
-                            <w lemma="და">და</w> 
+                            <name nymRef="ივანე"><expan><abbr>ივ</abbr><ex>ა</ex><abbr>ნე</abbr></expan></name>
+                            და
+                            <name nymRef="შაჰანშე"><expan><abbr>შ</abbr><ex>აჰა</ex><abbr>ნშეს</abbr></expan></name> 
+                            და 
                             <w lemma="მისნი">მისთა</w> 
                             <w lemma="ძმა">ძმათა</w>
                    <lb n="3"/><w lemma="დედა"><expan><abbr>დედამ</abbr><ex>ა</ex><abbr>ნ</abbr></expan></w> 
-                              <persName><name nymRef="ხოშა"><expan><abbr>ხ</abbr><ex>ო</ex><abbr>შ</abbr><ex>ა</ex><abbr>მ</abbr><ex>ა</ex><abbr>ნ</abbr></expan></name></persName> 
+                              <name nymRef="ხოშა"><expan><abbr>ხ</abbr><ex>ო</ex><abbr>შ</abbr><ex>ა</ex><abbr>მ</abbr><ex>ა</ex><abbr>ნ</abbr></expan></name> 
                               <w lemma="გაშვება">გაგიშჳთ</w> 
                               <w lemma="თქუენ"><expan><abbr>თქ</abbr><ex>უე</ex><abbr>ნ</abbr></expan></w> 
                               <placeName nymRef="კოში">კოშელთა</placeName> 
@@ -148,8 +141,8 @@
                                 და 
                                 <w lemma="ჩუენ"><expan><abbr>ჩ</abbr><ex>უე</ex><abbr>ნთა</abbr></expan></w> 
                                 <w lemma="შვილ">შვილთა</w> 
-                                <persName><name nymRef="შაჰანშე"><expan><abbr>შ</abbr><ex>ა</ex><abbr>ჰ</abbr><ex>ა</ex><abbr>ნშეს</abbr></expan></name></persName> 
-                                <w lemma="და">და</w>
+                                <name nymRef="შაჰანშე"><expan><abbr>შ</abbr><ex>ა</ex><abbr>ჰ</abbr><ex>ა</ex><abbr>ნშეს</abbr></expan></name> 
+                                და
                    <lb n="5"/><w lemma="მისი">მისთა</w> 
                                 <w lemma="ძმა">ძმათა</w> 
                                 <w lemma="დღეგრძელობა"><expan><abbr>დღეგრძელობის</abbr><ex>ა</ex><abbr>თჳს</abbr></expan></w>
@@ -158,14 +151,14 @@
                 
                <div type="textpart" subtype="column" n="2">
                 <ab>
-                <lb n="1"/><w lemma="და">და</w> 
+                <lb n="1"/>და 
                             <w lemma="ქუემო">ქუემოისა</w> 
                             <w lemma="მზღვარ"><expan><abbr>მზღვ</abbr><ex>ა</ex>
                 <lb n="2" break="no"/><abbr>რი</abbr><ex>ს</ex><abbr>აჲ</abbr></expan></w> 
                             <w lemma="დიკი"><expan><abbr>დიკი</abbr><ex>ს</ex><abbr>აჲ</abbr></expan></w> 
                             <w lemma="ოდენ">ოდენ</w>
-                            <persName><name nymRef="კოშელ">კოშ
-                <lb n="3"/>ელისა</name></persName> 
+                            <name nymRef="კოშელ">კოშ
+                <lb n="3"/>ელისა</name> 
                             <w lemma="კაც">კაცისაჲ</w> 
                             <w lemma="გაშვება"><expan><abbr>გაშო</abbr><ex>ჳ</ex><abbr>ე
                 <lb n="4" break="no"/>ბო</abbr><ex>ჳ</ex><abbr>ლია</abbr></expan></w> 
@@ -175,7 +168,7 @@
                 
                <div type="textpart" subtype="column" n="1">
                    <ab>
-                   <lb n="5"/><w lemma="და">და</w> 
+                   <lb n="5"/>და 
                             <w lemma="თქუენ"><expan><abbr>თქ</abbr><ex>უე</ex><abbr>ნ</abbr></expan></w> 
                             <w lemma="გაკუეთა">გაგჳკუეთ
                    <lb n="6" break="no"/>ეთ</w> 
@@ -184,13 +177,13 @@
                             <w lemma="სახნველი"><expan><abbr>საჴნვ</abbr><ex>ე</ex><abbr>ლი</abbr></expan></w> 
                             <w lemma="თქუენი"><expan><abbr>თქ</abbr><ex>უე</ex><abbr>ნითა</abbr></expan></w> 
                             <w lemma="ხარი">ჴარითა</w> 
-                             <w lemma="და">და</w>
+                             და
                    <lb n="7"/><w lemma="მისი">მისითა</w>
                                 <w lemma="ჭურჭელ">ჭურჭლითა</w> 
                                 <w lemma="უკუდავ"><expan><abbr>უკ</abbr><ex>უ</ex><abbr>დავად</abbr></expan></w> 
                                 <w lemma="ყოფა">იყოს</w> 
                                   <w lemma="ჩუენ"><expan><abbr>ჩ</abbr><ex>უე</ex><abbr>ნთჳს</abbr></expan></w> 
-                                  <w lemma="და">და</w>
+                                  და
                    <lb n="8"/><w lemma="ესენი">ამისნი</w> 
                        <w lemma="ჩუენ"><expan><abbr>ჩ</abbr><ex>უე</ex><abbr>ნ</abbr></expan></w>
                         <w lemma="გამსრულებელ"><expan><abbr>გ</abbr><ex>ა</ex><abbr>მსრ</abbr><ex>ულე</ex><abbr>ბ</abbr><ex>ე</ex><abbr>ლნი</abbr></expan></w> 
@@ -202,7 +195,7 @@
                                 და 
                                 <w lemma="შეჩუენებულ"><expan><abbr>შ</abbr><ex>ე</ex><abbr>ჩ</abbr><ex>უე</ex><abbr>ნ</abbr><ex>ე</ex><abbr>ბ</abbr><ex>უ</ex><abbr>ლ</abbr></expan></w> 
                                 <w lemma="ყოფა">არს</w> 
-                                <w lemma="წმიდა"><expan><abbr>წ</abbr><ex>მიდა</ex><abbr>თა</abbr></expan></w> 
+                                <w lemma="წმიდა"><expan><abbr>წ</abbr><ex>მიდი</ex><abbr>თა</abbr></expan></w> 
                                 <w lemma="მადლ"><expan><abbr>მ</abbr><ex>ა</ex><abbr>დლითა</abbr></expan></w></rs>
                     </ab> 
              </div>
@@ -243,59 +236,20 @@
              <p> † სახელითა ღმრთისაჲთა, წმიდა ღვთისმშობლის მეოხებით, ჩუენ, მანდატურთუხუცესმა ივანემ, და  ხოშამან - შაჰანშეს და მისთა ძმათა
                  დედამ, ჩუენი და ჩუენი შვილების, შაჰანშესა და მისთა ძმათა, დღეგრძელობისათჳს, თქუენ, ზემო მხარის კოშელნი, 
                  გაგათავისუფლეთ შარიადისაგან, ქვემო მხარის კორშელნი - ღალის (მარცვლეულის) გადასახადისაგან. 
-                 ხოლო თქუენ უზრუნველყავით, რომ ერთი საჴნველი თქუენი ჴარითა და ჭურჭლით მუდამ იყოს ჩუენთჳს.
+                 ხოლო თქუენ უზრუნველყავით, რომ ერთი საჴნველი თქუენი ჴარითა და ჭურჭლით მუდამ იყოს ჩვენთვის.
            ჩუენ აღმსრულებელნი ვართ (ამ გადაწყვეტილების). და ვინც შეცვალოს, წყეულ და შეჩუენებულ იყოს წმიდა მადლით.</p>
          </div>                  
            
             <div type="commentary">
-                <p>წარწერის პირველი პუბლიკაციისას დაშვებული გაუგებრობის შედეგად მასში დასახელებული ივანე მანდატურთუხუცესი, შეცდომით ივან I-ად, ზაქარია
+                <p>წარწერა 1959 წელს პირველად გამოაქვეყნა აკაკი შანიძე. შემდეგ კი, 1977 წელს, პარუირ მურადიანმა. 
+                                    წარწერა მისეული შესწორებებით 1980 წელს გამოსცა ვალერი სილოგავამ.
+                    წარწერის პირველი პუბლიკაციისას დაშვებული გაუგებრობის შედეგად მასში დასახელებული ივანე მანდატურთუხუცესი, შეცდომით ივან I-ად, ზაქარია
                 ამირსპასალარის ძმად იქნა მიჩნეული და ამდენად წარწერაც არასწორად დათარიღდა. ამ შეცდომას იმეორებს პარუირ მურადიანიც. იგი აკაკი შანიძის მსგავსად
                 წარწერას 1214-1215 წლებით ათარიღებს. ვალერი სილოგავას აზრით, წარწერაში მოხსენიებული ივანე მანდატურთუხუცესი არის ივანე II მხარგრძელი, შაჰანშე I
                 მანდატურთუხუცესის († 1261) ძე, ზაქარია ამირსპასალარისა და მანდატურთუხუცესის († 1212) შვილისშვილი და, მაშასადამე, ივანე I მხარგრძელის († 1227)
                 ძმისწულის შვილი. ივანე I ჯერ იყო მსახურთუხუცესი, ხოლო შემდეგ - ათაბაგი. მანდატურთუხუცესი იგი არ ყოფილა. არც ერთი სახის საისტორიო
                 წყარო, არც ქართულ და არც სომხურ ენებზე, ივანე I-ს მანდატურთუხუცესად არ ასახელებს. ვალერი სილოგავას დათარიღებით, წარწერა 1270-1285 წლებშია
                 შესრულებული, ვინაიდან ივანე II მხარგრძელი მანდატურთუხუცესი სწორედ ამ წლებში იყო.</p>                
-            </div>
-           
-            
-            <div type="bibliography">
-             <listBibl>                                                   
-                           <bibl>
-                             <author>
-                            <persName>
-                               <forename>А. Г.</forename>
-                               <surname>Шанидзе</surname>
-                            </persName>    
-                        </author>
-                        <title level="a">Грузинская надпись XIII века в сел. Кош (Армянская ССР)</title>                    
-                    <bibl type="series">
-                        <title level="s">საქართველოს სსრ მეცნიერებათა აკადემიის ხელნაწერთა ინსტიტუტის მოამბე</title>
-                        <pubPlace>თბილისი</pubPlace>
-                        <publisher>საქართველოს სსრ მეცნიერებათა აკადემიის გამომცემლობა</publisher>
-                        <date>1959</date>
-                        <biblScope unit="issue">ტ. I</biblScope>
-                        <biblScope unit="pp">გვ. 7-19</biblScope>
-                         </bibl> 
-                              </bibl> 
-                                
-                          <bibl>
-                             <author>
-                            <persName>
-                               <forename>პარუირ</forename>
-                               <surname>მურადიანი</surname>
-                            </persName>    
-                        </author>
-                        <title  level="m">სომხეთის ქართული წარწერები, წყაროთმცოდნეობითი გამოკვლევა
-                                (სომხურ ენაზე)</title>
-                        <title level="s">Armeno-Georgica</title>
-                        <pubPlace>ერევანი</pubPlace>
-                        <publisher>ერევნის უნივერსიტეტის გამომცემლობა</publisher>
-                        <date>1977</date>
-                        <biblScope unit="issue">ტ. I</biblScope>
-                        <biblScope unit="pp">გვ. 5-256</biblScope>
-                    </bibl>
-                    
-              </listBibl> 
             </div>
          </body>
     </text>

@@ -5,9 +5,8 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>წარწერა დავით გარეჯის მთავარი კარიბჭის თავზე</title>
-                <editor>თ. ბარნაველი</editor>
-                <editor>ექვთიმე თაყაიშვილი</editor>
+                <title>წარწერა მთავარი კარიბჭის თავზე</title>
+                <editor></editor>
             </titleStmt>
             <publicationStmt>
                 <authority>ილიას სახელმწიფო უნივერსიტეტი</authority>
@@ -66,19 +65,19 @@
                     </physDesc>
                     <history>
                             <origin>
-                                <origPlace>დავით გარეჯი</origPlace>
-                                <origDate>1695</origDate>
+                                <origPlace>დავით გარეჯის მონასტერი</origPlace>
+                                <origDate>1695 წ.</origDate>
                             </origin>
                             <provenance>
-                                <placeName type ="ancientFindspot">
+                                <placeName>
                                     დავით გარეჯი
-                                </placeName>   
+                                </placeName>             <!-- სტოაორგში ვერ ვპოულობ გარეჯის მონასტრის ლინკს -->
                                 <rs type="circumstances"/>
                                 <rs type="context"/>
                                 <rs type="monuList"/>
                             </provenance> 
                             <provenance type="observed">
-                            <placeName type="modernSpot">დავით გარეჯის მონასტერი</placeName>
+                            <placeName/>
                             <idno/>
                         </provenance>
                     </history>                   
@@ -86,17 +85,18 @@
             </sourceDesc>
         </fileDesc>
     </teiHeader>
- 
+    <!-- 
+      
     <facsimile>
         <surface>
-            <graphic url="ecg537.jpg">
-                <desc xml:lang="ka">დავით გარეჯი</desc>
+            <graphic url="tskise_01.jpg">
+                <desc xml:lang="ka">წყისეს წარწერა</desc>
                 <desc xml:lang="en"></desc>
             </graphic>
         </surface>
     </facsimile>
     
-
+    -->
     <text>
         <body>
             

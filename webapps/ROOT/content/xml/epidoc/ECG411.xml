@@ -5,7 +5,7 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>ვერცხლის ფირფიტა ლაგურკიდან</title>
+                <title>ვერცხლის ფირფიტა</title>
                 <editor>თინათინ ყაუხჩიშვილი</editor>
             </titleStmt>
             <publicationStmt>
@@ -42,16 +42,16 @@
                                     <dimensions unit="cm">
                                         <width>21,5</width>
                                         <height>30</height>
-                                        <depth/>
-                                    </dimensions>
+                                        <depth></depth></dimensions>
                                     </layout>
                                 </layoutDesc>
                         </objectDesc>                        
                         <handDesc>
                             <handNote> 
                                 ამოტვიფრული წარწერები (გამოსახულ პირთა დასახელება) მთავრულია. სახელები ძირითადად არაა შემოკლებული.
-                                <height/>
-                            </handNote>
+                                <height unit="cm" precision="medium"></height>
+                                <width unit="cm" precision="medium"></width>
+                                  </handNote>
                         </handDesc>
                         <decoDesc>
                             <decoNote>ცალკეული გამოსახულებები ამოცვენილია, მაგრამ პირველადი სახის წარმოდგენა ძნელი არ არის. კუთხის
@@ -181,7 +181,11 @@
             
             
                            <!-- კრიტიკული აპარატი -->
-            <div type="apparatus" xml:space="preserve">
+            <div type="apparatus" xml:space="preserve">                                   
+              <head>კრიტიკული აპარატი</head>
+              <p><app><lem></lem>
+              <rdg></rdg>
+              </app></p>
             </div>
            
             <div type="commentary">

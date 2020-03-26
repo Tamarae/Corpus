@@ -35,7 +35,7 @@
                             <supportDesc>
                                 <support>                             
                                    <material ref="http://www.eagle-network.eu/voc/material/lod/112">ოქრო</material>
-                                   <objectType ref="http://www.eagle-network.eu/voc/objtyp/lod/1747">საბეჭდავი</objectType>
+                                   <objectType ref="http://www.eagle-network.eu/voc/objtyp/lod/1747">ბეჭედი - საბეჭდავი</objectType>
                                 </support></supportDesc>
                                 <layoutDesc>
                                     <layout>

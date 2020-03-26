@@ -5,7 +5,8 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>ჯუჯაქენდის წარწერა</title>              
+                <title>ჯუჯაქენდის წარწერა</title>
+                <editor>ლეონ მელიქსეთ-ბეგი</editor>
             </titleStmt>
             <publicationStmt>
                 <authority>ილიას სახელმწიფო უნივერსიტეტი, ლინგვისტურ კვლევათა ინსტიტუტი</authority>
@@ -19,14 +20,12 @@
             <sourceDesc>
                 <msDesc>
                     <msIdentifier>
-                        <collection>
-                           ჯუჯაქენდი
-                        </collection>
+                        <collection>ჯუჯაქენდი</collection>
                     </msIdentifier>
                     
                     <msContents>
                         <summary>
-                            <seg xml:lang="ka">მემორიალური</seg>
+                            <seg xml:lang="ka">მოსახსენებელი</seg>
                             <seg xml:lang="en"/>
                         </summary>
                     </msContents>  
@@ -44,7 +43,7 @@
                                 </support>
                             </supportDesc>
                                 <layoutDesc>
-                                    <layout writtenLines="6">წარწერა ექვსსტრიქონიანია.                                 
+                                    <layout writtenLines="6">წარწერა ექვსსტრიქონიანია. იგი შესრულებულია ჯუჯაქენდის ტაძრის ჩრდილოეთის კედლის სვეტზე                               
                                       <dimensions unit="cm">
                                          <width></width>
                                          <height></height> 
@@ -53,53 +52,47 @@
                                 </layoutDesc>
                         </objectDesc>                        
                         <handDesc>
-                            <handNote>
-                                <p>წარწერა ნუსხური ანბანით არის შესრულებული.</p>
+                             <handNote script="nuskhuri" style="inscribed">
+                                <rs type="execution">ამოღარული</rs> <rs type="script">ნუსხური</rs> წარწერა
                                    <height unit="cm" precision="high"></height> 
                             </handNote>
                         </handDesc>
                     </physDesc>
                     <history>
                             <origin>
-                                <origPlace>ჯუჯაქენდის ეკლესია, სომხეთი.</origPlace>
+                                <origPlace>ჯუჯაქენდის ეკლესია, სომხეთი</origPlace>
                                 <origDate></origDate>
                             </origin>
                             <provenance type="found">
-                                <placeName type ="ancientFindspot">ჯუჯაქენდის ეკლესია, სომხეთი.</placeName> 
+                                <placeName type ="ancientFindspot">ჯუჯაქენდის ეკლესია, სომხეთი</placeName> 
                                 <!-- "41.201302, 44.226978"-->
-                                <rs type="circumstances">წარწერა 1964 წელს შეისწავლა და გამოსცა ლეონ მელიქსეთ-ბეგმა.</rs>
-                                <rs type="context">წარწერა შაჰნაზირის ახლოს ჯუჯექენდაში, გორაკზე ერთნავიან, ნახევრად დანგრეულ ეკლესიაშია აღმოჩენილი. 
-                                    იგი შესრულებულია ჩრდილოეთის კედლის სვეტზე.</rs>
+                                <rs type="circumstances">წარწერა შაჰნაზირის ახლოს ჯუჯექენდაში, გორაკზე ერთნავიან, ნახევრად დანგრეულ ეკლესიაშია აღმოჩენილი.
+                                    იგი 1964 წელს შეისწავლა და გამოსცა ლეონ მელიქსეთ-ბეგმა</rs>
+                                <rs type="context"/>                                    
                                 <rs type="monuList"/></provenance>                                
                             <provenance type="observed">
-                                <placeName type="modernSpot">ჯუჯაქენდის ეკლესია, სომხეთი.</placeName>
+                                <placeName type="modernSpot">ჯუჯაქენდის ეკლესია, სომხეთი</placeName>
                                 <idno type="invNo"/></provenance> 
                     </history>                   
                 </msDesc>
             </sourceDesc>
         </fileDesc>
+        <revisionDesc><change when="2019-12-17" who="Eka Kvirkvelia">ტექსტის სრული კოდირება, მეტამონაცემების სრული კოდირება, 
+            ბმულებით დაკავშირება ავტორიტეტულ წყაროსთან</change></revisionDesc>
     </teiHeader>
+    <!--<facsimile>
+        <surface>
+            <graphic url="ecg337.jpg">
+                <desc xml:lang="ka">ჯუჯაქენდის წარწერა</desc>
+                <desc xml:lang="en"></desc>
+            </graphic>
+        </surface>
+    </facsimile>--> 
     <text>
         <body>           
-              <div type="bibliography" subtype="principalEdition">
-                <listBibl>                                                   
-                           <bibl type="article" xml:lang="ka">
-                             <author>
-                            <persName>
-                               <forename>ლეონ</forename>
-                               <surname>მელიქსეთ-ბეგი</surname>
-                            </persName>    
-                        </author>
-                        <title level="a">ლორე-ტაშირის ქართული ეპიგრაფიკა</title>                    
-                    <bibl type="series">
-                        <title level="s">თბილისის სახელმწიფო უნივერსიტეტის შრომები</title>
-                        <pubPlace></pubPlace>
-                        <publisher></publisher>
-                        <date>1964</date>
-                        <biblScope unit="issue">ტ. 108</biblScope>
-                        <biblScope unit="pp">გვ. 309-327</biblScope>
-                         </bibl>                              
-                    </bibl>
+              <div type="bibliography">
+                <listBibl> 
+    <bibl n="2">ლეონ მელიქსეთ-ბეგი, ლორე-ტაშირის ქართული ეპიგრაფიკა<ptr target="bibliography.xml#b162"/>, <citedRange>გვ. 309-327</citedRange></bibl>
               </listBibl> 
             </div>
             
@@ -126,7 +119,7 @@
                 <lb n="5"/><num value="10">ი</num> 
                         <w lemma="დღე">დღე</w> 
                         <w lemma="ჟამ">ჟამი</w> 
-                        <expan><abbr>ო</abbr><ex>ჳ</ex><abbr>წირო</abbr><supplied reason="lost"><abbr>ნ</abbr></supplied></expan>
+                        <w lemma="წირვა"><expan><abbr>ო</abbr><ex>ჳ</ex><abbr>წირო</abbr><supplied reason="lost"><abbr>ნ</abbr></supplied></expan></w>
                 <lb n="6"/><w lemma="ყოველ">ყოველთა</w>
                   </ab>
                </div>

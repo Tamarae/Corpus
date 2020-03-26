@@ -5,7 +5,7 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>ჭედური ჯვარი ლაგურკიდან</title>
+                <title>ჭედური ჯვარი</title>
                 <editor>თინათინ ყაუხჩიშვილი</editor>
             </titleStmt>
             <publicationStmt>
@@ -45,9 +45,9 @@
                         </objectDesc>                        
                         <handDesc>
                             <handNote>                          
-                                <height/>
-                                <width/>
-                            </handNote>
+                                <height unit="cm" precision="medium"></height>
+                                <width unit="cm" precision="medium"></width>
+                                  </handNote>
                         </handDesc>
                         <decoDesc>
                             <decoNote></decoNote>
@@ -117,6 +117,10 @@
             </div>
             
             <div type="apparatus" xml:space="preserve">                                                                                                                                                          <!-- კრიტიკული აპარატი -->
+              <head>კრიტიკული აპარატი</head>
+              <p><app><lem></lem>
+              <rdg></rdg>
+              </app></p>
             </div>
            
             <div type="commentary">

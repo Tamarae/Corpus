@@ -5,8 +5,9 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>ქობერის მონასტრის ეპიტაფია (IV)</title>
-                <editor></editor>
+                <title>ქობაირის მონასტრის ეპიტაფია ივანე მანდატურთუხუცესის ძის, ათაბაგ შანშეს ძმის, ათაბაგ ვაჰრამისა</title>
+                <editor>თემო ჯოჯუა</editor>
+                <editor>გიორგი გაგოშიძე</editor>
             </titleStmt>
             <publicationStmt>
                 <authority>ილიას სახელმწიფო უნივერსიტეტი, ლინგვისტურ კვლევათა ინსტიტუტი</authority>
@@ -20,11 +21,8 @@
             <sourceDesc>
                 <msDesc>
                      <msIdentifier>
-                        <collection>
-                           ქობერი
-                        </collection>
+                        <collection>ქობაირი</collection>
                     </msIdentifier>
-                    
                     <msContents>
                         <summary>
                             <seg xml:lang="ka">ეპიტაფია</seg>
@@ -38,100 +36,99 @@
                                     <objectType ref="https://www.eagle-network.eu/voc/objtyp/lod/91.html">ეპიტაფია</objectType>
                                     <material ref="http://www.eagle-network.eu/voc/material/lod/2">ქვა</material>                                   
                                       <dimensions unit="cm">
-                                        <width/>
-                                        <height/>
+                                        <width>85</width>
+                                        <height>195</height>
                                         <depth/>
                                       </dimensions>
                                 </support>
                             </supportDesc>
                                 <layoutDesc>
-                                    <layout writtenLines="7">წარწერა შვიდსტრიქონიანია.                                  
+                                    <layout writtenLines="7">წარწერა შვიდსტრიქონიანია. იგი ამოკვეთილია რუხი ფერის ოთხკუთხა საფლავის ქვაზე, რომელიც 
+                                        ქობაირის მონასტრის მთავარი ეკლესიის კარიბჭის
+                                        იატაკში, საფლავის ქვების აღმოსავლეთიდან პირველ რიგში, სამხრეთიდან პირველ და მესამე საფლავის ქვებს შორის არის ჩადგმული.
+                                        საფლავის ქვა სამ ნაწილად არის გადატეხილი, თუმცა ნაწილები ერთმანეთისაგან დაცილებული არ არის. 
                                       <dimensions unit="cm">
-                                         <width/>
-                                         <height/> 
+                                         <width>51</width>
+                                         <height>76</height> 
                                       </dimensions>  
                                     </layout>                                   
                                 </layoutDesc>
                         </objectDesc>                        
                         <handDesc>
-                            <handNote>
-                                <rs type="execution">ამოღარული</rs> <rs type="script">ასომთავრული</rs> წარწერა.
-                                   <height/> 
+                            <handNote script="asomtavruli" style="inscribed">
+                                <rs type="execution">ამოღარული</rs> <rs type="script">ასომთავრული</rs> წარწერა
+                                   <height>3,5-10,5</height> 
                             </handNote>
                         </handDesc>
                     </physDesc>
                     <history>
                             <origin>
-                                <origPlace>ქობერის მონასტერი, სომხეთი</origPlace>
+                                <origPlace>ქობაირის მონასტერი, სომხეთი</origPlace>
                                 <origDate notBefore-custom="1300" notAfter-custom="1500" precision="medium" 
                                     evidence="lettering" datingMethod="#julian">XIII-XIV AD</origDate>
                             </origin>
-                            <provenance type="found" when="2011">
-                                <placeName type ="ancientFindspot">ქობერის მონასტერი, სომხეთი</placeName>
+                            <provenance type="found">
+                                <placeName type ="ancientFindspot">ქობაირის მონასტერი, სომხეთი</placeName>
                                 <!-- "41.005061, 44.635086"--> 
-                                <rs type="circumstances">2011 წელს ქეთი ასათიანისა და გიორგი კალანდიას ორგანიზებით განხორციელებული ორი სამეცნიერო ექსპედიციის შედეგად
-                                ქობერის მონასტერში გამოვლინდა მანამდე უცნობი 9 ახალი ქართული ეპიტაფია.</rs>
+                                <rs type="circumstances"/>
                                 <rs type="context"/>
                                 <rs type="monuList"/></provenance>                                
                             <provenance type="observed">
-                                <placeName type="modernSpot">ქობერის მონასტერი, სომხეთი</placeName>
+                                <placeName type="modernSpot">ქობაირის მონასტერი, სომხეთი</placeName>
                                 <idno type="invNo"/></provenance> 
                     </history>                   
                 </msDesc>
             </sourceDesc>
         </fileDesc>
-    </teiHeader>
+    <revisionDesc><change when="2019-12-17" who="Eka Kvirkvelia">ტექსტის სრული კოდირება, მეტამონაცემების სრული კოდირება, 
+            ბმულებით დაკავშირება ავტორიტეტულ წყაროსთან</change></revisionDesc>
+    </teiHeader>    
+    <facsimile>
+        <surface>
+            <graphic url="ecg341.jpg">
+                <desc xml:lang="ka">ქობაირის მონასტრის ეპიტაფია ივანე მანდატურთუხუცესის ძის, ათაბაგ შანშეს ძმის, ათაბაგ ვაჰრამისა</desc>
+                <desc xml:lang="en"></desc>
+            </graphic>
+            <graphic url="ecg341a.jpg">
+                <desc xml:lang="ka">ქობაირის მონასტრის ეპიტაფია ივანე მანდატურთუხუცესის ძის, ათაბაგ შანშეს ძმის, ათაბაგ ვაჰრამისა</desc>
+                <desc xml:lang="en"></desc>
+            </graphic>
+        </surface>
+    </facsimile>  
     <text>
         <body>           
-              <div type="bibliography">
-                <listBibl>                               
-                    <bibl>
-                        <author>
-                            <persName>
-                               <forename>ქეთი</forename>
-                               <surname>ასათიანი</surname>
-                            </persName>    
-                            <persName>
-                               <forename>გიორგი</forename>
-                               <surname>კალანდია</surname>
-                            </persName>
-                        </author>
-                        <title level="a">ქობერის მონასტრის ქართული წარწერები</title>                    
-                    <bibl type="journal">
-                        <title level="j">Artpalace, სამეცნიერო-პოპულარული ჟურნალი</title>
-                        <pubPlace>თბილისი</pubPlace>
-                        <publisher>საქართველოს თეატრის, მუსიკის, კინოსა და ქორეოგრაფიის სახელმწიფო მუზეუმი</publisher>
-                        <date>29.07.2011</date>
-                        <biblScope unit="issue">3 (01)</biblScope>
-                        <biblScope unit="pp">გვ. 10-14</biblScope>
-                         </bibl>
-                    </bibl></listBibl></div>
+           <div type="bibliography">
+                <listBibl>
+         <bibl n="1">თემო ჯოჯუა, გიორგი გაგოშიძე, ქობაირის, ჰნევანქისა და ახტალის მონასტრების ქართული ლაპიდარული წარწერები<ptr target="bibliography.xml#b164"/>, <citedRange>გვ. 271-272</citedRange></bibl>
+         <bibl n="2">პარუირ მურადიანი, სომხეთის ქართული წარწერები, წყაროთმცოდნეობითი გამოკვლევა (სომხურ ენაზე)<ptr target="bibliography.xml#b166"/>, <citedRange>გვ. 178, ტაბ. XIX, სურ. 2</citedRange></bibl>
+         <bibl n="3">ქეთი ასათიანი, გიორგი კალანდია, ქობერის მონასტრის ქართული წარწერები<ptr target="bibliography.xml#b165"/>, <citedRange>გვ. 10-14</citedRange></bibl>
+                </listBibl>
+           </div>
             
             <div type="edition" xml:lang="ka" xml:space="preserve">
                 
-                        <!-- ესე საფლ(ა)ვი ივ(ა)ნე
+                        <!-- † ესე საფლ(ა)ვი ივ(ა)ნე
                             მ(ა)ნდატურთუხ(უ)ცესისა
                             ძისა და ათ(ა)ბ(ა)გისა
                             შ(ა)ნშ(ეს) ძმისა ათ(ა)ბ(ა)
                             გისა ვ(ა)ჰ
                             რ(ა)მისი. შ(ეუნდვე)ნ
                             ღ(მერთმა)ნ--> 
-                                                           
-
+                                              
                 <ab>
-                   <lb n="1"/><w lemma="ესე">ესე</w> 
+                   <lb n="1"/>&#8224;<w lemma="ესე">ესე</w> 
                             <w lemma="საფლავ"><expan><abbr>საფლ</abbr><ex>ა</ex><abbr>ვი</abbr></expan></w> 
-                            <persName><name nymRef="ივანე"><expan><abbr>ივ</abbr><ex>ა</ex><abbr>ნე</abbr></expan></name></persName>
+                            <name nymRef="ივანე"><expan><abbr>ივ</abbr><ex>ა</ex><abbr>ნე</abbr></expan></name>
                     <lb n="2"/><roleName nymRef="მანდატურთუხუცეს"><expan><abbr>მ</abbr><ex>ა</ex><abbr>ნდატურთუხ</abbr><ex>უ</ex><abbr>ცესისა</abbr></expan></roleName>
                     <lb n="3"/><w lemma="ძე">ძისა</w> 
-                                <w lemma="და">და</w> 
+                                და 
                                 <roleName nymRef="ათაბაგ"><expan><abbr>ათ</abbr><ex>ა</ex><abbr>ბ</abbr><ex>ა</ex><abbr>გისა</abbr></expan></roleName>
-                    <lb n="4"/><persName><name nymRef="შანშე"><expan><abbr>შ</abbr><ex>ა</ex><abbr>ნშ</abbr><ex>ეს</ex></expan></name></persName>
+                    <lb n="4"/><name nymRef="შანშე"><expan><abbr>შ</abbr><ex>ა</ex><abbr>ნშ</abbr><ex>ეს</ex></expan></name>
                                 <w lemma="ძმა">ძმისა</w> 
                                 <roleName nymRef="ათაბაგ"><expan><abbr>ათ</abbr><ex>ა</ex><abbr>ბ</abbr><ex>ა</ex>
                     <lb n="5" break="no"/><abbr>გისა</abbr></expan></roleName> 
-                                <persName><name nymRef="ვაჰრამ"><expan><abbr>ვ</abbr><ex>ა</ex><abbr>ჰ
-                    <lb n="6"/>რ</abbr><ex>ა</ex><abbr>მისი</abbr></expan></name></persName> 
+                                <name nymRef="ვაჰრამ"><expan><abbr>ვ</abbr><ex>ა</ex><abbr>ჰ
+                    <lb n="6"/>რ</abbr><ex>ა</ex><abbr>მისი</abbr></expan></name> 
                                 <w lemma="შენდობა"><expan><abbr>შ</abbr><ex>ეუნდვე</ex><abbr>ნ</abbr></expan></w>
                     <lb n="7"/><w lemma="ღმერთ"><expan><abbr>ღ</abbr><ex>მერთმა</ex><abbr>ნ</abbr></expan></w>
                     
@@ -143,10 +140,13 @@
          </div>                  
            
             <div type="commentary">
-                <p>ქობერის მონასტრის ყველა წარწერაში, სადაც ივანე იხსენიება, საგანგებოდ ხაზგასმულია, რომ იგი მანდატურთუხუცესია. გამომცემელთა აზრით, ერთადერთი ივანე, 
-                ვისაც ეს სახელო XIII საუკუნეში ეკავა, ზაქარია მხარგრძელის შვილიშვილი და შანშე მანდატრუთუხუცესის ვაჟია.</p>                
+                <p>წარწერაში ქარაგმის ნიშნად გამოყენებულია განივი ტეხილი ხაზი. განკვეთილობის ნიშნები: ორწერტილი ალაგ-ალაგ. ტექსტში ბგერა უ,
+                    ერთ შემთხვევაში, Ⴍ-ს (ო) საშუალებით არის გადმოცემული; გვხვდება ლიგატურებისა და შეწიაღების შემთხვევები. საფლავის ქვის ზედაპირი გადაცვეთილია,
+                    თუმცა გრაფემები გარკვევით იკითხება.</p> 
+                    <p>ქობაირის მონასტრის ყველა წარწერაში, სადაც ივანე იხსენიება, საგანგებოდ ხაზგასმულია, რომ იგი მანდატურთუხუცესია. 
+                    ქეთი ასათიანის აზრით, ერთადერთი ივანე, ვისაც ეს სახელო XIII საუკუნეში ეკავა, 
+                    ზაქარია მხარგრძელის შვილიშვილი და შანშე მანდატრუთუხუცესის ვაჟია.</p>               
             </div>
-            
          </body>
     </text>
 </TEI>

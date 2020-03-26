@@ -1,0 +1,15 @@
+127.0.0.1 -  -  [25/Feb/2020:23:48:42 +0000] "GET / HTTP/1.1" 302 - 
+127.0.0.1 -  -  [25/Feb/2020:23:48:43 +0000] "GET /ka/ HTTP/1.1" 200 14021 
+127.0.0.1 -  -  [25/Feb/2020:23:48:43 +0000] "GET /assets/foundation/css/foundation.min.css HTTP/1.1" 200 163796 
+127.0.0.1 -  -  [25/Feb/2020:23:48:43 +0000] "GET /assets/foundation/js/foundation.min.js HTTP/1.1" 200 83198 
+127.0.0.1 -  -  [25/Feb/2020:23:48:43 +0000] "GET /assets/styles/base.css HTTP/1.1" 304 - 
+127.0.0.1 -  -  [25/Feb/2020:23:48:43 +0000] "GET /assets/foundation/js/vendor/jquery.js HTTP/1.1" 200 295289 
+127.0.0.1 -  -  [25/Feb/2020:23:48:43 +0000] "GET /assets/foundation/js/vendor/custom.modernizr.js HTTP/1.1" 304 - 
+127.0.0.1 -  -  [25/Feb/2020:23:48:43 +0000] "GET /assets/foundation/css/normalize.css HTTP/1.1" 304 - 
+127.0.0.1 -  -  [25/Feb/2020:23:48:43 +0000] "GET /assets/styles/site.css HTTP/1.1" 304 - 
+127.0.0.1 -  -  [25/Feb/2020:23:48:46 +0000] "GET /favicon.ico HTTP/1.1" 404 8893 
+127.0.0.1 -  -  [25/Feb/2020:23:52:05 +0000] "GET /solr/select/?df=document_type&rows=20000&&sort=file_path+asc&q=(epidoc) HTTP/1.1" 200 - 
+127.0.0.1 -  -  [25/Feb/2020:23:52:05 +0000] "GET /ka/inscriptions/ HTTP/1.1" 200 162961 
+127.0.0.1 -  -  [25/Feb/2020:23:52:06 +0000] "GET /assets/styles/tablesorter.css HTTP/1.1" 304 - 
+127.0.0.1 -  -  [25/Feb/2020:23:52:06 +0000] "GET /assets/scripts/jquery.tablesorter.js HTTP/1.1" 200 40914 
+127.0.0.1 -  -  [25/Feb/2020:23:52:06 +0000] "GET /assets/images/tablesorter/bg.gif HTTP/1.1" 304 - 

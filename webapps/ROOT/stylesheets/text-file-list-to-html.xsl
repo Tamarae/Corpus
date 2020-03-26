@@ -10,13 +10,13 @@
         <tr>
           <!-- Let us assume that all texts have a filename, ID, and
                title. -->
-          
+
           <th>
             <i18n:text i18n:key="filename">Filename/ID</i18n:text>
           </th>
-          
+           
          <!--  <th>ID</th>--> 
-  
+
           <th>
             <i18n:text i18n:key="file_title">Title</i18n:text>
           </th>

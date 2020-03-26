@@ -5,8 +5,9 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>ხუაშას ეპიტაფია-ლექსი, ქობერის მონასტერი</title>
-                <editor></editor>
+                <title>ქობაირის მონასტრის ხუაშას ეპიტაფია-ლექსი</title>
+                <editor>ვალერი სილოგავა</editor>
+                <editor>პარუირ მურადიანი</editor>
             </titleStmt>
             <publicationStmt>
                 <authority>ილიას სახელმწიფო უნივერსიტეტი, ლინგვისტურ კვლევათა ინსტიტუტი</authority>
@@ -20,11 +21,8 @@
             <sourceDesc>
                 <msDesc>
                     <msIdentifier>
-                        <collection>
-                           ქობერი
-                        </collection>
-                    </msIdentifier>
-                    
+                        <collection>ქობაირი</collection>
+                    </msIdentifier>                  
                     <msContents>
                         <summary>
                             <seg xml:lang="ka">ეპიტაფია</seg>
@@ -45,7 +43,8 @@
                                 </support>
                             </supportDesc>
                                 <layoutDesc>
-                                    <layout writtenLines="8">წარწერა რვასტრიქონიანია.                                  
+                                    <layout writtenLines="8">წარწერა რვასტრიქონიანია. იგი ამოკვეთილია მონასტრის მთავარი ეკლესიის კარიბჭის იატაკში ჩადგმულ 
+                                        ერთ-ერთ საფლავის ქვაზე                              
                                       <dimensions unit="cm">
                                          <width></width>
                                          <height></height> 
@@ -54,56 +53,61 @@
                                 </layoutDesc>
                         </objectDesc>                        
                         <handDesc>
-                            <handNote>
-                                <rs type="execution">ამოღარული</rs> <rs type="script">ასომთავრული</rs> წარწერა.
+                            <handNote script="asomtavruli" style="inscribed">
+                                <rs type="execution">ამოღარული</rs> <rs type="script">ასომთავრული</rs> წარწერა
                                    <height unit="cm" precision="high"></height> 
                             </handNote>
                         </handDesc>
                     </physDesc>
                     <history>
                             <origin>
-                                <origPlace>ქობერის მონასტერი, სომხეთი</origPlace>
+                                <origPlace>ქობაირის მონასტერი, სომხეთი</origPlace>
                                 <origDate notBefore-custom="1300" notAfter-custom="1400" precision="medium" 
                                     evidence="lettering" datingMethod="#julian">XIII AD</origDate>
                             </origin>
                             <provenance type="found">
-                                <placeName type ="ancientFindspot">ქობერის მონასტერი, სომხეთი</placeName>
+                                <placeName type ="ancientFindspot">ქობაირის მონასტერი, სომხეთი</placeName>
                                 <!-- "41.005061, 44.635086"--> 
                                 <rs type="circumstances">წარწერა პირველად გამოაქვეყნა პარუირ მურადიანმა ნაშრომში: სომხეთის ქართული წარწერები, წყაროთმცოდნეობითი გამოკვლევა
-                                (სომხურ ენაზე), ერევანი 1977. წარწერა მისეული შესწორებებით 1980 და 1990 წლებში ხელმეორედ გამოსცა ვალერი სილოგავამ.</rs>
+                                (სომხურ ენაზე), ერევანი 1977. წარწერა მისეული შესწორებებით 1980 და 1990 წლებში ხელმეორედ გამოსცა ვალერი სილოგავამ</rs>
                                 <rs type="context"/>
                                 <rs type="monuList"/></provenance>                                
                             <provenance type="observed">
-                                <placeName type="modernSpot">ქობერის მონასტერი, სომხეთი</placeName>
+                                <placeName type="modernSpot">ქობაირის მონასტერი, სომხეთი</placeName>
                                 <idno type="invNo"/></provenance> 
                     </history>                   
                 </msDesc>
             </sourceDesc>
         </fileDesc>
+        <revisionDesc><change when="2019-12-17" who="Eka Kvirkvelia">ტექსტის სრული კოდირება, მეტამონაცემების სრული კოდირება, 
+            ბმულებით დაკავშირება ავტორიტეტულ წყაროსთან</change></revisionDesc>
     </teiHeader>
+    <facsimile>
+        <surface>
+              <graphic url="ecg346.jpg">
+                <desc xml:lang="ka">ქობაირის მონასტრის ხუაშას ეპიტაფია-ლექსი</desc>
+                <desc xml:lang="en"></desc>
+            </graphic>
+            <graphic url="ecg346a.jpg">
+                <desc xml:lang="ka">ქობაირის მონასტრის ხუაშას ეპიტაფია-ლექსი</desc>
+                <desc xml:lang="en"></desc>
+            </graphic>
+           </surface>
+    </facsimile>
     <text>
-        <body>           
-              <div type="bibliography">
-                <listBibl>                               
-                    <bibl>
-                        <author>
-                            <persName>
-                               <forename>ვალერი</forename>
-                               <surname>სილოგავა</surname>
-                            </persName>    
-                          </author>
-                        <title level="a">ცნობები და შენიშვნები სომხეთის ქართული ეპიგრაფიკული ძეგლების გამოცემის შესახებ</title>                    
-                    <bibl type="series">
-                        <title level="s">საქართველოს სსრ მეცნიერებათა აკადემიის მაცნე, ენისა და ლიტერატურის სერია</title>
-                        <pubPlace>თბილისი</pubPlace>
-                        <publisher></publisher>
-                        <date>1980</date>
-                        <biblScope unit="issue">2</biblScope>
-                        <biblScope unit="pp">გვ. 142-175</biblScope>
-                         </bibl>
-                    </bibl>
-                </listBibl>
-              </div>
+        <body>
+            <div type="bibliography">
+                <listBibl>
+<bibl n="1">ვალერი სილოგავა, ცნობები და შენიშვნები სომხეთის ქართული ეპიგრაფიკული ძეგლების გამოცემის შესახებ<ptr target="bibliography.xml#b168"/>, <citedRange>გვ. 142-175</citedRange></bibl>
+<bibl n="2">პარუირ მურადიანი, სომხეთის ქართული წარწერები, წყაროთმცოდნეობითი გამოკვლევა (სომხურ ენაზე)<ptr target="bibliography.xml#b166"/>, <citedRange>გვ. 179-180, ტაბ. XX, სურ. 3</citedRange></bibl>             
+<bibl n="3">ვალერი სილოგავა, ეპიგრაფიკული ეტიუდები და შენიშვნები<ptr target="bibliography.xml#b167"/>, <citedRange>გვ. 116-117</citedRange></bibl>
+<bibl n="4">დევი ბერძენიშვილი, დმანისხევი<ptr target="bibliography.xml#b173"/>, <citedRange>გვ. 133</citedRange></bibl>
+<bibl n="5">ვალერი სილოგავა, ქობერის ეპიტაფია-ლექსი<ptr target="bibliography.xml#b174"/>, <citedRange>გვ. 527</citedRange></bibl>
+<bibl n="6">ქეთი ასათიანი, გიორგი კალანდია, ქობერის მონასტრის ქართული წარწერები<ptr target="bibliography.xml#b165"/>, <citedRange>გვ. 10-14</citedRange></bibl>
+                    
+                    
+               </listBibl> 
+                </div>
             
             <div type="edition" xml:lang="ka" xml:space="preserve">
                 
@@ -115,15 +119,14 @@
                             რჩეს ჩოჴის ნაფერთ(ა)ლნი 
                             და კ(უ)რთხ(ეუ)ლ ხ(ა)რ, ქ(რისტ)ე ღ(მერ)თო, შ(ე)ნ და შ(ე)ნ
                             ნი სამართალნი [ს(უ)ლსა შ]ანშ(ე)ს და ხუაშ(ა)სა შ(ეუნდევე)ნ ღ(მერთმა)ნ
-                      --> 
-                                                           
+                      -->                                      
            
                 <ab>
                    <lb n="1"/><w lemma="გამოსვლა"><expan><abbr>გ</abbr><ex>ა</ex><abbr>მოვ</abbr><ex>ე</ex><abbr>დით</abbr></expan></w>
                             <w lemma="სოფელ"><expan><abbr>სოფლის</abbr><ex>ა</ex><abbr>გ</abbr><ex>ა</ex><abbr>ნ</abbr></expan></w>
-                            <w lemma="ცუდქმნა"><expan><abbr>ცჳდქმნ</abbr>
+                            <w lemma="ცუდქმნა"><expan><abbr>ცოჳდქმნ</abbr>
                    <lb n="2" break="no"/><ex>ი</ex><supplied reason="lost"><abbr>ლ</abbr></supplied><abbr>ნი</abbr></expan></w> 
-                             <w lemma="და">და</w> 
+                             და 
                              <w lemma="გამომკრთალ"><expan><abbr>გამ</abbr><ex>ო</ex><abbr>მკრთ</abbr><ex>ა</ex><abbr>ლნი</abbr></expan></w>      
                     <lb n="3"/><w lemma="გულ">გულსა</w> 
                                 <w lemma="ცეცხლ"><expan><abbr>ც</abbr><ex>ე</ex><abbr>ცხლი</abbr></expan></w>
@@ -133,7 +136,7 @@
                                 <w lemma="ალ">ალნი</w>
                     <lb n="5"/><w lemma="დიდ">დიდთა</w> 
                             <w lemma="ჩემ"><expan><abbr>ჩ</abbr><ex>ე</ex><abbr>მთა</abbr></expan></w>
-                            <w lemma="შუება"><expan><abbr>შჳებათ</abbr><ex>ა</ex><abbr>გ</abbr><ex>ა</ex><abbr>ნ</abbr></expan></w>
+                            <w lemma="შუება"><expan><abbr>შოჳებათ</abbr><ex>ა</ex><abbr>გ</abbr><ex>ა</ex><abbr>ნ</abbr></expan></w>
                                 <w lemma="დარჩენა">დამ
                     <lb n="6" break="no"/>რჩეს</w> 
                                 <w lemma="ჩოხა">ჩოჴის</w> 
@@ -141,17 +144,17 @@
                     <lb n="7"/><w lemma="და">და</w> 
                                 <w lemma="კურთხეულ"><expan><abbr>კ</abbr><ex>უ</ex><abbr>რთხ</abbr><ex>ეუ</ex><abbr>ლ</abbr></expan></w> 
                                 <w lemma="ყოფა"><expan><abbr>ხ</abbr><ex>ა</ex><abbr>რ</abbr></expan></w>
-                               <persName nymRef="ქრისტე"><expan><abbr>ქ</abbr><ex>რისტ</ex><abbr>ე</abbr></expan></persName>
+                               <w lemma="ქრისტე"><expan><abbr>ქ</abbr><ex>რისტ</ex><abbr>ე</abbr></expan></w>
                                 <w lemma="ღმერთ"><expan><abbr>ღ</abbr><ex>მერ</ex><abbr>თო</abbr></expan></w>
                                 <w lemma="შენ"><expan><abbr>შ</abbr><ex>ე</ex><abbr>ნ</abbr></expan></w> 
-                                <w lemma="და">და</w> 
+                                და 
                                  <w lemma="შენი"><expan><abbr>შ</abbr><ex>ე</ex><abbr>ნ
                     <lb n="8"/>ნი</abbr></expan></w>
                                 <w lemma="სამართალ">სამართალნი</w> 
                                 <w lemma="სულ"><expan><supplied reason="lost"><abbr>ს</abbr><ex>უ</ex><abbr>ლსა</abbr></supplied></expan></w> 
-                                <persName><name nymRef="შანშე"><expan><supplied reason="lost"><abbr>შ</abbr></supplied><abbr>ანშ</abbr><ex>ე</ex><abbr>ს</abbr></expan></name></persName>                               
-                                <w lemma="და">და</w> 
-                                <persName><name nymRef="ხუაშა"><expan><abbr>ხჳაშ</abbr><ex>ა</ex><abbr>სა</abbr></expan></name></persName>
+                                <name nymRef="შანშე"><expan><supplied reason="lost"><abbr>შ</abbr></supplied><abbr>ანშ</abbr><ex>ე</ex><abbr>ს</abbr></expan></name>                               
+                                და 
+                                <name nymRef="ხუაშა"><expan><abbr>ხჳაშ</abbr><ex>ა</ex><abbr>სა</abbr></expan></name>
                                 <w lemma="შენდობა"><expan><abbr>შ</abbr><ex>ეუნდევე</ex><abbr>ნ</abbr></expan></w>
                                 <w lemma="ღმერთ"><expan><abbr>ღ</abbr><ex>მერთმა</ex><abbr>ნ</abbr></expan></w>
                    </ab>
@@ -188,67 +191,28 @@
             </div>
             
          <div type="translation" xml:lang="ka">
-             <p>"გამოვედით სოფლისაგან ცუდ-ქმნილნი და გამომკრთალნი
-                გულსა ცეცხლი მომდებია, ამომდიან პირით ალნი
-                დიდთა ჩემთა შუებათაგან დამრჩეს ჩოხის ნაფერთალნი 
-                და კურთხეულ ხარ, ქრისტე ღმერთო, შენ და შენნი სამართალნი."
-                შანშესა და ხუაშას სულებს შეუნდოს ღმერთმა.</p>
+             <p><lb n="1"/>„გამოვედით სოფლისაგან ცუდ-ქმნილნი და გამომკრთალნი
+                <lb n="2"/>გულსა ცეცხლი მომდებია, ამომდიან პირით ალნი
+                <lb n="3"/>დიდთა ჩემთა შუებათაგან დამრჩეს ჩოხის ნაფერთალნი 
+                <lb n="4"/>და კურთხეულ ხარ, ქრისტე ღმერთო, შენ და შენნი სამართალნი.“
+                <lb n="5"/>შანშესა და ხუაშას სულებს შეუნდოს ღმერთმა.</p>
          </div>                  
            
             <div type="commentary">
-                <p>ხუაშას ეპიტაფია-ლექსი არის თექვსმეტმარცვლოვანი შაირით დაწერილი. ვალერი სილოგავას აზრით, საყურადღებოა, რომ ლექსში სტროფის ბოლო სტრიქონი ე.წ. "ზედმეტი და"-თი იწყება 
-                    და ამით "ვეფხისტაყოსნის" ხელნაწერებში არსებულ ტრადიციას მხარს უჭერს XIII საუკუნის II ნახევრის ეს წერილობითი ძეგლი. პარუირ მურადიანს
+                <p>ხუაშას ეპიტაფია-ლექსი არის თექვსმეტმარცვლოვანი შაირით დაწერილი. ვალერი სილოგავას აზრით, საყურადღებოა, რომ ლექსში სტროფის ბოლო სტრიქონი ე.წ. „ზედმეტი და“-თი იწყება 
+                    და ამით „ვეფხისტყაოსნის“ ხელნაწერებში არსებულ ტრადიციას მხარს უჭერს XIII საუკუნის II ნახევრის ეს წერილობითი ძეგლი. პარუირ მურადიანს
                     შეუნიშნავს, რომ ეპიტაფია ლექსს წარმოადგენდა, მაგრამ მის მიერ ტექსტში ქარაგმების არასწორად გახსნის შედეგად თექვსმეტმარცვლიანი შაირის რითმა დარღვეულია.
                     უნდა აღინიშნოს ისიც, რომ ეპიტაფიის ის ნაწილი, რომელიც ლექსს წარმოადგენს, 1978 წელს გამოქვეყნდა ქართველი პოეტების ლექსების კრებულში 
-                    "ვით მარგალიტი ობოლი" (შემდგენლები: ტარიელ ჭანტურია, ემზარ კვიტაიშვილი, ქუთაისი, 1978, გვ. 12).
+                    „ვით მარგალიტი ობოლი“ (შემდგენლები: ტარიელ ჭანტურია, ემზარ კვიტაიშვილი, ქუთაისი, 1978, გვ. 12).
                     ხუაშას ეპიტაფია-ლექსში მოხსენიებულნი არიან მხარგრძელთა ფეოდალური სახლის ორი წევრის - შანშეს და ხუაშას სახელები. ვალერი სილოგავას მიხედვით, ქობერის მონასტერთან
                     კავშირი ჰქონდა 1261 წელს გარდაცვლილი შანშე მანდატურთუხუცესის - საქართველოს სამეფოს ერთ-ერთი დიდმოხელის ცოლს, რომელმაც ეს მონასტერი შეიძინა სომხებისაგან (ამას გადმოგვცემს
                     სომეხი ისტორიკოსი კირაკოს განძაკეცი). მისივე ცნობით, 1261 წელს ოძუნში გარდაცვლილი შაჰანშე ქობერის მონასტერში დაკრძალეს. გამოთქმულია ვარაუდი, 
                     რომ შანშეს ცოლი და, შესაძლებელია, თვით შანშეც უნდა იყვნენ გამოსახულები ქობერის მონასტრის მთავარი ტაძრისათვის მიშენებული სამლოცველოს XIII ს-ის მხატვრობაში. 
-                    სახელი "ხუაშა" მხარგრძელთა დიდ ფეოდალურ სახლში ოთხჯერ დასტურდება - ერთხელ რძალ-დედამთილის და ბებია-შვილიშვილის სახელებად. აქედან, ქრონოლოგიურად
+                    სახელი „ხუაშა“ მხარგრძელთა დიდ ფეოდალურ სახლში ოთხჯერ დასტურდება - ერთხელ რძალ-დედამთილისა და ბებია-შვილიშვილის სახელებად. აქედან, ქრონოლოგიურად
                     პირველ ხუაშას, რომელიც XIII ს-ის დასაწყისში მოღვაწეობდა და უკანასკნელ ხუაშას, რომელიც XIII ს-ის II ნახევარში მოღვაწეობდა, მეუღლეთა სახელი იყო ივანე. ვალერი სილოგავას 
                     აზრით, ეს გახდა მიზეზი იმისა, რომ კოშის წარწერა-საბუთის ივანე და ხუაშა - XIII ს.-ის II ნახევრის მოღვაწეები, შეცდომით მიჩნეული იყო XIII ს-ის დასაწყისის მოღვაწეებად - 
-                    ივანე ათაბაგად და მის მეუღლე ხუაშად. 
-                </p>                
+                    ივანე ათაბაგად და მის მეუღლე ხუაშად.</p>                
             </div>
-            
-            <div type="bibliography" subtype="otherPublications">
-             <listBibl> 
-            <bibl type="monogr" xml:lang="ka">
-                             <author>
-                            <persName>
-                               <forename>პარუირ</forename>
-                               <surname>მურადიანი</surname>
-                            </persName>    
-                        </author>
-                        <title  level="m">სომხეთის ქართული წარწერები, წყაროთმცოდნეობითი გამოკვლევა
-                                (სომხურ ენაზე)</title>
-                        <title level="s">Armeno-Georgica</title>
-                        <pubPlace>ერევანი</pubPlace>
-                        <publisher>ერევნის უნივერსიტეტის გამომცემლობა</publisher>
-                        <date>1977</date>
-                        <biblScope unit="issue">ტ. I</biblScope>
-                        <biblScope unit="pp">გვ. 5-256</biblScope>
-                    </bibl>
-                
-                 <bibl type="article" xml:lang="ka">
-                        <author>
-                            <persName>
-                               <forename>ვალერი</forename>
-                               <surname>სილოგავა</surname>
-                            </persName>    
-                          </author>
-                        <title level="a">ეპიგრაფიკული ეტიუდები და შენიშვნები</title>                    
-                    <bibl type="series">
-                        <title level="s">საქართველოს სსრ მეცნიერებათა აკადემიის მაცნე, ისტორიის, ეთნოგრაფიისა და ხელოვნების ისტორიის სერია</title>
-                        <pubPlace>თბილისი</pubPlace>
-                        <publisher></publisher>
-                        <date>1990</date>
-                        <biblScope unit="issue">4</biblScope>
-                        <biblScope unit="pp">გვ. 79-119</biblScope>
-                         </bibl></bibl>
-                 </listBibl> 
-                </div>
          </body>
     </text>
 </TEI>

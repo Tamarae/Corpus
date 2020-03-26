@@ -7,6 +7,7 @@
             <titleStmt>
                 <title>თეჟარუიქის საამშენებლო წარწერა</title>
                 <editor>ვალერი სილოგავა</editor>
+                <editor>პარუირ მურადიანი</editor>
             </titleStmt>
             <publicationStmt>
                 <authority>ილიას სახელმწიფო უნივერსიტეტი, ლინგვისტურ კვლევათა ინსტიტუტი</authority>
@@ -20,11 +21,8 @@
             <sourceDesc>
                 <msDesc>
                      <msIdentifier>
-                        <collection>
-                           თეჟარუიქი
-                        </collection>
-                    </msIdentifier>
-                    
+                        <collection>თეჟარუიქი</collection>
+                    </msIdentifier>             
                     <msContents>
                         <summary>
                             <seg xml:lang="ka">საამშენებლო</seg>
@@ -45,7 +43,8 @@
                                 </support>
                             </supportDesc>
                                 <layoutDesc>
-                                    <layout writtenLines="3">წარწერა სამსტრიქონიანია.                                 
+                                    <layout writtenLines="3">წარწერა სამსტრიქონიანია. იგი ამოღარულია ტაძრის სამხრეთ კედლის კარნიზის ქვემოთ და კედლის 
+                                    თითქმის მთელი სიგანე უჭირავს                              
                                       <dimensions unit="cm">
                                          <width/>
                                          <height/> 
@@ -54,57 +53,51 @@
                                 </layoutDesc>
                         </objectDesc>                        
                         <handDesc>
-                            <handNote>
-                                <rs type="execution">ამოღარული</rs> <rs type="script">ასომთავრული</rs> წარწერა.
+                            <handNote script="asomtavruli" style="inscribed">
+                                <rs type="execution">ამოღარული</rs> <rs type="script">ასომთავრული</rs> წარწერა
                                    <height/> 
                             </handNote>
                         </handDesc>
                     </physDesc>
                     <history>
                             <origin>
-                                <origPlace>თეჟარუიქის ეკლესია, სომხეთი.</origPlace>
+                                <origPlace>თეჟარუიქის ეკლესია, სომხეთი</origPlace>
                                 <origDate evidence="lettering" datingMethod="#julian">XIII AD</origDate>
                             </origin>
                             <provenance type="found">
-                                <placeName type ="ancientFindspot">თეჟარუიქის ეკლესია, სომხეთი.</placeName> 
+                                <placeName type ="ancientFindspot">თეჟარუიქის ეკლესია, სომხეთი</placeName> 
                                 <!-- "40.604991, 44.644959"-->
-                                <rs type="circumstances">წარწერა 1977 წელს გამოაქვეყნა პარუირ მურადიანმა ნაშრომში: სომხეთის ქართული წარწერები, წყაროთმცოდნეობითი გამოკვლევა
-                                (სომხურ ენაზე), ერევანი. ხოლო 1980 წელს მისეული შესწორებებით - ვალერი სილოგავამ.</rs>
-                                <rs type="context">თეჟარუიქის ეკლესია მდებარეობს სოფელ მეღრაძორის ახლოს. მას უწოდებენ გიურჯიქილისას, ქართველთა ეკლესიას.
-                                    სომხურ წყაროებში ეწოდება ასევე პღნძაანქ. წარწერა მდებარეობას ტაძრის სამხრეთ კედლის კარნიზის ქვემოთ და კედლის 
-                                    თითქმის მთელი სიგანე უჭირავს.</rs>
+                                <rs type="circumstances"/>
+                                <rs type="context"/>
                                 <rs type="monuList"/>
                             </provenance>                                
                             <provenance type="observed">
-                                <placeName type="modernSpot">თეჟარუიქის ეკლესია, სომხეთი.</placeName>
+                                <placeName type="modernSpot">თეჟარუიქის ეკლესია, სომხეთი</placeName>
                                 <idno type="invNo"/>
                             </provenance> 
                     </history>                   
                 </msDesc>
             </sourceDesc>
         </fileDesc>
+        <revisionDesc><change when="2019-12-17" who="Eka Kvirkvelia">ტექსტის სრული კოდირება, მეტამონაცემების სრული კოდირება, 
+            ბმულებით დაკავშირება ავტორიტეტულ წყაროსთან</change></revisionDesc>
     </teiHeader>
+    <!--<facsimile>
+        <surface>
+            <graphic url="ecg356.jpg">
+                <desc xml:lang="ka">თეჟარუიქის წარწერა</desc>
+                <desc xml:lang="en"></desc>
+            </graphic>
+        </surface>
+    </facsimile>-->
     <text>
-        <body>           
-              <div type="bibliography">
-                <listBibl>                               
-                    <bibl>
-                        <author>
-                            <persName>
-                               <forename>ვალერი</forename>
-                               <surname>სილოგავა</surname>
-                            </persName>    
-                          </author>
-                        <title level="a">ცნობები და შენიშვნები სომხეთის ქართული ეპიგრაფიკული ძეგლების გამოცემის შესახებ</title>                    
-                    <bibl type="series">
-                        <title level="s">საქართველოს სსრ მეცნიერებათა აკადემიის მაცნე, ენისა და ლიტერატურის სერია</title>
-                        <pubPlace>თბილისი</pubPlace>
-                        <publisher></publisher>
-                        <date>1980</date>
-                        <biblScope unit="issue">2</biblScope>
-                        <biblScope unit="pp">გვ. 142-175</biblScope>
-                         </bibl>
-                    </bibl></listBibl></div>
+        <body>
+            <div type="bibliography">
+              <listBibl> 
+<bibl n="1">ვალერი სილოგავა, ცნობები და შენიშვნები სომხეთის ქართული ეპიგრაფიკული ძეგლების გამოცემის შესახებ<ptr target="bibliography.xml#b168"/>, <citedRange>გვ. 142-175</citedRange></bibl>                   
+<bibl n="2">პარუირ მურადიანი, სომხეთის ქართული წარწერები, წყაროთმცოდნეობითი გამოკვლევა (სომხურ ენაზე)<ptr target="bibliography.xml#b166"/>, <citedRange>გვ. 5-256</citedRange></bibl>                                     
+              </listBibl> 
+            </div>
             
             <div type="edition" xml:lang="ka" xml:space="preserve">
                 
@@ -126,15 +119,15 @@
                    <w lemma="ძალ"><expan><abbr>ძ</abbr><ex>ა</ex><abbr>ლ</abbr><ex>ი</ex><abbr>თა</abbr></expan></w> 
                    <w lemma="შეზღუდვილ"><expan><abbr>შ</abbr><ex>ე</ex><abbr>ზღ</abbr><ex>უ</ex><abbr>დვ</abbr><ex>ი</ex><abbr>ლნი</abbr></expan></w>
                    <w lemma="დაფარვა"><supplied reason="lost">დაგჳფარენ</supplied></w>
-                   <persName><name nymRef="ივანე"><expan><abbr>ი</abbr><ex>ვა</ex><abbr>ნე</abbr></expan></name></persName>
-                   <persName><name nymRef="მხარგრძელ"><expan><abbr>მჴ</abbr><ex>ა</ex><abbr>რგრძ</abbr><ex>ელ</ex><abbr>მ</abbr><ex>ა</ex><abbr>ნ</abbr></expan></name></persName>                 
+                   <name nymRef="ივანე"><expan><abbr>ი</abbr><ex>ვა</ex><abbr>ნე</abbr></expan></name>
+                   <name nymRef="მხარგრძელ"><expan><abbr>მჴ</abbr><ex>ა</ex><abbr>რგრძ</abbr><ex>ელ</ex><abbr>მ</abbr><ex>ა</ex><abbr>ნ</abbr></expan></name>                 
                 <lb n="2"/><w lemma="შვილ"><expan><abbr>შვ</abbr><ex>ი</ex><abbr>ლმ</abbr><ex>ა</ex><abbr>ნ</abbr></expan></w> 
                             <w lemma="ერისთავთ-ერისთავ"><expan><abbr>ე</abbr><ex>რისთა</ex><abbr>ვთე</abbr><ex>რ</ex><abbr>ი</abbr><ex>სთა</ex><abbr>ვ</abbr><ex>ი</ex><abbr>სა</abbr></expan></w>
-                            <persName nymRef="სარგის"><expan><abbr>ს</abbr><ex>ა</ex><abbr>რგ</abbr><ex>ი</ex><abbr>ს</abbr></expan></persName>
+                            <name nymRef="სარგის"><expan><abbr>ს</abbr><ex>ა</ex><abbr>რგ</abbr><ex>ი</ex><abbr>ს</abbr></expan></name>
                             <roleName nymRef="მანდატურთუხუცეს"><expan><abbr>მა</abbr><ex>ნდა</ex><abbr>ტ</abbr><ex>უ</ex><abbr>რთუხ</abbr><ex>უ</ex><abbr>ც</abbr><ex>ე</ex><abbr>ს</abbr><ex>ი</ex><abbr>სა</abbr></expan></roleName>
-                            <persName nymRef="შაჰანშა"><expan><abbr>შ</abbr><ex>ა</ex><abbr>ჰ</abbr><supplied reason="lost"><abbr>ანშა</abbr></supplied></expan></persName> 
-                            <persName nymRef="ზაქარია"><supplied reason="lost">ზაქარი</supplied>ა</persName> 
-                            <persName>ბარქ</persName> 
+                            <name nymRef="შაჰანშა"><expan><abbr>შ</abbr><ex>ა</ex><abbr>ჰ</abbr><supplied reason="lost"><abbr>ანშა</abbr></supplied></expan></name> 
+                            <name nymRef="ზაქარია"><supplied reason="lost">ზაქარი</supplied>ა</name> 
+                            <name>ბარქ</name> 
                             <w lemma="დიდ"><expan><abbr>დ</abbr><ex>ი</ex><abbr>დ</abbr><ex>ი</ex><abbr>სა</abbr></expan></w> 
                             <roleName nymRef="ამირსპასალარ"><expan><abbr>ამ</abbr><ex>ი</ex><abbr>სპ</abbr><ex>ასალა</ex><abbr>რ</abbr><ex>ი</ex><abbr>სა</abbr></expan></roleName> 
                             <w lemma="ძმა"><expan><abbr>ძმ</abbr><ex>ა</ex><abbr>მან</abbr></expan></w> 
@@ -267,30 +260,12 @@
          </div>    
                              
             <div type="commentary">
-                <p>ვალერი სილოგავს აზრით, წარწერა ყურადღებას იქცევს, პირველ რიგში, ტოპონიმების სიმრავლით - ათზე მეტი "ქვეყანა" და პუნქტია მასში
+                <p>თეჟარუიქის ეკლესია მდებარეობს სოფელ მეღრაძორის ახლოს. მას უწოდებენ გიურჯიქილისას, ქართველთა ეკლესიას.
+                                    სომხურ წყაროებში ეწოდება ასევე პღნძაანქ.
+              წარწერა 1977 წელს გამოაქვეყნა პარუირ მურადიანმა, ხოლო 1980 წელს მისეული შესწორებებით - ვალერი სილოგავამ.
+               ვალერი სილოგავს აზრით, წარწერა ყურადღებას იქცევს, პირველ რიგში, ტოპონიმების სიმრავლით - ათზე მეტი „ქვეყანა“ და პუნქტია მასში
                 დასახელებული. იგი ძვირფას საისტორიო წყაროს წარმოადგენს.</p>                
             </div>
-            
-            <div type="bibliography" subtype="otherPublications">
-             <listBibl> 
-            <bibl type="monogr" xml:lang="ka">
-                             <author>
-                            <persName>
-                               <forename>პარუირ</forename>
-                               <surname>მურადიანი</surname>
-                            </persName>    
-                        </author>
-                        <title  level="m">სომხეთის ქართული წარწერები, წყაროთმცოდნეობითი გამოკვლევა
-                                (სომხურ ენაზე)</title>
-                        <title level="s">Armeno-Georgica</title>
-                        <pubPlace>ერევანი</pubPlace>
-                        <publisher>ერევნის უნივერსიტეტის გამომცემლობა</publisher>
-                        <date>1977</date>
-                        <biblScope unit="issue">ტ. I</biblScope>
-                        <biblScope unit="pp">გვ. 5-256</biblScope>
-                    </bibl>
-                 </listBibl> 
-                </div>
         </body>
     </text>
 </TEI>

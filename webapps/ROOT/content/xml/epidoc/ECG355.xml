@@ -6,7 +6,8 @@
         <fileDesc>
             <titleStmt>
                 <title>კურთანის წარწერა</title>
-                <editor></editor>
+                <editor>ვალერი სილოგავა</editor>
+                <editor>პარუირ მურადიანი</editor>
             </titleStmt>
             <publicationStmt>
                 <authority>ილიას სახელმწიფო უნივერსიტეტი, ლინგვისტურ კვლევათა ინსტიტუტი</authority>
@@ -20,14 +21,11 @@
             <sourceDesc>
                 <msDesc>
                      <msIdentifier>
-                        <collection>
-                           კურთანი
-                        </collection>
-                    </msIdentifier>
-                    
+                        <collection>კურთანი</collection>
+                    </msIdentifier>                 
                     <msContents>
                         <summary>
-                            <seg xml:lang="ka">ეპიტაფია</seg>
+                            <seg xml:lang="ka">მოსახსენებელი</seg>
                             <seg xml:lang="en"/>
                         </summary>
                     </msContents>  
@@ -45,7 +43,7 @@
                                 </support>
                             </supportDesc>
                                 <layoutDesc>
-                                    <layout writtenLines="9">წარწერა ცხრასტრიქონიანია.                                 
+                                    <layout writtenLines="9">წარწერა ცხრასტრიქონიანია                               
                                       <dimensions unit="cm">
                                          <width/>
                                          <height/> 
@@ -54,58 +52,52 @@
                                 </layoutDesc>
                         </objectDesc>                        
                         <handDesc>
-                            <handNote>
-                                <rs type="execution">ამოღარული</rs> <rs type="script">ასომთავრული</rs> წარწერა.
+                            <handNote script="asomtavruli" style="inscribed">
+                                <rs type="execution">ამოღარული</rs> <rs type="script">ასომთავრული</rs> წარწერა
                                    <height/> 
                             </handNote>
                         </handDesc>
                     </physDesc>
                     <history>
                             <origin>
-                                <origPlace>კურთანის ეკლესია, სომხეთი.</origPlace>
+                                <origPlace>კურთანის ეკლესია, სომხეთი</origPlace>
                                 <origDate evidence="lettering" datingMethod="#julian">XI AD</origDate>
                             </origin>
                             <provenance type="found">
-                                <placeName type ="ancientFindspot">კურთანის ეკლესია, სომხეთი.</placeName> 
+                                <placeName type ="ancientFindspot">კურთანის ეკლესია, სომხეთი</placeName> 
                                 <!-- "40.955788, 44.565375"-->
-                                <rs type="circumstances">წარწერა 1977 წელს გამოაქვეყნა პარუირ მურადიანმა ნაშრომში: სომხეთის ქართული წარწერები, წყაროთმცოდნეობითი გამოკვლევა
-                                (სომხურ ენაზე), ერევანი, ხოლო 1980 წელს მისეული შესწორებებით - ვალერი სილოგავამ.</rs>
+                                <rs type="circumstances"/>
                                 <rs type="context"/>
                                 <rs type="monuList"/>
                             </provenance>                                
                             <provenance type="observed">
-                                <placeName type="modernSpot">კურთანის ეკლესია, სომხეთი.</placeName>
+                                <placeName type="modernSpot">კურთანის ეკლესია, სომხეთი</placeName>
                                 <idno type="invNo"/>
                             </provenance> 
                     </history>                   
                 </msDesc>
             </sourceDesc>
         </fileDesc>
+        <revisionDesc><change when="2019-12-17" who="Eka Kvirkvelia">ტექსტის სრული კოდირება, მეტამონაცემების სრული კოდირება, 
+            ბმულებით დაკავშირება ავტორიტეტულ წყაროსთან</change></revisionDesc>
     </teiHeader>
+    <!-- <facsimile>
+        <surface>
+            <graphic url="ecg355.jpg">
+                <desc xml:lang="ka">კურთანის წარწერა</desc>
+                <desc xml:lang="en"></desc>
+            </graphic>
+        </surface>
+    </facsimile>-->
     <text>
-        <body>           
-              <div type="bibliography">
-                <listBibl>                               
-                    <bibl type="article" xml:lang="ka">
-                        <author>
-                            <persName>
-                               <forename>ვალერი</forename>
-                               <surname>სილოგავა</surname>
-                            </persName>    
-                          </author>
-                        <title level="a">ცნობები და შენიშვნები სომხეთის ქართული ეპიგრაფიკული ძეგლების გამოცემის შესახებ</title>                    
-                    <bibl type="series">
-                        <title level="s">საქართველოს სსრ მეცნიერებათა აკადემიის მაცნე, ენისა და ლიტერატურის სერია</title>
-                        <pubPlace>თბილისი</pubPlace>
-                        <publisher></publisher>
-                        <date>1980</date>
-                        <biblScope unit="issue">2</biblScope>
-                        <biblScope unit="pp">გვ. 142-175</biblScope>
-                         </bibl>
-                    </bibl>
-                </listBibl>
-              </div>
-            
+        <body> 
+            <div type="bibliography">
+              <listBibl> 
+<bibl n="1">ვალერი სილოგავა, ცნობები და შენიშვნები სომხეთის ქართული ეპიგრაფიკული ძეგლების გამოცემის შესახებ<ptr target="bibliography.xml#b168"/>, <citedRange>გვ. 142-175</citedRange></bibl>                   
+<bibl n="2">პარუირ მურადიანი, სომხეთის ქართული წარწერები, წყაროთმცოდნეობითი გამოკვლევა (სომხურ ენაზე)<ptr target="bibliography.xml#b166"/>, <citedRange>გვ. 5-256</citedRange></bibl>                                     
+              </listBibl> 
+            </div>
+             
             <div type="edition" xml:lang="ka" xml:space="preserve">
                 
                              <!-- † ს(ა)ხ(ე)ლ(ი)თა ღ(მრთისა)ჲთა მ(ა)მ(ი)სა, ძ[(ი)სა დ]
@@ -123,8 +115,8 @@
                               <w lemma="ღმერთ"><expan><abbr>ღ</abbr><ex>მრთისა</ex><abbr>ჲთა</abbr></expan></w> 
                               <w lemma="მამა"><expan><abbr>მ</abbr><ex>ა</ex><abbr>მ</abbr><ex>ი</ex><abbr>სა</abbr></expan></w> 
                               <w lemma="ძე"><expan><abbr>ძ</abbr><supplied reason="lost"><ex>ი</ex><abbr>სა</abbr></supplied></expan></w>
-                              <w lemma="და"><supplied reason="lost">დ</supplied>         
-           <lb n="2" break="no"/>ა</w> 
+                              <supplied reason="lost">დ</supplied>         
+           <lb n="2" break="no"/>ა 
                                <w lemma="სულ"><expan><abbr>ს</abbr><ex>უ</ex><abbr>ლისა</abbr></expan></w>
                                <w lemma="წმიდა"><expan><abbr>წ</abbr><ex>მიდ</ex><abbr>ის</abbr><ex>აჲ</ex><abbr>თა</abbr></expan></w> 
                                <w lemma="მეოხება"><expan><abbr>მ</abbr><ex>ეო</ex><abbr>ხ</abbr><ex>ე</ex><abbr>ბ</abbr><ex>ი</ex><abbr>თ</abbr><ex>ა</ex></expan></w> 
@@ -132,16 +124,16 @@
                                <w lemma="ღმრთისმშობელ"><expan><abbr>ღ</abbr><ex>მრთ</ex><abbr>ი
            <lb n="3" break="no"/>სმშ</abbr><ex>ო</ex><abbr>ბ</abbr><ex>ე</ex><abbr>ლ</abbr><ex>ი</ex><abbr>ს</abbr><ex>ა</ex><abbr>ჲთა</abbr></expan></w>
                                  <w lemma="წმიდა"><expan><supplied reason="lost"><abbr>წ</abbr><ex>მიდ</ex><abbr>ისა</abbr></supplied></expan></w> 
-                                 <persName><name nymRef="იოვანე"><expan><supplied reason="lost"><abbr>ი</abbr><ex>ოვან</ex><abbr>ე</abbr></supplied></expan></name></persName> 
+                                 <name nymRef="იოვანე"><expan><supplied reason="lost"><abbr>ი</abbr><ex>ოვან</ex><abbr>ე</abbr></supplied></expan></name> 
                                  <w lemma="ნათლისმცემელ"><expan><supplied reason="lost"><abbr>ნ</abbr><ex>ა</ex></supplied><abbr>თლ</abbr><supplied reason="lost"><ex>ი</ex><abbr>სმც</abbr></supplied>
            <lb n="4" break="no"/><ex>ე</ex><abbr>მ</abbr><ex>ე</ex><abbr>ლ</abbr><ex>ი</ex><abbr>ს</abbr><ex>ა</ex><abbr>ჲთა</abbr></expan></w> 
                                  <w lemma="წმიდა"><expan><abbr>წ</abbr><ex>მიდ</ex><abbr>ისა</abbr></expan></w>
-                                 <persName><name nymRef="გიორგი"><expan><supplied reason="lost"><abbr>გ</abbr><ex>იორგ</ex><abbr>ი</abbr></supplied></expan></name></persName>
+                                 <name nymRef="გიორგი"><expan><supplied reason="lost"><abbr>გ</abbr><ex>იორგ</ex><abbr>ი</abbr></supplied></expan></name>
                                  <w lemma="მთავარმოწამე"><expan><supplied reason="lost"><abbr>მთ</abbr><ex>ა</ex><abbr>ვ</abbr><ex>ა</ex></supplied><abbr>რმ</abbr><ex>ო</ex><abbr>წ</abbr><ex>ა</ex><supplied reason="lost"><abbr>მის</abbr><ex>ა</ex></supplied>
            <lb n="5" break="no"/><abbr>ჲთა</abbr></expan></w>
-                                 <w lemma="და">და</w> 
+                                 და 
                                  <w lemma="წმიდა"><expan><abbr>წ</abbr><ex>მიდ</ex><abbr>ისა</abbr></expan></w> 
-                                 <persName><name nymRef="დემეტრე"><expan><abbr>დ</abbr><supplied reason="lost"><ex>ე</ex><abbr>მ</abbr><ex>ე</ex><abbr>ტრ</abbr></supplied><abbr>ე</abbr></expan></name></persName> 
+                                 <name nymRef="დემეტრე"><expan><abbr>დ</abbr><supplied reason="lost"><ex>ე</ex><abbr>მ</abbr><ex>ე</ex><abbr>ტრ</abbr></supplied><abbr>ე</abbr></expan></name> 
                                  <w lemma="მთავარმოწამე"><expan><abbr>მთ</abbr><ex>ა</ex><abbr>ვ</abbr><ex>ა</ex>
            <lb n="6" break="no"/><supplied reason="lost"><abbr>რ</abbr></supplied><abbr>მ</abbr><ex>ო</ex><abbr>წ</abbr><ex>ა</ex><abbr>მის</abbr><ex>ა</ex><abbr>ჲთა</abbr></expan></w> 
                                  <w lemma="რომელ"><expan><supplied reason="lost"><abbr>რ</abbr></supplied><ex>ომ</ex><abbr>ლისა</abbr></expan></w> 
@@ -154,10 +146,11 @@
                         <w lemma="მე">მე</w>
                         <w lemma="გლახაკ"><expan><abbr>გ</abbr>
            <lb n="8" break="no"/><supplied reason="lost"><abbr>ლ</abbr><ex>ა</ex><abbr>ხ</abbr><ex>ა</ex><abbr>კ</abbr></supplied><abbr>მ</abbr><ex>ა</ex><abbr>ნ</abbr></expan></w> 
-                        <persName><name nymRef="დემეტრე"><expan><abbr>დ</abbr><ex>ე</ex><abbr>მ</abbr><ex>ე</ex><abbr>ტრ</abbr><supplied reason="lost"><abbr>ე</abbr></supplied></expan></name></persName> 
+                        <name nymRef="დემეტრე"><expan><abbr>დ</abbr><ex>ე</ex><abbr>მ</abbr><ex>ე</ex><abbr>ტრ</abbr><supplied reason="lost"><abbr>ე</abbr></supplied></expan></name> 
                         <placeName nymRef="ჰინვანი"><expan><supplied reason="lost"><abbr>ჰ</abbr><ex>ი</ex></supplied><abbr>ნვ</abbr><ex>ა</ex><abbr>ნ</abbr><ex>ე</ex><abbr>ლ</abbr></expan></placeName> 
                         <roleName nymRef="ეპისკოპოს"><expan><abbr>მთ</abbr><ex>ა</ex><abbr>ვ</abbr><ex>ა</ex><supplied reason="lost"><abbr>რ</abbr></supplied>
            <lb n="9"/><supplied reason="lost">ებისკოპოსმან</supplied></expan></roleName>
+                        <gap reason="lost" unit="character" extent="unknown"></gap>
                  </ab>
                </div>
               
@@ -209,29 +202,8 @@
          </div>    
                              
             <div type="commentary">
-                <p></p>                
+                <p>წარწერა 1977 წელს გამოაქვეყნა პარუირ მურადიანმა, ხოლო 1980 წელს მისეული შესწორებებით - ვალერი სილოგავამ.</p>                
             </div>
-             
-            <div type="bibliography" subtype="otherPublications">
-             <listBibl> 
-            <bibl type="monogr" xml:lang="ka">
-                             <author>
-                            <persName>
-                               <forename>პარუირ</forename>
-                               <surname>მურადიანი</surname>
-                            </persName>    
-                        </author>
-                        <title  level="m">სომხეთის ქართული წარწერები, წყაროთმცოდნეობითი გამოკვლევა
-                                (სომხურ ენაზე)</title>
-                        <title level="s">Armeno-Georgica</title>
-                        <pubPlace>ერევანი</pubPlace>
-                        <publisher>ერევნის უნივერსიტეტის გამომცემლობა</publisher>
-                        <date>1977</date>
-                        <biblScope unit="issue">ტ. I</biblScope>
-                        <biblScope unit="pp">გვ. 5-256</biblScope>
-                    </bibl>
-                 </listBibl> 
-                </div>
         </body>
     </text>
 </TEI>

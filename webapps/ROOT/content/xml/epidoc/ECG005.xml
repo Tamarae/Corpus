@@ -71,7 +71,7 @@
                                     evidence="lettering" datingMethod="#julian">II-III AD></origDate>
                             </origin>
                             <provenance type="found" when="1993">
-                                <placeName type ="ancientFindspot" ref="http://pleiades.stoa.org/places/863799">არმაზციხე, ბაგინეთი</placeName> 
+                               <placeName type ="ancientFindspot" ref="http://pleiades.stoa.org/places/863799">არმაზციხე, ბაგინეთი</placeName>
                                 <rs type="circumstances">1993 წლის ივნისში მცხეთის არქეოლოგიურმა ექსპედიციამ ბაგინეთის შიდაციხის ჩრდილოეთი კარიბჭის - კლდეკარის - თავზე, მისგან 20 მეტრის დაშორებით, 
                                     მიწის ზედაპირიდან 0.1 მეტრის სიღრმეზე აღმოაჩინა სამად გატეხილი ქვიშაქვის ფილა. ფილის მარცხენა ზედა ნაწილს (ზომებით: 11×11×8.5 სმ), რომელზეც ორი სტრიქონის ნაშთია, ექსპედიციამ მოგვიანებით, 1995 წლის სექტემბერში მიაკვლია.</rs>
                                 <rs type="context"/>

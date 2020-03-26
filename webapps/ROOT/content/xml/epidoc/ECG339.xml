@@ -5,7 +5,9 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>ქობერის მონასტრის ეპიტაფია (II)</title>              
+                <title>ქობაირის მონასტრის ეპიტაფია ივანე მანდატურთუხუცესის ძის, შანშე ათაბაგის ძმის, ბერი პიმენისი</title>
+                <editor>ქეთი ასათიანი</editor>
+                <editor>გიორგი კალანდია</editor>
             </titleStmt>
             <publicationStmt>
                 <authority>ილიას სახელმწიფო უნივერსიტეტი, ლინგვისტურ კვლევათა ინსტიტუტი</authority>
@@ -19,14 +21,12 @@
             <sourceDesc>
                 <msDesc>
                     <msIdentifier>
-                        <collection>
-                           ქობერი
-                        </collection>
+                        <collection>ქობაირი</collection>
                     </msIdentifier>
                     
                     <msContents>
                         <summary>
-                            <seg xml:lang="ka">მემორიალური</seg>
+                            <seg xml:lang="ka">ეპიტაფია</seg>
                             <seg xml:lang="en"/>
                         </summary>
                     </msContents>  
@@ -44,7 +44,8 @@
                                 </support>
                             </supportDesc>
                                 <layoutDesc>
-                                    <layout writtenLines="6">წარწერა ექვსსტრიქონიანია.                                  
+                                    <layout writtenLines="6">წარწერა ექვსსტრიქონიანია. იგი შესრულებულია ბერი პიმენის საფლავზე, რომელიც 
+                                მთავარი ეკლესიის ჩრდილოეთ კედელთან აწ უკვე დანგრეულ ეკვდერში მდებარეობს                                
                                       <dimensions unit="cm">
                                          <width></width>
                                          <height></height> 
@@ -53,59 +54,50 @@
                                 </layoutDesc>
                         </objectDesc>                        
                         <handDesc>
-                            <handNote>
-                                <rs type="execution">ამოღარული</rs> <rs type="script">ასომთავრული</rs> წარწერა. შესრულებულია ლამაზი ხელით.
+                            <handNote script="asomtavruli" style="inscribed">
+                                <rs type="execution">ამოღარული</rs> <rs type="script">ასომთავრული</rs> წარწერა. შესრულებულია ლამაზი ხელით
                                    <height unit="cm" precision="high"></height> 
                             </handNote>
                         </handDesc>
                     </physDesc>
                     <history>
                             <origin>
-                                <origPlace>ქობერის მონასტერი, სომხეთი</origPlace>
+                                <origPlace>ქობაირის მონასტერი, სომხეთი</origPlace>
                                 <origDate notBefore-custom="1300" notAfter-custom="1500" precision="medium" 
                                     evidence="lettering" datingMethod="#julian">XIII-XIV AD</origDate>
                             </origin>
                             <provenance type="found" when="2011">
-                                <placeName type ="ancientFindspot">ქობერის მონასტერი, სომხეთი</placeName>
+                                <placeName type ="ancientFindspot">ქობაირის მონასტერი, სომხეთი</placeName>
                                 <!-- "41.005061, 44.635086"--> 
                                 <rs type="circumstances">2011 წელს ქეთი ასათიანისა და გიორგი კალანდიას ორგანიზებით განხორციელებული ორი სამეცნიერო ექსპედიციის შედეგად
-                                ქობერის მონასტერში გამოვლინდა მანამდე უცნობი 9 ახალი ქართული ეპიტაფია. ბერი პიმენის საფლავი მდებარეობს 
-                                მთავარი ეკლესიის ჩრდილოეთ კედელთან აწ უკვე დანგრეულ ეკვდერში.</rs>
+                                ქობაირის მონასტერში გამოვლინდა მანამდე უცნობი 9 ახალი ქართული ეპიტაფია</rs>
                                 <rs type="context"/>
                                 <rs type="monuList"/></provenance>                                
                             <provenance type="observed">
-                                <placeName type="modernSpot">ქობერის მონასტერი, სომხეთი</placeName>
+                                <placeName type="modernSpot">ქობაირის მონასტერი, სომხეთი</placeName>
                                 <idno type="invNo"/></provenance> 
                     </history>                   
                 </msDesc>
             </sourceDesc>
         </fileDesc>
+        <revisionDesc><change when="2019-12-17" who="Eka Kvirkvelia">ტექსტის სრული კოდირება, მეტამონაცემების სრული კოდირება, 
+            ბმულებით დაკავშირება ავტორიტეტულ წყაროსთან</change></revisionDesc>
     </teiHeader>
+    <!-- <facsimile>
+        <surface>
+            <graphic url="ecg338.jpg">
+                <desc xml:lang="ka">ქობაირის მონასტრის ეპიტაფია ივანე მანდატურთუხუცესის ძის, შანშე ათაბაგის ძმის, ბერი პიმენისი</desc>
+                <desc xml:lang="en"></desc>
+            </graphic>
+           </surface>
+    </facsimile> -->
     <text>
         <body>           
-              <div type="bibliography" subtype="principalEdition">
-                <listBibl>                               
-                    <bibl type="article" xml:lang="ka">
-                        <author>
-                            <persName>
-                               <forename>ქეთი</forename>
-                               <surname>ასათიანი</surname>
-                            </persName>    
-                            <persName>
-                               <forename>გიორგი</forename>
-                               <surname>კალანდია</surname>
-                            </persName>
-                        </author>
-                        <title level="a">ქობერის მონასტრის ქართული წარწერები</title>                    
-                    <bibl type="journal">
-                        <title level="j">Artpalace, სამეცნიერო-პოპულარული ჟურნალი</title>
-                        <pubPlace>თბილისი</pubPlace>
-                        <publisher>საქართველოს თეატრის, მუსიკის, კინოსა და ქორეოგრაფიის სახელმწიფო მუზეუმი</publisher>
-                        <date>29.07.2011</date>
-                        <biblScope unit="issue">3 (01)</biblScope>
-                        <biblScope unit="pp">გვ. 10-14</biblScope>
-                         </bibl>
-                    </bibl></listBibl></div>
+              <div type="bibliography">
+                <listBibl>
+   <bibl n="1">ქეთი ასათიანი, გიორგი კალანდია, ქობერის მონასტრის ქართული წარწერები<ptr target="bibliography.xml#b165"/>, <citedRange>გვ. 10-14</citedRange></bibl>
+                </listBibl>
+              </div>
             
             <div type="edition" xml:lang="ka" xml:space="preserve">
                 
@@ -116,7 +108,6 @@
                             ნჲსი ლოცვსა მმ
                             იხსენებდეთ --> 
                                                             
-
                 <ab>
                    <lb n="1"/>&#8224;
                                <w lemma="ესე">ესე</w> 
@@ -124,20 +115,20 @@
                                <w lemma="მე">ჩემ</w> 
                                <w lemma="ცოდვილ">ცოდვილი
                     <lb n="2" break="no"/>სა</w>
-                               <persName><name nymRef="ივანე"><expan><abbr>ივ</abbr><ex>ა</ex><abbr>ნე</abbr></expan></name></persName> 
+                               <name nymRef="ივანე"><expan><abbr>ივ</abbr><ex>ა</ex><abbr>ნე</abbr></expan></name> 
                                 <roleName nymRef="მანდატურთუხუცეს"><expan><abbr>მ</abbr><ex>ა</ex><abbr>ნდატო</abbr><ex>ჳ</ex><abbr>რთ</abbr><ex>უ</ex><abbr>ხუც
                     <lb n="3" break="no"/>ესისა</abbr></expan></roleName> 
                                 <w lemma="ძე">ძისა</w> 
-                                <w lemma="და">და</w> 
+                                და 
                                 <roleName nymRef="ათაბაქ"><expan><abbr>ათ</abbr><ex>ა</ex><abbr>ბაქისა</abbr></expan></roleName> 
-                                <persName><name nymRef="შანშე">შ
-                    <lb n="4" break="no"/>ანშეს</name></persName> 
+                                <name nymRef="შანშე">შ
+                    <lb n="4" break="no"/>ანშეს</name> 
                                 <w lemma="ძმა">ძმისა</w> 
                                 <w lemma="ბერ">ბერისა</w> 
-                                <persName><name nymRef="პიმენი">პიმე
-                    <lb n="5" break="no"/>ნჲსი</name></persName> 
+                                <name nymRef="პიმენი">პიმე
+                    <lb n="5" break="no"/>ნჲსი</name> 
                                 <w lemma="ლოცვა"><expan><abbr>ლოცვ</abbr><ex>ა</ex><abbr>სა</abbr></expan></w> 
-                                  <w lemma="მოხსენება"><expan><abbr>მ</abbr><ex>ო</ex><abbr>მ
+                                <w lemma="მოხსენება"><expan><abbr>მ</abbr><ex>ო</ex><abbr>მ
                     <lb n="6" break="no"/>იხსენებდეთ</abbr></expan></w>
                    </ab>
                </div>
@@ -150,9 +141,8 @@
                 <p>ბერი პიმენი ივანე II მხარგრძელის ვაჟია და შანშეს ძმა. გამომცემელთა აზრით, ეპიტაფია ფასდაუდებელ ინფორმაციას იძლევა მანდატურთუხუცეს ივანე II-ის 
                 ოჯახის შესახებ. კერძოდ, აქამდე ცნობილი იყო, რომ მას ხუთი ვაჟი ჰყავდა: შაჰანშე II, ვაჰრამი, არტაშირი, აღბუღა და ზაზა. ეპიტაფიიდან
                 ირკვევა, რომ მას კიდევ ერთი ვაჟი ჰყოლია: ბერი პიმენი. ქობერის მონასტრის სხვა ეპიტაფიიდან მისი ასულის ვინაობასაც ვიგებთ: სულა 
-                გურკნელის მეუღლე თამარ მხარგრძელი. </p>                
-            </div>
-            
+                გურკნელის მეუღლე თამარ მხარგრძელი.</p>                
+            </div>        
          </body>
     </text>
 </TEI>

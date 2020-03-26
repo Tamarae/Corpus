@@ -38,7 +38,7 @@
     <tr>
       <xsl:apply-templates select="str[@name='index_item_name']" />
       <xsl:apply-templates select="str[@name='index_abbreviation_expansion']"/>
-      <xsl:apply-templates select="str[@name='index_numeral_value']"/>
+     <xsl:apply-templates select="str[@name='index_numeral_value']"/>
       <xsl:apply-templates select="arr[@name='language_code']"/>
       <xsl:apply-templates select="arr[@name='index_instance_location']" />
     </tr>

@@ -56,7 +56,6 @@
             <xsl:otherwise><i18n:text i18n:key="epidoc-xslt-iospe-unknown">Unknown</i18n:text></xsl:otherwise>
           </xsl:choose>
         </dd>
-        
         <dt width="150" align="left"><i18n:text i18n:key="epidoc-xslt-iospe-find-circumstances">Find circumstances</i18n:text></dt>
         <dd>
           <xsl:choose>

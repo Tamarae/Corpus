@@ -129,16 +129,16 @@
 <lb n="2"/><w lemma="წმიდა"><expan><abbr>წ</abbr><ex>მი</ex><abbr>დ</abbr><ex>ი</ex><abbr>სა</abbr></expan></w> 
             <w lemma="ღმრთისმშობელ"><expan><abbr>ღ</abbr><supplied reason="lost"><ex>მრთი</ex><abbr>სმშ</abbr><ex>ო</ex><abbr>ბ</abbr><ex>ე</ex><abbr>ლ</abbr><ex>ი</ex><abbr>ს</abbr><ex>აჲ</ex></supplied>თა</expan></w> 
             <w  lemma="წმიდა"><expan><abbr>წ</abbr><ex>მიდი</ex><abbr>სა</abbr></expan></w> 
-            <name nymRef="წმ. გრიგოლ"><expan><abbr>გრ</abbr><ex>იგო</ex><abbr>ლ</abbr><ex>ი</ex><abbr>ს</abbr><ex>აჲ</ex><abbr>თა</abbr></expan></name> 
+            <name nymRef="გრიგოლ"><expan><abbr>გრ</abbr><ex>იგო</ex><abbr>ლ</abbr><ex>ი</ex><abbr>ს</abbr><ex>აჲ</ex><abbr>თა</abbr></expan></name> 
             <w lemma="მე">მე</w> 
             <w lemma="გლახაკ"><expan><abbr>გლ</abbr><ex>ა</ex><abbr>ხ</abbr><ex>ა</ex><abbr>კმ</abbr><ex>ა</ex><abbr>ნ</abbr></expan></w>
-<lb n="3"/><name nymRef="ელია ბოლნელი">ელია</name> 
+<lb n="3"/><name nymRef="ელია">ელია</name> 
             <roleName><w lemma="ბოლნელ"><expan><abbr>ბ</abbr><ex>ოლ</ex><abbr>ნ</abbr><ex>ელ</ex><abbr>ჲ</abbr></expan></w></roleName> 
             <roleName><w lemma="მღვდელმოძღვარ"><expan><abbr>მღ</abbr><ex>დელ</ex><abbr>თმ</abbr><ex>ო</ex><abbr>ძ</abbr><ex>ღურა</ex><abbr>დ</abbr></expan></w></roleName> 
             <w lemma="ღირს-ყოფა"><expan><abbr>ღ</abbr><ex>ი</ex><abbr>რსვ</abbr><ex>ი</ex><abbr>ქ</abbr><ex>მე</ex><abbr>ნ</abbr></expan></w>
             <w lemma="საყდარ"><expan><abbr>საყდ</abbr><ex>ა</ex><abbr>რსა</abbr></expan> </w>
             <w lemma="წმიდა"><expan><abbr>წ</abbr><ex>მიდი</ex><abbr>სა</abbr></expan></w>
-            <name nymRef="წმ. გრიგოლ"><expan><abbr>გ</abbr><ex>რი</ex><abbr>გ</abbr><ex>ო</ex><abbr>ლ</abbr><ex>ისა</ex><abbr>სა</abbr></expan></name> 
+            <name nymRef="გრიგოლ"><expan><abbr>გ</abbr><ex>რი</ex><abbr>გ</abbr><ex>ო</ex><abbr>ლ</abbr><ex>ისა</ex><abbr>სა</abbr></expan></name> 
               დ
 <lb n="4" break="no"/>ა <w lemma="ესე">ამას</w> 
              <w lemma="საყდარ"><expan><abbr>საყდ</abbr><ex>არ</ex><abbr>ს</abbr><ex>ა</ex></expan></w>
@@ -157,13 +157,13 @@
              <w lemma="ღმერთ"><expan><abbr>ღ</abbr><ex>მრთის</ex><abbr>ა</abbr></expan></w> 
              <w lemma="დიდება"><expan><abbr>ად</abbr><ex>იდე</ex><abbr>ნ</abbr></expan></w> 
              <w lemma=""><expan><abbr>ღ</abbr><ex>მერთმა</ex><abbr>ნ</abbr></expan></w> 
-             <name nymRef="დავით მამფალი"><expan><abbr>დ</abbr><ex>ავი</ex><abbr>თ</abbr></expan></name> 
+             <name nymRef="დავით"><expan><abbr>დ</abbr><ex>ავი</ex><abbr>თ</abbr></expan></name> 
               <roleName><w lemma="მამფალ"><expan><abbr>მ</abbr><ex>ამ</ex><abbr>ფა</abbr><ex>ლი</ex></expan></w></roleName> 
 <lb n="6"/>     და 
             <w lemma="შვილ"><expan><abbr>შვ</abbr><ex>ი</ex><abbr>ლ</abbr><ex>ნი</ex></expan></w> 
              <w lemma="მათი"><expan><abbr>მა</abbr><ex>თნი</ex></expan></w> 
                 და
-             <name nymRef="აბულ მამფალი"><expan><abbr>აბ</abbr><ex>უ</ex><abbr>ლ</abbr></expan></name> 
+             <name nymRef="აბულ"><expan><abbr>აბ</abbr><ex>უ</ex><abbr>ლ</abbr></expan></name> 
              <roleName><w lemma="მამფალ"><expan><abbr>მ</abbr><ex>ამ</ex><abbr>ფა</abbr><ex>ლი</ex></expan></w></roleName>
                 და 
                 <w lemma="აწ">აწ</w> 

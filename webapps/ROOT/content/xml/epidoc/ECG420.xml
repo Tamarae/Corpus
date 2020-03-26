@@ -48,12 +48,12 @@
                             <handNote> 
                                 <p>წარწერა შესრულებულია მკაფიო ასომთავრულით.</p>
                                 <p>წარწერაში არის სიტყვის შემოკლება, ასოში ჩაწერილი ასო.</p>
-                                <height/>
-                                <width/>
-                            </handNote>
+                                <height unit="cm" precision="medium"></height>
+                                <width unit="cm" precision="medium"></width>
+                                  </handNote>
                         </handDesc>
                         <decoDesc>
-                            <decoNote/>
+                            <decoNote></decoNote>
                         </decoDesc>
                     </physDesc>
                     <history>
@@ -70,7 +70,7 @@
                             </provenance> 
                         <provenance type="observed">
                             <placeName type="modernSpot">სოფ. დოლი</placeName>
-                            <idno/>
+                            <idno></idno>
                         </provenance>
                     </history>                   
                 </msDesc>
@@ -118,7 +118,11 @@
                 <p>მარკოზი</p>
             </div>
             
-            <div type="apparatus" xml:space="preserve">                                                                                                                                                       
+            <div type="apparatus" xml:space="preserve">                                                                                                                                                          <!-- კრიტიკული აპარატი -->
+              <head>კრიტიკული აპარატი</head>
+              <p><app><lem></lem>
+              <rdg></rdg>
+              </app></p>
             </div>
            
             <div type="commentary">
