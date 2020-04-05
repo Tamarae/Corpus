@@ -76,22 +76,33 @@
       <xsl:value-of select="."/>
     </field>
   </xsl:template>
+  
 
   <!-- This template is called by the Kiln tei-to-solr.xsl as part of
        the main doc for the indexed file. Put any code to generate
        additional Solr field data (such as new facets) here. -->
   
   <xsl:template name="extra_fields">
-    <xsl:call-template name="field_inscription_category"></xsl:call-template>
-    <xsl:call-template name="field_origin_place"></xsl:call-template>
-    <xsl:call-template name="field_support_material"></xsl:call-template>
-    <xsl:call-template name="field_script_type"></xsl:call-template>
-    <xsl:call-template name="field_execution"></xsl:call-template>
-    <xsl:call-template name="field_date_in_text"></xsl:call-template>
-    <xsl:call-template name="field_khanmetoba"></xsl:call-template>
-    <xsl:call-template name="field_curse"></xsl:call-template>
-    <xsl:call-template name="field_decoration"></xsl:call-template>
-     </xsl:template>
+
+
+      <field name="inscription_language"> 
+        <xsl:value-of select="path/to/inscription/language"/>
+      </field> 
+     
+
+    <xsl:call-template name="field_inscription_category"/>
+    <xsl:call-template name="field_origin_place"/>
+    <xsl:call-template name="field_support_material"/>
+    <xsl:call-template name="field_script_type"/>
+    <xsl:call-template name="field_execution"/>
+    <xsl:call-template name="field_date_in_text"/>
+    <xsl:call-template name="field_khanmetoba"/>
+    <xsl:call-template name="field_curse"/>
+    <xsl:call-template name="field_decoration"/>
+    
+    
+ </xsl:template>
+  
   
   <xsl:template name="field_inscription_category">
     <xsl:apply-templates mode="facet_inscription_category" select="//tei:teiHeader/tei:fileDesc/tei:sourceDesc/tei:msDesc/tei:msContents/tei:summary/tei:seg"/>
@@ -134,5 +145,8 @@
     <xsl:apply-templates mode="facet_decoration" select="//tei:teiHeader/tei:fileDesc/tei:sourceDesc/tei:msDesc/tei:physDesc/tei:decoDesc/tei:decoNote">
     </xsl:apply-templates>
   </xsl:template>
+
+
+
   
 </xsl:stylesheet>

@@ -117,7 +117,10 @@
    <field name="curse" required="false" indexed="true" multiValued="true" stored="true" type="string"/>
    <field name="decoration" required="false" indexed="true" multiValued="true" stored="true" type="string"/>
    
-   <!--  -->
+ 
+   
+
+   
    
    <field indexed="true" multiValued="false" name="document_type"
           required="false" stored="true" type="string" />
@@ -181,8 +184,16 @@
    <field name="origin_date_evidence" required="false" indexed="true"
           multiValued="true" stored="true" type="string" />
    
+   <!-- მულტილინგვური -->
+   
+   <field indexed="true" name="inscription_language" stored="true" required="false" type="string" multiValued="true"/>
+   
+   
+   
+   
    <field name="index_relation" required="false" indexed="true" multiValued="true" stored="true" type="string" />
    
+
    <!-- Concordance fields. -->
    <field name="concordance_bibliography_ref" stored="true" indexed="true"
           multiValued="false" required="false" type="string" />

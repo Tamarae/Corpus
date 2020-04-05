@@ -374,7 +374,16 @@
     </xsl:choose>
   </xsl:template>
 
-    
+  <xsl:template match="t:ref">
+    <a>
+      <xsl:attribute name="href">
+        <xsl:value-of select="@target"/>
+      </xsl:attribute>
+      <xsl:attribute name="target">_blank</xsl:attribute>
+      <xsl:apply-templates/>
+    </a>
+  </xsl:template>
+  
   <xsl:template name="iospe-title">
     <xsl:choose>
       <xsl:when test="//t:titleStmt/t:title/text() and matches(//t:idno[@type='filename'], '^\d\.\d{1,4}$')">

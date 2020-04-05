@@ -15,8 +15,12 @@
             <i18n:text i18n:key="filename">Filename/ID</i18n:text>
           </th>
            
-         <!--  <th>ID</th>--> 
+         <!--  <th>ID</th>
 
+            <th>
+              <i18n:text i18n:key="language">Language</i18n:text>
+            </th>
+          --> 
           <th>
             <i18n:text i18n:key="file_title">Title</i18n:text>
           </th>
@@ -41,9 +45,11 @@
   <xsl:template match="result/doc" mode="text-index">
     <tr>
       <xsl:apply-templates mode="text-index" select="str[@name='file_path']" />
-     <!--  <xsl:apply-templates mode="text-index" select="str[@name='document_id']" />--> 
+     <!--  <xsl:apply-templates mode="text-index" select="str[@name='document_id']" />
+      <xsl:apply-templates mode="text-index" select="arr[@name='language_code']"/>-->
       <xsl:apply-templates mode="text-index" select="arr[@name='document_title']" /> 
       <xsl:apply-templates mode="text-index" select="arr[@name='editor']" />
+      
      
     </tr>
   </xsl:template>
@@ -57,6 +63,12 @@
     </td>
   </xsl:template>
 
+<!-- <xsl:template match="str[@name='language_code']" mode="text-index">
+  <td>
+    <xsl:value-of select="string()"/>
+  </td>
+</xsl:template>
+ -->
  <!--  <xsl:template match="str[@name='document_id']" mode="text-index">
     <td>
       <xsl:value-of select="." />
