@@ -1,15 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="http://www.stoa.org/epidoc/schema/8.23/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="http://www.stoa.org/epidoc/schema/8.23/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:space="preserve" xml:lang="ka">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:space="preserve">
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>წილკნის აკლდამის ბერძნული წარწერა</title>
-                <editor>თინათინ ყაუხჩიშვილი</editor>
+                <title xml:lang="ka">წილკნის აკლდამის ბერძნული წარწერა</title>
+                <title xml:lang="en">Tsilkani Greek inscription</title>
+                <editor xml:lang="ka">თინათინ ყაუხჩიშვილი</editor>
+                <editor xml:lang="en">Tinatin Kaukhchishvili</editor>
             </titleStmt>
             <publicationStmt>
-                <authority>ილიას სახელმწიფო უნივერსიტეტი, ლინგვისტურ კვლევათა ინსტიტუტი</authority>
+                <authority xml:lang="ka">ილიას სახელმწიფო უნივერსიტეტი, ლინგვისტურ კვლევათა ინსტიტუტი</authority>
+                <authority xml:lang="en">Ilia State University, Institute of Linguistic Studies</authority>
                  <idno type="filename">ECG002</idno>
                 <availability>
                     <licence target="http://creativecommons.org/licenses/by-nc-sa/3.0/">
@@ -27,22 +30,30 @@
                     <msContents>
                         <summary>
                             <seg xml:lang="ka">საამშენებლო-მოსახსენებელი</seg>
+                            <seg xml:lang="en">Building memorial</seg>
                         </summary>
                     </msContents>
                     <physDesc>
                         <objectDesc>
                             <supportDesc>
                                 <support>                             
-                                   <material ref="https://www.eagle-network.eu/voc/material/lod/2">ქვა</material>
-                                   <objectType ref="http://www.eagle-network.eu/voc/objtyp/lod/447">აკლდამა</objectType>
+                                   <material xml:lang="ka" ref="https://www.eagle-network.eu/voc/material/lod/2">ქვა</material>
+                                    <material xml:lang="en" ref="https://www.eagle-network.eu/voc/material/lod/2">Stone</material>
+                                    
+                                   <objectType xml:lang="ka" ref="http://www.eagle-network.eu/voc/objtyp/lod/447">აკლდამა</objectType>
+                                    <objectType xml:lang="en" ref="http://www.eagle-network.eu/voc/objtyp/lod/447">Tomb</objectType>
                                     
                                    </support>
                                    </supportDesc>
                                 <layoutDesc>
                                     <layout writtenLines="4">
-                                        წილკნის თლილი ქვებით საგულდაგულოდ ნაგები მიწისქვეშა აკლდამის შიგნითა დასავლეთ კედელზე, რომელიც კირხსნარით არის დაფარული,
-                                        გამოყვანილია ამჟამად ძალიან დაზიანებული ბერძნული ასომთავრული წარწერა, რომელიც მარჯვნისაკენ ოდნავ შეღმართზე არის ნაწერი. 
-                                        წარწერას უკავია 2,66 მ. - 2,98 მ. (ე.ი. დას. კედლის თითქმის მთელი სიგანე).
+                                        <seg xml:lang="ka">წილკნის თლილი ქვებით საგულდაგულოდ ნაგები მიწისქვეშა აკლდამის შიგნითა დასავლეთ კედელზე, რომელიც კირხსნარით არის დაფარული,
+                                            გამოყვანილია ამჟამად ძალიან დაზიანებული ბერძნული ასომთავრული წარწერა, რომელიც მარჯვნისაკენ ოდნავ შეღმართზე არის ნაწერი. 
+                                            წარწერას უკავია 2,66 მ. - 2,98 მ. (ე.ი. დას. კედლის თითქმის მთელი სიგანე).
+                                        </seg>
+                                        <seg xml:lang="en">Greek capital inscription is quite damaged, located on the left inner wall of Tsilkani underground tomb, built with slab stones. 
+                                            The inscription lettered from the upper-right angle. Total area: 2,66 m. -2,98 m. (that is the entire width of the west wall).
+                                        </seg>
                                         <dimensions unit="m">
                                         <width>2,66 - 2,98</width>
                                         <height/>
@@ -52,37 +63,65 @@
                         </objectDesc>                        
                         <handDesc>
                             <handNote> <!-- საღებავით შესრულებული წარწერა -->
-                                <p n="1">წარწერა შესრულებულია წითელი და შავი საღებავებით. შთაბეჭდილება ისეთია, რომ ტექსტი თავდაპირველად წითელი ასოებით იყო შესრულებული, შავი - მეორადია (შავი ასოების შიგნიდან ზოგან გამოსჭვივის წითელი ფერი). 
-                                გარდა 4 ძირითადი სტრიქონისა და ქრიზმებისა, ბათქაშზე აქა-იქ ჩანს კვალი შავი საღებავისა, ე.ი. ჩანს, რომ ეწერა კიდევ რაღაცა იმის გარდა, რაც ახლაა დაცული. 
-                                წარწერა მთლიანად ერთბაშად არც არის შესრულებული, IV სტრიქონი მერეა მიწერილი, მაგრამ ინტერვალი დროის მხრივ დიდი არ უნდა იყოს.</p>
-                                <p n="2">ასოები არათანაბარია, I სტრიქ. ძირითადად 11 სმ-ის სიმაღლისა, II - 10,5 სმ., 
-                                III - 10,5 სმ. IV არათანაბარი და თითქოს უფრო წვრილი ხელით არის მიწერილი. ასოები კუთხოვანია (გამონაკლისს წარმოადგენს ქრიზმებთან გამოყვანილი ω, 
-                                რომელიც მომრგვალებულია), ტოლგვერდებიან α-ს შემაერთებელი ხაზი ჩატეხილი აქვს. წარწერა ფართოდაა ნაწერი. არ შეინიშნება შეცდომები და საშ. ბერძნულის ნორმები.
-                                დასტურდება ერთი ლიგატური (ΜΕ-სთვის).</p>
+                                
+                                <p  xml:lang="ka" n="1">წარწერა შესრულებულია წითელი და შავი საღებავებით. შთაბეჭდილება ისეთია, რომ ტექსტი თავდაპირველად წითელი ასოებით იყო შესრულებული, შავი - მეორადია (შავი ასოების შიგნიდან ზოგან გამოსჭვივის წითელი ფერი). 
+                                    გარდა 4 ძირითადი სტრიქონისა და ქრიზმებისა, ბათქაშზე აქა-იქ ჩანს კვალი შავი საღებავისა, ე.ი. ჩანს, რომ ეწერა კიდევ რაღაცა იმის გარდა, რაც ახლაა დაცული. 
+                                    წარწერა მთლიანად ერთბაშად არც არის შესრულებული, IV სტრიქონი მერეა მიწერილი, მაგრამ ინტერვალი დროის მხრივ დიდი არ უნდა იყოს.
+                                </p>
+                                <p xml:lang="ka" n="2">ასოები არათანაბარია, I სტრიქ. ძირითადად 11 სმ-ის სიმაღლისა, II - 10,5 სმ., 
+                                    III - 10,5 სმ. IV არათანაბარი და თითქოს უფრო წვრილი ხელით არის მიწერილი. ასოები კუთხოვანია (გამონაკლისს წარმოადგენს ქრიზმებთან გამოყვანილი ω, 
+                                    რომელიც მომრგვალებულია), ტოლგვერდებიან α-ს შემაერთებელი ხაზი ჩატეხილი აქვს. წარწერა ფართოდაა ნაწერი. არ შეინიშნება შეცდომები და საშ. ბერძნულის ნორმები.
+                                    დასტურდება ერთი ლიგატური (ΜΕ-სთვის).
+                                </p>
+                                
+                                <p xml:lang="en" n="1">Colors of the inscription are black and red. We presume that at first the text was done with red color 
+                                    and the black is secondary (the red letters are visible within the black ones in some of the cases).
+                                    Besides the 4 main lines and christograms, there are some black color prints on the plaster, thus, there was something more written except what is given currently. 
+                                    Time difference present in the main inscription as the IV line is written later, this difference in time scale may not be big. 
+                                </p>
+                                <p xml:lang="en" n="2">
+                                    The letters are not equal: 1st line mainly 11 cm height, 2nd - 10,5 cm., 3rd - 10,5 cm. 4th is unequal and represented with rather narrow handwriting. 
+                                    The letters are right-angled (exceptional is round shaped ω in the chrisogram), α is represented with a broken crossbar. The entire inscription is quite wide. No grammatical mistakes or medieval Greek forms. One ligature for ΜΕ. 
+                                </p>
+                                
                                 <height unit="cm" precision="medium">11 - 10,5</height>
                                </handNote>
                         </handDesc>
                         <decoDesc>
                             <decoNote>
-                                <p n="1">წარწერაზე არის 4 ქრიზმა: I - პირველი სტრიქონის თავზე, მარცხენა კუთხეში (Α†ω), 3 - წარწერის ქვემოთ (IV სტრიქონი ნაწილობრივ ამ ქრიზმებს შორისაა
-                                ჩაწერილი). ამ სამიდან - ცენტრალური არის პირველი ქრიზმის მსგავსი: Α†ω; მარცხენას აკლია Α, ხოლო მარჯვენასთან მხოლოდ ჯვარია (ასოები ჩამოცვენილია).</p>
+                                <p  xml:lang="ka" n="1">წარწერაზე არის 4 ქრიზმა: I - პირველი სტრიქონის თავზე, მარცხენა კუთხეში (Α†ω), 3 - წარწერის ქვემოთ (IV სტრიქონი ნაწილობრივ ამ ქრიზმებს შორისაა
+                                  ჩაწერილი). ამ სამიდან - ცენტრალური არის პირველი ქრიზმის მსგავსი: Α†ω; მარცხენას აკლია Α, ხოლო მარჯვენასთან მხოლოდ ჯვარია (ასოები ჩამოცვენილია).
+                                </p>
+                                <p xml:lang="en" n="1">
+                                    Inscription has 4 chrisograms: 1st - on top of the first line on the left side (Α†ω), 3 - below the inscription (the 4th line is partially written between these christograms). 
+                                    From the three chrisograms the central is similar to the first one: Α†ω; left one misses A, and the right one only maintains the cross (letters are wiped out). The inscription can be dated to early Christian period according to its content, text structure, shape of the letters (Α, Ε, С, Ш, Ф).
+                                </p>
                             </decoNote>
                         </decoDesc>
                     </physDesc>
                     <history>
                             <origin>
-                                <origPlace>წილკანი</origPlace>
+                                <origPlace>
+                                    <seg xml:lang="ka">წილკანი</seg>
+                                    <seg xml:lang="en">Tsilkani</seg>
+                                </origPlace>
                                 <origDate notBefore="0301" notAfter="0500" evidence="context-lettering" datingMethod="#julian">IV-V AD</origDate>
-                                    <p>წარწერა შინაარსის, ტექსტის აგებულების, ასოთა მოხაზულობის (Α, Ε, С, Ш, Ф) საფუძველზე თარიღდება ადრექრისტიანული ხანით</p>
+                                    <p xml:lang="ka">წარწერა შინაარსის, ტექსტის აგებულების, ასოთა მოხაზულობის (Α, Ε, С, Ш, Ф) საფუძველზე თარიღდება ადრექრისტიანული ხანით</p>
                                </origin>
                             <provenance type="found">
-                                <placeName type ="ancientFindspot">წილკანი</placeName> 
+                                <placeName type ="ancientFindspot">
+                                    <seg xml:lang="ka">წილკანი</seg>
+                                    <seg xml:lang="en">Tsilkani</seg>
+                                </placeName> 
                                 <rs type="circumstances"></rs>
                                 <rs type="context"/>
                                 <rs type="monuList"/>
                             </provenance>                       
                             <provenance type="observed">
-                            <placeName type="modernSpot">წილკანში მდებარე აკლდამა</placeName>
+                            <placeName type="modernSpot">
+                                <seg xml:lang="ka">წილკანში მდებარე აკლდამა</seg>
+                                <seg xml:lang="en">Tomb in Tsilkani</seg>
+                            </placeName>
                             <idno/>                           
                         </provenance>
                     </history>                   
@@ -131,8 +170,11 @@
             <div type="translation" xml:lang="ka">
                 <p>მე, ტიკასმა და ბერმა, ჩემმა ამბა ფარანუსესმა გავაკეთეთ ეს აკლდამა თლილი ქვებისგან ჩვენთვის. პაპრიუპასი(?) ისდიგერდესი(?) ასევე აქ განისვენებენ.</p>
             </div>
+            <div type="translation" xml:lang="en">
+                <p>I, Tikas and the priest, my father Faranouses built this tomb with slab stones. Papriupas (?) Isdigerdes (?) are also buried here.</p>
+            </div>
             
-            <div type="commentary">
+            <div type="commentary" xml:lang="ka">
                 <p n="1">ქრიზმათა რაოდენობა წარწერებში რაიმეს განმსაზღვრელი არაა. I ქრიზმა, წარწერის თავში არის ერთგვარი აპელაცია ქრისტეს მიმართ; ქვემოთა ქრიზმებს, 
                     რომლებიც სიმეტრიულად არის ჩაფიქრებული, ერთგვარად ორნამენტის მნიშვნელობაც აქვთ, ისინი ამთავრებენ ტექსტს. ასეთი ქრიზმები გვხვდება ყველგან, ყველა დროს, სადაც
                     ქრისტიანობა არსებობს. α და ω ქრისტეს სიმბოლოა, რაც მომდინარეობს იოანეს გამოცხადებიდან (1,8; 21,6): ἐγὼ εἰμι τὸ ἄλφα καὶ τὸ ὦ, λέγει κύριος ὁ θεός (მე ვარ ანი და ჵ, პირველი
@@ -144,6 +186,16 @@
                     ბერძნულად ნაწერ წილკანში დაცულ ძეგლში ირანულ სახელთა სიუხვე იბერია-ირანის კონტაქტების მაუწყებელია.</p>
             </div>
             
+            <div type="commentary" xml:lang="en">
+                <p n="1">
+                    The number of christogras does not give any meaningful data. 1st christogram at the beginning of the inscription is the only appellation to Christ; the christograms present symmetrically below have ornamental function, they end the text. Similar christograms are noticeable in every period of Christianity. 
+                    Α and ω are the symbols of the Christ, that originates from St John, Book of Revelation (1,8; 21,6): ἐγὼ εἰμι τὸ ἄλφα καὶ τὸ ὦ, λέγει κύριος ὁ θεός (I am the Alpha and the Omega, the Beginning and the End, says the Lord God).
+                </p>
+                <p n="2">
+                    The tomb is designated for the Christian priests. It was built by Tikas (who appears to be head of the monastery, no specific definition) and Faranouses (a priest and head of the monastery, close person to Tikas). Couple of more men had been buried in the same tomb, seemingly the priests of the same rate. 
+The names that are given in the inscription (Τικᾶς, Φαρανούσης) are not of the Greco-Roman origin (Φαρανούσης i.e. Φαρναούσης are Iranian), but apparently represented with Grecism form. The restored versions (Παπριοῦπας, Ἰσδιγέρδης) are also of Iranian structure. The quantity of Iranian names in the Greek inscriptions of Tsilkani speaks about the intense communications between Iberia and Iran.
+                </p>
+            </div>
          </body>
     </text>
 </TEI>

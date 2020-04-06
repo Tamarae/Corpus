@@ -1,15 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="http://www.stoa.org/epidoc/schema/8.23/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="http://www.stoa.org/epidoc/schema/8.23/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:space="preserve" xml:lang="ka">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:space="preserve">
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>სეფიეთის ბერძნული წარწერა</title>
-                <editor>თინათინ ყაუხჩიშვილი</editor>
+                <title xml:lang="ka">სეფიეთის ბერძნული წარწერა</title>
+                <title xml:lang="en">Sepieti Greek Inscription</title>
+                <editor xml:lang="ka">თინათინ ყაუხჩიშვილი</editor>
+                <editor xml:lang="en">Tinatin Kaukhchishvili</editor>
             </titleStmt>
             <publicationStmt>
-                <authority>ილიას სახელმწიფო უნივერსიტეტი, ლინგვისტურ კვლევათა ინსტიტუტი</authority>
+                <authority xml:lang="ka">ილიას სახელმწიფო უნივერსიტეტი, ლინგვისტურ კვლევათა ინსტიტუტი</authority>
+                <authority xml:lang="en">Ilia State University, Institute of Linguistic Studies</authority>
                  <idno type="filename">ECG004</idno>
                 <availability>
                     <licence target="http://creativecommons.org/licenses/by-nc-sa/3.0/">
@@ -27,15 +30,17 @@
                     <msContents>
                         <summary>
                             <seg xml:lang="ka">სავედრებელი</seg>
-                            <seg xml:lang="en"/>
+                            <seg xml:lang="en">Oration</seg>
                         </summary>
                     </msContents>
                     <physDesc>
                         <objectDesc>
                             <supportDesc>
                                 <support>                             
-                                   <material ref="http://www.eagle-network.eu/voc/material/lod/2">მოყვითალო ქვა</material>
-                                   <objectType ref="http://www.eagle-network.eu/voc/objtyp/lod/54">სამშენებლო ფილა</objectType>
+                                   <material  xml:lang="ka" ref="http://www.eagle-network.eu/voc/material/lod/2">მოყვითალო ქვა</material>
+                                    <material xml:lang="en" ref="http://www.eagle-network.eu/voc/material/lod/2">Yelowish local stone</material>
+                                   <objectType xml:lang="ka" ref="http://www.eagle-network.eu/voc/objtyp/lod/54">სამშენებლო ფილა</objectType>
+                                    <objectType xml:lang="en" ref="http://www.eagle-network.eu/voc/objtyp/lod/54">Building plaque </objectType>
                                      <dimensions unit="cm">
                                         <width>53</width>
                                         <height>48</height>
@@ -45,7 +50,8 @@
                             </supportDesc>
                                 <layoutDesc>
                                     <layout writtenLines="9">
-                                        9 სტრიქონიან ბერძნულ წარწერას უჭირავს ფილის მარცხენა მხარე.
+                                        <seg xml:lang="ka">9 სტრიქონიან ბერძნულ წარწერას უჭირავს ფილის მარცხენა მხარე.</seg>
+                                        <seg xml:lang="en">9 line Green inscription on the left part of the plaque.</seg>
                                         <dimensions>
                                             <height>37</height>
                                         </dimensions>
@@ -54,34 +60,58 @@
                         </objectDesc>                        
                         <handDesc>
                             <handNote>
-                                ასოები საგანგებოდ არის ნაქანდაკევი, ხელი ლამაზი, მთავრული.  
-                                დასაწყისი სტრიქონები უფრო მსხვილადაა გამოყვანილი, ქვედა შედარებით უფრო პატარა ასოებითაა ნაწერი
-                                (მაგ., N I სტრიქ. 5 სმ სიმაღლისაა, II-III-ში - 4,5 სმ, VII და IX სტრ. 3 სმ.).
-                                   <height unit="cm" precision="medium">24-26</height>
+                               <p xml:lang="ka">ასოები საგანგებოდ არის ნაქანდაკევი, ხელი ლამაზი, მთავრული.  
+                                 დასაწყისი სტრიქონები უფრო მსხვილადაა გამოყვანილი, ქვედა შედარებით უფრო პატარა ასოებითაა ნაწერი
+                                 (მაგ., N I სტრიქ. 5 სმ სიმაღლისაა, II-III-ში - 4,5 სმ, VII და IX სტრ. 3 სმ.).
+                               </p>
+                               <p xml:lang="ka">
+                                   The letters are capital, designed in a careful and stylish manner. 
+                                   The letters at the beginning of the inscription are rather big while the lower part is performed with smaller letters 
+                                   ( e.g. N on the 1st line is 5 cm height, in the lines 2nd-3rd - 4,5 cm., 7th and 9th line  - 3 cm.).  
+                               </p>
+                               <height unit="cm" precision="medium">24-26</height>
                           </handNote>
                         </handDesc>                        
                         <decoDesc>
-                            <decoNote>ასევე ნაქანდაკევი Α (ისეთივე მოხაზულობის, როგორც წარწერის ტექსტშია) აწერია თავზე წარწერის მარჯვნივ გამოსახულ მამაკაცის ფიგურას 
-                            (მისი სიმაღლე არის 4,5 სმ). გამოსახულებას დაახლ. გულზე აწერია Ν (არა ნაქანდაკევი, არამედ ჩაჭრილი). ფეხის გასწვრივ ანაფორაზე ამოკაწრულია CTH.</decoNote>
+                            <decoNote>
+                                <p xml:lang="ka">ასევე ნაქანდაკევი Α (ისეთივე მოხაზულობის, როგორც წარწერის ტექსტშია) აწერია თავზე წარწერის მარჯვნივ გამოსახულ მამაკაცის ფიგურას 
+                                    (მისი სიმაღლე არის 4,5 სმ). გამოსახულებას დაახლ. გულზე აწერია Ν (არა ნაქანდაკევი, არამედ ჩაჭრილი). ფეხის გასწვრივ ანაფორაზე ამოკაწრულია CTH.
+                                </p>
+                                <p xml:lang="en">
+                                    The embossed A (the similar to the one in within the inscription)  is written on top of the male figure on the right side of the inscription (height 4,5 cm). 
+                                    In the middle of the figure there is a carved letter N (not embossed but carved). Along the feet of the figure’s anaphora there are scratched letters CHT.
+                                </p>
+                            </decoNote>
                         </decoDesc>                       
                     </physDesc>
                     <history>
                             <origin>
-                                <origPlace>სეფიეთი</origPlace>
+                                <origPlace>
+                                    <seg xml:lang="ka">სეფიეთი</seg>
+                                    <seg xml:lang="en">Sepieti</seg>
+                                </origPlace>
                                 <origDate notBefore-custom="0501" notAfter-custom="0700" precision="medium" 
                                     evidence="lettering" datingMethod="#julian">წარწერის პალეოგრაფიული მონაცემები (ასოთა მოხაზულობა, ორთოგრაფია, საერთო სტილი) და
                                     მართლწერის ნორმები VI-VII სს-ით დათარიღების საშუალებას იძლევიან.
                                 დათარიღება შეიძლება დაზუსტდეს VI ს-ით, ბერძენი ქრონოგრაფოსების ცნობების საფუძველზე.</origDate>
                             </origin>
                             <provenance type="found">
-                                <placeName type ="ancientFindspot">სეფიეთი</placeName> 
-                                <rs type="circumstances">მოყვითალო, საგანგებოდ გათლილი ქვა დევს სეფიეთის მთავარანგელოზის ბაზილიკური ტიპის ეკლესიის სამხრეთის სვეტების გამაერთიანებელ კედელში,
+                                <placeName type ="ancientFindspot">
+                                    <seg xml:lang="ka">სეფიეთი</seg>
+                                    <seg xml:lang="en">Sepieti</seg>
+                                </placeName> 
+                                <rs type="circumstances" xml:lang="ka">მოყვითალო, საგანგებოდ გათლილი ქვა დევს სეფიეთის მთავარანგელოზის ბაზილიკური ტიპის ეკლესიის სამხრეთის სვეტების გამაერთიანებელ კედელში,
                                 შუა თაღის ზემო თახჩაში იატაკიდან დაახლ. 360 სმ-ის სიმაღლეზე ჰორიზონტალურად (ისე რომ იგი თახჩაში აუსვლელად არ ჩანს).</rs>
+                                <rs type="circumstances" xml:lang="en">Yellow colored specially carved stone is placed on the joining wall of south columns of Sepieti Archangel basilica. 
+                                    Exact location: the upper niche of the middle arch from 360 cm height from the floor (it is not visible without getting close to the niche).</rs>
                                 <rs type="context"/>
                                 <rs type="monuList"/>
                             </provenance>                         
                             <provenance type="observed">
-                            <placeName type="modernSpot">სეფიეთის მთავარანგელოზის ეკლესია</placeName>
+                            <placeName type="modernSpot">
+                                <seg xml:lang="ka">სეფიეთის მთავარანგელოზის ეკლესია</seg>
+                                <seg xml:lang="en">Sepieti Archangel Church</seg>
+                            </placeName>
                             <idno/>
                         </provenance>
                     </history>                   
@@ -134,6 +164,9 @@
             <div type="translation" xml:lang="ka">
                 <p>ქ. წმიდაო სტეფანე, ყოველთა წმიდათა თანა მეოხ ეყავ მონასა ფილოქტისტეს და ყოველთა ნათესავთა მისთა.</p>
             </div>
+            <div type="translation" xml:lang="en">
+                <p>Saint Stephen, together with all the saints, be merciful towards the servant of yours Philochtistes and his close people.</p>
+            </div>
             
            <div type="apparatus" xml:space="preserve">                                                                                                                                                          <!-- კრიტიკული აპარატი -->
               <head>კრიტიკული აპარატი</head>
@@ -142,12 +175,20 @@
                </app></p>
             </div>
            
-            <div type="commentary">
+            <div type="commentary" xml:lang="ka">
                 <p n="1">ფილა, რომელიც შემდეგ მთავარანგელოზის ეკლესიაში გამოყენებულია როგორც საშენი მასალა, ადრე უთუოდ ამშვენებდა წმ. სტეფანეს ტაძარს, 
                     რომელიც ამავე რაიონში იყო ყოველ შემთხვევაში VI ს-ის შუა წლებში (შდრ. აგათია, Περὶ Ἰουστ. III, 5; გეორგიკა, III, 1936., გვ. 52) .</p>
                 <p n="2">ტაძრის მოღვაწე, სხვა წყაროებით უცნობი მონა (ღვთისა) ფილოქტისტე, შესთხოვს ტაძრის მფარველ წმინდანს, სტეფანეს შუამდგომლობას, 
                 ცხადია, უფლის წინაშე, საკუთარი თავისა და თავისი მახლობლისათვის.</p>
                 <p n="3">IX სტრიქონში მოსალოდნელი αὐτοῦ-ს ნაცვლად არის αὐτῶ[ν].</p>
+            </div>
+            <div type="commentary" xml:lang="en">
+                <p>The word γούλου in the inscription is frequently represented with γ/δ interchange of guttural and dental phonemes. The inscription has a couple of orthographic errors.
+                The plaque that is used in the Archangel church as a building material was part of the St. Stephen church before, which was located in the same district in the middle of VI century (comp. Agathia, Περὶ Ἰουστ. III, 5; Georgica III, 1936., p. 52).
+                Philochteste, a clergy not mentioned in any other source, is asking for mercy from Lord God under the name of the patron Saint of the church, St. Stephen for himself and close people to him.
+                The line 9th instead of presupposed αὐτοῦ we have αὐτῶ[ν].
+
+                </p>
             </div>
                    
           </body>

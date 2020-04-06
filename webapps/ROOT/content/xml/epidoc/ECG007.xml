@@ -1,15 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="http://www.stoa.org/epidoc/schema/8.23/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="http://www.stoa.org/epidoc/schema/8.23/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:space="preserve" xml:lang="ka">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:space="preserve">
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>ნოსირის ბერძნული წარწერა</title>
-                <editor>თინათინ ყაუხჩიშვილი</editor>
+                <title xml:lang="ka">ნოსირის ბერძნული წარწერა</title>
+                <title xml:lang="en">Greek inscription of Nosiri</title>
+                <editor xml:lang="ka">თინათინ ყაუხჩიშვილი</editor>
+                <editor xml:lang="en">Tinatin Kaukhchishvili</editor>
             </titleStmt>
             <publicationStmt>
-                <authority>ილიას სახელმწიფო უნივერსიტეტი, ლინგვისტურ კვლევათა ინსტიტუტი</authority>
+                <authority xml:lang="ka">ილიას სახელმწიფო უნივერსიტეტი, ლინგვისტურ კვლევათა ინსტიტუტი</authority>
+                <authority xml:lang="en">Ilia State University, Institute of Linguistic Studies</authority>
                  <idno type="filename">ECG007</idno>
                 <availability>
                     <licence target="http://creativecommons.org/licenses/by-nc-sa/3.0/">
@@ -27,32 +30,43 @@
                     <msContents>
                         <summary>
                             <seg xml:lang="ka">სავედრებელი</seg>
+                            <seg xml:lang="en">Oration</seg>
                         </summary>
                     </msContents>
                     <physDesc>
                         <objectDesc>
                             <supportDesc>
                                 <support>                             
-                                   <material ref="http://www.eagle-network.eu/voc/material/lod/642">აგური</material>
-                                   <objectType ref="http://www.eagle-network.eu/voc/objtyp/lod/54">სამშენებლო ფილა</objectType>
+                                   <material xml:lang="ka" ref="http://www.eagle-network.eu/voc/material/lod/642">აგური</material>
+                                    <material xml:lang="en" ref="http://www.eagle-network.eu/voc/material/lod/642">Brick</material>
+                                    
+                                   <objectType xml:lang="ka" ref="http://www.eagle-network.eu/voc/objtyp/lod/54">სამშენებლო ფილა</objectType>
+                                    <objectType xml:lang="en" ref="http://www.eagle-network.eu/voc/objtyp/lod/54">Building plaque</objectType>
                                    </support>
                                    </supportDesc>
                                 <layoutDesc>
                                     <layout writtenLines="12">
-                                        აკლია მარცხენა ქვემოთა კუთხე და თითქმის მთელი ქვემოთა ნაწილი (მარჯვენა კუთხის გარდა).
-                                        დაცულია აგურის ოთხი ერთმანეთის შემავსებელი ფრაგმენტი (მეხუთე აკლია).
+                                        <seg xml:lang="ka">აკლია მარცხენა ქვემოთა კუთხე და თითქმის მთელი ქვემოთა ნაწილი (მარჯვენა კუთხის გარდა).
+                                        დაცულია აგურის ოთხი ერთმანეთის შემავსებელი ფრაგმენტი (მეხუთე აკლია).</seg>
+                                        <seg xml:lang="en">
+                                            The plaque is missing the left lower side and almost complete bottom part (except the right edge). 
+                                            Four inter supplementary pieces of brick preserved (fifth one is missing). 
+                                        </seg>
                                     <dimensions unit="cm">
                                         <width>27.5</width>
                                         <height>27.5</height>
-                                        <depth>4</depth></dimensions>
-                                    </layout>
-                                </layoutDesc>
+                                        <depth>4</depth>
+                                    </dimensions>
+                                   </layout>
+                              </layoutDesc>
                         </objectDesc>                        
                         <handDesc>
                             <handNote>
-                                <p>წარწერა ფრაგმენტული, ასოები გაკრული ხელით არის შესრულებული (ჩაღრმავებული ასოებია) და სტრიქონები მარჯვნისაკენ არის დაქანებული. 
-                                წარწერა ჩაჭდეულია აგურის გამოწვამდე და შესრულებული არც თუ საგულდაგულო მთავრულით.</p>
-                                   <height unit="cm" precision="medium">სტრიქონების საშუალო სიმაღლე 2 სმ.</height>
+                                <p xml:lang="ka">წარწერა ფრაგმენტული, ასოები გაკრული ხელით არის შესრულებული (ჩაღრმავებული ასოებია) და სტრიქონები მარჯვნისაკენ არის დაქანებული. 
+                                წარწერა ჩაჭდეულია აგურის გამოწვამდე და შესრულებული არც თუ საგულდაგულო მთავრულით. სტრიქონების საშუალო სიმაღლე 2 სმ.</p>
+                                <p xml:lang="en">The inscription is incomplete, the handwriting is unclear (carved inscription) are the letters leaned on the right side.
+                                            The inscription is made before firing the brick but with clear capital letters. The average height of the letters is 2 cm.</p>
+                                   <height unit="cm" precision="medium"></height>
                                   </handNote>
                         </handDesc>
                         <decoDesc>
@@ -61,17 +75,29 @@
                     </physDesc>
                     <history>
                             <origin>
-                                <origPlace>ნოსირი</origPlace>
-                                <origDate notBefore="0501" notAfter="0800" evidence="lettering" datingMethod="#julian">VI-VIII AD</origDate>
+                                <origPlace>
+                                    <seg xml:lang="ka">ნოსირი</seg>
+                                    <seg xml:lang="en">Nosiri</seg>
+                                </origPlace>
+                                <origDate notBefore="0501" notAfter="0800" evidence="lettering">VI-VIII AD</origDate>
                             </origin>
                             <provenance type="found">
-                                <placeName type ="ancientFindspot">ნოსირი</placeName> 
-                                <rs type="circumstances">აგური აღმოჩენილია წმ. სტეფანეს ეკლესიის ნანგრევებში XX საუკუნის დამდეგს.</rs>
+                                <placeName type ="ancientFindspot">
+                                    <seg xml:lang="ka">ნოსირი</seg>
+                                    <seg xml:lang="en">Nosiri</seg>
+                                </placeName> 
+                                <rs type="circumstances" xml:lang="ka">
+                                    აგური აღმოჩენილია წმ. სტეფანეს ეკლესიის ნანგრევებში XX საუკუნის დამდეგს.
+                                </rs>
+                                <rs type="circumstances" xml:lang="en">The brick was found in the ruins of St Stephen church in the beginning of the XX century.</rs>
                                 <rs type="context"/>
                                 <rs type="monuList"/>
                             </provenance>                         
                             <provenance type="observed">
-                            <placeName type="modernSpot">ფოთის კოლხური კულტურის მუზეუმი</placeName>
+                            <placeName type="modernSpot">
+                                <seg xml:lang="ka">ფოთის კოლხური კულტურის მუზეუმი</seg>
+                                <seg xml:lang="en">Culture Museum of Poti</seg>
+                            </placeName>
                             <idno>283</idno>
                         </provenance>
                     </history>                   
@@ -136,7 +162,16 @@
                     მარჯვენით დამიცავი უკვდავო, სამგზის წმიდაო, დიდება შენდა. გმადლობ შენ, ღმერთო, 
                     წმიდისა შვილისა შენისა იესუ ქრისტე, უფლისა ჩვენისა გამო, რომლის მეშვეობით 
                     გაგვინათლე ჩვენ, შეგვიწყალე ჩვენ და გამოგვიცხადე უხრწნელი შენი ნათელი... 
-                    ხანგრძლივობა დაამკვიდრე... ხორცთა მიმართ...</p></div>
+                    ხანგრძლივობა დაამკვიდრე... ხორცთა მიმართ...</p>
+            </div>
+            
+            <div type="translation" xml:lang="en">
+                <p>
+                    When you will sit on your throne, O Lord, and investigate my deeds, bless me with your right hand, you three times saint, praise be to you.  
+                    Thank you, O Lord, for your son Jesus Chirst, our Lord, who brought light to us, be merciful to us and send to us the eternal light of yours. 
+                    Award me with longevity … for the flesh...
+                </p>
+            </div>
             
            <div type="apparatus" xml:space="preserve">
               <head>კრიტიკული აპარატი</head>
@@ -151,11 +186,20 @@
                </app></p>
             </div>
            
-            <div type="commentary">
+            <div type="commentary" xml:lang="ka">
                 <p>წარწერა ენობრივი ნორმებისა და პალეოგრაფიული მონაცემების მიხედვით შუაბიზანტიური ხანით (VI-VIII სს-ით) უნდა დათარიღდეს.
                 ამას მხარს უჭერს ბიზანტიელ ისტორიკოსებთან (პროკოპი, იუსტინიანე, აგათია) "ნოსირისა" და წმ. სტეფანეს ტაძრის ხსენება.</p>
             </div>
-            
+            <div type="commentary" xml:lang="en">
+                <p>
+                    Tinatin Kaukhchishvili:
+                    The word “θρόννου” has two orthographic errors, “θρόνου” is correct.
+                    The word κρυτά has the facilitation of joint πτ.
+                    The word "ἐρευμνᾶς" has orthographic error, "ἐρευνᾶς" is correct.
+                    According to the language norms and paleographic characteristics the inscription can be dated to the Middle Bysantinium period (VI-VIII centuries). 
+                    Mentioning Nosiri and St Stephen churches by the Byzantinean historians (Procipius, Justinian, Agathia) also proves the same date.
+                </p>
+            </div>
         </body>
     </text>
 </TEI>

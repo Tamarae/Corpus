@@ -6,7 +6,7 @@
   <!-- EpiDoc specific extension to stylesheets/prune-to-language.xsl. -->
 
   <xsl:import href="../prune-to-language.xsl" />
-
+<!--  
   <xsl:template priority="10" match="tei:div[@type='edition']">
     <xsl:copy>
       <xsl:apply-templates select="@*|node()"/>
@@ -24,6 +24,18 @@
       <xsl:apply-templates select="@*|node()"/>
     </xsl:copy>
   </xsl:template>
- 
-
+ -->
+  
+ <xsl:param name="language"/>
+  <xsl:template match="*[@xml:lang!=$language]"/>
+  <xsl:template priority="10" match="tei:div[@type='edition']">
+    <xsl:copy>
+      <xsl:apply-templates select="@*|node()"/>
+    </xsl:copy>
+  </xsl:template>
+<xsl:template match="tei:foreign" priority="10">
+  <xsl:copy>
+    <xsl:apply-templates select="@*|node()"/>
+  </xsl:copy>
+</xsl:template>
 </xsl:stylesheet>

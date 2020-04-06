@@ -44,8 +44,8 @@
            pipeline, normalising and annotating it as required.
            This processing is in a language context (such as front-end
            display). -->
-      <map:match id="local-preprocess-epidoc-language"
-        pattern="epidoc/preprocess/language/*/**.xml">
+      
+      <map:match id="local-preprocess-epidoc-language" pattern="epidoc/preprocess/language/*/**.xml">
         <map:generate src="../content/xml/epidoc/{2}.xml" />
         <map:transform src="../stylesheets/epidoc/prune-to-language.xsl">
           <map:parameter name="language" value="{1}" />
