@@ -22,7 +22,7 @@
     <item label="Words" match="local-index-display-html" params="epidoc word" i18n:key="menu-index-word"/>
     <item label="Numerals" match="local-index-display-html" params="epidoc numeral" i18n:key="menu-index-numeral"/>
     <item label="Fragments" match="local-index-display-html" params="epidoc fragment" i18n:key="menu-index-fragment"/>
-    <item label="Filename" match="local-index-display-html" params="epidoc filename" i18n:key="filename"/>
+    
   </menu>
   <menu label="Concordances" i18n:key="menu-concordances">
     <item label="Bibliographic" match="local-concordance-bibliography"

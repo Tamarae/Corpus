@@ -8825,3 +8825,13 @@
 127.0.0.1 -  -  [07/Apr/2020:05:39:44 +0000] "GET /ka/inscriptions/grc/ HTTP/1.1" 200 46737 
 127.0.0.1 -  -  [07/Apr/2020:05:39:46 +0000] "GET /solr/select/?df=document_type&rows=20000&&sort=file_path+asc&q=(epidoc)&fq=inscription_language:hy HTTP/1.1" 200 - 
 127.0.0.1 -  -  [07/Apr/2020:05:39:46 +0000] "GET /ka/inscriptions/hy/ HTTP/1.1" 200 13430 
+127.0.0.1 -  -  [07/Apr/2020:05:40:59 +0000] "GET /solr/select/?df=document_type&rows=20000&&sort=file_path+asc&q=(epidoc)&fq=inscription_language:ka HTTP/1.1" 200 - 
+127.0.0.1 -  -  [07/Apr/2020:05:40:59 +0000] "GET /ka/inscriptions/ka/ HTTP/1.1" 200 105188 
+127.0.0.1 -  -  [07/Apr/2020:05:41:02 +0000] "GET /solr/select/?df=document_type&rows=20000&&sort=file_path+asc&q=(epidoc) HTTP/1.1" 200 - 
+127.0.0.1 -  -  [07/Apr/2020:05:41:02 +0000] "GET /ka/inscriptions/ HTTP/1.1" 200 167030 
+127.0.0.1 -  -  [07/Apr/2020:05:41:23 +0000] "GET /solr/select/?df=document_type&rows=20000&&sort=file_path+asc&q=(epidoc) HTTP/1.1" 200 - 
+127.0.0.1 -  -  [07/Apr/2020:05:41:23 +0000] "GET /ka/inscriptions/ HTTP/1.1" 200 166887 
+127.0.0.1 -  -  [07/Apr/2020:05:41:25 +0000] "GET /solr/select/?df=document_type&rows=20000&&sort=file_path+asc&q=(epidoc) HTTP/1.1" 200 - 
+127.0.0.1 -  -  [07/Apr/2020:05:41:25 +0000] "GET /ka/inscriptions/ HTTP/1.1" 200 166887 
+127.0.0.1 -  -  [07/Apr/2020:05:41:26 +0000] "GET /solr/select/?df=document_type&rows=20000&&sort=file_path+asc&q=(epidoc) HTTP/1.1" 200 - 
+127.0.0.1 -  -  [07/Apr/2020:05:41:26 +0000] "GET /ka/inscriptions/ HTTP/1.1" 200 166887 
