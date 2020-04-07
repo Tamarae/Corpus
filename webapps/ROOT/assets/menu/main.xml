@@ -3,13 +3,12 @@
 <root xmlns="http://www.kcl.ac.uk/artshums/depts/ddh/kiln/ns/1.0"
       xmlns:i18n="http://apache.org/cocoon/i18n/2.1">
   
-  <menu label="Inscriptions" match="local-epidoc-index-display"
-        i18n:key="menu-inscriptions">
-    <item label="Georgian" match="local-epidoc-index-display" i18n:key="menu-inscriptions_georgian"/>
-    <item label="Greek" match="local-epidoc-index-display" i18n:key="menu-inscriptions_greek"/>
-    <item label="Armenian" match="local-epidoc-index-display" i18n:key="menu-inscriptions_armenian"/>
-    <item label="Hebrew" match="local-epidoc-index-display" i18n:key="menu-inscriptions_hebrew"/>
-    <item label="Aramaic" match="local-epidoc-index-display" i18n:key="menu-inscriptions_aramaic"/>
+  <menu label="Inscriptions" match="local-epidoc-index-display" i18n:key="menu-inscriptions">
+    <item label="Georgian" match="local-epidoc-index-display-lang" params="ka" i18n:key="menu-inscriptions_georgian"/>
+    <item label="Greek" match="local-epidoc-index-display-lang" params="grc" i18n:key="menu-inscriptions_greek"/>
+    <item label="Armenian" match="local-epidoc-index-display-lang" params="hy" i18n:key="menu-inscriptions_armenian"/>
+    <item label="Hebrew" match="local-epidoc-index-display-lang" params="he" i18n:key="menu-inscriptions_hebrew"/>
+    <item label="Aramaic" match="local-epidoc-index-display-lang" params="arc" i18n:key="menu-inscriptions_aramaic"/>
   </menu>
       
   <menu label="Indices" match="local-indices-type-display" i18n:key="menu-indices">

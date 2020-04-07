@@ -48,23 +48,17 @@
 <!--            </xsl:if>-->
             <!-- at one point we wanted to suppress abbreviations inside corrected text; we no longer agree with this,
                but are leaving the code here in case it turns out to have been a good idea after all -->
-            
-            
             <xsl:text>(</xsl:text><xsl:apply-templates/>
-            
             <!-- Found in tpl-certlow.xsl -->
-            
             <xsl:call-template name="cert-low"/>
             <xsl:if
                 test="$parm-leiden-style='london' and ancestor::node()[@part='M' or @part='I']
                and position()=last()">
                <xsl:text>-</xsl:text>
             </xsl:if><xsl:text>)</xsl:text>
-            
              <!--            <xsl:if test="not(($parm-leiden-style = 'ddbdp' or $parm-leiden-style = 'sammelbuch') and ancestor::t:corr[parent::t:choice])">-->
                
 <!--            </xsl:if>-->
-            
          </xsl:otherwise>
       </xsl:choose>
    </xsl:template>

@@ -8,24 +8,7 @@
       <xsl:param name="parm-edition-type" tunnel="yes" required="no"></xsl:param>
       <xsl:param name="parm-leiden-style" tunnel="yes" required="no"></xsl:param>
       <xsl:choose>
-
-
-         <!-- Georgian Asomtavruli Script in diplomatic edition-->
-         
-         <xsl:when test="$parm-edition-type = 'diplomatic' and ancestor::t:div[@type='edition'] and not(ancestor::t:head)
-            and ancestor-or-self::t:*[@xml:lang][1][@xml:lang='ka']">
-            <xsl:value-of select="translate(.,'აბგდევზჱთიკლმნჲოპჟრსტჳუფქღყშჩცძწჭხჴჯჰჵ','ႠႡႢႣႤႥႦჁႧႨႩႪႫႬჂႭႮႯႰႱႲჃႳႴႵႶႷႸႹႺႻႼႽႾჄႿჀჅ')" />
-         </xsl:when>
-         
-         <!-- Armenian Alphabet  -->
-         
-         <xsl:when test="$parm-edition-type = 'diplomatic' and ancestor::t:div[@type='edition'] and not(ancestor::t:head)
-            and ancestor-or-self::t:*[@xml:lang][1][@xml:lang='hy']">
-            <xsl:value-of select="translate(.,'աբգդեզէըթժիլխծկհձղճմյնշոչպջռսվտրցւփք','ԱԲԳԴԵԶԷԸԹԺԻԼԽԾԿՀՁՂՃՄՅՆՇՈՉՊՋՌՍՎՏՐՑՒՓՔ')" />
-         </xsl:when>
-         
-         
-          <!-- strip all spaces and punctuation in diplomatic edition -->
+         <!-- strip all spaces and punctuation in diplomatic edition -->
           <xsl:when test="$parm-edition-type = 'diplomatic' and ancestor::t:div[@type='edition'] and not(ancestor::t:head)">
             <xsl:variable name="apos">
                <xsl:text><![CDATA[']]></xsl:text>
@@ -34,7 +17,6 @@
             <!--<xsl:value-of select="translate(translate(translate(.,$apos,''), '··&#xA; ,.;‘’', ''), $all-grc, $grc-upper-strip)"/>-->
              <!-- &#x02bc;&#x02bd;&#x0301;&#x0302;&#x0303;&#x0308;&#x0340;&#x0341;&#x0342;&#x0343;&#x0344;&#x0345; -->
          </xsl:when>
-         
          <!-- omit space between abbreviation and (deleted) "f." or "l." from EDH names mode -->
           <xsl:when test="$parm-leiden-style='edh-names' and 
             normalize-space(.) = '' and 
@@ -56,29 +38,7 @@
                <xsl:text> </xsl:text>
             </xsl:if>
          </xsl:otherwise>
-         
       </xsl:choose>
   </xsl:template>
-   
-   <!--  ქარაგმა   
-         <xsl:when test="$parm-edition-type = 'diplomatic' and ancestor::t:div[@type='edition']
-            and ancestor-or-self::t:*[@xml:lang][1][@xml:lang='ka'] and  preceding-sibling::t:*[1][descendant-or-self::t:expan]">
-            <xsl:value-of select="translate(.,'abbr','͠')" />
-         </xsl:when>
-        
-         
-         <xsl:when test="(ancestor::t:expan) and ($parm-edition-type='diplomatic') 
-            and ancestor-or-self::t:*[@xml:lang][1][@xml:lang='ka']">
-            <xsl:text></xsl:text>
-            <xsl:choose>
-               <xsl:when test="$parm-leiden-style = 'iospe'">
-                  <xsl:text>͠</xsl:text>
-               </xsl:when>
-            </xsl:choose>
-            <xsl:text></xsl:text>
-         </xsl:when> --> 
-
-   
-   
 
 </xsl:stylesheet>

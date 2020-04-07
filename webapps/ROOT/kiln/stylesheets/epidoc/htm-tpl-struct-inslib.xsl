@@ -54,7 +54,7 @@
      </xsl:choose>
      </p>
 
-     <p><b><i18n:text i18n:key="epidoc-xslt-inslib-findspot">Findspot</i18n:text>:</b>
+     <p><b><i18n:text i18n:key="epidoc-xslt-inslib-findspot">Findspot</i18n:text>: </b>
      <xsl:choose>
        <xsl:when test="//t:provenance[@type='found'][string(translate(normalize-space(.),' ',''))]">
          <xsl:apply-templates select="//t:provenance[@type='found']" mode="inslib-placename"/>
@@ -152,7 +152,7 @@
      </p>
      
      <div id="images">
-       <h4 class="slimmer"><i18n:text i18n:key="epidoc-xslt-inslib-images">Images</i18n:text></h4>
+       <h4 class="slimmer">Images</h4>
        <xsl:choose>
          <xsl:when test="//t:facsimile//t:graphic">
            <xsl:for-each select="//t:facsimile//t:graphic">

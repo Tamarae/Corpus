@@ -13,7 +13,7 @@
        .//t:hi[@rend = 'diaeresis' or @rend = 'grave' or @rend = 'acute' or @rend = 'asper' or @rend = 'lenis' or @rend = 'circumflex'] |
        .//t:del[@rend='slashes' or @rend='cross-strokes'] | .//t:milestone[@rend = 'box']">
 
-      <h2>Apparatus#####</h2>
+      <h2>Apparatus</h2>
       <div id="apparatus">
         <!-- An entry is created for-each of the following instances
                   * choice, subst or app not nested in another;

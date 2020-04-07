@@ -143,7 +143,7 @@
         <map:serialize type="xhtml" />
       </map:match>
 
-    <!-- EpiDoc texts. 
+    <!-- EpiDoc texts.  -->  
       <map:match id="local-epidoc-index-display" pattern="*/inscriptions/">
         <map:aggregate element="aggregation">
           <map:part src="cocoon://internal/search/tei_metadata.xml?q=epidoc" />
@@ -156,9 +156,9 @@
           <map:parameter name="locale" value="{1}" />
         </map:transform>
         <map:serialize />
-      </map:match> -->  
+      </map:match>
       
-      <map:match id="local-epidoc-index-display" pattern="*/inscriptions/*/"> 
+      <map:match id="local-epidoc-index-display-lang" pattern="*/inscriptions/*/"> 
         <map:aggregate element="aggregation"> 
           <map:part src="cocoon://internal/search/tei_metadata.xml?q=epidoc&amp;fq=inscription_language:{2}" /> 
           <map:part src="cocoon://_internal/menu/{1}/main.xml?url={1}/inscriptions/" /> 
