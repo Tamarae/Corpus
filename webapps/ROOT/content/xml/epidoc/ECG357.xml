@@ -5,11 +5,14 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>საბეჭდავი ბეჭედი ზღუდერიდან</title>
-                <editor>დევიდ ბრაუნდი</editor>
+                <title xml:lang="ka">საბეჭდავი ბეჭედი ზღუდერიდან</title>
+                <title xml:lang="en"></title>
+                <editor xml:lang="ka">დევიდ ბრაუნდი</editor>
+                <editor xml:lang="en">David Braund</editor>
             </titleStmt>
             <publicationStmt>
-                <authority>ილიას სახელმწიფო უნივერსიტეტი, ლინგვისტურ კვლევათა ინსტიტუტი</authority>
+                <authority xml:lang="ka">ილიას სახელმწიფო უნივერსიტეტი, ლინგვისტურ კვლევათა ინსტიტუტი</authority>
+                <authority xml:lang="en">Ilia State University, Institute of Linguistic Studies</authority>
                  <idno type="filename">ECG357</idno>
                 <availability>
                     <licence target="http://creativecommons.org/licenses/by-nc-sa/3.0/">
@@ -52,7 +55,7 @@
                             </handNote>
                         </handDesc>
                         <decoDesc>
-                            <decoNote>საბეჭდავზე გამოსახულია ერთმანეთისკენ მიბრუნებული, შეპირისპირებული წყვილი. მამაკაცის ფიგურა წვერიანია, როგორც ეს იბერიელ 
+                            <decoNote xml:lang="ka">საბეჭდავზე გამოსახულია ერთმანეთისკენ მიბრუნებული, შეპირისპირებული წყვილი. მამაკაცის ფიგურა წვერიანია, როგორც ეს იბერიელ 
                 დიდგვაროვანთათვის უნდა ყოფილიყო მიღებული.</decoNote>
                         </decoDesc>
                     </physDesc>

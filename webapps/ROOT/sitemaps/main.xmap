@@ -249,6 +249,8 @@
         </map:transform>
         <map:serialize />
       </map:match>
+      
+      
 
       <!-- Bibliographic concordance index. -->
       <map:match id="local-concordance-bibliography"

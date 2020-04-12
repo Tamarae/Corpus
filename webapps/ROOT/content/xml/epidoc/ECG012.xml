@@ -112,7 +112,7 @@
              </listBibl>                
             </div>
             
-            <div type="edition" xml:space="preserve"> 
+            <div type="edition" xml:space="preserve" xml:lang="ka" ana="mtavruli"> 
                    <!--  ესე ჯი ქჱი მე კოსტანტი ძნ
                            სტეფანესმან და გუდას
                            მან აღჰუმართე სახელს
@@ -127,14 +127,14 @@
                         <w lemma="ჯუარ"><expan><abbr>ჯ</abbr><ex>უარ</ex><abbr>ი</abbr></expan></w> 
                         <w lemma="ქრისტჱ"><expan><abbr>ქ</abbr><ex>რისტ</ex><abbr>ჱ</abbr><ex>ს</ex><abbr>ი</abbr></expan></w> 
                         <w lemma="მე">მე</w> 
-                   <name nymRef="კოსტანტი">კოსტანტი</name> <w lemma="ძე"><expan><abbr>ძ</abbr><ex>ემა</ex><abbr>ნ</abbr></expan></w>
+                   <name nymRef="კოსტანტი სტეფანეს და გუდას ძე">კოსტანტი</name> <w lemma="ძე"><expan><abbr>ძ</abbr><ex>ემა</ex><abbr>ნ</abbr></expan></w>
                         <lb n="2"/><name nymRef="სტეფანე">სტეფანესმან</name> და <name nymRef="გუდა">გუდას
                         <lb n="3" break="no"/>მან</name> 
                         <rs type="pn"><w lemma="აღმართვა">აღჰუმართე</w></rs>
                         <w lemma="სახელ">სახელს
                     <lb n="4" break="no"/>ა</w> 
                         <placeName><w lemma="მცხეთა">მცხეთისა</w></placeName> 
-                    <w lemma="ჯუარი"><expan><abbr>ჯ</abbr><ex>უარ</ex><abbr>ისასა</abbr></expan></w> 
+                    <w lemma="ჯუარ"><expan><abbr>ჯ</abbr><ex>უარ</ex><abbr>ისასა</abbr></expan></w> 
                         <w lemma="ნასყიდევ">ნასყი
                     <lb n="5" break="no"/>დევსა</w> 
                             <w lemma="ქუეყანა">ქუეყანასა</w> <w lemma="ზედა"><expan><abbr>ზ</abbr><ex>ედ</ex><abbr>ა</abbr></expan></w>

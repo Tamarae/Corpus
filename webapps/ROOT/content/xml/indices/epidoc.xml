@@ -195,9 +195,6 @@
               <i18n:text i18n:key="indices_ref">References</i18n:text>
             </item>
             
-            <item>
-              <i18n:text i18n:key="relation">Relationship</i18n:text>
-            </item>
             
           </list>
         </div>

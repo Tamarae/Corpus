@@ -5,8 +5,10 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>თმოგვის მურვან კჳითხისძის წარწერა</title>
-                <editor>ვალერი სილოგავა</editor>
+                <title xml:lang="ka">თმოგვის მურვან კჳითხისძის წარწერა</title>
+                <title xml:lang="en"></title>
+                <editor xml:lang="ka">ვალერი სილოგავა</editor>
+                <editor xml:lang="en"></editor>
             </titleStmt>
             <publicationStmt>
                 <authority>ილიას სახელმწიფო უნივერსიტეტი, ლინგვისტურ კვლევათა ინსტიტუტი</authority>
@@ -97,7 +99,7 @@
                  </listBibl> 
             </div>
 
-            <div type="edition" xml:lang="ka" xml:space="preserve">
+            <div type="edition" xml:lang="ka" xml:space="preserve" ana="mtavruli">
                 
                         <!--  "†[შ]ეწ[ე]ვნითა და ძლ(ი)ერ(ე)ბ(ი)თა ვარძი(ი)სა ღ
                             [(მრ)თ(ი)]სმშ(ო)ბლ(ი)ს(აჲ)თა ქ(რონი)კ(ონ)ს ლჱ დავ(ი)წყე 
@@ -107,9 +109,9 @@
 
                 <ab>
                    <lb n="1"/>&#8224;<w lemma="შეწევნა"><supplied reason="lost">შ</supplied>ეწ<supplied reason="lost">ე</supplied>ვნითა</w> 
-                                    <w lemma="და">და</w> 
+                                     და 
                                     <w lemma="ძლიერება"><expan><abbr>ძლ</abbr><ex>ი</ex><abbr>ერ</abbr><ex>ე</ex>ბ<ex>ი</ex>თა</expan></w> 
-                                    <name nymRef="ვარძია"><expan>ვარძი<ex>ი</ex><abbr>სა</abbr></expan></name> 
+                                    <placeName nymRef="ვარძია"><expan>ვარძი<ex>ი</ex><abbr>სა</abbr></expan></placeName> 
                                     <w lemma="ღმრთისმშობელ"><expan><abbr>ღ</abbr>
                    <lb n="2" break="no"/><supplied reason="lost"><ex>მრ</ex><abbr>თ</abbr><ex>ი</ex></supplied><abbr>სმშ</abbr><ex>ო</ex><abbr>ბლ</abbr><ex>ი</ex><abbr>ს</abbr><ex>აჲ</ex><abbr>თა</abbr></expan></w> 
                                 <rs type="date"><w lemma="ქრონიკონ"><expan><abbr>ქ</abbr><ex>რონი</ex><abbr>კ</abbr><ex>ონ</ex><abbr>ს</abbr></expan></w> 
@@ -118,15 +120,15 @@
                    <lb n="3"/><w lemma="ზღუდე"><supplied reason="lost">ზ</supplied>ღუდე</w> 
                                 <w lemma="ესე">ესე</w> 
                                 <w lemma="მე">მე</w>
-                                <roleName nymRef="მეფე">მეფეთ</roleName> 
-                                <roleName nymRef="მეფე">მეფი<supplied reason="lost">ს</supplied></roleName>
-                   <lb n="4"/><name nymRef="დავით"><expan><abbr>დ</abbr><ex>ავი</ex><abbr>თ</abbr><ex>ი</ex><abbr>ს</abbr></expan></name> 
+                                <roleName nymRef="მეფეთ მეფე">მეფეთ
+                                მეფი<supplied reason="lost">ს</supplied></roleName> 
+                   <lb n="4"/><name nymRef="დავით ულუ" type="fullname"><expan><abbr>დ</abbr><ex>ავი</ex><abbr>თ</abbr><ex>ი</ex><abbr>ს</abbr></expan></name> 
                                 <placeName nymRef="ვარძია"><expan><abbr>ვ</abbr><ex>ა</ex><abbr>რძ</abbr><ex>იელ</ex><abbr>მ</abbr><ex>ა</ex><abbr>ნ</abbr></expan></placeName> 
-                                 <roleName nymRef="საწოლის მწიგნობარ"><w lemma="საწოლ"><expan><abbr>ს</abbr><ex>ა</ex><abbr>წოლის</abbr></expan></w> 
+                                 <roleName nymRef="ვარძიელი საწოლის მწიგნობარი"><w lemma="საწოლ"><expan><abbr>ს</abbr><ex>ა</ex><abbr>წოლის</abbr></expan></w> 
                                 <w lemma="მწიგნობარ"><expan><abbr>მწიგნ</abbr><ex>ო</ex><abbr>ბ</abbr><ex>ა</ex><abbr>რმ</abbr><ex>ა</ex><supplied reason="lost">ნ</supplied></expan></w></roleName>
                    <lb n="5"/><name nymRef="თმოგვი" type="castle"><expan><abbr>თმოგ</abbr><ex>უ</ex><abbr>ს</abbr></expan></name> 
-                                <name nymRef="მურვან"><expan><abbr>მ</abbr><ex>უ</ex><abbr>რვ</abbr><ex>ა</ex><abbr>ნ</abbr></expan></name> 
-                                <name nymRef="კჳითხისძე"><expan><abbr>კჳთხ</abbr><ex>ი</ex><abbr>სძ</abbr><ex>ე</ex><abbr>მ</abbr><ex>ა</ex><abbr>ნ</abbr></expan></name> 
+                                <name nymRef="მურვან კჳითხისძე" type="fullname"><expan><abbr>მ</abbr><ex>უ</ex><abbr>რვ</abbr><ex>ა</ex><abbr>ნ</abbr></expan></name> 
+                                <expan><abbr>კჳთხ</abbr><ex>ი</ex><abbr>სძ</abbr><ex>ე</ex><abbr>მ</abbr><ex>ა</ex><abbr>ნ</abbr></expan> 
                                 <name nymRef="თევდორე"><expan><abbr>თ</abbr><ex>ევდორ</ex><abbr>ე</abbr></expan></name> 
                                 <w lemma="დადგმა"><expan><abbr>დ</abbr><ex>ად</ex><abbr>გა</abbr></expan></w>
                    </ab>

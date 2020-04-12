@@ -26,9 +26,9 @@
                     <physDesc>
                         <objectDesc>
                             <supportDesc>
-                                <support>                             
+                                <support>
                                    <material  ref="https://www.eagle-network.eu/voc/material/lod/2"> ქვა</material>
-                                   <objectType ref="hhttps://www.eagle-network.eu/voc/objtyp/lod/1402."> მუქი ყავისფერი ფილა</objectType> 
+                                   <objectType ref="hhttps://www.eagle-network.eu/voc/objtyp/lod/1402"> მუქი ყავისფერი ფილა</objectType> 
                                         <dimensions unit="cm">
                                         <width></width>
                                         <height></height>
@@ -37,7 +37,7 @@
                                   </support>
                             </supportDesc>
                                 <layoutDesc>
-                                    <layout writtenLines="1"> 
+                                    <layout writtenLines="1">
                                         <dimensions unit="cm">
                                             <width> 3,3</width>
                                             <height>2,5</height>
@@ -46,9 +46,9 @@
                                 </layoutDesc>
                         </objectDesc>
                         <handDesc>
-                            <handNote script="asomtavruli">წარერა შესრულებულია ნუსხური დამწერლობით. წარწერას განკვეთილობის ნიშანი არ ახლავს; წარწერის ქარაგმის ნიშნად გამოყენებულია 
+                            <handNote script="asomtavruli">წარერა შესრულებულია ნუსხური დამწერლობით. წარწერას განკვეთილობის ნიშანი არ ახლავს; წარწერის ქარაგმის ნიშნად გამოყენებულია
                                  მარცხნიდან მარჯვნივ დაშვებული სწორი განივი ხაზი.
-                                <width> 1,3-1,5</width>   
+                                <width> 1,3-1,5</width>
                                 <height> 2-3</height>
                                  </handNote>
                         </handDesc>
@@ -63,12 +63,12 @@
                                 <rs type="circumstances"></rs>
                                 <rs type="context"/>
                                 <rs type="monuList"/>
-                            </provenance> 
-                            <provenance type="observed">ბორჯომის ხეობა. ფოთოლეთის წმინდა გიორგის ეკლესია 
-                            <placeName type="modernSpot">ბორჯომის ხეობა. ფოთოლეთის წმინდა გიორგის ეკლესია</placeName>            
+                            </provenance>
+                            <provenance type="observed">ბორჯომის ხეობა. ფოთოლეთის წმინდა გიორგის ეკლესია
+                            <placeName type="modernSpot">ბორჯომის ხეობა. ფოთოლეთის წმინდა გიორგის ეკლესია</placeName>
                             <idno></idno>
                         </provenance>
-                    </history>                   
+                    </history>
                 </msDesc>
             </sourceDesc>
         </fileDesc>
@@ -91,7 +91,7 @@
                 <bibl n="1">თამაზ გოგოლაძე,თორის ხეობის ეპიგრაფიკული კორპუსი<ptr target="bibliography.xml#b130"/>,<citedRange>გვ.61-62</citedRange>2019</bibl>
             </listBibl>
            </div>
-            <div type="edition" xml:lang="ka" xml:space="preserve">     
+            <div type="edition" xml:lang="ka" xml:space="preserve">
               <!--კ(ჳრიკ)ე  [...]-->
                 <ab>
                     <lb n="1"/>  <expan><name nymRef="კჳრიკე"><abbr>კ</abbr> <ex>ჳრიკ</ex> <abbr>ე</abbr></name></expan>
@@ -102,7 +102,7 @@
             <div type="commentary"><p>წარწერა დაზიანებული არ არის. წარწერის ტექსტის ნაწილი თავიდან ბოლომდე გარკვევით იკითხება</p>
                  <p>წარწერის დათარიღების საფუძველი:წარწერა შესრულებულია სწორი ეპიგრაფიკული ნუსხურით. აქედან გამომდინარე, წარწერის ქრონოლოლოგიას XI საუკუნით განვსაზღვრავთ   </p>
             </div>
-        
+
          </body>
     </text>
 </TEI>
