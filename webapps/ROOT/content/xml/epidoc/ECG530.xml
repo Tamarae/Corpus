@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.stoa.org/epidoc/schema/8.23/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.stoa.org/epidoc/schema/8.23/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:space="preserve" xml:lang="ka">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>გუჯარეთის ხეობა. დაბის ღმრთისმშობლის ეკლესია</title>
+            </titleStmt>
+            <publicationStmt>
+                <authority>
+                    ილიას სახელმწიფო უნივერსიტეტი
+                </authority>
+                 <idno type="filename">
+                 ECG530
+                 </idno>
+                <availability>
+                    <licence target="http://creativecommons.org/licenses/by-nc-sa/3.0/">
+                       დოკუმენტი ვრცელდება Creative Commons Attribution-NonCommercial-ShareAlike 3.0 ლიცენზიით.
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <collection>
+                            თორის წარწერების კორპუსი
+                        </collection>
+                    </msIdentifier>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>                             
+                                   <material ref="https://www.eagle-network.eu/voc/material/lod/2">ქვა</material>
+                                   <objectType ref="https://www.eagle-network.eu/voc/objtyp/lod/1483">ღია ნაცრისფერი ტინპანის ქვა</objectType> 
+                                       
+                                  </support>
+                            </supportDesc>
+                                <layoutDesc>
+                                    <layout writtenLines="1"> 
+                                        <dimensions unit="cm">
+                                            <width>75</width>
+                                            <height>150</height>
+                                        </dimensions>
+                                    </layout>
+                                </layoutDesc>
+                        </objectDesc>
+                        <handDesc>
+                            <handNote script="asomtavruli">ასომთავრულით არის შესრულებული. 
+                                  წარწერის განკვეთილობის ნიშნებად გამოყენებულია ორწერტილი ან სამწერტილი თითქმის ყოველი სიტყვის
+შემდგომ; ქარაგმად ნახმარია მოკლე კლაკნილი ხაზი; გრაფემათა ღარებში ამოსმულია წითელი ფერის საწერ-საღებავი.
+                                <width>16X9</width>   
+                                <height>2.5X1.5</height>
+                                 </handNote>
+                        </handDesc>
+                    </physDesc>
+                    <history>
+                            <origin>
+                                <origPlace>გუჯარეთის ხეობა. დაბის ღმრთისმშობლის ეკლესია</origPlace>
+                                <origDate>XIV AD</origDate>
+                            </origin>
+                            <provenance>
+                                <placeName type ="ancientFindspot">გუჯარეთის ხეობა. დაბის ღმრთისმშობლის ეკლესია</placeName>
+                                <rs type="context">დღეისათვის წარწერის ის ადგილი, სადაც თარიღი იყო დატანილი ამოტეხილია და, შესაბამისად, აღარ იკითხება. წარწერის პირველი გამომცემლის მიერ მოცემულ გადმონაწერში აშკარად 
+								ჩანს ქორონიკონის აღმნიშვნელი გრაფემები – კა. აქედან გამომდინარე, ჩვენც წინამორბედ მკვლევართა მსგავსად, წინამდებარე წარწერას 1333 წლით ვათარიღებთ.</rs>
+                                <rs type="monuList"/>
+                            </provenance> 
+                            <provenance type="observed">გუჯარეთის ხეობა. დაბის ღმრთისმშობლის ეკლესია
+                            <placeName type="modernSpot">გუჯარეთის ხეობა. დაბის ღმრთისმშობლის ეკლესია</placeName>            
+                            <idno></idno>
+                        </provenance>
+                    </history>                   
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <revisionDesc>
+            <change when="2020-01-17" who="asanishvili">
+                წარწერის სრული კოდირება, გარე ანოტირება, პირთა სახელების, ლემების მითითება, ბიბლიოგრაფია,ბმულებით დაკავშირება გარე კონტროლირებად ლექსიკონთან.
+            </change>
+        </revisionDesc>
+    </teiHeader>
+    <!-- წარწერის ფოტოდოკუმენტაცია -->
+    <facsimile>
+        <surface>
+            <graphic url="ecg497.jpg">
+                <desc xml:lang="ka">სააღმშენებლო წარწერა</desc>
+            </graphic>
+        </surface>
+    </facsimile>
+    <text>
+        <body>
+           <div type="bibliography"> 
+               <listBibl>
+                <bibl n="1">თამაზ გოგოლაძე,თორის ხეობის ეპიგრაფიკული კორპუსი<ptr target="bibliography.xml#b130"/>,<citedRange>93-98გვ.</citedRange>1987</bibl>
+		        <bibl n="2">თედო ჟორდანია, ქროკები და სხვა მასალა<ptr target="bibliography.xml#b130"/>,<citedRange>180გვ.</citedRange>1997</bibl>
+				<bibl n="3">ივანე ჯავახიშვილი, ქართველი ერის ისტორია, წიგნი 3<ptr target="bibliography.xml#b130"/>,<citedRange>258-259გვ.</citedRange>1949</bibl>
+
+
+		   </listBibl>
+           </div>
+            <div type="edition" xml:lang="ka" xml:space="preserve">     
+                        <!--"ინდ[იკტ(ი)ო]ნსა მ(ე)ფ(ე)თმ(ე)ფის(ა) გ(იორ)გ(ი)სა, ძის{ა} დიმიტრისა მეცხრ{ა}მეტ{ე}ს{ა}, 
+						| აღვ{ა}შ{ე}ნე ტ{ა}ძ{ა}რი ესე ჟ(ა)მსა მ(ე)ფ(ე)[თმ(ე)ფ(ი)ს(ა) | 
+						[გ](იორ)გ(ისა)სა მე, მ{ა}თ{მა}ნ [მოლ{ა}რ{ეთუ}ხ{უ}ც{ესმან},| ქ(ორონი)კ(ონ)სა კა (21)]"-->
+                <ab>
+                    <lb n="1"/>
+                    <w lemma="ინდიკტიონსა"><expan><abbr>ინდ</abbr><ex>იკტიო</ex><abbr>ნსა</abbr></expan></w> 
+					<w lemma="მეფეთმეფისა"><expan><abbr>მ</abbr><ex>ე</ex><abbr>მ</abbr><ex>ე</ex><abbr>თმ</abbr><ex>ე</ex><abbr>ფის</abbr><ex>ა</ex></expan></w> 
+					<w lemma="გიორგისა"><expan><abbr>გ</abbr><ex>იორ</ex><abbr>გ</abbr><ex>ი</ex><abbr>სა</abbr></expan></w> 
+                    <w lemma="ძისა"><expan><abbr>ძის</abbr><ex>ა</ex></expan></w> 
+                    <w lemma="მეცხრამეტესა"><expan><abbr>მეცხრ</abbr><ex>ა</ex><abbr>მეტ</abbr><ex>ე</ex><abbr>ს</abbr><ex>ა</ex></expan></w>
+					<w lemma="აღვაშენე"><expan><abbr>აღვ</abbr><ex>ა</ex><abbr>შ</abbr><ex>ე</ex><abbr>ნე</abbr></expan></w>
+					<w lemma="ტაძარი"><expan><abbr>ტ</abbr><ex>ა</ex><abbr>ძ</abbr><ex>ა</ex><abbr>რი</abbr></expan></w>
+					<w lemma="ჟამსა"><expan><abbr>ჟ</abbr><ex>ა</ex><abbr>მსა</abbr></expan></w>
+					<w lemma="მეფეთმეფისა"><expan><abbr>მ</abbr><ex>ე</ex><abbr>მ</abbr><ex>ე</ex><abbr>თმ</abbr><ex>ე</ex><abbr>ფის</abbr><ex>ა</ex></expan></w> 
+					<w lemma="გიორგისა"><expan><abbr>გ</abbr><ex>იორ</ex><abbr>გ</abbr><ex>ისა</ex><abbr>სა</abbr></expan></w> 
+					<w lemma="მათმან"><expan><abbr>მ</abbr><ex>ა</ex><abbr>თ</abbr><ex>მა</ex><abbr>ნ</abbr></expan></w>
+                    <w lemma="მოლარეთუხუცესმან"><expan><abbr>მოლ</abbr><ex>ა</ex><abbr>რ</abbr><ex>ეთუ</ex><abbr>ხ</abbr><ex>უ</ex><abbr>ც</abbr><ex>ესმან</ex></expan></w> 
+					<w lemma="ქორონიკონსა"><expan><abbr>ქ</abbr><ex>ორონი</ex><abbr>კ</abbr><ex>ონ</ex><abbr>სა</abbr></expan></w>
+                </ab>
+            </div>
+            <div type="translation" xml:lang="ka"/>
+            <div type="apparatus" xml:space="preserve"/>
+            <div type="commentary"><p>წარწერის ბოლო ნაწილი საგანგებოდ არის დაზიანებული. უფრო კონკრეტულად, ამოტეხილია წარწერის ტექსტის ბოლო გრაფემები, რაც წარწერის წაკითხვას აძნელებს. მიუხედავად ამისა, წარწერის ბოლო ნაწილს აღვადგენთ წინა გამოცემების მიხედვით.</p>
+            </div>
+        
+         </body>
+    </text>
+</TEI>

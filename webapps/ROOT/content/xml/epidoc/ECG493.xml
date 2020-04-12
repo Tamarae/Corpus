@@ -1,16 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="http://www.stoa.org/epidoc/schema/8.23/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="http://www.stoa.org/epidoc/schema/8.23/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:space="preserve">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:space="preserve" xml:lang="ka">
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>ეკლესიის განახლების წარწერა</title>
-                <editor>ვალერი სილოგავა</editor>
+                <title>
+                    გუჯარეთის ხეობა. „წითელი ეკლესია“, სავედრებელი წარწერა ეკლესიის ქტიტორის მახარებლისა, X-XI სს.
+                </title>
             </titleStmt>
             <publicationStmt>
-                <authority>ილიას სახელმწიფო უნივერსიტეტი, ლინგვისტურ კვლევათა ინსტიტუტი</authority>
-                 <idno type="filename">ECG493</idno>
+                <authority>
+                    ილიას სახელმწიფო უნივერსიტეტი
+                </authority>
+                 <idno type="filename">
+                 ECG493
+                 </idno>
                 <availability>
                     <licence target="http://creativecommons.org/licenses/by-nc-sa/3.0/">
                        დოკუმენტი ვრცელდება Creative Commons Attribution-NonCommercial-ShareAlike 3.0 ლიცენზიით.
@@ -21,57 +26,56 @@
                 <msDesc>
                     <msIdentifier>
                         <collection>
-                            ბესლახუბა
+                            თორის წარწერების კორპუსი
                         </collection>
                     </msIdentifier>
-                    <msContents>
-                        <summary>
-                            <seg xml:lang="ka">საამშენებლო</seg>
-                        </summary>
-                    </msContents>
                     <physDesc>
                         <objectDesc>
                             <supportDesc>
                                 <support>                             
-                                   <material ref="https://www.eagle-network.eu/voc/material/lod/2">ადგილობრივი ქვა</material>
-                                   <objectType ref="https://www.eagle-network.eu/voc/objtyp/lod/1483">ფილა ფასადზე</objectType> 
+                                   <material>
+                                       ქვა
+                                   </material>
+                                   <objectType>
+                                       კედელი
+                                   </objectType> 
                                         <dimensions unit="cm">
-                                        <width>60</width>
-                                        <height>50</height>
-                                        <depth>14</depth>
+                                        <width>62,5</width>
+                                        <height>60</height>
+                                        <depth/>
                                         </dimensions>
                                   </support>
                             </supportDesc>
                                 <layoutDesc>
-                                    <layout writtenLines="4">
-                                        წარწერა ჩასმულია ეკლესიის დასავლეთი შესასვლელის ზემოთ ქვედა ჩაღრმავებაზე
+                                    <layout writtenLines="3"> 
                                         <dimensions unit="cm">
-                                            <width>54</width>
-                                            <height>15</height>
+                                            <width>22</width>
+                                            <height>56</height>
                                         </dimensions>
                                     </layout>
                                 </layoutDesc>
                         </objectDesc>
                         <handDesc>
-                            <handNote script="mkhedruli" style="inscribed">
-                                <rs type="execution">ამოკვეთილი</rs>, 4 სტრიქონიანი, <rs type="script">მხედრული</rs> წარწერა. ქარაგმის ნიშანი: სწორი, განივი ხაზი. განკვეთილობის ნიშნები არ ახლავს.
-                                   <height min="1" max="3.5">1-3,5</height>
+                            <handNote script="asomtavruli">წარერა ასომთავრული ანბანით არის შესრულებული. 
+                                წარწერას განკვეთილობის ნიშნები არ ახლავს და ქარაგმის ნიშნად გამოყენებულია სწორი განივი ხაზი. 
+                                <width>1,9-2,9</width>   
+                                <height>2,5-6,2</height>
                                  </handNote>
                         </handDesc>
                     </physDesc>
                     <history>
                             <origin>
-                                <origPlace>ბესლახუბა</origPlace>
-                                <origDate notBefore="1845" notAfter="1862">1845-1862 AD</origDate>
+                                <origPlace>გუჯარეთის ხეობა. "წითელი ეკლესია"</origPlace>
+                                <origDate>X-XI AD</origDate>
                             </origin>
                             <provenance>
-                                <placeName type ="ancientFindspot">ბესლახუბა</placeName>
+                                <placeName type ="ancientFindspot">გუჯარეთის ხეობა. "წითელი ეკლესია"</placeName>
                                 <rs type="circumstances"></rs>
                                 <rs type="context"/>
                                 <rs type="monuList"/>
                             </provenance> 
-                            <provenance type="observed">
-                            <placeName type="modernSpot">ბესლახუბა</placeName>
+                            <provenance type="observed">გუჯარეთის ხეობა. "წითელი ეკლესია"
+                            <placeName type="modernSpot">გუჯარეთის ხეობა. "წითელი ეკლესია"</placeName>            
                             <idno></idno>
                         </provenance>
                     </history>                   
@@ -79,74 +83,52 @@
             </sourceDesc>
         </fileDesc>
         <revisionDesc>
-            <change when="2019-05-30" who="LP">ტექსტის სრული კოდირება, მეტამონაცემების სრული კოდირება, ბმულებით დაკავშირება გარე კონტროლირებად ლექსიკონთან</change>
+            <change when="2019-12-16" who="Tchanturia">
+                წარწერის სრული კოდირება, გარე ანოტირება, პირთა სახელების, ლემების მითითება, ბიბლიოგრაფია.
+            </change>
         </revisionDesc>
     </teiHeader>
+    <!-- წარწერის ფოტოდოკუმენტაცია -->
     <facsimile>
         <surface>
-            <graphic url="5.26.jpg"></graphic>
-            <desc xml:lang="ka">ეკლესიის განახლების წარწერა</desc>
+            <graphic url="ecg493.jpg">
+                <desc xml:lang="ka">სავედრებელი წარწერა ეკლესიის ქტიტორის მახარებლისა</desc>
+            </graphic>
         </surface>
     </facsimile>
     <text>
         <body>
-            
-            <!-- წ(მიდ)ა ესე ეკკლესია განახლდ[ა] ბრძანებით და საფასით
-            აფხაზეთის მთავრის მიხაჲლ გიორგის ძის შარვაში
-            ძისა და მეუღლესა(!) მისისა ალექსან(დრა) დადია
-            ნის ასულისა თ[-]კომლისა-->
-            
-                        <div type="bibliography" subtype="principalEdition">
-                <listBibl>           
-                    <bibl type="publication" subtype="principal" xml:lang="ka">
-                      <author>
-                          <persName>
-                            <forename></forename>
-                            <surname></surname>
-                          </persName>
-                      </author>
-                      <title/>
-                        <edition/>
-                        <pubPlace/>
-                        <publisher/>
-                        <date></date>
-                     </bibl>
-                </listBibl>
-            </div>  
-            
-            <div type="edition" xml:lang="ka" xml:space="preserve">
+           <div type="bibliography">
+               <listBibl>
+                <bibl n="1">თამაზ გოგოლაძე,თორის ხეობის ეპიგრაფიკული კორპუსი<ptr target="bibliography.xml#b130"/>,<citedRange>32-34 გვ.</citedRange>2019</bibl>
+                <bibl n="2">სერგი მაკალათია,ბორჯომის ხეობა (ისტორიულ-ეთნოგრაფიული ნარკვევი)<ptr target="bibliography.xml#b130"/>,<citedRange>12 გვ.</citedRange>1957</bibl>
+                <bibl n="3">სარგის კაკაბაძე,რუსთაველი და მისი ვეფხისტყაოსანი<ptr target="bibliography.xml#b130"/>,<citedRange>66 გვ.</citedRange>1966</bibl>
+                <bibl n="4">გიორგი ზედგინიძე,თორელ-ჯავახთა და ჯაყელ-მესხთა სამამულო მფლობელობის შესახებ ბორჯომის ხეობაში, 
+                    კრებულში: კრებული მიძღვნილი აკადემიკოს ივანე ჯავახიშვილის დაბადების 100 წლისთავისადმი<ptr target="bibliography.xml#b130"/>,<citedRange>181 გვ.</citedRange>1977</bibl>
+                <bibl n="5">დევი ბერძენიშვილი,ნარკვევები საქართველოს ისტორიული გეოგრაფიიდან (ზემო ქართლი – თორი, ჯავახეთი)<ptr target="bibliography.xml#b130"/>,<citedRange>45 გვ.</citedRange>1985</bibl>
+                <bibl n="6">დევი ბერძენიშვილი,არქიტექტურულ-ისტორიული გზამკვლევი "გუჯარეთი"<ptr target="bibliography.xml#b130"/>,<citedRange>9 გვ.</citedRange>1987</bibl>
+            </listBibl>
+           </div>
+            <div type="edition" xml:lang="ka" xml:space="preserve">     
+              <!--ქ(რისტ)ე, შ(ეიწყალ)ე მ(ა)ხ(ა)რ(ე)ბ(ე)ლი 
+                  | ამ{ი}ს წ(მიდი)საეკლ(ესიი)სა | მაშ{ე}ნ{ე}ბ{ე}ლი-->
                 <ab>
-                    <lb n="1"/><w lemma="წმიდა"><expan><abbr>წ</abbr><ex>მიდ</ex><abbr>ა</abbr></expan></w> 
-                                <w lemma="ეს">ესე</w> <w lemma="ეკლესია">ეკკლესია</w> <w lemma="განახლება">განახლდ<supplied reason="lost">ა</supplied></w> 
-                                <w lemma="ბრძანება">ბრძანებით</w> <w lemma="და">და</w> <w lemma="საფასე">საფასით</w>
-                    <lb n="2"/><roleName nymRef="აფხაზეთის მთავარი"><w lemma="აფხაზეთი">აფხაზეთის</w> 
-                                <w lemma="მთავარ">მთავრის</w></roleName> 
-                                <persName><name nymRef="აფხაზეთის მთავარი მიხეილ შარვაშიძე">მიხაჲლ</name></persName> 
-                                <persName><name nymRef="გიორგი შარვაშიძე">გიორგის</name> <w lemma="ძე">ძის</w> <name nymRef="შარვაშიძე">შარვაში
-                    <lb n="3" break="no"/>ძისა</name></persName> 
-                                და <w lemma="მეუღლე">მეუღლესა</w> 
-                                <w lemma="მის">მისისა</w> 
-                                <persName><name nymRef="ალექსანდრა დადიანი"><expan><abbr>ალექსან</abbr><ex>დრა</ex></expan></name> <name nymRef="დადიანი">დადია
-                    <lb n="4"/>ნის</name></persName> <w lemma="ასულ">ასულისა</w> <w>თ<supplied reason="lost"></supplied>კომლისა</w>
+                    <lb n="1"/><w lemma="ქრისტე"><expan><abbr>ქ</abbr><ex>რისტ</ex><abbr>ე</abbr></expan></w> <w lemma="იწყალებს"><expan><abbr>შ</abbr><ex>ეიწყალ</ex><abbr>ე</abbr></expan></w> <w lemma="მახარებელ"><expan><abbr>მ</abbr><ex>ა</ex><abbr>ხ</abbr><ex>ა</ex><abbr>რ</abbr><ex>ე</ex><abbr>ბ</abbr><ex>ე</ex><abbr>ლი</abbr></expan></w> 
+                    <lb n="2"/><w lemma="ესე"><expan><abbr>ამ</abbr><ex>ი</ex><abbr>ს</abbr></expan></w> <w lemma="წმიდა"><expan><abbr>წ</abbr><ex>მიდი</ex><abbr>სა</abbr></expan></w> <w lemma="ეკლესია"><expan><abbr>ეკლ</abbr><ex>ესიი</ex><abbr>სა</abbr></expan></w>
+                    <lb n="3"/><roleName nymRef="მაშენებელ"><expan><abbr>მაშ</abbr><ex>ე</ex><abbr>ნ</abbr><ex>ე</ex><abbr>ბ</abbr><ex>ე</ex><abbr>ლი</abbr></expan></roleName>
                 </ab>
             </div>
-            <div type="translation" xml:lang="ka">
-                <p>
-                ეს წმინდა ეკლესია განახლდა  აფხაზეთის მთავრის მიხეილ გიორგის ძის შარვაშიძისა და მისი მეუღლის ალექსანდრა დადიანის ასულის თ[-]კომლის ბრძანებითა და ფულით.
-                </p>
-            </div>
+            <div type="translation" xml:lang="ka"/>
             <div type="apparatus" xml:space="preserve"/>
-            <div type="commentary">
-                <p>
-                წარწერა ზემოდან გათლილია ოვალურად,
-                ასევე ორი ოვალური ჩაღრმავებაა მის ზედაპირზე შექმნილი. 
-                შესრულებულია წვრილი, ღრმა კვეთით, მაგრამ ნაწერი ადგილ-ადგილ მაინც გადასულ-გადაცრეცილია. 
-                ტექსტის დასაწყისის წვრილი და დაბალი ასოები მომდევნო სტრიქონებში უფრო მოზრდილი ზომისაა.
-                წარწერის ბოლო სიტყვა - „თ[.]კომლისა“ გაუგებარია. 
-                მე-3 სტრიქონში ნაცვლად „მეუღლისა“ ამოკვეთილია „მეუღლესა“.
-                </p>
+            <div type="commentary"><p>წარწერიანი ქვა კლიმატური პირობების გამო გადაცვეთილია და წარწერის გრაფემათა ნაწილი ცუდად განირჩევა. 
+                მიუხედავად ამისა, წარწერის ტექსტი თავიდან ბოლომდეგარკვევით იკითხება.</p>
+                <p>წარწერის დათარიღების საფუძველი: სერგი მაკალათია წარწერის ტექსტში კითხულობს რა სიტყვა მხარგრძელს, ასევე
+ითვალისწინებს ქართულ წერილობით ძეგლებში ამ ფეოდალური საგვარეულოს მოხსენიებას XII-XIII საუკუნეებში, წინამდებარე წარწერასაც XII-XIII საუკუნეებით ათარიღებს. 
+დევიბერძენიშვილმა თავდაპირველად ეკლესია XI-XII საუკუნეებისხუროთმოძღვრულ ძეგლად მიიჩნია და ამავე ქრონოლოგიითგანსაზღვრა ტაძრის წარწერაც. 
+თუმცა, ოდნავ მოგვიანებით,მეცნიერი წარწერის ქრონოლოგიას პალეოგრაფიული მონაცემების მიხედვით, X-XI საუკუნეებით განსაზღვრავს. 
+წინამდებარე კორპუსში ვიზიარებთ დევი ბერძენიშვილის მიერ წარწერის ბოლოს შემოთავაზებულ თარიღს – X-XI საუკუნეებს და,შესაბამისად, წარწერას X-XI საუკუნეებით ვათარიღებთ.</p>
             </div>
-       
+        
          </body>
     </text>
 </TEI>

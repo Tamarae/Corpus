@@ -11,7 +11,7 @@
     <item label="Aramaic" match="local-epidoc-index-display-lang" params="arc" i18n:key="menu-inscriptions_aramaic"/>
   </menu>
       
-  <menu label="Indices" match="local-indices-type-display" i18n:key="menu-indices">
+  <menu label="Indices"  i18n:key="menu-indices">
     
     <item label="Abbreviations" match="local-index-display-html" params="epidoc abbreviation" i18n:key="menu-index-abbreviation"/>
     <item label="Lemmata" match="local-index-display-html" params="epidoc lemma" i18n:key="menu-index-lemma"/>
