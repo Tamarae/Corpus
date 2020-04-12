@@ -12,8 +12,16 @@
          <!-- Georgian Alphabet in diplomatic edition-->
          
          <xsl:when test="$parm-edition-type = 'diplomatic' and ancestor::t:div[@type='edition'] and not(ancestor::t:head)
-            and ancestor-or-self::t:*[@xml:lang][1][@xml:lang='ka']">
+       
+            and ancestor-or-self::t:*[@xml:lang][1][@xml:lang='ka'] and ancestor-or-self::t:*[@ana='mtavruli']">
+            
             <xsl:value-of select="translate(.,'აბგდევზჱთიკლმნჲოპჟრსტჳუფქღყშჩცძწჭხჴჯჰჵ','ႠႡႢႣႤႥႦჁႧႨႩႪႫႬჂႭႮႯႰႱႲჃႳႴႵႶႷႸႹႺႻႼႽႾჄႿჀჅ')" />
+         </xsl:when>
+         
+         
+         <xsl:when test="$parm-edition-type = 'diplomatic' and ancestor::t:div[@type='edition'] and not(ancestor::t:head)
+            and ancestor-or-self::t:*[@xml:lang][1][@xml:lang='ka'] and ancestor-or-self::t:*[@ana='nuskhuri']">
+            <xsl:value-of select="translate(.,'აბგდევზჱთიკლმნჲოპჟრსტჳუფქღყშჩცძწჭხჴჯჰჵ','ⴀⴁⴂⴃⴄⴅⴆⴡⴇⴈⴉⴊⴋⴌⴢⴍⴎⴏⴐⴑⴒⴣⴓⴔⴕⴖⴗⴘⴙⴚⴛⴜⴝⴞⴤⴟⴠⴥ')" />
          </xsl:when>
          
          <!-- Armenian Alphabet  -->
