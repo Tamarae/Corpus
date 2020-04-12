@@ -86,7 +86,7 @@
 
 
       <field name="inscription_language"> 
-        <xsl:value-of select="/tei:TEI/tei:text/tei:body/tei:div[@type='edition']/@xml:lang"/>
+        <xsl:value-of select="/tei:TEI/tei:text/tei:body/tei:div[@type='edition']/@xml:lang"/> 
       </field> 
      
 

@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="http://www.stoa.org/epidoc/schema/8.23/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="http://www.stoa.org/epidoc/schema/8.23/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:space="preserve" xml:lang="ka">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:space="preserve">
     <teiHeader>
         <fileDesc>
             <titleStmt>
@@ -88,7 +88,7 @@
         <body>          
              
             
-            <div type="edition" xml:space="preserve"> 
+            <div type="edition" xml:space="preserve" xml:lang="ka"> 
 
                     <!-- ქ(რისტ)ე შ(ეიწყალ)ე ატ(ე)ნი<ს> ს(არ)ქ(ა)ლი ესე ზღ(უ)დ(ე)ჲ შ(ე)ქმნა ქრ(ონი)კ(ო)ნსა რჲე -->
                 <ab>        

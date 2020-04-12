@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="http://www.stoa.org/epidoc/schema/9.0/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="http://www.stoa.org/epidoc/schema/9.0/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:space="preserve" xml:lang="ka">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:space="preserve">
     <teiHeader>
         <fileDesc>
             <titleStmt>
@@ -24,7 +24,7 @@
                            ბორჯომი
                         </collection>
                     </msIdentifier>
-                    
+
                     <msContents>
                         <summary>
                             <seg xml:lang="ka">ეპიტფია</seg>
@@ -34,14 +34,14 @@
                     <physDesc>
                         <objectDesc>
                             <supportDesc>
-                                <support>                             
+                                <support>
                                    <material ref="https://www.eagle-network.eu/voc/material/lod/131"></material>
                                    <objectType ref="https://www.eagle-network.eu/voc/objtyp/lod/147"></objectType>
                                 </support>
                             </supportDesc>
                                 <layoutDesc>
                                     <layout>
-                                        
+
                                     <dimensions unit="cm">
                                         <width></width>
                                         <height></height>
@@ -49,7 +49,7 @@
                                     </dimensions>
                                     </layout>
                                 </layoutDesc>
-                        </objectDesc>                        
+                        </objectDesc>
                         <handDesc>
                             <handNote>
                                 <height unit="cm"></height>
@@ -63,24 +63,24 @@
                                 <origDate></origDate>
                               </origin>
                             <provenance>
-                                <placeName type ="ancientFindspot" ref="https://pleiades.stoa.org/places/857034">ბორჯომი</placeName> 
+                                <placeName type ="ancientFindspot" ref="https://pleiades.stoa.org/places/857034">ბორჯომი</placeName>
                                 <rs type="circumstances"></rs>
                                 <rs type="context"/>
                                 <rs type="monuList"/>
-                            </provenance> 
-                        
+                            </provenance>
+
                             <provenance>
                             <placeName type="modernSpot"></placeName>
                             <idno></idno>
                         </provenance>
-                    </history>                   
+                    </history>
                 </msDesc>
             </sourceDesc>
         </fileDesc>
     </teiHeader>
-     <!-- 
-    
-        
+     <!--
+
+
     <facsimile>
         <surface>
             <graphic url="tskise_01.jpg">
@@ -89,12 +89,12 @@
             </graphic>
         </surface>
     </facsimile>
-    
+
     -->
     <text>
         <body>
             <div type="bibliography">
-                <listBibl> 
+                <listBibl>
                     <bibl>
                         <author>
                           <persName>
@@ -108,19 +108,19 @@
                 </listBibl>
             </div>
             <div type="edition" xml:lang="he" xml:space="preserve">
-                
-                        <!-- 
+
+                        <!--
                             צו (א) תי
                             טוב שם
                             משמן טוב
-                            ויום המות 
+                            ויום המות
                             מיום הולדו וזה
                             המצבה על
                             קבורת הנער
                             מ [שה] בכר
                             אברהם שנפטר
                             לבית עולמו יום
-                            שישי י''ג לחודש 
+                            שישי י''ג לחודש
                             ניסן שנת ה''תפ''ז''
                         -->
 
@@ -128,27 +128,27 @@
                             <lb n="1"/>צו (א) תי
                              <lb n="2"/>טוב שם
                              <lb n="3"/>משמן טוב
-                             <lb n="4"/>ויום המות 
+                             <lb n="4"/>ויום המות
                              <lb n="5"/>מיום הולדו וזה
                              <lb n="6"/>המצבה על
                              <lb n="7"/>קבורת הנער
                              <lb n="8"/>מ [שה] בכר
                              <lb n="9"/>אברהם שנפטר
                              <lb n="10"/>לבית עולמו יום
-                             <lb n="11"/>שישי י''ג לחודש 
+                             <lb n="11"/>שישי י''ג לחודש
                              <lb n="12"/>ניסן שנת ה''תפ''ז''
-                     </ab>    
-             
-         
+                     </ab>
+
+
             </div>
-                
+
             <div type="translation" xml:lang="ka">
                 <p>(1) ṣw (ʾ) ty
-(2) twb šm 
-(3) mšmn twb 
-(4) wywm hmwt 
+(2) twb šm
+(3) mšmn twb
+(4) wywm hmwt
 (5) mywm hwldw wzh
-(6) hmṣbh ʻl 
+(6) hmṣbh ʻl
 (7) qbwrt hnʻr
 (8) m[šh] bkr
 (9) ʾbrhm šnpṭr
@@ -161,24 +161,24 @@
 (1) Мое завещание
 (2) имя (доброе) лучше
 (3) хорошего елея
-(4) а день смерти - 
-(5) дня рождения его. А это - 
+(4) а день смерти -
+(5) дня рождения его. А это -
 (6) памятник на
 (7) могиле юноши
 (8) Моисея с(ына) у(важаемого) р(абби)
-(9) Авраама, который отошел 
+(9) Авраама, который отошел
 (10) в вечный дом свой дня
-(11) шестого (т. е. в пятницу), тринадцатого (числа) месяца 
+(11) шестого (т. е. в пятницу), тринадцатого (числа) месяца
 (12) нисан 5487 года
-                
-                
+
+
                 </p>
 
             </div>
-            
-           <div type="apparatus" xml:space="preserve">  
+
+           <div type="apparatus" xml:space="preserve">
             </div>
-           
+
             <div type="commentary">
                 <p></p>
             </div>

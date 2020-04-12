@@ -1,0 +1,7 @@
+127.0.0.1 -  -  [12/Apr/2020:02:57:56 +0000] "GET / HTTP/1.1" 302 - 
+127.0.0.1 -  -  [12/Apr/2020:02:57:56 +0000] "GET /ka/ HTTP/1.1" 200 13917 
+127.0.0.1 -  -  [12/Apr/2020:02:57:58 +0000] "GET /solr/select/?df=document_type&rows=20000&&sort=file_path+asc&q=(epidoc) HTTP/1.1" 200 - 
+127.0.0.1 -  -  [12/Apr/2020:02:57:58 +0000] "GET /ka/inscriptions/ HTTP/1.1" 200 166887 
+127.0.0.1 -  -  [12/Apr/2020:02:58:00 +0000] "GET /solr/select/?df=document_type&rows=20000&&sort=file_path+asc&q=(epidoc)&fq=inscription_language:ka HTTP/1.1" 200 - 
+127.0.0.1 -  -  [12/Apr/2020:02:58:00 +0000] "GET /ka/inscriptions/ka/ HTTP/1.1" 200 105045 
+127.0.0.1 -  -  [12/Apr/2020:02:58:13 +0000] "GET /ka/inscriptions/ECG010.html HTTP/1.1" 200 17278 
