@@ -9,9 +9,10 @@
     <item label="Armenian" match="local-epidoc-index-display-lang" params="hy" i18n:key="menu-inscriptions_armenian"/>
     <item label="Hebrew" match="local-epidoc-index-display-lang" params="he" i18n:key="menu-inscriptions_hebrew"/>
     <item label="Aramaic" match="local-epidoc-index-display-lang" params="arc" i18n:key="menu-inscriptions_aramaic"/>
+    <item label="Latin" match="local-epidoc-index-display-lang" params="la" i18n:key="menu-inscriptions_latin"/>
   </menu>
       
-  <menu label="Indices"  i18n:key="menu-indices">
+  <menu label="Indices" match="local-indices-type-display" params="epidoc"  i18n:key="menu-indices">
     
     <item label="Abbreviations" match="local-index-display-html" params="epidoc abbreviation" i18n:key="menu-index-abbreviation"/>
     <item label="Lemmata" match="local-index-display-html" params="epidoc lemma" i18n:key="menu-index-lemma"/>
