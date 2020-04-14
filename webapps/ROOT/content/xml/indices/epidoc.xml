@@ -267,39 +267,8 @@
       </div>
       
       
-      
-      <!-- საცდელი ენები -->
-      <div xml:id="filename">
-        <head><i18n:text i18n:key="filename">Filename/ID</i18n:text></head>
-        
-        <div type="headings">
-          <list>
 
-            <item>
-              <i18n:text i18n:key="indices_tabl_lang">Language code</i18n:text>
-            </item>
-            
-            <item>
-              <i18n:text i18n:key="filename">Filename/ID</i18n:text>
-            </item>
-             
-          </list>
-        </div>
-        
-        <div type="notes">
-          <list>
-            <item>
-              <p><i18n:text i18n:key="filename_desc">Square brackets [ ] indicate that the name/word is partially or completely restored in this inscription.</i18n:text></p>
-            </item>
-          </list>
-        </div>
-      </div>
-      
-      
-      
-      
-      
-      
+ 
     </body>
   </text>
 </TEI>

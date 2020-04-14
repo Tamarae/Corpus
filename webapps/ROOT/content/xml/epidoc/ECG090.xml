@@ -5,8 +5,10 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>საფარის წმ. საბას ტაძრის ფარეზასძის წარწერა</title>
-                <editor>ვალერი სილოგავა</editor>
+                <title xml:lang="ka">საფარის წმ. საბას ტაძრის ფარეზასძის წარწერა</title>
+                <title xml:lang="en"></title>
+                <editor xml:lang="ka">ვალერი სილოგავა</editor>
+                <editor xml:lang="en"></editor>
             </titleStmt>
             <publicationStmt>
                 <authority>ილიას სახელმწიფო უნივერსიტეტი, ლინგვისტურ კვლევათა ინსტიტუტი</authority>
@@ -83,14 +85,14 @@
         <revisionDesc><change when="2019-10-29" who="Eka Kvirkvelia">ტექსტის სრული კოდირება, მეტამონაცემების სრული კოდირება, 
             ბმულებით დაკავშირება ავტორიტეტულ წყაროსთან</change></revisionDesc>
     </teiHeader>
-    <!--<facsimile>
+    <facsimile>
         <surface>
             <graphic url="ecg090.jpg">
                 <desc xml:lang="ka">საფარის წმ. საბას ტაძრის ფარეზასძის წარწერა</desc>
                 <desc xml:lang="en"></desc>
             </graphic>
         </surface>
-    </facsimile> --> 
+    </facsimile>
     <text>
         <body>         
              <div type="bibliography">
@@ -99,7 +101,7 @@
               </listBibl> 
             </div>
                 
-            <div type="edition" xml:lang="ka" xml:space="preserve">
+            <div type="edition" xml:lang="ka" xml:space="preserve" ana="mtavruli">
                 
                         <!--  "† სრლ იქმნა სყდრი ესე საძირკოლითვე
                                [ყვ]ლთა ფრთა

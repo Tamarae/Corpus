@@ -75,7 +75,7 @@
                             <rs type="context"/>
                         </provenance>
                         
-                        <provenance type="not-observed" subtype="destroyed">
+                        <provenance>
                             <placeName type="modernSpot"></placeName>
                              <idno type="invNo"/>
                         </provenance>

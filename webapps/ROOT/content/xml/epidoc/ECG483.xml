@@ -50,7 +50,7 @@
                                  </objectDesc>
                         <handDesc>
                             <handNote script="asomtavruli">
-                                ოთხსტრიქონიანი <rs type="execution">ასომთავრული</rs> წარწერა, განკვეთილობის ნიშანი - ორწერტილი, ქარაგმის ნიშანი: სწორი, პატარა, განივი ხაზი.
+                                ოთხსტრიქონიანი <rs type="script">ასომთავრული</rs> წარწერა, განკვეთილობის ნიშანი - ორწერტილი, ქარაგმის ნიშანი: სწორი, პატარა, განივი ხაზი.
                             </handNote>
                             <handNote>
                                    <height/>
@@ -99,7 +99,7 @@
             </div>
             
             <!-- სულსა რაბ[(ა)ის] / შ(ეუ)ნდ(ვნე)ს ღ(მერთმა)ნ და მეუ[(ღლეს)]ა მისა ნუგამწი/რას შ(ეუ)ნდ(ვნე)ს ღ(მერთმა)ნ -->
-            <div type="edition" xml:lang="ka" xml:space="preserve">
+            <div type="edition" xml:lang="ka" xml:space="preserve" ana="mtavruli">
                 <ab>
                     <lb n="1"/><w lemma="სულ">სულსა</w> 
                         <persName><name nymRef="რაბაი"><expan><abbr>რაბ</abbr><supplied reason="lost" precision="medium"><ex>ა</ex><abbr>ის</abbr></supplied></expan></name></persName>

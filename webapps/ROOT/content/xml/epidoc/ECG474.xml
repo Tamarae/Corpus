@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.stoa.org/epidoc/schema/8.23/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.stoa.org/epidoc/schema/8.23/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:space="preserve">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>ლიხნის წარწერა კომეტის გამოჩენის შესახებ, 1066</title>
+                <editor>ლია ახალაძე</editor>
+            </titleStmt>
+            <publicationStmt>
+                <authority>
+                    ილიას სახელმწიფო უნივერსიტეტი
+                </authority>
+                 <idno type="filename">ECG474</idno>
+                <availability>
+                    <licence target="http://creativecommons.org/licenses/by-nc-sa/3.0/">
+                       დოკუმენტი ვრცელდება Creative Commons Attribution-NonCommercial-ShareAlike 3.0 ლიცენზიით.
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <collection>
+                            ლიხნი
+                        </collection>
+                    </msIdentifier>
+                    <msContents>
+                        <summary>
+                            <seg xml:lang="ka"></seg>
+                        </summary>
+                    </msContents>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>                             
+                                   <material>
+                                       საღებავი
+                                   </material>
+                                   <objectType ref="https://www.eagle-network.eu/voc/objtyp/lod/135">
+                                       კედელი
+                                   </objectType>
+                                        <dimensions unit="cm">
+                                        <width/>
+                                        <height/>
+                                        <depth/>
+                                        </dimensions>
+                                  </support>
+                            </supportDesc>
+                                <layoutDesc>
+                                    <layout> 
+                                        <dimensions>
+                                            <width/>
+                                            <height/>
+                                        </dimensions>
+                                    </layout>
+                                </layoutDesc>
+                        </objectDesc>
+                        <handDesc>
+                            <handNote>
+                                   <height/>
+                                 </handNote>
+                        </handDesc>
+                        <decoDesc>
+                            <decoNote/>
+                        </decoDesc>
+                    </physDesc>
+                    <history>
+                            <origin>
+                                <origPlace>ლიხნი</origPlace>
+                                <origDate></origDate>
+                            </origin>
+                            <provenance>
+                                <placeName type ="ancientFindspot">ლიხნის ღვთისმშობლის მიძინების ტაძარი</placeName>
+                                <rs type="circumstances">მე-19 საუკუნეში მარი ბროსემ მოინახულა ლიხნის ტაძარი.</rs>
+                                <rs type="context"></rs>
+                                <rs type="monuList"/>
+                            </provenance> 
+                            <provenance type="observed">
+                            <placeName type="modernSpot"></placeName>
+                            <idno></idno>
+                        </provenance>
+                    </history>                   
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <revisionDesc>
+            <change when="2019-05-30" who="GL">
+                ტექსტის სრული კოდირება, მეტამონაცემების სრული კოდირება, ბმულებით დაკავშირება გარე კონტროლირებად ლექსიკონთან
+            </change>
+        </revisionDesc>
+
+    </teiHeader>
+    
+     <facsimile>
+        <surface>
+            <graphic url="ecg474.jpg">
+                <desc xml:lang="ka">ლიხნის წარწერა კომეტის გამოჩენის შესახებ</desc>
+                <desc xml:lang="en"></desc>
+            </graphic>
+        </surface>
+    </facsimile>
+    <text>
+        <body>
+            
+            <!-- Ⴕ კურთხეულ ხარ, ღმერთო, ყოვლად ყოველსა შინა.
+                ეს იქმნა დასაბამითგან წელთა ხქჲთ (1065 წ.),
+                ქორონიკონსა სვპ (1066 წ.) მეფობასა ბაგრატ გიორგის ძისასა ინდიკტიონსა 
+             ლჱ, აპრილსა თვესა ვარსკვლავი გამოჩნდა, რომელ მისსა წიაღსა აღმოლიდის 
+                და შინა მისსა ვითარცა შარავანდედი დიდი, მოკიდებით მასვეა. ესე იქმნა ბზობითგან აღვსებამდის -->
+            
+            <div type="edition" xml:lang="ka" xml:space="preserve"  ana="mtavruli">
+                <ab>
+                      <lb n="1"/>Ⴕ კურთხეულ ხარ, ღმერთო, ყოვლად ყოველსა შინა.
+                ეს იქმნა დასაბამითგან ხელთა ხქჲთ (1065 წ.),
+                ქორონიკონსა სვპ (1066 წ.) მეფობასა ბაგრატ გიორგის ძისასა ინდიკტიონსა 
+                ლჱ, აპრილსა თვესა ვარსკვლავი გამოჩნდა, რომელ მისსა წიაღსა აღმოლიდის
+                      <lb n="2"/>და შინა მისსა ვითარცა შარავანდედი დიდი, მოკიდებით მასვეა. ესე იქმნა ბზობითგან აღვსებამდის
+                </ab>
+            </div>
+            
+            <div type="translation" xml:lang="ka"></div>
+            <div type="apparatus" xml:space="preserve"></div>
+            <div type="commentary"><p></p></div>
+                  
+         </body>
+    </text>
+</TEI>

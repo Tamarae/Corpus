@@ -5,8 +5,8 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>მიქაელ და გაბრიელ მთავარანგელოზთა განმარტებითი წარწერა</title>
-                <editor>გიორგი ოთხმეზური</editor>
+                <title xml:lang="ka">მიქაელ და გაბრიელ მთავარანგელოზთა განმარტებითი წარწერა</title>
+                <editor xml:lang="ka">გიორგი ოთხმეზური</editor>
             </titleStmt>
             <publicationStmt>
                 <authority>ილიას სახელმწიფო უნივერსიტეტი</authority>
@@ -25,7 +25,7 @@
                             <supportDesc>
                                 <support>
                                     <objectType>სწორკუთხა ჯვრის კვარცხლბეკი</objectType>
-                                    <material>რუხი ფერის ქვა</material>
+                                    <material>რუხი ქვა</material>
                                     <dimensions>
                                     <height>48</height>
                                     <width>55</width>
@@ -41,7 +41,7 @@
                             </layoutDesc>
                         </objectDesc>
                         <handDesc>
-                            <handNote script="asomtavruli">ასომთავრული წარწერა 
+                            <handNote><rs type="execution">ამოღარული</rs> <rs type="script">ასომთავრული</rs> წარწერა 
                                 <dimensions unit="mm">
                                     <height/>
                                 </dimensions>    
@@ -68,7 +68,8 @@
             <div type="edition" xml:space="preserve">
 
                 <ab>
-                    <lb n="1"/><persName><expan><abbr>მ</abbr><ex>ი</ex><abbr>ქ</abbr><ex>აე</ex><abbr>ლ</abbr></expan></persName> <persName><expan><abbr>გ</abbr><ex>ა</ex><abbr>ბ</abbr><ex>რიე</ex><abbr>ლ</abbr></expan></persName>
+                    <lb n="1"/><name nymRef="მიქაელ"><expan><abbr>მ</abbr><ex>ი</ex><abbr>ქ</abbr><ex>აე</ex><abbr>ლ</abbr></expan></name> 
+                    <name nymRef="გაბრიელ"><expan><abbr>გ</abbr><ex>ა</ex><abbr>ბ</abbr><ex>რიე</ex><abbr>ლ</abbr></expan></name>
                 </ab>
                 
             </div>
