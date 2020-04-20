@@ -35,8 +35,8 @@
                         <objectDesc>
                             <supportDesc>
                                 <support>
-                                    <objectType/>
-                                    <material ref="http://www.eagle-network.eu/voc/objtyp/lod/1338">ბალავრის ქვა</material>
+                                    <objectType>ბალავარი</objectType>
+                                    <material ref="http://www.eagle-network.eu/voc/objtyp/lod/1338">ქვა</material>
                                     <dimensions>
                                         <width>76</width>
                                         <height>173</height>
@@ -109,7 +109,7 @@
         -->
         <body>
 
-            <div type="edition" xml:lang="ka" xml:space="preserve">
+            <div type="edition" xml:lang="ka" xml:space="preserve" ana="mtavruli">
 
             <ab>
                 <lb n="1"/>&#10013;
@@ -195,11 +195,8 @@
                     </bibl>
                 </listBibl>
 
-                <div type="edition" xml:space="preserve">
-                <ab>
-                    <lb n="1"/>
-                </ab>
-            </div>
+
+
                 <div type="translation">
                     <p/>
                 </div>

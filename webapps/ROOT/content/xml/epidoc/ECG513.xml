@@ -5,10 +5,10 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title> სავედრებელი წარწერა </title>
+                <title>სავედრებელი წარწერა </title>
             </titleStmt>
             <publicationStmt>
-                <authority> ილიას სახელმწიფო უნივერსიტეტი</authority>
+                <authority>ილიას სახელმწიფო უნივერსიტეტი</authority>
                  <idno type="filename">ECG513</idno>
                 <availability>
                     <licence target="http://creativecommons.org/licenses/by-nc-sa/3.0/">
@@ -27,8 +27,8 @@
                         <objectDesc>
                             <supportDesc>
                                 <support>                             
-                                   <material ref="https://www.eagle-network.eu/voc/material/lod/2" > ქვა</material>
-                                   <objectType ref="https://www.eagle-network.eu/voc/objtyp/lod/179."> კედელი</objectType> 
+                                   <material ref="https://www.eagle-network.eu/voc/material/lod/2">ქვა</material>
+                                   <objectType ref="https://www.eagle-network.eu/voc/objtyp/lod/179">კედელი</objectType> 
                                         <dimensions unit="cm">
                                         <width></width>
                                         <height></height>
@@ -46,7 +46,7 @@
                                 </layoutDesc>
                         </objectDesc>
                         <handDesc>
-                            <handNote script="asomtavruli">წარერა შესრულებულია ნუსხური დამწერლობით. წარწერას განკვეთილობისა და ქარაგმების ნიშანები არ ახლავს. 
+                            <handNote script="asomtavruli">წარერა შესრულებულია <rs type="script">ნუსხური</rs> დამწერლობით. წარწერას განკვეთილობისა და ქარაგმების ნიშანები არ ახლავს. 
                                 <width> 0,5-0,7</width>   
                                 <height> 0,3-3,3</height>
                                  </handNote>
@@ -95,8 +95,8 @@
               <!--ქ. ხატო ღ(მრ)თ(ა)ებისაო [...]-->
                 <ab>
                     <lb n="1"/>  <w lemma="ქრისტე"><expan><abbr>ქ</abbr><ex>რისტე</ex></expan></w> 
-                                 <w lemma=" ხატ"> ხატო</w> 
-                                 <w lemma="ღმრთაებ"> <expan> <abbr>ღ</abbr><ex>მრ</ex><abbr>თ</abbr><ex>ა</ex> <abbr>ებისაო </abbr></expan></w>
+                                 <w lemma="ხატ">ხატო</w> 
+                                 <w lemma="ღმრთაებ"><expan><abbr>ღ</abbr><ex>მრ</ex><abbr>თ</abbr><ex>ა</ex><abbr>ებისაო</abbr></expan></w>
                                  
                 </ab>
             </div>

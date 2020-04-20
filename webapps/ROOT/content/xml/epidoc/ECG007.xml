@@ -117,8 +117,8 @@
         <body>
             <div type="bibliography">
                 <listBibl>
-                    <bibl n="1">თინათინ ყაუხჩიშვილი, საქართველოს ბერძნული წარწერების კორპუსი<ptr target="bibliography.xml#b130"/>, <citedRange>გვ. 120-121</citedRange></bibl>
-                    <bibl n="2">თინათინ ყაუხჩიშვილი, ბერძნული წარწერები საქართველოში<ptr target="bibliography.xml#b80"/>, <citedRange>გვ. 86-87</citedRange></bibl>                 
+                    <bibl n="1"><ptr target="bibliography.xml#b130"/>თინათინ ყაუხჩიშვილი, საქართველოს ბერძნული წარწერების კორპუსი, <citedRange>გვ. 120-121</citedRange></bibl>
+                    <bibl n="2"><ptr target="bibliography.xml#b80"/>თინათინ ყაუხჩიშვილი, ბერძნული წარწერები საქართველოში, <citedRange>გვ. 86-87</citedRange></bibl>                 
                 </listBibl>
             </div>
            
@@ -145,7 +145,7 @@
              <lb n="4" break="no"/>ξιᾷ</w> <w lemma="σός">σου</w> <w lemma="σκεπάζω">σκέπασόν</w> <w lemma="ἐγώ">με</w> <w lemma="ἀθάνατος">ἀθά
              <lb n="5"/>νατε</w> <w lemma="τρισάγιος">τρισάγιε</w> <w lemma="δόξα">δ<supplied reason="lost">ό</supplied>ξ<supplied reason="lost">α</supplied></w> <w lemma="σύ"><supplied reason="lost">σ</supplied>οι</w>
              <lb n="6"/><w lemma="εὐχαριστῶ">εὐχαριστοῦμαι</w> <w lemma="σύ">σοι</w> <w lemma="θεός"><expan><abbr>θ</abbr><ex>εὸ</ex><abbr>ς</abbr></expan></w> <w lemma="διά">διὰ</w>
-             <lb n="7"/><w lemma="ὁ">τοῦ</w> <w lemma="ἅγιος">ἁγίου</w> <w lemma="παῖς">παιδό<supplied reason="lost">ς</supplied></w> <w lemma="σός">σου</w> <persName type="divine"><name nymRef="Ἰησοῦς">Ἰησοῦ</name> <name nymRef="Χριστός"><expan><abbr>Χ</abbr><ex>ριστὸ</ex><abbr>ς</abbr></expan></name></persName>
+             <lb n="7"/><w lemma="ὁ">τοῦ</w> <w lemma="ἅγιος">ἁγίου</w> <w lemma="παῖς">παιδό<supplied reason="lost">ς</supplied></w> <w lemma="σός">σου</w> <name nymRef="Ἰησοῦς">Ἰησοῦ</name> <name nymRef="Χριστός"><expan><abbr>Χ</abbr><ex>ριστὸ</ex><abbr>ς</abbr></expan></name>
              <lb n="8"/><w lemma="ὁ">τοῦ</w> <w lemma="κύριος"><expan><abbr>κ</abbr><ex>υρίο</ex><abbr>υ</abbr></expan></w> <w lemma="ἐγώ">ἡμῶν</w> <w lemma="διά">δι</w> <w lemma="ὅς">οὗ</w> <w lemma="φωτίζω">ἐφώτισας</w>
              <lb n="9"/><w lemma="ἐγώ">ἡμᾶς</w> <w lemma="καί">καὶ</w> <w lemma="ἐλεῶ">ἐλέησας</w> <w lemma="ἐγώ">ἡμᾶς</w> <w lemma="ἀποκαλύπτω">ἀποκά
              <lb n="10" break="no"/>λυψας</w> <w lemma="ὁ">τὸ</w> <w lemma="ἄφθαρτος">ἄφθαρτόν</w> <w lemma="σός">σου</w> <w lemma="φῶς">φῶς</w>

@@ -131,7 +131,7 @@
         <body>           
             <div type="bibliography">
                 <listBibl>
-                    <bibl n="1">თინათინ ყაუხჩიშვილი, საქართველოს ბერძნული წარწერების კორპუსი<ptr target="bibliography.xml#b130"/>, <citedRange>გვ. 121-122</citedRange></bibl>
+                    <bibl n="1"><ptr target="bibliography.xml#b130"/>თინათინ ყაუხჩიშვილი, საქართველოს ბერძნული წარწერების კორპუსი, <citedRange>გვ. 121-122</citedRange></bibl>
                 </listBibl>
             </div>
              
@@ -148,12 +148,12 @@
                               των αὐτῶ[ν]
                                              -->
          <ab>
-             <lb n="1"/>&#10013;<persName type="saint"><w lemma="ἅγιος">ἅγιε</w> <name nymRef="Στέφανος">Στέφανε</name></persName>
+             <lb n="1"/>&#10013;<w lemma="ἅγιος">ἅγιε</w> <name nymRef="ἅγιος Στέφανος" type="saint">Στέφανε</name>
              <lb n="2"/><w lemma="μετά">μετὰ</w> <w lemma="πᾶς">πάντων</w>
              <lb n="3"/><w lemma="ὁ">τῶν</w> <w lemma="ἅγιος">ἁγίων</w>
              <lb n="4"/><w lemma="πρεσβεύω">πρέσβευε</w> <w lemma="ὑπέρ">ὑπὲρ</w>ს
-             <lb n="5"/><w lemma="δοῦλος"><supplied reason="subaudible">δ</supplied>ούλου</w> <w lemma="ὁ">τοῦ</w> <persName><name nymRef="Φιλοκτίστος">Φι
-             <lb n="6" break="no"/>λοκτίστου</name></persName> <w lemma="καί">καὶ</w> 
+             <lb n="5"/><w lemma="δοῦλος"><supplied reason="subaudible">δ</supplied>ούλου</w> <w lemma="ὁ">τοῦ</w> <name nymRef="Φιλοκτίστος">Φι
+             <lb n="6" break="no"/>λοκτίστου</name> <w lemma="καί">καὶ</w> 
              <lb n="7"/><w lemma="πᾶς">πάντων</w> <w lemma="ὁ">τῶν</w>
              <lb n="8"/><w lemma="διαφέρω">διαφερόν
              <lb n="9" break="no"/>των</w> <w lemma="αὐτός">αὐτῶ<supplied reason="lost">ν</supplied></w>
@@ -183,10 +183,10 @@
                 <p n="3">IX სტრიქონში მოსალოდნელი αὐτοῦ-ს ნაცვლად არის αὐτῶ[ν].</p>
             </div>
             <div type="commentary" xml:lang="en">
-                <p>The word γούλου in the inscription is frequently represented with γ/δ interchange of guttural and dental phonemes. The inscription has a couple of orthographic errors.
-                The plaque that is used in the Archangel church as a building material was part of the St. Stephen church before, which was located in the same district in the middle of VI century (comp. Agathia, Περὶ Ἰουστ. III, 5; Georgica III, 1936., p. 52).
-                Philochteste, a clergy not mentioned in any other source, is asking for mercy from Lord God under the name of the patron Saint of the church, St. Stephen for himself and close people to him.
-                The line 9th instead of presupposed αὐτοῦ we have αὐτῶ[ν].
+                <p>
+                    The plaque that is used in the Archangel church as a building material was part of the St. Stephen church before, which was located in the same district in the middle of VI century (comp. Agathia, Περὶ Ἰουστ. III, 5; Georgica III, 1936., p. 52).
+                    Philochteste, a clergy not mentioned in any other source, is asking for mercy from Lord God under the name of the patron Saint of the church, St. Stephen for himself and close people to him.
+                    The line 9th instead of presupposed αὐτοῦ we have αὐτῶ[ν].
 
                 </p>
             </div>

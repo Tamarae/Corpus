@@ -5,7 +5,8 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>ბარ-ხაზანის ეპიტაფია მცხეთიდან (1938)</title>              
+                <title xml:lang="ka">ბარ-ჰაზანის ეპიტაფია მცხეთიდან (1938)</title>
+                <title xml:lang="en">Bar-Hazan Epitaph from Mtskheta</title>
             </titleStmt>
             <publicationStmt>
                 <authority>ილიას სახელმწიფო უნივერსიტეტი, ლინგვისტურ კვლევათა ინსტიტუტი</authority>
@@ -74,19 +75,19 @@
             </sourceDesc>
         </fileDesc>
     </teiHeader>
-     <!-- 
+
     
         
     <facsimile>
         <surface>
-            <graphic url="tskise_01.jpg">
-                <desc xml:lang="ka">წყისეს წარწერა</desc>
+            <graphic url="ecg267.jpg">
+                <desc xml:lang="ka">ბარ ჰაზანის წარწერა</desc>
                 <desc xml:lang="en"></desc>
             </graphic>
         </surface>
     </facsimile>
     
-    -->
+
     <text>
         <body>
             <div type="bibliography">

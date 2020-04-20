@@ -67,8 +67,8 @@
                                 </p>
                                 <p xml:lang="en">
                                     Inscription with deep and distinct letters. First 2 lines are more tight, the third has more space between letters. The first line has larger letters than the second. 
-                                    The height and width of the letters are mostly equal. The vertical size of the lines I-II are approximately 4 cm. The diameter of the full circle is 3,5 cm. 
-                                    The height of the letter ρ in the 3rd line is approx. 5 cm. and the diameter of  ο is bigger in the width than in the height (4,5 and 4 cm). 
+                                    The height and width of the letters are mostly equal. The vertical size of the lines I-II are approximately 4 cm. The diameter of the full circle is 3,5 cm. The height of the letter ρ in the 3rd line is approx. 
+                                    5 cm. and the diameter of  ο is bigger in the width than in the height (4,5 and 4 cm). 
                                  </p>
                                 <height unit="cm" precision="medium">4-5</height>
                                 <width unit="cm" precision="medium"></width>    
@@ -94,7 +94,7 @@
                                 
                                 </placeName> 
                                 <rs type="circumstances" xml:lang="ka">ფილა აღმოჩენილია ნოქალაქევის ექსპედიციის მიერ სეფიეთის მთავარანგელოზის ეკლესიის ირგვლივ თხრის დროს.</rs>
-                                <rs type="circumstances" xml:lang="en">The plaque has been found during the expeditions of Nokalakevi while excavating the surrounding area of Archangel Church in the village of Sepieti</rs>
+                                <rs type="circumstances" xml:lang="en">The plaque has been found during the expeditions of Nokalakevi while excavating the surrounding area of Archangel Church in the village of Sephieti.</rs>
                                 <rs type="context"/>
                                 <rs type="monuList"/>
                             </provenance>                        
@@ -123,7 +123,7 @@
             
             <div type="bibliography">
                 <listBibl>
-                    <bibl n="1">თინათინ ყაუხჩიშვილი, საქართველოს ბერძნული წარწერების კორპუსი<ptr target="bibliography.xml#b130"/>, <citedRange>გვ. 122</citedRange></bibl>
+                    <bibl n="1"><ptr target="bibliography.xml#b130"/>თინათინ ყაუხჩიშვილი, საქართველოს ბერძნული წარწერების კორპუსი, <citedRange>გვ. 122</citedRange></bibl>
                 </listBibl>
             </div>
             
@@ -134,8 +134,8 @@
                             ρόν[τ]ων [αὐτοῦ]
                             ον                                                                                 -->
                     <ab>
-                     <lb n="1"/><supplied reason="lost"><g type="cross">&#10013;</g></supplied><w lemma="ὑπερ"><supplied reason="lost">ὑπὲρ</supplied></w> <w lemma="εὐχή"><supplied reason="lost">εὐχ</supplied>ῆς</w> <w lemma="δοῦλος"><supplied reason="subaudible">δ</supplied>ούλου</w> <persName><name nymRef="Κλήμης">Κ<supplied reason="subaudible">λήμεντο</supplied>
-                     <lb n="2" break="no"/>ς</name></persName> <w lemma="καί">καὶ</w> <w lemma="ὁ">τῶν</w> <w lemma="διαφέρω">δ<supplied reason="lost">ιαφε</supplied>
+                     <lb n="1"/><supplied reason="lost"><g type="cross">&#10013;</g></supplied><w lemma="ὑπερ"><supplied reason="lost">ὑπὲρ</supplied></w> <w lemma="εὐχή"><supplied reason="lost">εὐχ</supplied>ῆς</w> <w lemma="δοῦλος"><supplied reason="subaudible">δ</supplied>ούλου</w> <name nymRef="Κλήμης">Κ<supplied reason="subaudible">λήμεντο</supplied>
+                     <lb n="2" break="no"/>ς</name> <w lemma="καί">καὶ</w> <w lemma="ὁ">τῶν</w> <w lemma="διαφέρω">δ<supplied reason="lost">ιαφε</supplied>
                      <lb n="3" break="no"/>ρόν<supplied reason="lost">τ</supplied>ων</w> <w lemma="αὐτος"><supplied reason="lost">αὐτοῦ</supplied>
                      <lb n="4"/>ον</w> <!-- ბოლო ორი ხაზის შედარება კორპუსის აღდგენასთან -->
                    </ab>    
@@ -162,9 +162,9 @@
             </div>
              <div type="commentary" xml:lang="en">
                  <p>
-                  The word γούλου present in the inscription catches our attention for its manner of writing, that is instead of the word δούλου, - 
-                  this can be explained by the interchange of guttural and dental phonemes characteristic for Greek during all periods of its development. The personal name Κλήμεντος is restored. 
-                  The inscription can be dated according the letters (Α, Δ, C, Υ), usage of ω instead of ο is quite frequent formula (ὑπὲρ εὐχῆς).   
+                 The word γούλου present in the inscription catches our attention for its manner of writing, that is instead of the word δούλου, - 
+                 this can be explained by the interchange of guttural and dental phonemes characteristic for Greek during all periods of its development. 
+                 The personal name Κλήμεντος is restored. The inscription can be dated according the letters (Α, Δ, C, Υ), usage of ω instead of ο is quite frequent formula (ὑπὲρ εὐχῆς).       
                  </p>
              </div>      
          </body>

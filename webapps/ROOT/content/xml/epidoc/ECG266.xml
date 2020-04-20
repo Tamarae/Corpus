@@ -8,7 +8,8 @@
                 <title>მცხეთის ებრაული ეპიტაფია, (1872)</title>              
             </titleStmt>
             <publicationStmt>
-                <authority>ილიას სახელმწიფო უნივერსიტეტი, ლინგვისტურ კვლევათა ინსტიტუტი</authority>
+                <authority xml:lang="ka">ილიას სახელმწიფო უნივერსიტეტი, ლინგვისტურ კვლევათა ინსტიტუტი</authority>
+                <authority xml:lang="en">Ilia State University, Institute of Linguistic Studies</authority>
                  <idno type="filename">ECG289</idno>
                 <availability>
                     <licence target="http://creativecommons.org/licenses/by-nc-sa/3.0/">
@@ -74,19 +75,19 @@
             </sourceDesc>
         </fileDesc>
     </teiHeader>
-     <!-- 
+
     
         
     <facsimile>
         <surface>
-            <graphic url="tskise_01.jpg">
-                <desc xml:lang="ka">წყისეს წარწერა</desc>
+            <graphic url="ecg266.jpg">
+                <desc xml:lang="ka">მცხეთის ებრაული წარწერა</desc>
                 <desc xml:lang="en"></desc>
             </graphic>
         </surface>
     </facsimile>
     
-    -->
+
     <text>
         <body>
             <div type="bibliography">

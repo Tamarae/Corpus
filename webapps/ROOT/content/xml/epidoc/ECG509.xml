@@ -5,10 +5,10 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title> სავედრებელი წარწერა ბასილისა</title>
+                <title>სავედრებელი წარწერა ბასილისა</title>
             </titleStmt>
             <publicationStmt>
-                <authority> ილიას სახელმწიფო უნივერსიტეტი</authority>
+                <authority>ილიას სახელმწიფო უნივერსიტეტი</authority>
                  <idno type="filename">ECG509</idno>
                 <availability>
                     <licence target="http://creativecommons.org/licenses/by-nc-sa/3.0/">
@@ -27,8 +27,8 @@
                         <objectDesc>
                             <supportDesc>
                                 <support>                             
-                                   <material ref="https://www.eagle-network.eu/voc/material/lod/2"> ქვა</material>
-                                   <objectType  ref="https://www.eagle-network.eu/voc/objtyp/lod/1402."> მუქი ყავისფერი ფილა</objectType> 
+                                   <material ref="https://www.eagle-network.eu/voc/material/lod/2">ქვა</material>
+                                   <objectType  ref="https://www.eagle-network.eu/voc/objtyp/lod/1402.">ფილა</objectType> 
                                         <dimensions unit="cm">
                                         <width></width>
                                         <height></height>
@@ -46,7 +46,7 @@
                                 </layoutDesc>
                         </objectDesc>
                         <handDesc>
-                            <handNote script="asomtavruli">წარერა შესრულებულია ნუსხური დამწერლობით. წარწერას განკვეთილობის ნიშანი არ ახლავს; წარწერის ქარაგმის ნიშნად გამოყენებულია სწორი განივი ხაზი.
+                            <handNote>წარერა შესრულებულია <rs type="script">ნუსხური</rs> დამწერლობით. წარწერას განკვეთილობის ნიშანი არ ახლავს; წარწერის ქარაგმის ნიშნად გამოყენებულია სწორი განივი ხაზი.
                                 <width> 2,5-2,5</width>   
                                 <height> 1,5-6</height>
                                  </handNote>

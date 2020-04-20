@@ -190,6 +190,7 @@
 
     <div id="text">
       <h3 class="iospe"><i18n:text i18n:key="epidoc-xslt-iospe-text">Text</i18n:text></h3>
+      
       <dl class="iospe">
 
       <!--  <dt><i18n:text i18n:key="epidoc-xslt-iospe-origin">Origin</i18n:text></dt>
@@ -267,16 +268,6 @@
         </section>
       </div>
       
-   <!--  <div id="apparatus" class="iospe">
-        <h4 class="iospe"><i18n:text i18n:key="epidoc-xslt-iospe-apparatus">Apparatus</i18n:text></h4>
-        
-        <xsl:variable name="apptxt">
-          <xsl:apply-templates select="//t:div[@type='apparatus']/t:listApp"/>
-        </xsl:variable>
-       
-        <xsl:apply-templates select="$apptxt" mode="sqbrackets"/>
-      </div>
-     -->   
       
       <div id="translation" class="iospe">
         <h4 class="iospe"><i18n:text i18n:key="epidoc-xslt-iospe-translation">Translation</i18n:text></h4>

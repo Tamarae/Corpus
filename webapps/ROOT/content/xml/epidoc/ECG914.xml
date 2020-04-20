@@ -35,13 +35,13 @@
                         <objectDesc>
                             <supportDesc>
                                 <support>                             
-                                   <material ref="http://www.eagle-network.eu/voc/material/lod/2">ადგილობრივი ჯიშის სუსტი შლადი ფენოვანი ქვიშაქვა</material>
+                                   <material ref="http://www.eagle-network.eu/voc/material/lod/2">ქვიშაქვა</material>
                                    <objectType ref="http://www.eagle-network.eu/voc/objtyp/lod/416">აღმოსავლეთ ფასადი</objectType>
                                    </support>
                                    </supportDesc>
                                 <layoutDesc>
                                     <layout>
-                                        წარწერა ამოკვეთილია აღმოსავლეთ სარკმლის საპირე ქვაზე.
+                                        წარწერა ამოკვეთილია აღმოსავლეთ სარკმლის საპირე ქვაზე, ადგილობრივი ჯიშის სუსტი შლადი ფენოვანი ქვიშაქვა.
                                         წარწერა შესრულებულია ტაძრის აღმოსავლეთის ფასადზე, სარკმლის რელიეფური წარბის გარშემო, მიწიდან 216 სმ-ის სიმაღლეზე, 
                                         ქვაზე, რომელიც საგანგებოდ ჩაუსვამთ სარკმლის მორთულობისა და წარწერის შესასრულებლად. 
                                     <dimensions unit="cm">

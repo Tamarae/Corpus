@@ -105,15 +105,15 @@
             </listBibl>
                </div>
             
-            <div type="edition" xml:lang="ka" xml:space="preserve">
+            <div type="edition" xml:lang="ka" xml:space="preserve" ana="mtavruli">
                 
                         <!--"[უფალო] მფა
                             [დაჩი]ს შწ"--> 
                 <ab>
                    <lb n="1"/><w lemma="უფალ"><expan><supplied reason="lost"><abbr>ო</abbr><ex>ჳფალ</ex><abbr>ო</abbr></supplied></expan></w>
                             <roleName nymRef="მეფე"><expan><abbr>მ</abbr><ex>ე</ex><abbr>ფ</abbr><ex>ეს</ex><abbr>ა</abbr></expan></roleName>
-                   <lb n="2"/><persName><supplied reason="lost">დაჩი</supplied></persName>ს 
-                                <w lemma="შეწევნა"><expan><abbr>შ</abbr><ex>ეხე</ex><abbr>წ</abbr><ex>იე</ex></expan></w>              
+                   <lb n="2"/><name nymRef="დაჩი (ქართლის მეფე)"><supplied reason="lost">დაჩი</supplied></name>ს 
+                                <rs type="pn"><w lemma="შეეწევა"><expan><abbr>შ</abbr><ex>ეხე</ex><abbr>წ</abbr><ex>იე</ex></expan></w></rs>           
                 </ab>
                </div>
              

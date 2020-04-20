@@ -3,15 +3,15 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>ვესპასიანეს წარწერა</title>
-                <editor>გიორგი წერეთელი</editor>
-                <editor>თინათინ ყაუხჩიშვილი</editor>
+                <title xml:lang="ka">ვესპასიანეს წარწერა</title>
+                <editor xml:lang="ka">გიორგი წერეთელი</editor>
+                <editor xml:lang="ka">თინათინ ყაუხჩიშვილი</editor>
                 <editor>Anna Boltounova</editor>
-                <editor>დევიდ ბრაუნდი</editor>
+                <editor xml:lang="ka">დევიდ ბრაუნდი</editor>
             </titleStmt>
             <publicationStmt>
-                <authority>ილიას სახელმწიფო უნივერსიტეტი, ლინგვისტურ კვლევათა ინსტიტუტი
-                </authority>
+                <authority xml:lang="ka">ილიას სახელმწიფო უნივერსიტეტი, ლინგვისტურ კვლევათა ინსტიტუტი</authority>
+                <authority xml:lang="en">Ilia State University, Institute of Linguistic Studies</authority>
                  <idno type="filename">ECG077</idno>
                 <availability>
                     <licence target="http://creativecommons.org/licenses/by-nc-sa/3.0/">
@@ -54,7 +54,7 @@
                         </objectDesc>                        
                         <handDesc>                                                                                                    
                             <handNote>
-                                <p>წარწერა გამოყვანილია ლამაზი საგულდაგულოდ შესრულებული მთავრულით. პირველი ორი სტრიქონი ნაწერია უფრო დიდი ასოებით, დანარჩენი სტრიქონები, შედარებით უფრო მცირე ზომის ასოებით.</p>
+                                <p xml:lang="ka">წარწერა გამოყვანილია ლამაზი საგულდაგულოდ შესრულებული მთავრულით. პირველი ორი სტრიქონი ნაწერია უფრო დიდი ასოებით, დანარჩენი სტრიქონები, შედარებით უფრო მცირე ზომის ასოებით.</p>
                                 <height unit="cm">
                                     4-6
                                 </height>
@@ -62,23 +62,29 @@
                             </handNote>
                         </handDesc>
                         <decoDesc>
-                            <decoNote></decoNote>
+                            <decoNote/>
                         </decoDesc>
                     </physDesc>                                       
                     <history>
                         <origin>
-                            <origPlace>მცხეთა</origPlace> 
+                            <origPlace>
+                                მცხეთა
+                            </origPlace> 
                             <origDate when-custom="0075" evidence="consulship" precision="high">75 AD</origDate>
                         </origin>
                         
                         <provenance type="found" when="1867">
-                            <placeName type="ancientFindspot" ref="http://pleiades.stoa.org/places/863840">მცხეთა</placeName>
+                            <placeName type="ancientFindspot" ref="http://pleiades.stoa.org/places/863840">
+                                მცხეთა
+                            </placeName>
                             <rs type="monuList"/>
-                            <rs type="circumstances">ნაპოვნია 1867 წელს</rs>
+                            <rs type="circumstances">ნაპოვნია 1867 წელს ივანე ბართოლომეის მიერ</rs>
                             <rs type="context"/>
                         </provenance>
                         <provenance type="observed" >
-                            <placeName type="modernSpot">საქართველოს ეროვნული მუზეუმი</placeName>
+                            <placeName type="modernSpot">
+                                საქართველოს ეროვნული მუზეუმი
+                            </placeName>
                         </provenance>
                     </history>
                 </msDesc>
@@ -99,16 +105,16 @@
         <body>
              <div type="bibliography">
                 <listBibl>
-                    <bibl n="1">გიორგი წერეთელი, მცხეთის ბერძნული წარწერა ვესპასიანეს ხანისა<ptr target="bibliography.xml#b147"/>, <citedRange>გვ. 1-23</citedRange></bibl>
-                    <bibl n="2">თინათინ ყაუხჩიშვილი, საქართველოს ისტორიის ძველი ბერძნული წყაროები<ptr target="bibliography.xml#b136"/>, <citedRange>გვ. 241-245</citedRange></bibl>
-                    <bibl n="3">თინათინ ყაუხჩიშვილი, საქართველოს ბერძნული წარწერების კორპუსი<ptr target="bibliography.xml#b130"/>, <citedRange>გვ. 251-252</citedRange></bibl>
-                    <bibl n="4">Anna Boltounova, Quelques notes sur l'inscription de Vespasien, trouvée à Mtskhetha<ptr target="bibliography.xml#b148"/>, <citedRange>pp. 213-222</citedRange></bibl>
-                    <bibl n="5">თინათინ ყაუხჩიშვილი, საქართველოს ბერძნული წარწერების კორპუსი, ტ. II<ptr target="bibliography.xml#b149"/>, <citedRange>გვ. 251-252</citedRange></bibl> 
-                    <bibl n="6">მცხეთა: არქეოლოგიური კვლევა-ძიების შედეგები, ტ. 11<ptr target="bibliography.xml#b150"/>, <citedRange>გვ. 41; გვ. 135</citedRange></bibl>
-                    <bibl n="7">თინათინ ყაუხჩიშვილი, ახალი ბერძნული წარწერები არმაზციხე-ბაგინეთიდან<ptr target="bibliography.xml#b132"/><citedRange></citedRange></bibl>
-                    <bibl n="8">თინათინ ყაუხჩიშვილი, ახალი ბერძნული წარწერა არმაზციხე-ბაგინეთიდან (II)<ptr target="bibliography.xml#b133"/>, <citedRange>გვ. 11-14</citedRange></bibl>
-                    <bibl n="9">თინათინ ყაუხჩიშვილი, ბერძნული წარწერები საქართველოში<ptr target="bibliography.xml#b80"/>, <citedRange>გვ. 234-240</citedRange></bibl> 
-                    <bibl n="10">დევიდ ბრაუნდი, საქართველო ანტიკურ ხანაში: კოლხეთისა და ამიერკავკასიის იბერიის ისტორია ძვ.წ. 550-ახ.წ. 562 წლები<ptr target="bibliography.xml#b68"/>, <citedRange>გვ. 327-329</citedRange></bibl>                                             
+                    <bibl n="1"><ptr target="bibliography.xml#b147"/>გიორგი წერეთელი, მცხეთის ბერძნული წარწერა ვესპასიანეს ხანისა, <citedRange>გვ. 1-23</citedRange></bibl>
+                    <bibl n="2"><ptr target="bibliography.xml#b136"/>თინათინ ყაუხჩიშვილი, საქართველოს ისტორიის ძველი ბერძნული წყაროები, <citedRange>გვ. 241-245</citedRange></bibl>
+                    <bibl n="3"><ptr target="bibliography.xml#b130"/>თინათინ ყაუხჩიშვილი, საქართველოს ბერძნული წარწერების კორპუსი, <citedRange>გვ. 251-252</citedRange></bibl>
+                    <bibl n="4"><ptr target="bibliography.xml#b148"/>Anna Boltounova, Quelques notes sur l'inscription de Vespasien, trouvée à Mtskhetha, <citedRange>pp. 213-222</citedRange></bibl>
+                    <bibl n="5"><ptr target="bibliography.xml#b149"/>,თინათინ ყაუხჩიშვილი, საქართველოს ბერძნული წარწერების კორპუსი, ტ. II <citedRange>გვ. 251-252</citedRange></bibl> 
+                    <bibl n="6"><ptr target="bibliography.xml#b150"/>მცხეთა: არქეოლოგიური კვლევა-ძიების შედეგები, ტ. 11, <citedRange>გვ. 41; გვ. 135</citedRange></bibl>
+                    <bibl n="7"><ptr target="bibliography.xml#b132"/>თინათინ ყაუხჩიშვილი, ახალი ბერძნული წარწერები არმაზციხე-ბაგინეთიდან<citedRange></citedRange></bibl>
+                    <bibl n="8"><ptr target="bibliography.xml#b133"/>თინათინ ყაუხჩიშვილი, ახალი ბერძნული წარწერა არმაზციხე-ბაგინეთიდან (II), <citedRange>გვ. 11-14</citedRange></bibl>
+                    <bibl n="9"><ptr target="bibliography.xml#b80"/>თინათინ ყაუხჩიშვილი, ბერძნული წარწერები საქართველოში, <citedRange>გვ. 234-240</citedRange></bibl> 
+                    <bibl n="10"><ptr target="bibliography.xml#b68"/>დევიდ ბრაუნდი, საქართველო ანტიკურ ხანაში: კოლხეთისა და ამიერკავკასიის იბერიის ისტორია ძვ.წ. 550-ახ.წ. 562 წლები, <citedRange>გვ. 327-329</citedRange></bibl>                                             
                 </listBibl>
             </div>
   
@@ -136,8 +142,8 @@
 
  <ab>   
 
-<lb n="1"/><persName><roleName nymRef="Αὐτοκράτωρ Καῖσαρ"><w lemma="Αὐτοκράτωρ"><supplied reason="lost">Αὐτοκράτωρ</supplied></w></roleName> <roleName><w lemma="Καῖσαρ"><supplied reason="lost">Καῖ</supplied>σαρ</w></roleName> <name nymRef="Οὐεσπασιανός">Οὐε<supplied reason="lost">σ
-<lb n="2" break="no"/>πασιανός</supplied></name> <roleName nymRef="σεβαστός"><w lemma="σεβαστός"><supplied reason="lost">σεβ</supplied>αστός</w></roleName></persName> <roleName nymRef="ἀρχιερεύς"><w lemma="ἀρχιερεύς">ἀρ
+<lb n="1"/><roleName nymRef="Αὐτοκράτωρ Καῖσαρ"><w lemma="Αὐτοκράτωρ"><supplied reason="lost">Αὐτοκράτωρ</supplied></w></roleName> <roleName><w lemma="Καῖσαρ"><supplied reason="lost">Καῖ</supplied>σαρ</w></roleName> <name nymRef="Οὐεσπασιανός">Οὐε<supplied reason="lost">σ
+<lb n="2" break="no"/>πασιανός</supplied></name> <roleName nymRef="σεβαστός"><w lemma="σεβαστός"><supplied reason="lost">σεβ</supplied>αστός</w></roleName> <roleName nymRef="ἀρχιερεύς"><w lemma="ἀρχιερεύς">ἀρ
 <lb n="3" break="no"/>χιε<supplied reason="lost">ρεύς</supplied></w></roleName> <w lemma="μέγας"><supplied reason="lost">μέγιστο</supplied>ς</w> <roleName nymRef="δημαρχικός ἐξουσίας"><w lemma="δημαρχικός">δημαρχικῆ
 <lb n="4" break="no"/>ς</w> <w lemma="ἐξουσία">ἐξο<supplied reason="lost">υσίας</supplied></w></roleName> <w lemma="ὁ"><supplied reason="lost">τ</supplied>ὸ</w> <num value="7"><supplied reason="lost">Ζ</supplied></num> <roleName nymRef="αὐτοκράτωρ"><w lemma="αὐτοκράτωρ">αὐτοκράτ<supplied reason="subaudible">ω</supplied>ρ </w></roleName> <w lemma="ὁ">τὸ </w>
 <lb n="5"/><num value="14">ῘΔ</num> <roleName nymRef="ὕπατος"><w lemma="ὕπατος">ὕπατος</w></roleName> <w lemma="ὁ">τὸ</w> <num value="6"><supplied reason="lost">Ҁ</supplied></num> <w lemma="ἀποδείκνυμι">ἀποδεδειγμέ

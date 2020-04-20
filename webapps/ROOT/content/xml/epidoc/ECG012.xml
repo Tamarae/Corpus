@@ -5,11 +5,14 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>წყისეს წარწერა</title>
-                <editor>ნოდარ შოშიაშვილი</editor>
+                <title xml:lang="ka">წყისეს წარწერა</title>
+                <title xml:lang="en">Tskise inscription</title>
+                <editor xml:lang="ka">ნოდარ შოშიაშვილი</editor>
+                <editor xml:lang="en">Nodar Shoshiashvili</editor>
             </titleStmt>
             <publicationStmt>
-                <authority>ილიას სახელმწიფო უნივერსიტეტი, ლინგვისტურ კვლევათა ინსტიტუტი</authority>
+                <authority xml:lang="ka">ილიას სახელმწიფო უნივერსიტეტი, ლინგვისტურ კვლევათა ინსტიტუტი</authority>
+                <authority xml:lang="en">Ilia State University, Institute of Linguistic Studies</authority>
                  <idno type="filename">ECG012</idno>
                 <availability>
                     <licence target="http://creativecommons.org/licenses/by-nc-sa/3.0/">
@@ -26,7 +29,7 @@
                      <msContents>
                         <summary>
                             <seg xml:lang="ka">მოსახსენებელი</seg>
-                            <seg xml:lang="en"/>
+                            <seg xml:lang="en">Memorial</seg>
                         </summary>
                     </msContents>
                     
@@ -34,8 +37,10 @@
                         <objectDesc>
                             <supportDesc>
                                 <support>
-                                    <objectType  ref="http://www.eagle-network.eu/voc/objtyp/lod/1338">კვარცხლბეკი</objectType>
-                                    <material  ref="http://www.eagle-network.eu/voc/material/lod/2">რუხი ქვა</material>
+                                    <objectType xml:lang="ka" ref="http://www.eagle-network.eu/voc/objtyp/lod/1338">კვარცხლბეკი</objectType>
+                                    <objectType xml:lang="en">Pedestal</objectType>
+                                    <material xml:lang="ka" ref="http://www.eagle-network.eu/voc/material/lod/2">რუხი ქვა</material>
+                                    <material xml:lang="en">Local stone</material>
                                     <dimensions unit="cm">
                                         <height>64</height>
                                         <width>80</width>
@@ -45,7 +50,8 @@
                             </supportDesc>
                             <layoutDesc>
                                 <layout writtenLines="8">
-                                    წარწერა რვასტრიქონიანია
+                                    <seg xml:lang="ka">წარწერა რვასტრიქონიანია</seg>
+                                    <seg xml:lang="en">Eight Line inscription</seg>
                                     <dimensions unit="cm">    
                                         <height>60</height>
                                         <width>75</width>
@@ -54,41 +60,56 @@
                             </layoutDesc>
                         </objectDesc>
                          <handDesc>
-                            <handNote script="asomtavruli" style="inscribed">
-                                <rs type="execution">ამოღარული</rs> <rs type="script">ასომთავრული</rs> წარწერა.
+                            <handNote>
+                                <p xml:lang="ka"><rs type="execution">ამოღარული</rs> <rs type="script">ასომთავრული</rs> წარწერა.</p>
+                                <p xml:lang="en">Carved Asomtavruli</p>
                                 <height unit="cm">4,5</height>
                             </handNote>
                         </handDesc>
                     </physDesc>          
                     <history>
                         <origin>
-                            <origPlace>წყისე</origPlace>
+                            <origPlace>
+                                <seg xml:lang="ka">წყისე</seg>
+                                <seg xml:lang="en">Tskise</seg>
+                            </origPlace>
                             <origDate notBefore="0600" notAfter="0700" evidence="lettering" precision="medium">VII AD</origDate>
                         </origin>
                         <provenance type="found" when="1920">
-                            <placeName type ="ancientFindspot">წყისე</placeName>
+                            <placeName type ="ancientFindspot">
+                                <seg xml:lang="ka">წყისე</seg>
+                                <seg xml:lang="en">Tskise</seg>
+                            </placeName>
                             <rs type="monuList"/>
-                            <rs type="circumstances">წყისეს ციხე მდებარეობს ადიგენის მუნიციპალიტეტში. 
+                            <rs type="circumstances" xml:lang="ka">წყისეს ციხე მდებარეობს ადიგენის მუნიციპალიტეტში. 
                                 ძეგლს 1920-იან წლებში მიაკვლია გ. ბოჭორიძემ წყისეს ციხიდან 8,5 კილომეტრის მანძილზე სამხრეთ-აღმოსავლეთით, 3-4 კმ.
                                 დაშორებით სოფელ უდედან.</rs>
+                            <rs type="circumstances" xml:lang="en">Tskise castle is located in Adigeni municipality. G. Bochoradze found the monument in the 1920s, 
+                                8.5 km from the castle of Tskisi to the south-east, 3-4 km away from the village Ude.</rs>
                             <rs type="context"/>         
                         </provenance>                       
                         <provenance type="observed">
-                           <placeName type="modernSpot" ref="http://museum.ge">საქართველოს ეროვნული მუზეუმი</placeName>
-                                               <idno type="invNo">114</idno>
+                           <placeName type="modernSpot" ref="http://museum.ge">
+                               <seg xml:lang="ka">საქართველოს ეროვნული მუზეუმი</seg>
+                               <seg xml:lang="en">National Museum of Georgia</seg>
+                           </placeName>
+                           <idno type="invNo">114</idno>
                        </provenance>
                     </history>
                 </msDesc> 
             </sourceDesc>
         </fileDesc>
-        <revisionDesc><change when="2019-10-29" who="Eka Kvirkvelia">ტექსტის სრული კოდირება, მეტამონაცემების სრული კოდირება, 
-            ბმულებით დაკავშირება ავტორიტეტულ წყაროსთან</change></revisionDesc>
+        <revisionDesc>
+            <change when="2019-10-29" who="Eka Kvirkvelia">ტექსტის სრული კოდირება, მეტამონაცემების სრული კოდირება, 
+            ბმულებით დაკავშირება ავტორიტეტულ წყაროსთან</change>
+            <change who="TK">seg, ტერმინები, თარგმანი</change>
+        </revisionDesc>
     </teiHeader>    
     <facsimile>
         <surface>
             <graphic url="ecg012.jpg">
                 <desc xml:lang="ka">წყისეს წარწერა</desc>
-                <desc xml:lang="en"></desc>
+                <desc xml:lang="en">Tskise Inscription</desc>
             </graphic>
         </surface>
     </facsimile>  
@@ -96,19 +117,19 @@
         <body>   
             <div type="bibliography">
                 <listBibl>
-             <bibl n="1">ნოდარ შოშიაშვილი, ქართული წარწერების კორპუსი<ptr target="bibliography.xml#b101"/>, <citedRange>გვ. 97-99</citedRange></bibl>
-             <bibl n="2">კორნელი დანელია, ზურაბ სარჯველაძე, ქართული პალეოგრაფია<ptr target="bibliography.xml#b92"/>, <citedRange>გვ. 34</citedRange></bibl>
-             <bibl n="3">აკაკი შანიძე, ძველი ქართულის ქრესტომათია ლექსიკონითურთ<ptr target="bibliography.xml#b59"/>, <citedRange>გვ. 25, 108</citedRange></bibl>
-             <bibl n="4">სიმონ ჯანაშია, ფეოდალური რევოლუცია საქართველოში<ptr target="bibliography.xml#b110"/>, <citedRange>გვ. 99</citedRange></bibl>
-             <bibl n="5">აკაკი შანიძე, ხუნამისის წარწერის განმარტებისათვის<ptr target="bibliography.xml#b58"/>, <citedRange>გვ. 222-223</citedRange></bibl>
-             <bibl n="6">ქართული ენის ისტორიული ქრესტომათია<ptr target="bibliography.xml#b112"/>, <citedRange>გვ. 2-3</citedRange></bibl>
-             <bibl n="7">M. Tarchnišvili, Le soulévement de Bardas Skléros<ptr target="bibliography.xml#b23"/>, <citedRange>გვ. 253-254</citedRange></bibl>
-             <bibl n="8">საქართველოს სახელმწიფო მუზეუმის ქართული ეპიგრაფიკული ძეგლების კატალოგი<ptr target="bibliography.xml#b111"/>, <citedRange>გვ. 19</citedRange></bibl>
-             <bibl n="9">I. Molitor MIA CSCO<ptr target="bibliography.xml#b15"/></bibl>
-             <bibl n="10">Н. Г. Чубинашвили, Зедазени, Кликис-Джвари, Гвиара<ptr target="bibliography.xml#b46"/>, <citedRange>გვ. 10</citedRange></bibl>
-             <bibl n="11">N. Tchubinachvili. Gáscension de la Croix<ptr target="bibliography.xml#b26"/>, <citedRange>გვ. 206-208</citedRange></bibl>
-             <bibl n="12">ალ. გამყრელიძე, ქართული დამწერლობის უძველესი ნიმუშები<ptr target="bibliography.xml#b62"/>, <citedRange>გვ. 22</citedRange></bibl>
-             <bibl n="13">ვალერი სილოგავა, ქართული სამართლის ძეგლები დასავლეთ საქართველოს ლაპიდარულ წარწერებში<ptr target="bibliography.xml#b76"/>, <citedRange>გვ. 146</citedRange></bibl>
+             <bibl n="1"><ptr target="bibliography.xml#b101"/>ნოდარ შოშიაშვილი, ქართული წარწერების კორპუსი, <citedRange>გვ. 97-99</citedRange></bibl>
+             <bibl n="2"><ptr target="bibliography.xml#b92"/>კორნელი დანელია, ზურაბ სარჯველაძე, ქართული პალეოგრაფია, <citedRange>გვ. 34</citedRange></bibl>
+             <bibl n="3"><ptr target="bibliography.xml#b59"/>აკაკი შანიძე, ძველი ქართულის ქრესტომათია ლექსიკონითურთ, <citedRange>გვ. 25, 108</citedRange></bibl>
+             <bibl n="4"><ptr target="bibliography.xml#b110"/>სიმონ ჯანაშია, ფეოდალური რევოლუცია საქართველოში, <citedRange>გვ. 99</citedRange></bibl>
+             <bibl n="5"><ptr target="bibliography.xml#b58"/>აკაკი შანიძე, ხუნამისის წარწერის განმარტებისათვის, <citedRange>გვ. 222-223</citedRange></bibl>
+             <bibl n="6"><ptr target="bibliography.xml#b112"/>ქართული ენის ისტორიული ქრესტომათია, <citedRange>გვ. 2-3</citedRange></bibl>
+             <bibl n="7"><ptr target="bibliography.xml#b23"/>M. Tarchnišvili, Le soulévement de Bardas Skléros, <citedRange>გვ. 253-254</citedRange></bibl>
+             <bibl n="8"><ptr target="bibliography.xml#b111"/>საქართველოს სახელმწიფო მუზეუმის ქართული ეპიგრაფიკული ძეგლების კატალოგი, <citedRange>გვ. 19</citedRange></bibl>
+        <!--    <bibl n="9"><ptr target="bibliography.xml#b15"/>I. Molitor MIA CSCO</bibl>  --> 
+             <bibl n="10"><ptr target="bibliography.xml#b46"/>Н. Г. Чубинашвили, Зедазени, Кликис-Джвари, Гвиара, <citedRange>გვ. 10</citedRange></bibl>
+             <bibl n="11"><ptr target="bibliography.xml#b26"/>N. Tchubinachvili. Gáscension de la Croix, <citedRange>გვ. 206-208</citedRange></bibl>
+             <bibl n="12"><ptr target="bibliography.xml#b62"/>ალ. გამყრელიძე, ქართული დამწერლობის უძველესი ნიმუშები, <citedRange>გვ. 22</citedRange></bibl>
+             <bibl n="13"><ptr target="bibliography.xml#b76"/>ვალერი სილოგავა, ქართული სამართლის ძეგლები დასავლეთ საქართველოს ლაპიდარულ წარწერებში, <citedRange>გვ. 146</citedRange></bibl>
              </listBibl>                
             </div>
             
@@ -156,9 +177,16 @@
                     შაჰრამანის პირველში, ჩვენ დასაცავად - ცოლისა და შვილებისა, ნოემბრის ჩვიდმეტს, ამენ.</p>
             </div>
             
+            <div type="translation" xml:lang="ka">
+                <p>
+                   I, Constant, the son of Stefane and Guda, erected this Cross of Christ, in the land purchased for the Holy Cross of Mtskheta შაჰრამანის პირველში 
+                   (the first of Shahraman) for the protection of ourselves and our wives and offspring, we bought it on November 17, Amen. 
+                </p>
+            </div>
+            
             <div type="apparatus" xml:space="preserve"/>      
             
-            <div type="commentary">    
+            <div type="commentary" xml:lang="ka">    
                 <p> ნოდარ შოშიაშვილის ქართული წარწერების კორპუსის მიხედვით #32. წყისეს წარწერა აკაკი შანიძემ 616-696 წლებით დაათარიღა. 
                     წარწერას განკვეთილობის ნიშნები არ ახლავს. 
                     ქარაგმის ნიშნად ნახმარია გრძელი, განივი, სწორი ხაზი. სიტყვები ერთმანეთისაგან არ არის დაცილებული. 
@@ -166,7 +194,16 @@
                     ენობრივი თვალსაზრისით ყურადღებას იქცევს ჰაემეტი ფორმა: აღჰუმართე (ჰ- მესამე ირიბი ობიექტური პირის გამომხატველი პრეფიქსია). 
                     სტეფანესმან და გუდასმან (მოსალოდნელი იყო სტეფანჱსმან და გუდაჲსმან) ფორმები მოწმობენ, რომ ამ დროს ცოცხალ მეტყველებაში 
                     უკვე მოშლილია დამავალი დიფთონგები.</p>       
-            </div> 
+            </div>
+            <div type="commentary" xml:lang="en">
+                <p>
+                    According to the Corpus of Georgian Inscriptions by Nodar Shoshiashvili the inscription # 32 of Tskisi was dated to 616-696 by Akaki Shanidze. 
+                    The inscription does not have signs of spaces between words, the symbol of abbreviation looks like a long, straight, horizontal line. No spaces between the words. 
+                    We see the elements characteristic of the oldest epigraphic monuments: ბ, ყ and შ graphemes have their heads engaged. The lingual point of view emphasizes the ‘Haemeti’ form: აღჰუმართე 
+                    (ჰ- is the prefix expressing the indirect object pronoun of the third person). The forms such as “Stefanesman and Gudasman (instead of the expected use of სტეფანჱსმან and გუდაჲსმან) 
+                    point out that in the time when the text was inscribed the descending diphthongs were already out of use in live conversation.
+                </p>
+            </div>
         </body>
     </text>
 </TEI>

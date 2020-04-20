@@ -138,10 +138,10 @@
             
             <div type="bibliography">
                 <listBibl>
-                    <bibl n="1">თინათინ ყაუხჩიშვილი, საქართველოს ბერძნული წარწერების კორპუსი<ptr target="bibliography.xml#b130"/>, <citedRange>გვ. 227-228</citedRange></bibl>
-                    <bibl n="2">David Braund, Anagranes the ΤΡΟΦΕΥΣ: the court of caucasian Iberia in the second-third centuries AD<ptr target="bibliography.xml#b134"/>, <citedRange>pp. 23-34</citedRange></bibl>
-                    <bibl n="3">თინათინ ყაუხჩიშვილი, ახალი ბერძნული წარწერა არმაზციხე-ბაგინეთიდან (II)<ptr target="bibliography.xml#b133"/>, <citedRange>გვ. 11-14</citedRange></bibl>
-                    <bibl n="4">Kamila Labas, Studien Zur Geschichte Der Georgischen Länder Vom 4. Bis Zum Früheren 7. Jh.<ptr target="bibliography.xml#b135"/>, <citedRange>p. 110</citedRange></bibl>
+                    <bibl n="1"><ptr target="bibliography.xml#b130"/>თინათინ ყაუხჩიშვილი, საქართველოს ბერძნული წარწერების კორპუსი, <citedRange>გვ. 227-228</citedRange></bibl>
+                    <bibl n="2"><ptr target="bibliography.xml#b134"/>David Braund, Anagranes the ΤΡΟΦΕΥΣ: the court of caucasian Iberia in the second-third centuries AD, <citedRange>pp. 23-34</citedRange></bibl>
+                    <bibl n="3"><ptr target="bibliography.xml#b133"/>თინათინ ყაუხჩიშვილი, ახალი ბერძნული წარწერა არმაზციხე-ბაგინეთიდან (II), <citedRange>გვ. 11-14</citedRange></bibl>
+                    <bibl n="4"><ptr target="bibliography.xml#b135"/>Kamila Labas, Studien Zur Geschichte Der Georgischen Länder Vom 4. Bis Zum Früheren 7. Jh., <citedRange>p. 110</citedRange></bibl>
                 </listBibl>
             </div>
             

@@ -131,10 +131,10 @@
             
             <div type="bibliography">
                 <listBibl>                
-                    <bibl n="1">David Braund, Anagranes the ΤΡΟΦΕΥΣ: the court of caucasian Iberia in the second-third centuries AD<ptr target="bibliography.xml#b134"/>, <citedRange>pp. 23-34</citedRange></bibl>
-                    <bibl n="2">თინათინ ყაუხჩიშვილი, საქართველოს ბერძნული წარწერების კორპუსი<ptr target="bibliography.xml#b130"/>, <citedRange>გვ. 227</citedRange></bibl>
-                    <bibl n="3">თინათინ ყაუხჩიშვილი, ძველი ბერძნული წარწერების შესახებ საქართველოში<ptr target="bibliography.xml#b131"/>, <citedRange>გვ. 27-32</citedRange></bibl>
-                    <bibl n="4">თინათინ ყაუხჩიშვილი, ახალი ბერძნული წარწერები არმაზციხე-ბაგინეთიდან<ptr target="bibliography.xml#b132"/>, <citedRange>გვ. 81-93</citedRange></bibl>
+                    <bibl n="1"><ptr target="bibliography.xml#b134"/>David Braund, Anagranes the ΤΡΟΦΕΥΣ: the court of caucasian Iberia in the second-third centuries AD, <citedRange>pp. 23-34</citedRange></bibl>
+                    <bibl n="2"><ptr target="bibliography.xml#b130"/>თინათინ ყაუხჩიშვილი, საქართველოს ბერძნული წარწერების კორპუსი, <citedRange>გვ. 227</citedRange></bibl>
+                    <bibl n="3"><ptr target="bibliography.xml#b131"/>თინათინ ყაუხჩიშვილი, ძველი ბერძნული წარწერების შესახებ საქართველოში, <citedRange>გვ. 27-32</citedRange></bibl>
+                    <bibl n="4"><ptr target="bibliography.xml#b132"/>თინათინ ყაუხჩიშვილი, ახალი ბერძნული წარწერები არმაზციხე-ბაგინეთიდან, <citedRange>გვ. 81-93</citedRange></bibl>
                 </listBibl>
             </div>
             
@@ -152,15 +152,15 @@
                              ιλίσ(σ)ῃ ἀφιέρωσεν  --> 
 
                 <ab>
-                   <lb n="1"/><gap reason="lost" extent="unknown" unit="line"/><roleName type="nobility" nymRef="βασιλεύς"><w lemma="βασιλεύς"><supplied reason="lost">βασι</supplied>λέως</w></roleName> <persName><name nymRef="Ἀναγράνης"><supplied reason="lost">Ἀναγ</supplied>
-                   <lb n="2" break="no"/>ράνης</name></persName> <roleName nymRef="τροφεύς"><w lemma="τροφεύς"><supplied reason="lost">τρο</supplied> 
+                   <lb n="1"/><gap reason="lost" extent="unknown" unit="line"/><roleName nymRef="βασιλεύς"><w lemma="βασιλεύς"><supplied reason="lost">βασι</supplied>λέως</w></roleName> <name nymRef="Ἀναγράνης"><supplied reason="lost">Ἀναγ</supplied>
+                   <lb n="2" break="no"/>ράνης</name> <roleName nymRef="τροφεύς"><w lemma="τροφεύς"><supplied reason="lost">τρο</supplied> 
                    <lb n="3" break="no"/>φεὺ<supplied reason="lost">ς</supplied></w></roleName> <w lemma="καί"><supplied reason="lost">καὶ</supplied></w> <roleName nymRef="ἐπίτροπος"><w lemma="ἐπίτροπος"><supplied reason="lost">ἐπί</supplied>
                    <lb n="4" break="no"/>τροπο<supplied reason="lost">ς</supplied></w></roleName> <w lemma="ἰδίᾳ"><supplied reason="lost">ἰδίᾳ</supplied></w> <w lemma="δύναμις"><supplied reason="lost">δυ</supplied>
                    <lb n="5" break="no"/>νάμ<supplied reason="lost"><supplied reason="omitted">ε</supplied>ι</supplied></w> <gap reason="lost" extent="unknown" unit="character"/> <w lemma="τό"><supplied reason="lost" cert="low">τὸ</supplied></w> <w lemma="βαλανεῖον"><supplied reason="lost" cert="low">βαλ</supplied>
                    <lb n="6" break="no"/>ανῖον</w> <w lemma="ἀρτίζω">ἄρτισας</w>
                    <lb n="7"/><w lemma="ἰδίᾳ">ἰδίᾳ</w> <w lemma="τροφίμη">τροφίμῃ</w> 
-                   <lb n="8"/><persName><name nymRef="Δρακόντης">Δρακόντιδι</name> <roleName type="nobility" nymRef="βασίλισσα"><w lemma="βασίλισσα">βασ
-                   <lb n="9" break="no"/>ιλί<choice><reg>σσ</reg><orig>σ</orig></choice>ῃ</w></roleName></persName> <w lemma="ἀφιερόω">ἀφιέρωσεν</w>                    
+                   <lb n="8"/><name nymRef="Δρακόντης βασίλισσα">Δρακόντιδι</name> <roleName type="nobility" nymRef="βασίλισσα"><w lemma="βασίλισσα">βασ
+                   <lb n="9" break="no"/>ιλί<choice><reg>σσ</reg><orig>σ</orig></choice>ῃ</w></roleName> <w lemma="ἀφιερόω">ἀφιέρωσεν</w>                    
                 </ab>
                </div>
               

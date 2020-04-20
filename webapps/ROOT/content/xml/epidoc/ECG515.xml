@@ -5,10 +5,10 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title> სავედრებელი წარწერა უცნობი პირისა </title>
+                <title>სავედრებელი წარწერა უცნობი პირისა </title>
             </titleStmt>
             <publicationStmt>
-                <authority> ილიას სახელმწიფო უნივერსიტეტი</authority>
+                <authority>ილიას სახელმწიფო უნივერსიტეტი</authority>
                  <idno type="filename">ECG515</idno>
                 <availability>
                     <licence target="http://creativecommons.org/licenses/by-nc-sa/3.0/">
@@ -27,8 +27,8 @@
                         <objectDesc>
                             <supportDesc>
                                 <support>                             
-                                   <material ref="https://www.eagle-network.eu/voc/material/lod/75"> ქვა</material>
-                                   <objectType ref="https://www.eagle-network.eu/voc/objtyp/lod/179."> კედელი</objectType> 
+                                   <material ref="https://www.eagle-network.eu/voc/material/lod/75">ქვა</material>
+                                   <objectType ref="https://www.eagle-network.eu/voc/objtyp/lod/179">კედელი</objectType> 
                                         <dimensions unit="cm">
                                         <width></width>
                                         <height></height>
@@ -39,14 +39,14 @@
                                 <layoutDesc>
                                     <layout writtenLines="1"> 
                                         <dimensions unit="cm">
-                                            <width> 3</width>
+                                            <width>3</width>
                                             <height>5,3</height>
                                         </dimensions>
                                     </layout>
                                 </layoutDesc>
                         </objectDesc>
                         <handDesc>
-                            <handNote script="asomtavruli">წარერა შესრულებულია ნუსხური შერეული მდივან-მწიგნობრული მხედრული დამწერლობით. წარწერას განკვეთილობისა და ქარაგმების ნიშანები არ ახლავს. 
+                            <handNote>წარერა შესრულებულია <rs type="script">ნუსხურ შერეული მდივან-მწიგნობრული მხედრული</rs> დამწერლობით. წარწერას განკვეთილობისა და ქარაგმების ნიშანები არ ახლავს. 
                                 <width> 0,3-0,4</width>   
                                 <height> 0,2-1,5</height>
                                  </handNote>
@@ -78,7 +78,7 @@
     <!-- წარწერის ფოტოდოკუმენტაცია -->
     <facsimile>
         <surface>
-            <graphic url="ECG5115.jpg">
+            <graphic url="ecg515.jpg">
                 <desc xml:lang="ka">სავედრებელი წარწერა უცნობი პირისა </desc>
             </graphic>
         </surface>
@@ -95,11 +95,11 @@
               <!--ქ. ხატო ღ{მრ}თ{ა} |ებისაო, შე{ი} |წყალე [...]-->
                 <ab>
                     <lb n="1"/>  <w lemma="ქრისტე"><expan><abbr>ქ</abbr><ex>რისტე</ex></expan></w> 
-                                  <w lemma="ხატ"> ხატო </w>
-                                 <w lemma="ღმრთაებ"> <expan> <abbr>ღ</abbr><ex>მრ</ex><abbr>თ</abbr><ex>ა</ex></expan></w>
-                    <lb n="2"/>   <w lemma="ა"> <abbr>ებისაო</abbr></w>
-                                  <w lemma="ი"> <expan> <abbr>შე</abbr><ex>ი</ex></expan></w>
-                     <lb n="3"/>    <w lemma="წყალე"> <abbr> წყალე</abbr></w>          
+                                 <w lemma="ხატ">ხატო</w> 
+                                 <w lemma="ღმრთაებ"><expan> <abbr>ღ</abbr><ex>მრ</ex><abbr>თ</abbr><ex>ა</ex>
+                    <lb n="2"/><abbr>ებისაო</abbr></expan></w>
+                                 <w lemma="წყალე"><expan><abbr>შე</abbr><ex>ი</ex>
+                     <lb n="3"/><abbr>წყალე</abbr></expan></w>          
                 </ab>
             </div>
             <div type="translation" xml:lang="ka"/>

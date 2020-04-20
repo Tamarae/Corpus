@@ -5,11 +5,12 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>ხცისი, დასავლეთ ფასადის წარწერები</title>
-                <editor>გიორგი ჩუბინაშვილი</editor>
+                <title xml:lang="ka">ხცისი, დასავლეთ ფასადის წარწერები</title>
+                <editor xml:lang="ka">გიორგი ჩუბინაშვილი</editor>
             </titleStmt>
             <publicationStmt>
-                <authority>ილიას სახელმწიფო უნივერსიტეტი, ლინგვისტურ კვლევათა ინსტიტუტი</authority>
+                <authority xml:lang="ka">ილიას სახელმწიფო უნივერსიტეტი, ლინგვისტურ კვლევათა ინსტიტუტი</authority>
+                <authority xml:lang="en">Ilia State University, Institute of Linguistic Studies</authority>
                  <idno type="filename">ECG1063</idno>
                 <availability>
                     <licence target="http://creativecommons.org/licenses/by-nc-sa/3.0/">
@@ -59,7 +60,7 @@
                     </physDesc>
                     <history>
                         <origin>
-                            <origPlace>ხცისი</origPlace>
+                            <origPlace  type="found">ხცისი</origPlace>
                             <origDate></origDate>
                         </origin>
                         <provenance type="found">
@@ -87,7 +88,7 @@
         <body>          
              <div type="bibliography">
                 <listBibl>           
-                    <bibl n="1">გიორგი ჩუბინაშვილი, ხცისის წარწერები<ptr target="bibliography.xml#b179"/></bibl>
+                    <bibl n="1"><ptr target="bibliography.xml#b179"/>გიორგი ჩუბინაშვილი, ხცისის წარწერები</bibl>
                 </listBibl>
             </div>
             
@@ -150,8 +151,8 @@
                
             <div type="commentary">
                 <p>გ. ჩუბინაშვილი: „ტექსტის ბოლოს ამ წარწერის ავტორს, როგორც ჩანს, შეცდომა დაუშვია და «ძმათას» ნაცვლად ამოუკვეთავს სიტყვა «მამათა».
-ტექსტის ბოლოს ამ წარწერის ავტორს, როგორც ჩანს, შეცდომა დაუშვია და «ძმათას» ნაცვლად ამოუკვეთავს სიტყვა «მამათა».“
-</p>
+                    ტექსტის ბოლოს ამ წარწერის ავტორს, როგორც ჩანს, შეცდომა დაუშვია და «ძმათას» ნაცვლად ამოუკვეთავს სიტყვა «მამათა».“
+                </p>
             </div>
             
         </body>

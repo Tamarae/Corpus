@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?> 
 <?xml-model href="http://www.stoa.org/epidoc/schema/8.23/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="http://www.stoa.org/epidoc/schema/8.23/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:space="preserve" xml:lang="ka">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:space="preserve">
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>ქარზამეთის გრიგოლ მაწყვერელი ეპისკოპოსის წარწერა</title>
-                <editor>ვალერი სილოგავა</editor>
-                <editor>ექვთიმე თაყაიშვილი</editor>
+                <title xml:lang="ka">ქარზამეთის გრიგოლ მაწყვერელი ეპისკოპოსის წარწერა</title>
+                <editor xml:lang="ka">ვალერი სილოგავა</editor>
+                <editor xml:lang="ka">ექვთიმე თაყაიშვილი</editor>
             </titleStmt>
             <publicationStmt>
                 <authority>ილიას სახელმწიფო უნივერსიტეტი, ლინგვისტურ კვლევათა ინსტიტუტი</authority>
@@ -52,7 +52,7 @@
                                 </layoutDesc>
                         </objectDesc>                        
                         <handDesc>
-                            <handNote script="asomtavruli" style="inscribed">
+                            <handNote>
                                  <rs type="execution">ამოღარული</rs> <rs type="script">ასომთავრული</rs> წარწერა
                                     <height/> 
                             </handNote>
@@ -99,17 +99,17 @@
             </listBibl> 
             </div>
             
-            <div type="edition" xml:lang="ka" xml:space="preserve">
+            <div type="edition" xml:lang="ka" xml:space="preserve" ana="mtavruli">
                 
                         <!--  "† ქე ღო შე გგლ მწლ
                                მსი რილსა ბბითა აღეშე
                                ნა წჲ ესე ეკლსჲ"--> 
                 <ab>
                    <lb n="1"/>&#8224;<w lemma="ქრისტე"><expan><abbr>ქ</abbr><ex>რისტ</ex><abbr>ე</abbr></expan></w> 
-                              <w lemma="ღმერთ"><expan><abbr>ღ</abbr><ex>მერთ</ex><abbr>ო</abbr></expan></w> <w lemma="შეწყალება"><expan><abbr>შ</abbr><ex>ეიწყალ</ex><abbr>ე</abbr></expan></w> <persName><expan><abbr>გ</abbr><ex>რი</ex><abbr>გ</abbr><ex>ო</ex><abbr>ლ</abbr></expan></persName> <placeName><w><expan><abbr>მ</abbr><ex>ა</ex><abbr>წ</abbr><ex>ყუერე</ex><abbr>ლ</abbr></expan></w></placeName>
-                   <lb n="2"/><roleName><w lemma="მთავარეპისკოპოს"><expan><abbr>მ</abbr><ex>თავარეპისკოპო</ex><abbr>სი</abbr></expan></w></roleName> 
+                              <w lemma="ღმერთ"><expan><abbr>ღ</abbr><ex>მერთ</ex><abbr>ო</abbr></expan></w> <w lemma="იწყალებს"><expan><abbr>შ</abbr><ex>ეიწყალ</ex><abbr>ე</abbr></expan></w> <persName><expan><abbr>გ</abbr><ex>რი</ex><abbr>გ</abbr><ex>ო</ex><abbr>ლ</abbr></expan></persName> <placeName><w><expan><abbr>მ</abbr><ex>ა</ex><abbr>წ</abbr><ex>ყუერე</ex><abbr>ლ</abbr></expan></w></placeName>
+                   <lb n="2"/><roleName nymRef="მთავარეპისკოპოს"><w lemma="მთავარეპისკოპოს"><expan><abbr>მ</abbr><ex>თავარეპისკოპო</ex><abbr>სი</abbr></expan></w></roleName> 
                               <w lemma="რომელ"><expan><abbr>რ</abbr><ex>ომლ</ex><abbr>ისა</abbr></expan></w> <w lemma="ბრძანება"><expan><abbr>ბ</abbr><ex>რძანე</ex><abbr>ბითა</abbr></expan></w> 
-                                <w lemma="აშენება">აღეშე
+                                <w lemma="აშენებს">აღეშე
                    <lb n="3" break="no"/>ნა</w> 
                                 <w lemma="წმიდა"><expan><abbr>წ</abbr><ex>მიდა</ex><abbr>ჲ</abbr></expan></w> 
                                 <w lemma="ესე">ესე</w>

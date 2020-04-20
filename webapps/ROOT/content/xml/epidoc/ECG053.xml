@@ -131,7 +131,7 @@
        </listBibl>
             </div> 
             
-            <div type="edition" xml:space="preserve">
+            <div type="edition" xml:space="preserve" xml:lang="ka" ana="mtavruli">
 
                     <!--  ქ(რისტ)ე, დ(ავი)თ ეპ[ისკ]ოპისი კრებ[უ]
                            ლითურთ და ამას ეკ
@@ -144,8 +144,8 @@
 
                  <ab> 
                  <lb n="1"/><w lemma="ქრისტე"><expan><abbr>ქ</abbr><ex>რისტ</ex><abbr>ე</abbr></expan></w> 
-                        <name nymRef="დავით"><expan><abbr>დ</abbr><ex>ავი</ex><abbr>თ</abbr></expan></name> 
-                        <roleName><w lemma="ეპისკოპოს">ეპ<supplied reason="lost">ისკ</supplied>ოპისი</w></roleName> 
+                        <name nymRef="დავით ეპისკოპოსი"><expan><abbr>დ</abbr><ex>ავი</ex><abbr>თ</abbr></expan></name> 
+                        <roleName nymRef="ეპისკოპოს"><w lemma="ეპისკოპოს">ეპ<supplied reason="lost">ისკ</supplied>ოპისი</w></roleName> 
                         <w lemma="კრებულ">კრებ<supplied reason="lost">უ</supplied>
                  <lb n="2" break="no"/>ლითურთ </w> 
                                    და 
@@ -159,7 +159,7 @@
                             <w lemma="ესე">ამას</w> <w lemma="ეკლესია">ეკლე
                  <lb n="8" break="no"/><supplied reason="lost">სიასა</supplied></w> 
                             <w lemma="შინა"><supplied reason="lost">ში</supplied>ნა</w> 
-                       		<rs type="pn"><w lemma="შეწევნა">შეხეწიე</w> </rs>
+                       		<rs type="pn"><w lemma="შეწევნა">შეხეწიე</w></rs> 
                        		<w lemma="ყოფა"><expan><abbr>ი</abbr><ex>ყავნ</ex></expan></w> 
                        		<w lemma="ყოფა"><expan><abbr>ი</abbr><ex>ყავნ</ex></expan></w>
                             </ab>                                                    

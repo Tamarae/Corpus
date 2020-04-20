@@ -5,10 +5,10 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title> სავედრებელი წარწერა კჳრიკესი </title>
+                <title>სავედრებელი წარწერა კჳრიკესი </title>
             </titleStmt>
             <publicationStmt>
-                <authority> ილიას სახელმწიფო უნივერსიტეტი</authority>
+                <authority>ილიას სახელმწიფო უნივერსიტეტი</authority>
                  <idno type="filename">ECG510</idno>
                 <availability>
                     <licence target="http://creativecommons.org/licenses/by-nc-sa/3.0/">
@@ -27,8 +27,8 @@
                         <objectDesc>
                             <supportDesc>
                                 <support>
-                                   <material  ref="https://www.eagle-network.eu/voc/material/lod/2"> ქვა</material>
-                                   <objectType ref="hhttps://www.eagle-network.eu/voc/objtyp/lod/1402"> მუქი ყავისფერი ფილა</objectType> 
+                                   <material  ref="https://www.eagle-network.eu/voc/material/lod/2">ქვა</material>
+                                   <objectType ref="hhttps://www.eagle-network.eu/voc/objtyp/lod/1402">ფილა</objectType> 
                                         <dimensions unit="cm">
                                         <width></width>
                                         <height></height>
@@ -94,7 +94,7 @@
             <div type="edition" xml:lang="ka" xml:space="preserve">
               <!--კ(ჳრიკ)ე  [...]-->
                 <ab>
-                    <lb n="1"/>  <expan><name nymRef="კჳრიკე"><abbr>კ</abbr> <ex>ჳრიკ</ex> <abbr>ე</abbr></name></expan>
+                    <lb n="1"/><name nymRef="კჳრიკე"><expan><abbr>კ</abbr><ex>ჳრიკ</ex><abbr>ე</abbr></expan></name>
                 </ab>
             </div>
             <div type="translation" xml:lang="ka"/>

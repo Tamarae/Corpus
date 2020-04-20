@@ -5,7 +5,7 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title> სავედრებელი წარწერა ბასილისა კახისა </title>
+                <title>სავედრებელი წარწერა ბასილისა კახისა </title>
             </titleStmt>
             <publicationStmt>
                 <authority> ილიას სახელმწიფო უნივერსიტეტი</authority>
@@ -27,8 +27,8 @@
                         <objectDesc>
                             <supportDesc>
                                 <support>                             
-                                   <material ref="https://www.eagle-network.eu/voc/material/lod/75"> ქვა</material>
-                                   <objectType ref="https://www.eagle-network.eu/voc/objtyp/lod/179."> კედელი</objectType> 
+                                   <material ref="https://www.eagle-network.eu/voc/material/lod/75">ქვა</material>
+                                   <objectType ref="https://www.eagle-network.eu/voc/objtyp/lod/179">კედელი</objectType> 
                                         <dimensions unit="cm">
                                         <width></width>
                                         <height></height>
@@ -37,19 +37,19 @@
                                   </support>
                             </supportDesc>
                                 <layoutDesc>
-                                    <layout writtenLines="1"> 
+                                    <layout> 
                                         <dimensions unit="cm">
-                                            <width> 3,8</width>
+                                            <width>3,8</width>
                                             <height>10</height>
                                         </dimensions>
                                     </layout>
                                 </layoutDesc>
                         </objectDesc>
                         <handDesc>
-                            <handNote script="asomtavruli">წარერა შესრულებულია სწორი ეპიგრაფიკული. წარწერას განკვეთილობის ნიშანი არ ახლავს; წარწერის ქარაგმის 
+                            <handNote>წარწერა შესრულებულია <rs type="script">სწორი ეპიგრაფიკული ნუსხური</rs> ხელით. წარწერას განკვეთილობის ნიშანი არ ახლავს; წარწერის ქარაგმის 
                                 ნიშნად გამოყენებულია სწორი განივი და მარცხნიდან მარჯვნივ ზევით მიმართული სწორი ხაზი.
-                                <width> 0,3-0,3</width>   
-                                <height> 0,1-1,8</height>
+                                <width>0,3-0,3</width>   
+                                <height>0,1-1,8</height>
                                  </handNote>
                         </handDesc>
                     </physDesc>
@@ -59,7 +59,7 @@
                                 <origDate>XI ს.</origDate>
                             </origin>
                             <provenance>
-                                <placeName type ="ancientFindspot">. ბორჯომის ხეობა. ფოთოლეთის წინდა გიორგის  ეკლესია</placeName>
+                                <placeName type ="ancientFindspot">ბორჯომის ხეობა. ფოთოლეთის წინდა გიორგის  ეკლესია</placeName>
                                 <rs type="circumstances"></rs>
                                 <rs type="context"/>
                                 <rs type="monuList"/>
@@ -79,7 +79,7 @@
     <!-- წარწერის ფოტოდოკუმენტაცია -->
     <facsimile>
         <surface>
-            <graphic url="ECG5116.jpg">
+            <graphic url="ecg516.jpg">
                 <desc xml:lang="ka">სავედრებელი წარწერა ბასილი კახისა </desc>
             </graphic>
         </surface>
@@ -89,19 +89,19 @@
            <div type="bibliography">
                <listBibl>
                 <bibl n="1">თამაზ გოგოლაძე,თორის ხეობის ეპიგრაფიკული კორპუსი<ptr target="bibliography.xml#b130"/>,<citedRange>გვ.68-69</citedRange>2019</bibl>
-                <bibl n="2"> გიორგი გაგოშიძე                                 <ptr target="bibliography.xml#b130"/>,<citedRange> გვ.134</citedRange>1987 </bibl>
+                <bibl n="2">გიორგი გაგოშიძე                                 <ptr target="bibliography.xml#b130"/>,<citedRange> გვ.134</citedRange>1987 </bibl>
             </listBibl>
            </div>
-            <div type="edition" xml:lang="ka" xml:space="preserve">     
+            <div type="edition" xml:lang="ka" xml:space="preserve" ana="mtavruli">     
               <!--ქ. ხატო ღ(მრ)თ <ჲ>(ა) |ებისაო, შ(ეწყალ)ე ბასილი |კახი[...]-->
                 <ab>
-                    <lb n="1"/>  <w lemma="ქრისტე"><expan><abbr>ქ</abbr><ex>რისტე</ex></expan></w> 
-                                  <w lemma="ხატ"> ხატო </w>
-                                 <w lemma="ღმრთაებ"> <expan> <abbr>ღ</abbr><ex>მრ</ex><abbr>თჲ</abbr><ex>ა</ex></expan></w>
-                    <lb n="2"/>   <w lemma="ა"> <abbr>ებისაო</abbr></w>
-                                  <w lemma="იწყალე"> <expan> <abbr>შ</abbr><ex>ეიწყალ</ex><abbr>ე</abbr></expan></w>
-                                   <name nymRef="ბასილი">ბასილი</name>
-                    <lb n="3"/>  <name nymRef="კახი">კახი</name>        
+                    <lb n="1"/><w lemma="ქრისტე"><expan><abbr>ქ</abbr><ex>რისტე</ex></expan></w> 
+                               <w lemma="ხატ">ხატო</w>
+                               <w lemma="ღმრთაება"><expan><abbr>ღ</abbr><ex>მრ</ex><abbr>თჲ</abbr><ex>ა</ex>
+                    <lb n="2"/><abbr>ებისაო</abbr></expan></w>
+                                  <w lemma="იწყალებს"><expan><abbr>შ</abbr><ex>ეიწყალ</ex><abbr>ე</abbr></expan></w>
+                                  <name nymRef="ბასილი კახი">ბასილი
+                    <lb n="3"/>კახი</name> <gap reason="lost"></gap>
                 </ab>
             </div>
             <div type="translation" xml:lang="ka"/>

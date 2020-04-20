@@ -35,8 +35,8 @@
                         <objectDesc>
                             <supportDesc>
                                 <support>
-                                    <objectType ref="https://www.eagle-network.eu/voc/objtyp/lod/1402">ფილა</objectType>
-                                    <material ref="http://www.eagle-network.eu/voc/objtyp/lod/1338">ბალავრის ქვა</material>
+                                    <objectType ref="https://www.eagle-network.eu/voc/objtyp/lod/1402">ბალავარი</objectType>
+                                    <material ref="http://www.eagle-network.eu/voc/objtyp/lod/1338">ქვა</material>
                                     <dimensions unit="cm">
                                         <width>160</width>
                                         <height>60</height>
@@ -76,7 +76,8 @@
                         </objectDesc>
                         <handDesc>
                             <handNote script="asomtavruli" style="inscribed">
-                                 ქარაგმის ნიშნად გამოყენებულია კიდურწაისრული სწორი, გრძელი, განივი ხაზი.
+                                <rs type="execution">ამოღარული</rs> <rs type="script">ასომთავრული</rs> წარწერა. 
+                                ქარაგმის ნიშნად გამოყენებულია <rs type="execution">კიდურწაისრული</rs> სწორი, გრძელი, განივი ხაზი.
                                 <dimensions unit="cm">
                                     <height>4-10; 2-8 (IIIსტრ.); 5-10; 4-7; 4-6</height>
                                 </dimensions>
@@ -105,21 +106,17 @@
         </fileDesc>
     </teiHeader>
     
-                
-    <!-- 
-    
-        
+
     <facsimile>
         <surface>
-            <graphic url="tskise_01.jpg">
-                <desc xml:lang="ka">წყისეს წარწერა</desc>
+            <graphic url="ecg225.jpg">
+                <desc xml:lang="ka">კუხის წარწერა</desc>
                 <desc xml:lang="en"></desc>
             </graphic>
         </surface>
     </facsimile>
     
-    -->
-    
+
     
     <text>
         <!--
@@ -131,14 +128,14 @@
         -->
         <body>
 
-         <div type="edition" xml:lang="ka" xml:space="preserve">
+         <div type="edition" xml:lang="ka" xml:space="preserve" ana="mtavruli">
             <div type="textpart" subtype="fragment" n="1">
                 <ab>
-                    <lb n="1"/><persName><name nymRef="ქრისტე"><expan><abbr>ქ</abbr><ex>რისტ</ex><abbr>ე</abbr></expan></name></persName>
+                    <lb n="1"/><name nymRef="ქრისტე"><expan><abbr>ქ</abbr><ex>რისტ</ex><abbr>ე</abbr></expan></name>
                                <w lemma="მეუფე"><expan><abbr>მე</abbr><ex>უ</ex><abbr>ფ</abbr><ex>ე</ex><abbr>ო</abbr></expan></w>   
                     <lb n="2"/><w lemma="დიდება"><expan><abbr>დ</abbr><ex>იდე</ex><abbr>ბ</abbr><ex>ისა</ex><abbr>ო</abbr></expan></w>   
                                <w lemma="დიდება"><expan><abbr>ა</abbr><ex>დი</ex>დ<ex>ე</ex>ნ</expan></w>  
-                    <lb n="3"/><persName><name nymRef="ლიპარიტ"><expan><abbr>ლ</abbr><ex>ი</ex><abbr>პ</abbr><ex>არი</ex><abbr>ტ</abbr></expan></name></persName>
+                    <lb n="3"/><name nymRef="ლიპარიტ IV ბაღვაში" ref="https://bit.ly/3b8lzYu"><expan><abbr>ლ</abbr><ex>ი</ex><abbr>პ</abbr><ex>არი</ex><abbr>ტ</abbr></expan></name>
                                <roleName nymRef="ერისთავთ-ერისთავ"><expan><abbr>ე</abbr><ex>რისთავთ</ex><abbr>ე</abbr><ex>რისთავი</ex></expan></roleName> 
                     <lb n="4"/><w lemma="და">და</w>             
                                <w lemma="შვილ"><expan><abbr>შვ</abbr><ex>ი</ex><abbr>ლნი</abbr></expan></w>
@@ -148,16 +145,17 @@
                 
                  <div type="textpart" subtype="fragment" n="2">
                     <ab>  
-                        <lb n="1"/><w lemma="წმიდა"><expan><abbr>წ</abbr><ex>მიდა</ex><abbr>ჲ</abbr></expan></w> <persName><name nymRef="მარიამ"><expan><abbr>მ</abbr><ex>არია</ex><abbr>მ</abbr></expan></name></persName>
+                        <lb n="1"/><w lemma="წმიდა"><expan><abbr>წ</abbr><ex>მიდა</ex><abbr>ჲ</abbr></expan></w> 
+                        <name nymRef="მარიამ"><expan><abbr>მ</abbr><ex>არია</ex><abbr>მ</abbr></expan></name>
                      </ab>
                 </div>
                 
                 <div type="textpart" subtype="fragment" n="3">
                          <ab>  
-                             <lb n="1"/><persName><name nymRef="ქრისტე"><expan><abbr>ქ</abbr><ex>რისტ</ex><abbr>ე</abbr></expan></name></persName> <w lemma="დიდება"><expan><abbr>ად</abbr><ex>იდ</ex><abbr>ე</abbr></expan></w>      
+                             <lb n="1"/><name nymRef="ქრისტე"><expan><abbr>ქ</abbr><ex>რისტ</ex><abbr>ე</abbr></expan></name> <w lemma="დიდება"><expan><abbr>ად</abbr><ex>იდ</ex><abbr>ე</abbr></expan></w>      
                              <lb n="2"/><w lemma="სულ"><expan><abbr>ს</abbr><ex>უ</ex><abbr>ლი</abbr></expan></w> <w lemma="დიდ"><expan><abbr>დი
                              <lb n="3" break="no"/>დ</abbr><ex>ი</ex><abbr>სა</abbr></expan></w>   
-                             <lb n="4"/><persName><name nymRef="ლიპარიტ"><expan><abbr>ლ</abbr><ex>ი</ex><abbr>პ</abbr><ex>არი</ex><abbr>ტ</abbr></expan></name></persName>  
+                             <lb n="4"/><name nymRef="ლიპარიტ IV ბაღვაში"><expan><abbr>ლ</abbr><ex>ი</ex><abbr>პ</abbr><ex>არი</ex><abbr>ტ</abbr></expan></name>  
                              <lb n="5"/><roleName nymRef="ერისთავთ-ერისთავ"><expan><abbr>ე</abbr><ex>რისთავთ</ex><abbr>ე</abbr><ex>რისთავისა</ex><abbr>ჲ</abbr></expan></roleName>
                          </ab>
                 </div>
@@ -174,11 +172,11 @@
                          <lb n="4" break="no"/>დ</abbr><ex>იდ</ex><abbr>ენ</abbr></expan></w>
                                     <w lemma="ღმერთ"><expan><abbr>ღ</abbr><ex>მერთმა</ex><abbr>ნ</abbr></expan></w>
                                     <roleName nymRef="ერისთავთ-ერისთავ"><expan><abbr>ე</abbr><ex>რისთავთ</ex><abbr>ე</abbr><ex>რისთავის</ex></expan></roleName>   
-                         <lb n="5"/><persName><name nymRef="ლიპარიტ"><expan><abbr>ლ</abbr><ex>ი</ex><abbr>პ</abbr><ex>არი</ex><abbr>ტ</abbr><ex>ი</ex><abbr>ს</abbr></expan></name></persName>
+                         <lb n="5"/><persName><name nymRef="ლიპარიტ IV ბაღვაშ"><expan><abbr>ლ</abbr><ex>ი</ex><abbr>პ</abbr><ex>არი</ex><abbr>ტ</abbr><ex>ი</ex><abbr>ს</abbr></expan></name></persName>
                                     <w lemma="უფლობა"><expan><abbr>უ</abbr><ex>ფ</ex><abbr>ლ</abbr><ex>ო</ex><abbr>ბ</abbr><ex>ას</ex><abbr>ა</abbr></expan></w>
-                         <lb n="6"/><w lemma="ქორონიკონ"><expan><abbr>ქ</abbr><ex>ო</ex><abbr>რ</abbr><ex>ონი</ex><abbr>კ</abbr><ex>ო</ex><abbr>ნი</abbr></expan></w>   
+                         <lb n="6"/><rs type="date"><w lemma="ქორონიკონ"><expan><abbr>ქ</abbr><ex>ო</ex><abbr>რ</abbr><ex>ონი</ex><abbr>კ</abbr><ex>ო</ex><abbr>ნი</abbr></expan></w>   
                          <lb n="7"/><w lemma="">იყო</w>
-                                <num value="1032">სმიბ</num> 
+                                <num value="1032">სმიბ</num></rs>
                          </ab>
                 </div>
            
