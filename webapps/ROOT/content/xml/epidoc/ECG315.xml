@@ -5,9 +5,9 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>ახტალის თორმეტი მოციქულის ეკლესიის წარწერა</title>
-                <editor>ზაზა ალექსიძე</editor>
-                <editor>ექვთიმე თაყაიშვილი</editor>
+                <title xml:lang="ka">ახტალის თორმეტი მოციქულის ეკლესიის წარწერა</title>
+                <editor xml:lang="ka">ზაზა ალექსიძე</editor>
+                <editor xml:lang="ka">ექვთიმე თაყაიშვილი</editor>
             </titleStmt>
             <publicationStmt>
                 <authority>ილიას სახელმწიფო უნივერსიტეტი, ლინგვისტურ კვლევათა ინსტიტუტი</authority>
@@ -130,7 +130,7 @@
                     <w lemma="სულ"><expan><abbr>ს</abbr><ex>უ</ex><abbr>ლითა</abbr></expan></w>჻ 
                     <w lemma="საწყალობელ"><expan><abbr>ს</abbr><ex>ა</ex><abbr>წყ</abbr><ex>ა</ex><abbr>ლ</abbr><ex>ო</ex><abbr>ბელი</abbr></expan></w>჻ 
                     <roleName nymRef="წინამძღუარ"><expan><abbr>წ</abbr><ex>ინამძღუარი</ex></expan></roleName>჻
-                    <name nymRef="პეტრე"><expan><abbr>პ</abbr><ex>ეტრ</ex><abbr>ე</abbr></expan></name>჻
+                    <name nymRef="პეტრე წინამძღუარ" ><expan><abbr>პ</abbr><ex>ეტრ</ex><abbr>ე</abbr></expan></name>჻
                     <w lemma="ღირს-ყოფა"><expan><abbr>ღირს</abbr><abbr>ვიქმ</abbr><ex>ე</ex><abbr>ნ</abbr></expan></w> 
                     <w lemma="აღშენება"><expan><abbr>აღშენებ</abbr><ex>ა</ex><abbr>დ</abbr></expan></w>჻ 
                     <w lemma="ეგუტერ"><expan><abbr>ეგ</abbr><ex>ო</ex><abbr>ჳტ</abbr><ex>ე</ex><abbr>რისა</abbr></expan></w>
@@ -155,7 +155,7 @@
                     <w lemma="სალოცველ-სახსენებელ"><expan><abbr>ს</abbr><ex>ა</ex><abbr>ლ</abbr><ex>ო</ex><abbr>ცვ</abbr><ex>ე</ex><abbr>ლსახს</abbr><ex>ე</ex><abbr>ნ</abbr><ex>ე</ex><abbr>ბ</abbr><ex>ე</ex><abbr>ლ</abbr><ex>ა</ex><abbr>დ</abbr></expan></w> 
                     <w lemma="და">და</w>
                     <w lemma="განჩინება"><expan><abbr>გ</abbr><ex>ა</ex><abbr>ნვ</abbr><ex>ი</ex><abbr>ჩინე</abbr></expan></w>
-                    <num value="12"><expan><abbr>ათ</abbr><ex>ო</ex><abbr>რმ</abbr><ex>ე</ex><abbr>ტთა</abbr></expan></num> 
+                    <w lemma="ათორმეტ"><expan><abbr>ათ</abbr><ex>ო</ex><abbr>რმ</abbr><ex>ე</ex><abbr>ტთა</abbr></expan></w> 
                     <w lemma="მოციქულ"><expan><abbr>მ</abbr><ex>ო</ex><abbr>ც</abbr><ex>ი</ex><abbr>ქ</abbr><ex>უ</ex><abbr>ლთა</abbr></expan></w>
                     <w lemma="დღესასწაულ"><expan><abbr>დღ</abbr><ex>ე</ex><abbr>ს</abbr><ex>ა</ex><abbr>სწ</abbr><ex>აუ</ex><abbr>ლის</abbr></expan></w>
                 <lb n="4"/><w lemma="მეორე">მეორე</w> 

@@ -140,7 +140,7 @@
                 <lb n="5" break="no"/>ვესნი</w> 
                                 <w lemma="ყოველ"><expan><abbr>ყ</abbr><ex>ოველ</ex><abbr>თა</abbr></expan></w> 
                                  <w lemma="კაც"><expan><abbr>კ</abbr><ex>ა</ex><abbr>ცთა</abbr></expan></w> 
-                                 <num value="4"><w lemma="ოთხ">ოთნი</w></num>
+                                 <w lemma="ოთხ">ოთნი</w>
                                  <w lemma="ძმა">ძმანი</w> 
                                  <name nymRef="ძნელა">ძნელაჲს</name> 
                                  <w lemma="ძე">ძენი</w>
@@ -149,7 +149,7 @@
                                 <w lemma="წმიდა"><expan><abbr>წ</abbr><ex>მიდა</ex><abbr>სა</abbr></expan></w> 
                                 <w lemma="საყდარ">საყდარსა</w> 
                                 <w lemma="დასხმა"><expan><abbr>დ</abbr><ex>ა</ex><abbr>სხმ</abbr><ex>ა</ex><abbr>დ</abbr></expan></w>
-                                <num value="2"><w lemma="ორ">ორ</w></num> 
+                                <w lemma="ორ">ორ</w> 
                                 <w lemma="წელ">წელ</w>
                 <lb n="7"/><num value="2"><w lemma="ორ">ორთა</w></num> 
                                 <w lemma="ბალავარ">ბალავართა</w> 

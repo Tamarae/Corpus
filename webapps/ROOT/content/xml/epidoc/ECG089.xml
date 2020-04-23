@@ -108,7 +108,7 @@
                 <ab>
                    <lb n="1"/><w lemma="ქრისტე"><expan><abbr>ქ</abbr><ex>რისტ</ex><abbr>ე</abbr></expan></w> 
                                 <w lemma="დიდება"><expan><supplied reason="lost"><abbr>ად</abbr><ex>იდ</ex><abbr>ე</abbr></supplied></expan></w> 
-                                <num value="2"><w lemma="ორ"><supplied reason="lost">ორ</supplied>თავე</w></num>
+                                <w lemma="ორ"><supplied reason="lost">ორ</supplied>თავე</w>
                    <lb n="2"/><w lemma="შინა"><expan><abbr>შ</abbr><ex>ინ</ex><abbr>ა</abbr></expan></w> 
                                 <w lemma="სუფევა"><expan><abbr>ს</abbr><ex>უ</ex><supplied reason="lost"><abbr>ფ</abbr><ex>ე</ex><abbr>ვ</abbr><ex>ა</ex><abbr>თა</abbr></supplied></expan></w> 
                                 <roleName nymRef="მეფე"><expan><supplied reason="lost"><abbr>მ</abbr></supplied><ex>ე</ex><abbr>ფე
@@ -116,13 +116,13 @@
                                 <roleName nymRef="მეფე"><expan><supplied reason="lost"><abbr>მ</abbr><ex>ე</ex><abbr>ფე</abbr></supplied></expan></roleName>
                                 <supplied reason="lost">დ</supplied>ა 
                                 <roleName nymRef="დედოფალ"><expan><abbr>დ</abbr><ex>ე</ex><abbr>დ</abbr><ex>ო</ex><supplied reason="lost"><abbr>ფ</abbr></supplied><ex>ა</ex><abbr>ლი</abbr></expan></roleName>                                 
-                    <lb n="4"/><name nymRef="თამარ" type="forename"><expan><abbr>თ</abbr><ex>ა</ex><abbr>მ</abbr><ex>ა</ex><abbr>რ</abbr></expan></name> 
+                    <lb n="4"/><name nymRef="თამარ მეფე" ><expan><abbr>თ</abbr><ex>ა</ex><abbr>მ</abbr><ex>ა</ex><abbr>რ</abbr></expan></name> 
                                 <w lemma="წელ">წე<supplied reason="lost">ლსა</supplied></w> 
                                 <w lemma="მეფობა"><expan><abbr>მ</abbr><ex>ე</ex><abbr>ფ</abbr><ex>ო</ex><abbr>ბისა</abbr></expan></w> 
                                 <w lemma="იგინი"><expan><abbr>მ</abbr> 
                     <lb n="5" break="no"/><ex>ა</ex><abbr>თსა</abbr></expan></w> 
                                 <num value="20">კ</num> 
-                               <name nymRef="ანტონ" type="forename"><expan><abbr>ანტ</abbr><ex>ო</ex><abbr>ნ</abbr></expan></name> 
+                               <name nymRef="ანტონ ჭყონდიდელი" ><expan><abbr>ანტ</abbr><ex>ო</ex><abbr>ნ</abbr></expan></name> 
                                 <roleName nymRef="ჭყონდიდელ"><expan><supplied reason="lost"><abbr>ჭ</abbr></supplied><ex>ყონდიდელი</ex><abbr>სა</abbr></expan></roleName> 
                                 <w lemma="მიერ"><expan><abbr>მ</abbr><ex>იე</ex><abbr>რ</abbr></expan></w>
                     <lb n="6"/><w lemma="აღეშენ"><expan><abbr>აღ</abbr><ex>ე</ex><abbr>შენა</abbr></expan></w> 

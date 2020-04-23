@@ -5,8 +5,8 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>ტად-რაალის ქართული-ხუნძური წარწერა დაღესტნიდან</title>
-                <editor>ტოგო გუდავა, შაჰბან ჰაფიზოვი</editor>
+                <title xml:lang="ka">ტად-რაალის ქართული-ხუნძური წარწერა დაღესტნიდან</title>
+                <editor xml:lang="ka">ტოგო გუდავა, შაჰბან ჰაფიზოვი</editor>
             </titleStmt>
             <publicationStmt>
                 <authority>ილიას სახელმწიფო უნივერსიტეტი, ლინგვისტურ კვლევათა ინსტიტუტი</authority>
@@ -122,15 +122,15 @@
                     <lb n="2"/><w lemma="ქრისტე"><expan><abbr>ქ</abbr><ex>რისტ</ex><abbr>ესი</abbr></expan></w>
                     <lb n="3"/><gap reason="lost" extent="unknown" unit="chars"></gap> 
                             <w lemma="წმიდა"><expan><abbr>წ</abbr><ex>მიდა</ex><abbr>ო</abbr></expan></w> 
-                            <num value="12"><w lemma="ათორმეტ">ა
+                            <w lemma="ათორმეტ">ა
                     <lb n="4" break="no"/><supplied reason="lost">თორმ</supplied>ეტ
-                    <lb n="5" break="no"/>ნო</w></num> 
+                    <lb n="5" break="no"/>ნო</w> 
                             <w lemma="მოციქულ"><expan><abbr>მო
                     <lb n="6" break="no"/>ციქო</abbr><ex>ჳ</ex>
                     <lb n="7" break="no"/><abbr>ლნო</abbr></expan></w> 
                                 <w lemma="შეწყალება"><expan><abbr>შ</abbr>
                     <lb n="8" break="no"/><ex>ეიწყალ</ex><abbr>ე</abbr></expan></w> 
-                                <w lemma="ერისთავ"><expan><abbr>ე</abbr><ex>რისთა</ex><supplied reason="lost"><abbr>ვი</abbr></supplied></expan></w>
+                                <roleName nymRef="ერისთავ"><w lemma="ერისთავ"><expan><abbr>ე</abbr><ex>რისთა</ex><supplied reason="lost"><abbr>ვი</abbr></supplied></expan></w></roleName>
                     <lb n="9"/><gap reason="lost" extent="unknown" unit="chars"></gap>
                             ბ<supplied reason="lost" cert="low">ერ</supplied>ი
                     <lb n="10"/><supplied reason="lost" cert="low">ტა</supplied> 

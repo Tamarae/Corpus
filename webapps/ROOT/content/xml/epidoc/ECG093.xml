@@ -113,7 +113,7 @@
                                     <w lemma="ღმრთისმშობელ"><expan><abbr>ღ</abbr><ex>მრთი</ex><abbr>სმშობე
                    <lb n="2" break="no"/>ლო</abbr></expan></w> 
                                     <w lemma="დიდება">ადიდე</w> 
-                                    <num value="2"><w lemma="ორ"><expan><abbr>ორთ</abbr><ex>ა</ex>ვე</expan></w></num> 
+                                    <w lemma="ორ"><expan><abbr>ორთ</abbr><ex>ა</ex>ვე</expan></w> 
                                     <w lemma="შინა">შინა</w> 
                                     <w lemma="სუფევა"><expan><abbr>ს</abbr><ex>უ</ex><abbr>ფ</abbr><ex>ე</ex><abbr>ვ</abbr><ex>ა</ex><abbr>თა</abbr></expan></w>
                     <lb n="3"/><w lemma="დიდ">დიდისა</w> 
@@ -121,7 +121,7 @@
                                         <w lemma="ტრაპეზ"><expan><abbr>ტრ</abbr><ex>ა</ex><abbr>პ</abbr><ex>ე</ex><abbr>ზისა</abbr></expan></w> 
                                         <w lemma="აღმშენებელ"><expan><abbr>აღმშ</abbr><ex>ე</ex><abbr>ნ</abbr><ex>ე</ex><abbr>ბ</abbr><ex>ე</ex><abbr>ლი</abbr></expan></w> 
                                         <w lemma="პატრონ"><expan><abbr>პ</abbr><ex>ა</ex><abbr>ტრ</abbr><ex>ო</ex><abbr>ნი</abbr></expan></w> 
-                                        <name nymRef="ივანე">ივ                                    
+                                        <name nymRef="ივანე ჯაყელი">ივ                                    
                     <lb n="4" break="no"/>ანე</name> 
                                         <w lemma="სუფევა"><expan><abbr>ას</abbr><ex>უ</ex><abbr>ფ</abbr><ex>ე</ex><abbr>ვე</abbr></expan></w> 
                                         და 

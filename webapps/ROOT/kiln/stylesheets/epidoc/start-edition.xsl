@@ -173,6 +173,7 @@
                 <xsl:with-param name="parm-line-inc" select="$line-inc" tunnel="yes" as="xs:double"/>
                  <xsl:with-param name="parm-verse-lines" select="$verse-lines" tunnel="yes"/>
                  <xsl:with-param name="parm-css-loc" select="$css-loc" tunnel="yes"/>
+                 
             </xsl:call-template>
          </xsl:when>
          <xsl:when test="$edn-structure = 'ddbdp'">

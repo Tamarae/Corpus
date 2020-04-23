@@ -288,30 +288,18 @@
         <xsl:apply-templates select="$commtxt" mode="sqbrackets"/>
       </div>
       
+      <dl class="iospe">      
+        <dt><i18n:text i18n:key="epidoc-xslt-iospe-editions">Editions</i18n:text></dt>
+        <dd>
+          <xsl:choose>
+            <xsl:when test="//t:body//t:div[@type='bibliography']//text()">
+              <xsl:apply-templates select="//t:body//t:div[@type='bibliography']"/>
+            </xsl:when>
+            <xsl:otherwise><i18n:text i18n:key="epidoc-xslt-iospe-unpublished">Unpublished</i18n:text></xsl:otherwise>
+          </xsl:choose>
+        </dd>
       
-      <div id="apparatus" class="iospe">
-        <h4 class="iospe"><i18n:text i18n:key="epidoc-xslt-iospe-editions">Editions</i18n:text></h4>
-         <!-- <dt><i18n:text i18n:key="epidoc-xslt-inslib-bibliography">Bibliography</i18n:text></dt> --> 
-          <dd>
-            <xsl:choose>
-              
-              <!--  <xsl:when test="//t:body//t:div[@type='bibliography']//text()">
-                <xsl:apply-templates select="//t:body//t:div[@type='bibliography']"/>
-              </xsl:when>-->
-              
-              <xsl:when test="//t:body//t:div[@type='bibliography']//text()">
-                <xsl:value-of select="//t:body//t:div[@type='bibliography']"/>
-              </xsl:when>
-
-              <xsl:otherwise>
-                <i18n:text i18n:key="epidoc-xslt-iospe-unpublished">Unpublished</i18n:text>
-              </xsl:otherwise>
-              
-            </xsl:choose>
-          </dd>
-
-      </div>
-
+      </dl>
       
       <div id="images" class="iospe">
         <h4 class="iospe"><i18n:text i18n:key="epidoc-xslt-iospe-images">Images</i18n:text></h4>

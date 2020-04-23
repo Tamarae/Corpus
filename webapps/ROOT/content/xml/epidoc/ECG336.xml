@@ -131,7 +131,7 @@
                                 <w lemma="კარი"><expan><abbr>კ</abbr><ex>ა</ex><abbr>რ</abbr><ex>ი</ex><abbr>ს</abbr></expan></w> 
                                 <w lemma="ბჭე">ბჭე</w> 
                                 <w lemma="ესე">ესე</w> 
-                                <num value="1"><w lemma="პირველ"><expan><abbr>პ</abbr><ex>ირველა</ex><abbr>დ</abbr></expan></w></num> 
+                                <w lemma="პირველ"><expan><abbr>პ</abbr><ex>ირველა</ex><abbr>დ</abbr></expan></w> 
                             <w lemma="დღეგრძელობა"><expan><abbr>დღ</abbr><ex>ე</ex><abbr>გრძ</abbr><ex>ე</ex><abbr>ლ</abbr><ex>ო</ex><abbr>ბ</abbr><ex>ი</ex><abbr>ს</abbr><supplied reason="lost">ათჳს</supplied></expan></w> 
                             <supplied reason="lost">და</supplied> 
                             <roleName nymRef="მანდატურთუხუცეს"><expan><supplied reason="lost">მანდატ

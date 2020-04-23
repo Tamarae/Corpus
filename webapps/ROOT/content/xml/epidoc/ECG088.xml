@@ -107,7 +107,7 @@
                    <lb n="1"/>&#8224;<name nymRef="იესუ"><expan><abbr>ი</abbr><ex>ესო</ex><abbr>ჳ</abbr></expan></name>
                                 <w lemma="ქრისტე"><expan><abbr>ქ</abbr><ex>რისტ</ex><abbr>ე</abbr></expan></w> 
                                 <w lemma="დიდება"><expan><abbr>ად</abbr><ex>ი</ex><abbr>დე</abbr></expan></w> 
-                                <num value="2"><w lemma="ორ"><expan><abbr>ორთ</abbr><ex>ა</ex><abbr>ვე</abbr></expan></w></num> 
+                                <w lemma="ორ"><expan><abbr>ორთ</abbr><ex>ა</ex><abbr>ვე</abbr></expan></w> 
                                 <w lemma="შინა"><expan><abbr>შ</abbr><ex>ი</ex><abbr>ნა</abbr></expan></w> 
                                 <w lemma="სუფევა"><expan><abbr>ს</abbr><ex>უ</ex><abbr>ფ</abbr><ex>ე</ex><abbr>ვ</abbr><ex>ა</ex><abbr>თა</abbr></expan></w> 
                                     <roleName><expan><abbr>მ</abbr><ex>ე</ex><abbr>ფ</abbr><ex>ე</ex><abbr>თ
@@ -134,7 +134,7 @@
                    <lb n="5"/> და 
                                 <w lemma="ჯუარ"><expan><abbr>ჯ</abbr><ex>უარ</ex><abbr>ი</abbr></expan></w> 
                                 <w lemma="წმიდა"><expan><abbr>წ</abbr><ex>მიდ</ex><abbr>ისა</abbr></expan></w> 
-                                <name nymRef="სჳმეონ"><expan><abbr>ს</abbr><ex>ჳ</ex><abbr>მ</abbr><ex>ეო</ex><abbr>ნისი</abbr></expan></name> 
+                                <name nymRef="წმ. სჳმეონ"><expan><abbr>ს</abbr><ex>ჳ</ex><abbr>მ</abbr><ex>ეო</ex><abbr>ნისი</abbr></expan></name> 
                                 <w lemma="ვინცა"><expan><abbr>ვ</abbr><ex>ი</ex><abbr>ნცა</abbr></expan></w> 
                                 <w lemma="ლოცვა"><expan><abbr>ილ</abbr><ex>ო</ex><abbr>ცვ</abbr><ex>ი</ex><abbr>დ</abbr><ex>ე</ex><abbr>თ</abbr></expan></w> 
                                 <w lemma="მე"><expan><abbr>მ</abbr><ex>ე</ex><abbr>ცა</abbr></expan></w> 

@@ -101,9 +101,9 @@
                         <!--ათორმეტთა მოციქულთა ოხოჟონ შეიწყალე(ნ), ამინ   -->                                                       
             
                 <ab>
-                   <lb n="1"/><num value="12">ათორმეტთა</num>
+                   <lb n="1"/><w lemma="ათორმეტ">ათორმეტთა</w>
                               <w lemma="მოციქულ">მოციქულთა</w> 
-                              <persName type="local" ref="persons.xml#pers30"><name nymRef="ოხოჟონ">ოხოჟონ</name></persName> 
+                              <name nymRef="ოხოჟონ">ოხოჟონ</name>
                               <w lemma="შეწყალება">შეიწყალენ</w> 
                               <w lemma="ამინ">ამინ</w>
                 </ab>

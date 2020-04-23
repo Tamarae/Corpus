@@ -103,7 +103,7 @@
                    <lb n="1"/><w lemma="ჯვარ">ჯვარი</w> 
                              <w lemma="ქრისტე">ქრისტესი</w>
                              <w lemma="წმიდა">წმიდა</w> 
-                             <num value="12">ათორმეტნი</num>
+                             <w lemma="ათორმეტ">ათორმეტნი</w>
                             <gap reason="lost" extent="unknown" unit="chars"></gap>
                 </ab>
          </div>
