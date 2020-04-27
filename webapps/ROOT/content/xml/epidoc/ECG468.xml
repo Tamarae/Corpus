@@ -86,7 +86,11 @@
                     </history>                   
                 </msDesc>
             </sourceDesc>
-        </fileDesc>
+        </fileDesc><encodingDesc>
+    <listPrefixDef>
+        <prefixDef matchPattern="(.+)" replacementPattern="../authority/bibliography.xml#$1" ident="bib"/>
+    </listPrefixDef>
+</encodingDesc>
         <revisionDesc>
             <change when="2019-07-09" who="TS">მეტამონაცემების კოდირება, ბმულებით დაკავშირება გარეკონტროლირებად ლექსიკონებთან</change>
         </revisionDesc>

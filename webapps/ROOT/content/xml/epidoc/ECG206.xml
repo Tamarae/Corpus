@@ -48,7 +48,11 @@
                     </history>
                 </msDesc>
             </sourceDesc>
-        </fileDesc>
+        </fileDesc><encodingDesc>
+    <listPrefixDef>
+        <prefixDef matchPattern="(.+)" replacementPattern="../authority/bibliography.xml#$1" ident="bib"/>
+    </listPrefixDef>
+</encodingDesc>
     </teiHeader>
     <text><!-- 
     1. [ქ. ს(ა)ხ(ე)ლ(ი)თა ღ(მრთისაჲ)თა და მ(ეო)ხ(ე)ბ(ი)თა ყ(ოვლა)დ წ(მი)დ(ი)სა ღ(მრ)თ(ი)სმშ(ო)ბ(ელისაჲ)თა

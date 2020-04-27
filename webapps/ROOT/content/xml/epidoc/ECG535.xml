@@ -72,7 +72,11 @@
                     </history>                   
                 </msDesc>
             </sourceDesc>
-        </fileDesc>
+        </fileDesc><encodingDesc>
+    <listPrefixDef>
+        <prefixDef matchPattern="(.+)" replacementPattern="../authority/bibliography.xml#$1" ident="bib"/>
+    </listPrefixDef>
+</encodingDesc>
         <revisionDesc>
             <change when="2020-01-17" who="asanishvili">
                 წარწერის სრული კოდირება, გარე ანოტირება, პირთა სახელების, ლემების მითითება, ბიბლიოგრაფია,ბმულებით დაკავშირება გარე კონტროლირებად ლექსიკონთან.

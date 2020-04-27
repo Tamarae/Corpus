@@ -51,7 +51,11 @@
                     </history>
                 </msDesc>
             </sourceDesc>
-        </fileDesc>
+        </fileDesc><encodingDesc>
+    <listPrefixDef>
+        <prefixDef matchPattern="(.+)" replacementPattern="../authority/bibliography.xml#$1" ident="bib"/>
+    </listPrefixDef>
+</encodingDesc>
     </teiHeader>
     <text><!-- 
     1.პ(ეტრ)ე || თ(ევდორ)ე

@@ -70,7 +70,11 @@
                     </history>                   
                 </msDesc>
             </sourceDesc>
-        </fileDesc>
+        </fileDesc><encodingDesc>
+    <listPrefixDef>
+        <prefixDef matchPattern="(.+)" replacementPattern="../authority/bibliography.xml#$1" ident="bib"/>
+    </listPrefixDef>
+</encodingDesc>
         <revisionDesc>
             <change when="2020-01-11" who="Qobuloia"> ბიბლიოგრაფია.</change>
         </revisionDesc>

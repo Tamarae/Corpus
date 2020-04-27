@@ -107,6 +107,11 @@
                 </msDesc>
             </sourceDesc>
         </fileDesc>
+        <encodingDesc>
+    <listPrefixDef>
+        <prefixDef matchPattern="(.+)" replacementPattern="../authority/bibliography.xml#$1" ident="bib"/>
+    </listPrefixDef>
+</encodingDesc>
     </teiHeader>
 
         <facsimile>
@@ -159,10 +164,10 @@
                 <p>დადგა ჩემს სამახსოვროდ (ან მოსაგონრად) კათასმა, (მომათავსა) მერხზე ჩვეულებისამებრ და ეს ყოველივე გააკეთა მუშაკმა, რომელსაც საფასურს ვუხდით (ან - უხდის), ხოლო თუ ვინმე
                 ყოყმანობს (მნახველთაგანი), (მას ამან არ უნდა აღუძრას უკმაყოფილება - ან მას უნდა აღუძრას პატივის მიგების სურვილი).</p>
             </div>
-            
+
             <div type="translation" xml:lang="en">
                 <p>
-                   This  was placed as a memorial for me by Kathas, (He put this) on a desk according to the habit, all these was done by a laborer, Kathas gave him his salary, and if somebody is hesitating (among the witnesses), (this should not be reason for discontent - or it should not be reason of being cherished). 
+                   This  was placed as a memorial for me by Kathas, (He put this) on a desk according to the habit, all these was done by a laborer, Kathas gave him his salary, and if somebody is hesitating (among the witnesses), (this should not be reason for discontent - or it should not be reason of being cherished).
                 </p>
             </div>
 

@@ -31,19 +31,19 @@
                     <physDesc>
                         <objectDesc>
                             <supportDesc>
-                                <support>                             
+                                <support>
                                    <material ref="http://www.eagle-network.eu/voc/material/lod/2">ქვა</material>
                                    <objectType ref="http://www.eagle-network.eu/voc/objtyp/lod/1483">ფასადი</objectType>
-                                <dimensions unit="cm">                                                                                                                                        
+                                <dimensions unit="cm">
                                         <height>138</height>
                                         <width/>
                                     </dimensions>
                                 </support>
                             </supportDesc>
                                 <layoutDesc>
-                                    <layout writtenLines="1"> 
-                                        წარწერა 1 სტრიქონიანია. იგი გამოქანდაკებულია ტაძრის ჩრდილოეთ ფასადზე, ამოქოლილი კარის თავზე, 
-                                       გვიანდელი სარკმლის ქვემოთ, გრძელ ბალავარზე (სიგრძე 233), გეომეტრიული სახის ჩუქურთმის ზემოთ.                                                           
+                                    <layout writtenLines="1">
+                                        წარწერა 1 სტრიქონიანია. იგი გამოქანდაკებულია ტაძრის ჩრდილოეთ ფასადზე, ამოქოლილი კარის თავზე,
+                                       გვიანდელი სარკმლის ქვემოთ, გრძელ ბალავარზე (სიგრძე 233), გეომეტრიული სახის ჩუქურთმის ზემოთ.
                                         <dimensions unit="cm">
                                             <width>92</width>
                                             <height/>
@@ -51,7 +51,7 @@
                                         </dimensions>
                                     </layout>
                                 </layoutDesc>
-                        </objectDesc>                        
+                        </objectDesc>
                         <handDesc>
                               <handNote script="asomtavruli" style="embossed">
                                <rs type="execution">რელიეფური</rs> <rs type="script">ასომთავრული</rs> წარწერა.
@@ -63,28 +63,33 @@
                     <history>
                             <origin>
                                 <origPlace>აკაურთა, ბოლნისის მუნიციპალიტეტი</origPlace>
-                                <origDate notBefore-custom="0400" notAfter-custom="0500" precision="medium" 
+                                <origDate notBefore-custom="0400" notAfter-custom="0500" precision="medium"
                                     evidence="lettering" datingMethod="#julian">V AD</origDate>
                             </origin>
                             <provenance type="found">
-                                <placeName type ="ancientFindspot">აკაურთა</placeName> 
+                                <placeName type ="ancientFindspot">აკაურთა</placeName>
                                 <!--  "41.464051, 44.446928"-->
-                                <rs type="circumstances">სოფელი მდებარეობს მდ. მაშავერას მარცხენა ნაპირზე, ქ. ბოლნისიდან დასავლეთით 7 კმ მანძილზე.</rs> 
+                                <rs type="circumstances">სოფელი მდებარეობს მდ. მაშავერას მარცხენა ნაპირზე, ქ. ბოლნისიდან დასავლეთით 7 კმ მანძილზე.</rs>
                                 <rs type="context"/>
                                 <rs type="monuList"/>
-                            </provenance> 
+                            </provenance>
                              <provenance type="observed">
                             <placeName>აკაურთა, ბოლნისის მუნიციპალიტეტი</placeName>
                             <idno type="invNo"/>
                         </provenance>
-                    </history>                   
+                    </history>
                 </msDesc>
             </sourceDesc>
         </fileDesc>
-        <revisionDesc><change when="2019-10-29" who="Eka Kvirkvelia">ტექსტის სრული კოდირება, მეტამონაცემების სრული კოდირება, 
+        <encodingDesc>
+    <listPrefixDef>
+        <prefixDef matchPattern="(.+)" replacementPattern="../authority/bibliography.xml#$1" ident="bib"/>
+    </listPrefixDef>
+</encodingDesc>
+        <revisionDesc><change when="2019-10-29" who="Eka Kvirkvelia">ტექსტის სრული კოდირება, მეტამონაცემების სრული კოდირება,
             ბმულებით დაკავშირება ავტორიტეტულ წყაროსთან</change></revisionDesc>
-    </teiHeader>  
-        
+    </teiHeader>
+
     <facsimile>
         <surface>
             <graphic url="ecg013.jpg">
@@ -93,41 +98,41 @@
             </graphic>
         </surface>
     </facsimile>
-    
+
     <text>
         <body>
            <div type="bibliography">
               <listBibl>
              <bibl n="1">ნოდარ შოშიაშვილი, ქართული წარწერების კორპუსი<ptr target="bibliography.xml#b101"/>, <citedRange>გვ. 71-72</citedRange></bibl>
              <bibl n="2">ლ. რჩეულიშვილი, ქართული ხუროთმოძღვრების სამი უცნობი ძეგლი<ptr target="bibliography.xml#b101"/>, <citedRange>გვ. 94</citedRange></bibl>
-                </listBibl> 
+                </listBibl>
             </div>
-            
+
             <div type="edition" xml:lang="ka" xml:space="preserve">
-                
+
                         <!--  "ოო შეჲწყალე რონ  დ"-->
-                                 
+
                 <ab>
-                   <lb n="1"/><w lemma="უფალ"><expan><abbr>ო</abbr><ex>ჳფალ</ex><supplied reason="lost"><abbr>ო</abbr></supplied></expan></w> 
-                    <w lemma="შეწყალება">შეჲწყალე</w> 
-                            რონ<gap reason="lost" extent="unknown" unit="character"></gap> 
-                            დ<gap reason="lost" extent="unknown" unit="character"></gap>                
+                   <lb n="1"/><w lemma="უფალ"><expan><abbr>ო</abbr><ex>ჳფალ</ex><supplied reason="lost"><abbr>ო</abbr></supplied></expan></w>
+                    <w lemma="შეწყალება">შეჲწყალე</w>
+                            რონ<gap reason="lost" extent="unknown" unit="character"></gap>
+                            დ<gap reason="lost" extent="unknown" unit="character"></gap>
                   </ab>
-             
+
             </div>
-                
+
             <div type="translation" xml:lang="ka">
                 <p>უფალო, შეიწყალე... რონ... დ...</p>
             </div>
-            
+
             <div type="apparatus" xml:space="preserve"/>
-                               
-            
+
+
             <div type="commentary">
                 <p>ნოდარ შოშიაშვილის ქართული წარწერების კორპუსის მიხედვით #6. წარწერას განკვეთილობისა და ქარაგმის ნიშნები არ ახლავს. შემორჩენილია ერთი სტრიქონის მცირე ფრაგმენტი.
                     პალეოგრაფიული ნიშნები: Ⴗ გრაფემა თავშეკრულია, Ⴐ გრაფემის რკალები ახლოსაა ბუნთან, Ⴄ-ს არ აქვს მარცხნივ გაზიდული ხაზი. </p>
             </div>
-                                     
+
          </body>
     </text>
 </TEI>

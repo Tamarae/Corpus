@@ -78,7 +78,11 @@
                     </history>                   
                 </msDesc>
             </sourceDesc>
-        </fileDesc>
+        </fileDesc><encodingDesc>
+    <listPrefixDef>
+        <prefixDef matchPattern="(.+)" replacementPattern="../authority/bibliography.xml#$1" ident="bib"/>
+    </listPrefixDef>
+</encodingDesc>
         <revisionDesc>
             <change when="2019-12-21" who="Tchanturia">
                 წარწერის სრული კოდირება, გარე ანოტირება, პირთა სახელების, ლემების მითითება, ბიბლიოგრაფია,ბმულებით დაკავშირება გარე კონტროლირებად ლექსიკონთან.

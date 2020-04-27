@@ -31,7 +31,9 @@
                             <supportDesc>
                                 <support>                             
                                    <material ref="http://www.eagle-network.eu/voc/material/lod/115">ვერცხლი</material>
-                                   <objectType ref="http://www.eagle-network.eu/voc/objtyp/lod/1780">ლანგარი</objectType></support></supportDesc>
+                                   <objectType ref="http://www.eagle-network.eu/voc/objtyp/lod/1780">ლანგარი</objectType>
+                                </support>
+                            </supportDesc>
                                 <layoutDesc>
                                     <layout>ვერცხლის ლანგრის ქუსლს ირგვლივ პუნქტირით ამოჭრილი აქვს ბერძნული წარწერა, წარწერა წრეს არ კრავს.
                                         <dimensions>
@@ -73,7 +75,11 @@
                     </history>                   
                 </msDesc>
             </sourceDesc>
-        </fileDesc>
+        </fileDesc><encodingDesc>
+    <listPrefixDef>
+        <prefixDef matchPattern="(.+)" replacementPattern="../authority/bibliography.xml#$1" ident="bib"/>
+    </listPrefixDef>
+</encodingDesc>
     </teiHeader>
     
     <facsimile>

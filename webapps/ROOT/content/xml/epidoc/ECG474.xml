@@ -93,7 +93,11 @@
                     </history>                   
                 </msDesc>
             </sourceDesc>
-        </fileDesc>
+        </fileDesc><encodingDesc>
+    <listPrefixDef>
+        <prefixDef matchPattern="(.+)" replacementPattern="../authority/bibliography.xml#$1" ident="bib"/>
+    </listPrefixDef>
+</encodingDesc>
         <revisionDesc>
             <change when="2019-05-30" who="kalkhitashvili">
                 ტექსტის სრული კოდირება, მეტამონაცემების სრული კოდირება, ბმულებით დაკავშირება გარე კონტროლირებად ლექსიკონთან

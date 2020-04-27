@@ -77,7 +77,11 @@
                     </history>                   
                 </msDesc>
             </sourceDesc>
-        </fileDesc>
+        </fileDesc><encodingDesc>
+    <listPrefixDef>
+        <prefixDef matchPattern="(.+)" replacementPattern="../authority/bibliography.xml#$1" ident="bib"/>
+    </listPrefixDef>
+</encodingDesc>
         <revisionDesc><change when="2019-12-17" who="Eka Kvirkvelia">ტექსტის სრული კოდირება, მეტამონაცემების სრული კოდირება, 
             ბმულებით დაკავშირება ავტორიტეტულ წყაროსთან</change></revisionDesc>
     </teiHeader>
@@ -151,7 +155,7 @@
                                 <w lemma="დასხმა"><expan><abbr>დ</abbr><ex>ა</ex><abbr>სხმ</abbr><ex>ა</ex><abbr>დ</abbr></expan></w>
                                 <w lemma="ორ">ორ</w> 
                                 <w lemma="წელ">წელ</w>
-                <lb n="7"/><num value="2"><w lemma="ორ">ორთა</w></num> 
+                <lb n="7"/><w lemma="ორ">ორთა</w> 
                                 <w lemma="ბალავარ">ბალავართა</w> 
                                 <name nymRef="აბაზ"><expan><abbr>აბ</abbr><ex>ა</ex><abbr>ზ</abbr><ex>ა</ex><abbr>ს</abbr></expan></name> 
                                 <w lemma="მეფობა"><expan><abbr>მ</abbr><ex>ე</ex><abbr>ფობ</abbr><ex>ა</ex><abbr>სა</abbr></expan></w> 

@@ -278,6 +278,7 @@
         <!-- Moded templates found in htm-tpl-sqbrackets.xsl -->
         <xsl:apply-templates select="$transtxt" mode="sqbrackets"/>
       </div>
+      
       <div id="commentary" class="iospe">
         <h4 class="iospe"><i18n:text i18n:key="epidoc-xslt-iospe-commentary">Commentary</i18n:text></h4>
         <!-- Commentary text output -->
@@ -288,18 +289,55 @@
         <xsl:apply-templates select="$commtxt" mode="sqbrackets"/>
       </div>
       
-      <dl class="iospe">      
-        <dt><i18n:text i18n:key="epidoc-xslt-iospe-editions">Editions</i18n:text></dt>
-        <dd>
-          <xsl:choose>
-            <xsl:when test="//t:body//t:div[@type='bibliography']//text()">
-              <xsl:apply-templates select="//t:body//t:div[@type='bibliography']"/>
-            </xsl:when>
-            <xsl:otherwise><i18n:text i18n:key="epidoc-xslt-iospe-unpublished">Unpublished</i18n:text></xsl:otherwise>
-          </xsl:choose>
-        </dd>
+      <div id="bibliography" class="iospe">
+
+             <h4 class="iospe">
+              <i18n:text i18n:key="epidoc-xslt-iospe-editions">Editions</i18n:text>
+            </h4>
+        
+        <xsl:choose>
+          <xsl:when test="//t:body//t:div[@type='bibliography']//t:listBibl//t:biblStruct">
+            <xsl:apply-templates select="//t:body//t:div[@type='bibliography']//t:listBibl//t:biblStruct"/>
+          </xsl:when>
+          <xsl:otherwise><i18n:text i18n:key="epidoc-xslt-iospe-unpublished">Unpublished</i18n:text></xsl:otherwise>
+        </xsl:choose>
+        
+        
+        
+        
+     <!--  <dl>
+          <xsl:for-each select="//t:body//t:div[@type='bibliography']//t:listBibl//t:bibl">
+            <dt><xsl:value-of select="//t:body//t:div[@type='bibliography']//t:listBibl//t:bibl"/></dt>
+            <dd>
+              <xsl:apply-templates select="//t:body//t:div[@type='bibliography']//t:listBibl//t:bibl//t:citedRange" />
+            </dd>
+          </xsl:for-each>
+        </dl>
+ 
+           
+        <xsl:choose>
+          <xsl:when test="//t:body//t:div[@type='bibliography']//t:bibl/t:ptr[@target]">
+            <xsl:variable name="target" select="@target" />
+            <xsl:apply-templates select="//t:body//t:div[@type='bibliography']//t:bibl/t:ptr[@target]"/>
+            
+            <xsl:value-of select="$target"/>
+            <xsl:value-of select="../citedRange" />
+          </xsl:when>
+          <xsl:otherwise><i18n:text i18n:key="epidoc-xslt-iospe-unpublished">Unpublished</i18n:text></xsl:otherwise>
+        </xsl:choose> 
+            --> 
+           
+         </div>
+               
+        
+                              
+          
+  
       
-      </dl>
+
+     
+     
+      
       
       <div id="images" class="iospe">
         <h4 class="iospe"><i18n:text i18n:key="epidoc-xslt-iospe-images">Images</i18n:text></h4>
@@ -314,6 +352,9 @@
       </div>
     </div>
   </xsl:template>
+  
+  
+  
 
   <xsl:template name="iospe-structure">
     <xsl:variable name="title">
@@ -354,6 +395,16 @@
   </xsl:template>
 
   <xsl:template match="t:ref">
+    <a>
+      <xsl:attribute name="href">
+        <xsl:value-of select="@target"/>
+      </xsl:attribute>
+      <xsl:attribute name="target">_blank</xsl:attribute>
+      <xsl:apply-templates/>
+    </a>
+  </xsl:template>
+  
+  <xsl:template match="t:ptr">
     <a>
       <xsl:attribute name="href">
         <xsl:value-of select="@target"/>

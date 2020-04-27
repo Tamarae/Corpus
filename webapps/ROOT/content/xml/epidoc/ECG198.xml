@@ -55,7 +55,11 @@
                     </history>
                 </msDesc>
             </sourceDesc>
-        </fileDesc>
+        </fileDesc><encodingDesc>
+    <listPrefixDef>
+        <prefixDef matchPattern="(.+)" replacementPattern="../authority/bibliography.xml#$1" ident="bib"/>
+    </listPrefixDef>
+</encodingDesc>
     </teiHeader>
     <text><!-- 
     1. ო(ჳფალ)ო ღ(მერთ)ო, სტეფან[ე] 

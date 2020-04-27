@@ -87,7 +87,11 @@
                     </history>                   
                 </msDesc>
             </sourceDesc>
-        </fileDesc>
+        </fileDesc><encodingDesc>
+    <listPrefixDef>
+        <prefixDef matchPattern="(.+)" replacementPattern="../authority/bibliography.xml#$1" ident="bib"/>
+    </listPrefixDef>
+</encodingDesc>
        <revisionDesc><change when="2019-11-12" who="Eka Kvirkvelia">ტექსტის სრული კოდირება, მეტამონაცემების სრული კოდირება, 
             ბმულებით დაკავშირება ავტორიტეტულ წყაროსთან</change></revisionDesc>
     </teiHeader>

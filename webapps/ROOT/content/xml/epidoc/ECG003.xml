@@ -36,7 +36,7 @@
                     <physDesc>
                         <objectDesc>
                             <supportDesc>
-                                <support>                             
+                                <support>
                                    <material  xml:lang="ka" ref="http://www.eagle-network.eu/voc/material/lod/66">კირქვა</material>
                                     <material xml:lang="en" ref="http://www.eagle-network.eu/voc/material/lod/66">Limestone</material>
                                   <objectType  xml:lang="ka" ref="http://www.eagle-network.eu/voc/objtyp/lod/1483">ფილა</objectType>
@@ -45,11 +45,11 @@
                             </supportDesc>
                                 <layoutDesc>
                                     <layout writtenLines="4">
-                                        <seg xml:lang="ka">ფილის ფრაგმენტზე შემორჩენილია ბერძნული ასომთავრული წარწერის ნაწილი. 
+                                        <seg xml:lang="ka">ფილის ფრაგმენტზე შემორჩენილია ბერძნული ასომთავრული წარწერის ნაწილი.
                                             დაცულია 3 სტრიქონის ასოები, IV სტრიქონიდან მოჩანს 2 ასოს მხოლოდ ზედა მცირე ნაწილი.
                                         </seg>
                                         <seg xml:lang="en">
-                                            Greek capital on the fragment of the tile. 
+                                            Greek capital on the fragment of the tile.
                                             Letters of 3 lines are visible, from the 4th line only the upper parts of only 2 letters can be seen.
                                         </seg>
                                       <dimensions unit="cm">
@@ -58,20 +58,20 @@
                                       </dimensions>
                                     </layout>
                                 </layoutDesc>
-                        </objectDesc>                        
+                        </objectDesc>
                         <handDesc>
                             <handNote>
-                                <p xml:lang="ka">წარწერა მკაფიო ჩაღრმავებული ასოებით არის შესრულებული. პირველი 2 სტრიქონი შედარებით უფრო მჭიდროდაა ნაწერი, III უფრო თავისუფლად; I სტრიქონი ოდნავ უფრო 
-                                    მსხვილი ასოებითაა ნაწერი, ვიდრე მეორე.  წარწერაში ასოების სიმაღლე და განი დაახლოებით ერთნაირია. I-II სტრიქონებში ასოთა ვერტიკალური შტრიხები დაახლ. 4 სმ-ია, აბსოლუტურად მრგვალი 
+                                <p xml:lang="ka">წარწერა მკაფიო ჩაღრმავებული ასოებით არის შესრულებული. პირველი 2 სტრიქონი შედარებით უფრო მჭიდროდაა ნაწერი, III უფრო თავისუფლად; I სტრიქონი ოდნავ უფრო
+                                    მსხვილი ასოებითაა ნაწერი, ვიდრე მეორე.  წარწერაში ასოების სიმაღლე და განი დაახლოებით ერთნაირია. I-II სტრიქონებში ასოთა ვერტიკალური შტრიხები დაახლ. 4 სმ-ია, აბსოლუტურად მრგვალი
                                     ο-ის დიამეტრი დაახლ. 3,5 სმ-ია. III სტრიქონის ρ-ს სიმაღლე დაახლ. 5 სმ-ია, ο-ს დიამეტრი განში მეტია, ვიდრე სიმაღლეში (4,5 და 4 სმ).
                                 </p>
                                 <p xml:lang="en">
-                                    Inscription with deep and distinct letters. First 2 lines are more tight, the third has more space between letters. The first line has larger letters than the second. 
-                                    The height and width of the letters are mostly equal. The vertical size of the lines I-II are approximately 4 cm. The diameter of the full circle is 3,5 cm. The height of the letter ρ in the 3rd line is approx. 
-                                    5 cm. and the diameter of  ο is bigger in the width than in the height (4,5 and 4 cm). 
+                                    Inscription with deep and distinct letters. First 2 lines are more tight, the third has more space between letters. The first line has larger letters than the second.
+                                    The height and width of the letters are mostly equal. The vertical size of the lines I-II are approximately 4 cm. The diameter of the full circle is 3,5 cm. The height of the letter ρ in the 3rd line is approx.
+                                    5 cm. and the diameter of  ο is bigger in the width than in the height (4,5 and 4 cm).
                                  </p>
                                 <height unit="cm" precision="medium">4-5</height>
-                                <width unit="cm" precision="medium"></width>    
+                                <width unit="cm" precision="medium"></width>
                              </handNote>
                         </handDesc>
                         <decoDesc>
@@ -84,20 +84,20 @@
                                     <seg xml:lang="ka">სეფიეთი</seg>
                                     <seg xml:lang="en">Sepieti</seg>
                                 </origPlace>
-                                <origDate notBefore="0501" notAfter="0700" precision="medium" 
+                                <origDate notBefore="0501" notAfter="0700" precision="medium"
                                     evidence="lettering" datingMethod="#julian">VI-VII AD</origDate>
                               </origin>
                             <provenance type="found" when="1989">
                                 <placeName type ="ancientFindspot">
                                     <seg xml:lang="ka">სეფიეთი</seg>
                                     <seg xml:lang="en">Sepieti</seg>
-                                
-                                </placeName> 
+
+                                </placeName>
                                 <rs type="circumstances" xml:lang="ka">ფილა აღმოჩენილია ნოქალაქევის ექსპედიციის მიერ სეფიეთის მთავარანგელოზის ეკლესიის ირგვლივ თხრის დროს.</rs>
                                 <rs type="circumstances" xml:lang="en">The plaque has been found during the expeditions of Nokalakevi while excavating the surrounding area of Archangel Church in the village of Sephieti.</rs>
                                 <rs type="context"/>
                                 <rs type="monuList"/>
-                            </provenance>                        
+                            </provenance>
                             <provenance type="observed">
                             <placeName type="modernSpot">
                                 <seg xml:lang="ka">სეფიეთი</seg>
@@ -105,11 +105,18 @@
                             </placeName>
                             <idno/>
                         </provenance>
-                    </history>                   
+                    </history>
                 </msDesc>
             </sourceDesc>
         </fileDesc>
-    </teiHeader>         
+        <encodingDesc>
+    <listPrefixDef>
+        <prefixDef matchPattern="(.+)" replacementPattern="../authority/bibliography.xml#$1" ident="bib"/>
+    </listPrefixDef>
+</encodingDesc>
+
+
+    </teiHeader>
     <facsimile>
         <surface>
             <graphic url="ecg003.jpg">
@@ -117,18 +124,18 @@
                 <desc xml:lang="en">Sepieti plaque, 1989</desc>
             </graphic>
         </surface>
-    </facsimile>    
+    </facsimile>
     <text>
         <body>
-            
+
             <div type="bibliography">
                 <listBibl>
                     <bibl n="1"><ptr target="bibliography.xml#b130"/>თინათინ ყაუხჩიშვილი, საქართველოს ბერძნული წარწერების კორპუსი, <citedRange>გვ. 122</citedRange></bibl>
                 </listBibl>
             </div>
-            
+
             <div type="edition" xml:lang="grc" xml:space="preserve">
-                
+
                         <!-- [†ὑπὲρ εὐχ]ῆς δούλου Κ[λήμεντο]
                             ς καὶ δ[ιαφε]
                             ρόν[τ]ων [αὐτοῦ]
@@ -138,10 +145,10 @@
                      <lb n="2" break="no"/>ς</name> <w lemma="καί">καὶ</w> <w lemma="ὁ">τῶν</w> <w lemma="διαφέρω">δ<supplied reason="lost">ιαφε</supplied>
                      <lb n="3" break="no"/>ρόν<supplied reason="lost">τ</supplied>ων</w> <w lemma="αὐτος"><supplied reason="lost">αὐτοῦ</supplied>
                      <lb n="4"/>ον</w> <!-- ბოლო ორი ხაზის შედარება კორპუსის აღდგენასთან -->
-                   </ab>    
+                   </ab>
 
             </div>
-                
+
             <div type="translation" xml:lang="ka">
                 <p>სალოცველად მონისა კლიმენტისა და მახლობელთა მისთა.</p>
             </div>
@@ -154,7 +161,7 @@
               <rdg>წარწერის ტექსტში ვხვდებით სიტყვას - γούλου</rdg>
               </app></p>
             </div>
-           
+
             <div type="commentary" xml:lang="ka">
                 <p>ყურადღებას იპყრობს დაწერილობა γουλου, სიტყვისთვის δούλου, რაც ბერძნული ენის განვითარების მთელ მანძილზე გუტურალთა და დენტალთა მონაცვლეობით უნდა აიხსნას.</p>
                 <p>საკუთარი სახელი კლიმენტი - Κλήμεντος პირობითად არის აღდგენილი.</p>
@@ -162,11 +169,11 @@
             </div>
              <div type="commentary" xml:lang="en">
                  <p>
-                 The word γούλου present in the inscription catches our attention for its manner of writing, that is instead of the word δούλου, - 
-                 this can be explained by the interchange of guttural and dental phonemes characteristic for Greek during all periods of its development. 
-                 The personal name Κλήμεντος is restored. The inscription can be dated according the letters (Α, Δ, C, Υ), usage of ω instead of ο is quite frequent formula (ὑπὲρ εὐχῆς).       
+                 The word γούλου present in the inscription catches our attention for its manner of writing, that is instead of the word δούλου, -
+                 this can be explained by the interchange of guttural and dental phonemes characteristic for Greek during all periods of its development.
+                 The personal name Κλήμεντος is restored. The inscription can be dated according the letters (Α, Δ, C, Υ), usage of ω instead of ο is quite frequent formula (ὑπὲρ εὐχῆς).
                  </p>
-             </div>      
+             </div>
          </body>
     </text>
 </TEI>

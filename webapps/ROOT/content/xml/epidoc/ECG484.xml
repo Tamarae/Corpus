@@ -80,7 +80,11 @@
                     </history>                   
                 </msDesc>
             </sourceDesc>
-        </fileDesc>
+        </fileDesc><encodingDesc>
+    <listPrefixDef>
+        <prefixDef matchPattern="(.+)" replacementPattern="../authority/bibliography.xml#$1" ident="bib"/>
+    </listPrefixDef>
+</encodingDesc>
         <revisionDesc>
             <change when="2019-04-06" who="skhulukhia"> ტექსტის სრული კოდირება, მეტამონაცემების სრული კოდირება, ბმულის დაკავშირება გარე კონტროლირებად ლექსიკონთან</change>
         </revisionDesc>
