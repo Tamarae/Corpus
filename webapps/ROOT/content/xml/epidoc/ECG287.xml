@@ -92,8 +92,8 @@
         <body>
              <div type="bibliography">
                 <listBibl>
-                    <bibl n="1">თინათინ ყაუხჩიშვილი, საქართველოს ბერძნული წარწერების კორპუსი<ptr target="bibliography.xml#b130"/>, <citedRange>გვ. 78</citedRange></bibl>
-                    <bibl n="2">Л. А. Шервашидзе, Л. Н. Соловьев, Исследование древнего Севастополиса<ptr target="bibliography.xml#b163"/>, <citedRange>стр. 171-179</citedRange></bibl>              
+                    <bibl n="1">თინათინ ყაუხჩიშვილი, საქართველოს ბერძნული წარწერების კორპუსი<ptr target="bibliography.xml#b130"/>, <citedRange> 78</citedRange></bibl>
+                    <bibl n="2">Л. А. Шервашидзе, Л. Н. Соловьев, Исследование древнего Севастополиса<ptr target="bibliography.xml#b163"/>, <citedRange> 171-179</citedRange></bibl>              
                 </listBibl>
             </div>
           

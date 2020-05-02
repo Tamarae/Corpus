@@ -94,7 +94,7 @@
         <body>
            <div type="bibliography"> 
                <listBibl>
-                <bibl n="1">თამაზ გოგოლაძე,თორის ხეობის ეპიგრაფიკული კორპუსი<ptr target="bibliography.xml#b130"/>,<citedRange>109-110გვ.</citedRange>1987</bibl>
+                <bibl n="1">თამაზ გოგოლაძე,თორის ხეობის ეპიგრაფიკული კორპუსი<ptr target="bibliography.xml#b130"/>,<citedRange>109-110</citedRange>1987</bibl>
 		        
 		   </listBibl>
            </div>

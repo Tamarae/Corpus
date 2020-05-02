@@ -102,14 +102,14 @@
             
             <div type="bibliography">
                 <listBibl>
-                    <bibl n="1">ნოდარ შოშიაშვილი, ქართული წარწერების კორპუსი<ptr target="bibliography.xml#b101"/>, <citedRange>გვ. 62-63</citedRange></bibl>
-                    <bibl n="2">M. Brosset, Rapports VI<ptr target="bibliography.xml#b22"/>, <citedRange>p. 15</citedRange></bibl>
-                    <bibl n="3">ექვთიმე თაყაიშვილი, არხეოლოგიური მოგზაურობანი და შენიშვნანი<ptr target="bibliography.xml#b70"/>, <citedRange>გვ. 46</citedRange></bibl>
-                    <bibl n="4">ნოდარ შოშიაშვილი, ნაქალაქარი ურბნისი<ptr target="bibliography.xml#b99"/>, <citedRange>გვ. 136-137</citedRange></bibl>
-                    <bibl n="5">ნოდარ შოშიაშვილი, ურბნისის ძველი ქართული წარწერები<ptr target="bibliography.xml#b100"/>, <citedRange>გვ. 138</citedRange></bibl>
-                    <bibl n="6">პარმენ ზაქარაია, ნაქალაქარ ურბნისის ხუროთმოძღვრება<ptr target="bibliography.xml#b104"/>, <citedRange>გვ. 90</citedRange></bibl>
-                    <bibl n="7">ალ. გამყრელიძე, ქართული დამწერლობის უძველესი ნიმუშები<ptr target="bibliography.xml#b100"/>, <citedRange>გვ. 16-22</citedRange></bibl>
-                    <bibl n="8">ვალერი სილოგავა, ეპიგრაფიკული ეტიუდები<ptr target="bibliography.xml#b75"/>, <citedRange>გვ. 92</citedRange></bibl>
+                    <bibl n="1">ნოდარ შოშიაშვილი, ქართული წარწერების კორპუსი<ptr target="bibliography.xml#b101"/>, <citedRange> 62-63</citedRange></bibl>
+                    <bibl n="2">M. Brosset, Rapports VI<ptr target="bibliography.xml#b22"/>, <citedRange>15</citedRange></bibl>
+                    <bibl n="3">ექვთიმე თაყაიშვილი, არხეოლოგიური მოგზაურობანი და შენიშვნანი<ptr target="bibliography.xml#b70"/>, <citedRange> 46</citedRange></bibl>
+                    <bibl n="4">ნოდარ შოშიაშვილი, ნაქალაქარი ურბნისი<ptr target="bibliography.xml#b99"/>, <citedRange> 136-137</citedRange></bibl>
+                    <bibl n="5">ნოდარ შოშიაშვილი, ურბნისის ძველი ქართული წარწერები<ptr target="bibliography.xml#b100"/>, <citedRange> 138</citedRange></bibl>
+                    <bibl n="6">პარმენ ზაქარაია, ნაქალაქარ ურბნისის ხუროთმოძღვრება<ptr target="bibliography.xml#b104"/>, <citedRange> 90</citedRange></bibl>
+                    <bibl n="7">ალ. გამყრელიძე, ქართული დამწერლობის უძველესი ნიმუშები<ptr target="bibliography.xml#b100"/>, <citedRange> 16-22</citedRange></bibl>
+                    <bibl n="8">ვალერი სილოგავა, ეპიგრაფიკული ეტიუდები<ptr target="bibliography.xml#b75"/>, <citedRange> 92</citedRange></bibl>
                 </listBibl>
             </div>         
             <div type="edition" xml:lang="ka" xml:space="preserve">

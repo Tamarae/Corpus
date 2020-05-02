@@ -97,7 +97,7 @@
         <body>
              <div type="bibliography">
                 <listBibl>
-                    <bibl n="1">თინათინ ყაუხჩიშვილი, საქართველოს ბერძნული წარწერების კორპუსი<ptr target="bibliography.xml#b130"/>, <citedRange>გვ. 231-232</citedRange></bibl>
+                    <bibl n="1">თინათინ ყაუხჩიშვილი, საქართველოს ბერძნული წარწერების კორპუსი<ptr target="bibliography.xml#b130"/>, <citedRange> 231-232</citedRange></bibl>
                     <bibl n="2">Е. П. Привалова, Роспись Тимотесубани<ptr target="bibliography.xml#b182"/><citedRange></citedRange></bibl>
                 </listBibl>
             </div>

@@ -138,10 +138,10 @@
 
             <div type="bibliography">
                 <listBibl>
-                    <bibl n="1"><ptr target="bibliography.xml#b134"/>David Braund, Anagranes the ΤΡΟΦΕΥΣ: the court of caucasian Iberia in the second-third centuries AD, <citedRange>pp. 23-34</citedRange></bibl>
-                    <bibl n="2"><ptr target="bibliography.xml#b130"/>თინათინ ყაუხჩიშვილი, საქართველოს ბერძნული წარწერების კორპუსი, <citedRange>გვ. 227</citedRange></bibl>
-                    <bibl n="3"><ptr target="bibliography.xml#b131"/>თინათინ ყაუხჩიშვილი, ძველი ბერძნული წარწერების შესახებ საქართველოში, <citedRange>გვ. 27-32</citedRange></bibl>
-                    <bibl n="4"><ptr target="bibliography.xml#b132"/>თინათინ ყაუხჩიშვილი, ახალი ბერძნული წარწერები არმაზციხე-ბაგინეთიდან, <citedRange>გვ. 81-93</citedRange></bibl>
+                    <bibl n="1"><ptr target="bibliography.xml#b134"/>David Braund, Anagranes the ΤΡΟΦΕΥΣ: the court of caucasian Iberia in the second-third centuries AD, <citedRange>23-34</citedRange></bibl>
+                    <bibl n="2"><ptr target="bibliography.xml#b130"/>თინათინ ყაუხჩიშვილი, საქართველოს ბერძნული წარწერების კორპუსი, <citedRange> 227</citedRange></bibl>
+                    <bibl n="3"><ptr target="bibliography.xml#b131"/>თინათინ ყაუხჩიშვილი, ძველი ბერძნული წარწერების შესახებ საქართველოში, <citedRange> 27-32</citedRange></bibl>
+                    <bibl n="4"><ptr target="bibliography.xml#b132"/>თინათინ ყაუხჩიშვილი, ახალი ბერძნული წარწერები არმაზციხე-ბაგინეთიდან, <citedRange> 81-93</citedRange></bibl>
                 </listBibl>
             </div>
 

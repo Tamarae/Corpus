@@ -97,10 +97,10 @@
         <body>
              <div type="bibliography">
                 <listBibl>
-                    <bibl n="1">თინათინ ყაუხჩიშვილი, საქართველოს ბერძნული წარწერების კორპუსი<ptr target="bibliography.xml#b130"/>, <citedRange>გვ. 261</citedRange></bibl>
-                    <bibl n="2">თინათინ ყაუხჩიშვილი, ბერძნული წარწერები საქართველოში<ptr target="bibliography.xml#b80"/>, <citedRange>გვ. 250-260</citedRange></bibl>
-                    <bibl n="3">H. S. Nyberg, Quelques inscriptions antiques découvertes rècemment en Georgie<ptr target="bibliography.xml#b173"/>, <citedRange>p. 231</citedRange></bibl>
-                    <bibl n="4">М. И. Максимова, Стеклянные многогранные печати найденные на территории Грузии<ptr target="bibliography.xml#b174"/>, <citedRange>стр. 84-85</citedRange></bibl>
+                    <bibl n="1">თინათინ ყაუხჩიშვილი, საქართველოს ბერძნული წარწერების კორპუსი<ptr target="bibliography.xml#b130"/>, <citedRange> 261</citedRange></bibl>
+                    <bibl n="2">თინათინ ყაუხჩიშვილი, ბერძნული წარწერები საქართველოში<ptr target="bibliography.xml#b80"/>, <citedRange> 250-260</citedRange></bibl>
+                    <bibl n="3">H. S. Nyberg, Quelques inscriptions antiques découvertes rècemment en Georgie<ptr target="bibliography.xml#b173"/>, <citedRange>231</citedRange></bibl>
+                    <bibl n="4">М. И. Максимова, Стеклянные многогранные печати найденные на территории Грузии<ptr target="bibliography.xml#b174"/>, <citedRange> 84-85</citedRange></bibl>
                 </listBibl>
             </div>
          

@@ -100,13 +100,13 @@
         <body>
              <div type="bibliography">
                 <listBibl>
-                    <bibl n="1">თინათინ ყაუხჩიშვილი, საქართველოს ბერძნული წარწერების კორპუსი<ptr target="bibliography.xml#b130"/>, <citedRange>გვ. 59</citedRange></bibl>
-                    <bibl n="2">A. Зотов, Находки в Пицундском монастыре-древнем Питиунте<ptr target="bibliography.xml#b157"/>, <citedRange>стр. 14-17</citedRange></bibl>
-                    <bibl n="3">თ. ყაუხჩიშვილი, ბიჭვინტის მოზაიკის ბერძნული წარწერა<ptr target="bibliography.xml#b158"/>, <citedRange>გვ. 218-241</citedRange></bibl>
-                    <bibl n="4">თ. ყაუხჩიშვილი, ბიჭვინტის მოზაიკის ბერძნული წარწერა<ptr target="bibliography.xml#b159"/>, <citedRange>გვ. 73-80</citedRange></bibl>
-                    <bibl n="5">Т. С. Каухчишвили, Эпиграфические новости из Грузии<ptr target="bibliography.xml#b52"/>, <citedRange>стр. 130-131</citedRange></bibl>
-                    <bibl n="6">В. А. Леквинадзе, О древнейшей базилике Питиунта и её мозаиках<ptr target="bibliography.xml#b160"/>, <citedRange>стр. 174</citedRange></bibl>
-                    <bibl n="7">ბიჭვინთის მოზაიკა<ptr target="bibliography.xml#b161"/>, <citedRange>გვ. 423</citedRange></bibl>
+                    <bibl n="1">თინათინ ყაუხჩიშვილი, საქართველოს ბერძნული წარწერების კორპუსი<ptr target="bibliography.xml#b130"/>, <citedRange> 59</citedRange></bibl>
+                    <bibl n="2">A. Зотов, Находки в Пицундском монастыре-древнем Питиунте<ptr target="bibliography.xml#b157"/>, <citedRange> 14-17</citedRange></bibl>
+                    <bibl n="3">თ. ყაუხჩიშვილი, ბიჭვინტის მოზაიკის ბერძნული წარწერა<ptr target="bibliography.xml#b158"/>, <citedRange> 218-241</citedRange></bibl>
+                    <bibl n="4">თ. ყაუხჩიშვილი, ბიჭვინტის მოზაიკის ბერძნული წარწერა<ptr target="bibliography.xml#b159"/>, <citedRange> 73-80</citedRange></bibl>
+                    <bibl n="5">Т. С. Каухчишвили, Эпиграфические новости из Грузии<ptr target="bibliography.xml#b52"/>, <citedRange> 130-131</citedRange></bibl>
+                    <bibl n="6">В. А. Леквинадзе, О древнейшей базилике Питиунта и её мозаиках<ptr target="bibliography.xml#b160"/>, <citedRange> 174</citedRange></bibl>
+                    <bibl n="7">ბიჭვინთის მოზაიკა<ptr target="bibliography.xml#b161"/>, <citedRange> 423</citedRange></bibl>
                 </listBibl>
             </div>
             

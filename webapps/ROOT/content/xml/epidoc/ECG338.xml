@@ -105,8 +105,8 @@
         <body> 
             <div type="bibliography">
                 <listBibl>
-         <bibl n="1">თემო ჯოჯუა, გიორგი გაგოშიძე, ქობაირის, ჰნევანქისა და ახტალის მონასტრების ქართული ლაპიდარული წარწერები<ptr target="bibliography.xml#b164"/>, <citedRange>გვ. 279-280</citedRange></bibl>
-         <bibl n="2">ქეთი ასათიანი, გიორგი კალანდია, ქობერის მონასტრის ქართული წარწერები<ptr target="bibliography.xml#b165"/>, <citedRange>გვ. 10-14</citedRange></bibl>
+         <bibl n="1">თემო ჯოჯუა, გიორგი გაგოშიძე, ქობაირის, ჰნევანქისა და ახტალის მონასტრების ქართული ლაპიდარული წარწერები<ptr target="bibliography.xml#b164"/>, <citedRange> 279-280</citedRange></bibl>
+         <bibl n="2">ქეთი ასათიანი, გიორგი კალანდია, ქობერის მონასტრის ქართული წარწერები<ptr target="bibliography.xml#b165"/>, <citedRange> 10-14</citedRange></bibl>
                 </listBibl>
            </div>
             

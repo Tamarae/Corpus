@@ -104,8 +104,8 @@
         <body>   
             <div type="bibliography">
            <listBibl>
-              <bibl n="1">ნოდარ შოშიაშვილი, ქართული წარწერების კორპუსი, ლაპიდარული წარწერები<ptr target="bibliography.xml#b101"/>, <citedRange>გვ. 116</citedRange></bibl>                 
-              <bibl n="2">Н. Г. Чубинашвили, Болнисский сион<ptr target="bibliography.xml#b45"/>, <citedRange>ст. 98-99</citedRange></bibl>
+              <bibl n="1">ნოდარ შოშიაშვილი, ქართული წარწერების კორპუსი, ლაპიდარული წარწერები<ptr target="bibliography.xml#b101"/>, <citedRange> 116</citedRange></bibl>                 
+              <bibl n="2">Н. Г. Чубинашвили, Болнисский сион<ptr target="bibliography.xml#b45"/>, <citedRange>98-99</citedRange></bibl>
            </listBibl>
             </div>
           

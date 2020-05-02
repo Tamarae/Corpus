@@ -92,8 +92,8 @@
         <body>
              <div type="bibliography">
                 <listBibl>
-                    <bibl n="1">თინათინ ყაუხჩიშვილი, საქართველოს ბერძნული წარწერების კორპუსი<ptr target="bibliography.xml#b130"/>, <citedRange>გვ. 83</citedRange></bibl>
-                    <bibl n="2">თინათინ ყაუხჩიშვილი, საქართველოს ისტორიის ძველი ბერძნული წყაროები<ptr target="bibliography.xml#b136"/>, <citedRange>გვ. 36-37</citedRange></bibl>
+                    <bibl n="1">თინათინ ყაუხჩიშვილი, საქართველოს ბერძნული წარწერების კორპუსი<ptr target="bibliography.xml#b130"/>, <citedRange> 83</citedRange></bibl>
+                    <bibl n="2">თინათინ ყაუხჩიშვილი, საქართველოს ისტორიის ძველი ბერძნული წყაროები<ptr target="bibliography.xml#b136"/>, <citedRange> 36-37</citedRange></bibl>
                 </listBibl>
             </div>
             <div type="edition" xml:lang="grc" xml:space="preserve">

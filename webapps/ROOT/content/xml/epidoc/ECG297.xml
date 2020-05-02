@@ -99,10 +99,10 @@
         <body>
              <div type="bibliography">
                 <listBibl>
-                    <bibl n="1">თინათინ ყაუხჩიშვილი, საქართველოს ბერძნული წარწერების კორპუსი<ptr target="bibliography.xml#b130"/>, <citedRange>გვ. 269</citedRange></bibl>
-                    <bibl n="2">თინათინ ყაუხჩიშვილი, ბერძნული წარწერები საქართველოში<ptr target="bibliography.xml#b80"/>, <citedRange>გვ. 266-267</citedRange></bibl>
+                    <bibl n="1">თინათინ ყაუხჩიშვილი, საქართველოს ბერძნული წარწერების კორპუსი<ptr target="bibliography.xml#b130"/>, <citedRange> 269</citedRange></bibl>
+                    <bibl n="2">თინათინ ყაუხჩიშვილი, ბერძნული წარწერები საქართველოში<ptr target="bibliography.xml#b80"/>, <citedRange> 266-267</citedRange></bibl>
                     <bibl n="3">ნ. უგრეხელიძე, სამთავროში აღმოჩენილი მინის ჭურჭელი ფრაშევანგის გამოსახულებით<ptr target="bibliography.xml#b167"/><citedRange></citedRange></bibl>
-                    <bibl n="4">В. В. Латышев, Сборник греческих надписей христианских времен из Южной России<ptr target="bibliography.xml#b168"/>, <citedRange>стр. 119-120</citedRange></bibl>         
+                    <bibl n="4">В. В. Латышев, Сборник греческих надписей христианских времен из Южной России<ptr target="bibliography.xml#b168"/>, <citedRange> 119-120</citedRange></bibl>         
                 </listBibl>
             </div>
          

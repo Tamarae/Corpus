@@ -78,6 +78,8 @@
   <message key="place_name">ადგილთა საძიებელი</message>
   <message key="placename_desc">კვადრატული ფრჩხილით [] აღნიშნულია წარწერა, რომელშიც ადგილის სახელი სრულად ან ნაწილობრივაა აღდგენილი.</message>
   <message key="filename_desc">ქართული წარწერები</message>
+  <message key="transl_persname">თარგმანი</message>
+  <message key="title">წოდება</message>
   <message key="bibl_c">ბიბლიოგრაფია</message>
   
   

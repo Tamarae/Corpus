@@ -96,10 +96,10 @@
         <body>
              <div type="bibliography">
                 <listBibl>
-                    <bibl n="1">თინათინ ყაუხჩიშვილი, საქართველოს ბერძნული წარწერების კორპუსი<ptr target="bibliography.xml#b130"/>, <citedRange>გვ. 259-260</citedRange></bibl>
-                    <bibl n="2">თინათინ ყაუხჩიშვილი, ბერძნული წარწერები საქართველოში<ptr target="bibliography.xml#b80"/>, <citedRange>გვ. 260-261</citedRange></bibl>
-                    <bibl n="3">ს. ყაუხჩიშვილი, არმაზში აღმოჩენილი ბერძნული წარწერები<ptr target="bibliography.xml#b171"/>, <citedRange>გვ. 169-170</citedRange></bibl>
-                    <bibl n="4">თინათინ ყაუხჩიშვილი, საქართველოს ისტორიის ძველი ბერძნული წყაროები<ptr target="bibliography.xml#b136"/>, <citedRange>გვ. 250-251</citedRange></bibl>
+                    <bibl n="1">თინათინ ყაუხჩიშვილი, საქართველოს ბერძნული წარწერების კორპუსი<ptr target="bibliography.xml#b130"/>, <citedRange> 259-260</citedRange></bibl>
+                    <bibl n="2">თინათინ ყაუხჩიშვილი, ბერძნული წარწერები საქართველოში<ptr target="bibliography.xml#b80"/>, <citedRange> 260-261</citedRange></bibl>
+                    <bibl n="3">ს. ყაუხჩიშვილი, არმაზში აღმოჩენილი ბერძნული წარწერები<ptr target="bibliography.xml#b171"/>, <citedRange> 169-170</citedRange></bibl>
+                    <bibl n="4">თინათინ ყაუხჩიშვილი, საქართველოს ისტორიის ძველი ბერძნული წყაროები<ptr target="bibliography.xml#b136"/>, <citedRange> 250-251</citedRange></bibl>
                     <bibl n="5">მარგ. ლორთქიფანიძე, არმაზხევსა და ბაგინეთზე აღმოჩენილი გლიპტიკური ძეგლები<ptr target="bibliography.xml#b172"/><citedRange></citedRange></bibl>
                 </listBibl>
             </div>

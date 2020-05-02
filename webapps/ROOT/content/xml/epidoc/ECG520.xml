@@ -91,7 +91,7 @@
         <body>
            <div type="bibliography">
                <listBibl>
-                <bibl n="1">გიორგი გაგოშიძე<ptr target="bibliography.xml#b130"/>1987,<citedRange>გვ.134</citedRange>2020</bibl>
+                <bibl n="1">გიორგი გაგოშიძე<ptr target="bibliography.xml#b130"/>1987,<citedRange>134</citedRange>2020</bibl>
             </listBibl>
            </div>
             <div type="edition" xml:lang="ka" xml:space="preserve">     

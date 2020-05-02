@@ -91,17 +91,17 @@
         <body>
            <div type="bibliography">
                <listBibl>
-                <bibl n="1">ნიკო ბერძენიშვილი<ptr target="bibliography.xml#b130"/>1964,<citedRange>გვ.227-229</citedRange>2020</bibl>
-                 <bibl n="2">გიორგი ჩუბინაშვილი<ptr target="bibliography.xml"/>1948,<citedRange>გვ.398</citedRange>2020</bibl>
+                <bibl n="1">ნიკო ბერძენიშვილი<ptr target="bibliography.xml#b130"/>1964,<citedRange>227-229</citedRange>2020</bibl>
+                 <bibl n="2">გიორგი ჩუბინაშვილი<ptr target="bibliography.xml"/>1948,<citedRange>398</citedRange>2020</bibl>
                    <bibl n="3">ალექსანდრე მიქავა<ptr target="bibliography.xml"/>1960,<citedRange></citedRange>2020</bibl>
-                   <bibl n="4">სარგის ცაიშვილი<ptr target="bibliography.xml"/>1985,<citedRange>გვ.438-442</citedRange>2020</bibl>
-                   <bibl n="5">ნოდარ შოშიაშვილი<ptr target="bibliography.xml"/>1966,<citedRange>გვ. 70-71</citedRange>2020</bibl>
+                   <bibl n="4">სარგის ცაიშვილი<ptr target="bibliography.xml"/>1985,<citedRange>438-442</citedRange>2020</bibl>
+                   <bibl n="5">ნოდარ შოშიაშვილი<ptr target="bibliography.xml"/>1966,<citedRange> 70-71</citedRange>2020</bibl>
                    <bibl n="6">ამბერკი გაჩეჩილაძე<ptr target="bibliography.xml"/>1977,<citedRange></citedRange>2020</bibl>
                    <bibl n="7">გიორგი ზედგინიძე<ptr target="bibliography.xml"/>1980,<citedRange></citedRange>2020</bibl>
                    <bibl n="8">ზურაბ ჭუმბურიძე<ptr target="bibliography.xml"/>1980,<citedRange></citedRange>2020</bibl>
                    <bibl n="9">შოთა ძიძიგური, ალექსანდრე ბარამიძე, ელენე მეტრეველი<ptr target="bibliography.xml"/>1980<citedRange></citedRange>2020</bibl>
                    <bibl n="10">პროკოფი რატიანი<ptr target="bibliography.xml"/>1981,<citedRange></citedRange>2020</bibl>
-                   <bibl n="11">ევგენი ბართაია<ptr target="bibliography.xml"/>1981,<citedRange>გვ. 87-91</citedRange>2020</bibl>
+                   <bibl n="11">ევგენი ბართაია<ptr target="bibliography.xml"/>1981,<citedRange> 87-91</citedRange>2020</bibl>
             </listBibl>
            </div>
             <div type="edition" xml:lang="ka" xml:space="preserve">     

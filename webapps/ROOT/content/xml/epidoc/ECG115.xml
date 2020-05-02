@@ -101,8 +101,8 @@
         <body>
          <div type="bibliography">
              <listBibl>  
-     <bibl n="1">ვალერი სილოგავა, რუსთაველური ლექსი-წარწერა სამცხიდან (1103 წ.)<ptr target="bibliography.xml#b158"/>, <citedRange>გვ. 182-191</citedRange></bibl>
-     <bibl n="2">ვალერი სილოგავა, სამცხე-ჯავახეთის ისტორიული მუზეუმის ქართული ეპიგრაფიკული ძეგლები, კატალოგი-გზამკვლევი<ptr target="bibliography.xml#b150"/>, <citedRange>გვ. 24-25</citedRange></bibl>
+     <bibl n="1">ვალერი სილოგავა, რუსთაველური ლექსი-წარწერა სამცხიდან (1103 წ.)<ptr target="bibliography.xml#b158"/>, <citedRange> 182-191</citedRange></bibl>
+     <bibl n="2">ვალერი სილოგავა, სამცხე-ჯავახეთის ისტორიული მუზეუმის ქართული ეპიგრაფიკული ძეგლები, კატალოგი-გზამკვლევი<ptr target="bibliography.xml#b150"/>, <citedRange> 24-25</citedRange></bibl>
            </listBibl> 
             </div>
   

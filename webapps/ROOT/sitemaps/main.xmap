@@ -94,6 +94,10 @@
         </map:transform>
         <map:serialize />
       </map:match>
+        
+       
+
+
 
       <!-- TEI texts. -->
       <map:match id="local-tei-index-display" pattern="*/texts/">
@@ -233,6 +237,28 @@
         </map:transform>
         <map:serialize />
       </map:match>
+      
+      
+      <!-- პროსოპოგრაფია -->
+      
+      
+      
+      <map:match id="local-person-index-display-html"
+        pattern="*/indices/*/person_name.html">
+        <map:aggregate element="aggregation" label="content">
+          
+          
+          <map:part element="authority_data"
+            src="../content/xml/authority/persons.xml" />
+        </map:aggregate>
+        
+        
+        
+        
+      </map:match>
+      
+      
+      
 
       <map:match id="local-index-display-html" pattern="*/indices/*/*.html">
         <map:aggregate element="aggregation" label="content">

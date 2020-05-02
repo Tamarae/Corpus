@@ -104,13 +104,13 @@
         <body>
            <div type="bibliography">
                <listBibl>
-                <bibl n="1">თამაზ გოგოლაძე,თორის ხეობის ეპიგრაფიკული კორპუსი<ptr target="bibliography.xml#b130"/>,<citedRange>32-34 გვ.</citedRange>2019</bibl>
-                <bibl n="2">სერგი მაკალათია,ბორჯომის ხეობა (ისტორიულ-ეთნოგრაფიული ნარკვევი)<ptr target="bibliography.xml#b130"/>,<citedRange>12 გვ.</citedRange>1957</bibl>
-                <bibl n="3">სარგის კაკაბაძე,რუსთაველი და მისი ვეფხისტყაოსანი<ptr target="bibliography.xml#b130"/>,<citedRange>66 გვ.</citedRange>1966</bibl>
+                <bibl n="1">თამაზ გოგოლაძე,თორის ხეობის ეპიგრაფიკული კორპუსი<ptr target="bibliography.xml#b130"/>,<citedRange>32-34 </citedRange>2019</bibl>
+                <bibl n="2">სერგი მაკალათია,ბორჯომის ხეობა (ისტორიულ-ეთნოგრაფიული ნარკვევი)<ptr target="bibliography.xml#b130"/>,<citedRange>12 </citedRange>1957</bibl>
+                <bibl n="3">სარგის კაკაბაძე,რუსთაველი და მისი ვეფხისტყაოსანი<ptr target="bibliography.xml#b130"/>,<citedRange>66 </citedRange>1966</bibl>
                 <bibl n="4">გიორგი ზედგინიძე,თორელ-ჯავახთა და ჯაყელ-მესხთა სამამულო მფლობელობის შესახებ ბორჯომის ხეობაში, 
-                    კრებულში: კრებული მიძღვნილი აკადემიკოს ივანე ჯავახიშვილის დაბადების 100 წლისთავისადმი<ptr target="bibliography.xml#b130"/>,<citedRange>181 გვ.</citedRange>1977</bibl>
-                <bibl n="5">დევი ბერძენიშვილი,ნარკვევები საქართველოს ისტორიული გეოგრაფიიდან (ზემო ქართლი – თორი, ჯავახეთი)<ptr target="bibliography.xml#b130"/>,<citedRange>45 გვ.</citedRange>1985</bibl>
-                <bibl n="6">დევი ბერძენიშვილი,არქიტექტურულ-ისტორიული გზამკვლევი "გუჯარეთი"<ptr target="bibliography.xml#b130"/>,<citedRange>9 გვ.</citedRange>1987</bibl>
+                    კრებულში: კრებული მიძღვნილი აკადემიკოს ივანე ჯავახიშვილის დაბადების 100 წლისთავისადმი<ptr target="bibliography.xml#b130"/>,<citedRange>181 </citedRange>1977</bibl>
+                <bibl n="5">დევი ბერძენიშვილი,ნარკვევები საქართველოს ისტორიული გეოგრაფიიდან (ზემო ქართლი – თორი, ჯავახეთი)<ptr target="bibliography.xml#b130"/>,<citedRange>45 </citedRange>1985</bibl>
+                <bibl n="6">დევი ბერძენიშვილი,არქიტექტურულ-ისტორიული გზამკვლევი "გუჯარეთი"<ptr target="bibliography.xml#b130"/>,<citedRange>9 </citedRange>1987</bibl>
             </listBibl>
            </div>
             <div type="edition" xml:lang="ka" xml:space="preserve">     

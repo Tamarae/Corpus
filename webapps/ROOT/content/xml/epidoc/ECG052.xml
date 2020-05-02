@@ -105,31 +105,31 @@
         <body>
              <div type="bibliography">
                 <listBibl>
-     <bibl n="1">ნოდარ შოშიაშვილი, ქართული წარწერების კორპუსი, ლაპიდარული წარწერები<ptr target="bibliography.xml#b101"/>, <citedRange>გვ. 64-66</citedRange></bibl>
-     <bibl n="2">კორნელი დანელია, ზურაბ სარჯველაძე, ქართული პალეოგრაფია<ptr target="bibliography.xml#b92"/>, <citedRange>გვ. 7-16</citedRange></bibl>
-     <bibl n="3">ლევან მუსხელიშვილი, ბოლნისი<ptr target="bibliography.xml#b93"/>, <citedRange>გვ. 325-326</citedRange></bibl>
-     <bibl n="4">Н. Г. Чубинашвили, Болнисский сион<ptr target="bibliography.xml#b45"/>, <citedRange>ст. 68-69</citedRange></bibl>
-     <bibl n="5">შალვა ამირანაშვილი, ქართული ხელოვნების ისტორია<ptr target="bibliography.xml#b114"/>, <citedRange>გვ. 140</citedRange></bibl>
-     <bibl n="6">ილია აბულაძე, ქართლი წერის ნიმუშები<ptr target="bibliography.xml#b88"/>, <citedRange>გვ. 2-3</citedRange></bibl>
+     <bibl n="1">ნოდარ შოშიაშვილი, ქართული წარწერების კორპუსი, ლაპიდარული წარწერები<ptr target="bibliography.xml#b101"/>, <citedRange> 64-66</citedRange></bibl>
+     <bibl n="2">კორნელი დანელია, ზურაბ სარჯველაძე, ქართული პალეოგრაფია<ptr target="bibliography.xml#b92"/>, <citedRange> 7-16</citedRange></bibl>
+     <bibl n="3">ლევან მუსხელიშვილი, ბოლნისი<ptr target="bibliography.xml#b93"/>, <citedRange> 325-326</citedRange></bibl>
+     <bibl n="4">Н. Г. Чубинашвили, Болнисский сион<ptr target="bibliography.xml#b45"/>, <citedRange>68-69</citedRange></bibl>
+     <bibl n="5">შალვა ამირანაშვილი, ქართული ხელოვნების ისტორია<ptr target="bibliography.xml#b114"/>, <citedRange> 140</citedRange></bibl>
+     <bibl n="6">ილია აბულაძე, ქართლი წერის ნიმუშები<ptr target="bibliography.xml#b88"/>, <citedRange> 2-3</citedRange></bibl>
      <bibl n="7">ქართული ენის ისტორიული ქრესტომათია<ptr target="bibliography.xml#b112"/></bibl>
-     <bibl n="8">M. Tarchnišvili, Les récentes découverstes épigraphiques et litteraires en géorgien<ptr target="bibliography.xml#b24"/>, <citedRange>pp. 249-250</citedRange></bibl>
-     <bibl n="9">საქართველოს სახელმწიფო მუზეუმის ქართული ეპიგრაფიკული ძეგლების კატალოგი<ptr target="bibliography.xml#b111"/>, <citedRange>გვ. 1, 23-24</citedRange></bibl>
-     <bibl n="10">I. Molitor MIA CSCO<ptr target="bibliography.xml#b15"/>, <citedRange>p. 1,9</citedRange></bibl>
-     <bibl n="11">შალვა ამირანაშვილი, ბოლნისის  ტაძრის აგების თარიღის დაზუსტებისათვის<ptr target="bibliography.xml#b113"/>, <citedRange>გვ.4</citedRange></bibl>
+     <bibl n="8">M. Tarchnišvili, Les récentes découverstes épigraphiques et litteraires en géorgien<ptr target="bibliography.xml#b24"/>, <citedRange>249-250</citedRange></bibl>
+     <bibl n="9">საქართველოს სახელმწიფო მუზეუმის ქართული ეპიგრაფიკული ძეგლების კატალოგი<ptr target="bibliography.xml#b111"/>, <citedRange> 1, 23-24</citedRange></bibl>
+     <bibl n="10">I. Molitor MIA CSCO<ptr target="bibliography.xml#b15"/>, <citedRange>1,9</citedRange></bibl>
+     <bibl n="11">შალვა ამირანაშვილი, ბოლნისის  ტაძრის აგების თარიღის დაზუსტებისათვის<ptr target="bibliography.xml#b113"/>, <citedRange>4</citedRange></bibl>
      <bibl n="12">გიორგი წერეთელი, უძველესი ქართული წარწერები პალესტინიდან<ptr target="bibliography.xml#b67"/></bibl>
-     <bibl n="13">კორნელი კეკელიძე, ბოლნისის ტაძრის წარწერების ინტერპრეტაციისათვის<ptr target="bibliography.xml#b90"/>, <citedRange>გვ. 418-419</citedRange></bibl>
+     <bibl n="13">კორნელი კეკელიძე, ბოლნისის ტაძრის წარწერების ინტერპრეტაციისათვის<ptr target="bibliography.xml#b90"/>, <citedRange> 418-419</citedRange></bibl>
      <bibl n="14">კორნელი კეკელიძე, ქართული ლიტერატურის ისტორია<ptr target="bibliography.xml#b91"/></bibl>
      <bibl n="15">D. Lang. The Georgian<ptr target="bibliography.xml#b13"/></bibl>                    
-     <bibl n="16">ალ. გამყრელიძე, ქართული დამწერლობის უძველესი ნიმუშები<ptr target="bibliography.xml#b62"/>, <citedRange>გვ. 14, 20</citedRange></bibl>
-     <bibl n="17">Ш. В. Дзидзигури, Грузинский язык, Краткий обзор<ptr target="bibliography.xml#b54"/>, <citedRange>ст. 8-9</citedRange></bibl>
-     <bibl n="18">შოთა ძიძიგური, ქართული ენის თავგადასავალი<ptr target="bibliography.xml#b116"/>, <citedRange>გვ. 16-17</citedRange></bibl>
-     <bibl n="19">ილია აბულაძე, ქართლი წერის ნიმუშები, პალეოგრაფიული ალბომი<ptr target="bibliography.xml#b89"/>, <citedRange>გვ. 6-7</citedRange></bibl>                    
-     <bibl n="20">ვალერი სილოგავა, ეპიგრაფიკული ეტიუდები<ptr target="bibliography.xml#b75"/>, <citedRange>გვ. 86-87</citedRange></bibl>
-     <bibl n="21">აკაკი შანიძე, ბოლნისის წარწერები<ptr target="bibliography.xml#b57"/>, <citedRange>გვ. 30</citedRange></bibl>
-     <bibl n="22">რამაზ პატარიძე, ბოლნისის ტაძრის სამშენებლო წარწერები<ptr target="bibliography.xml#b137"/>, <citedRange>გვ. 140-159</citedRange></bibl>
-     <bibl n="23">ბ. მჭედლიშვილი, ბოლნისის სიონის დათარიღებისათვის<ptr target="bibliography.xml#b138"/>, <citedRange>გვ. 100-114</citedRange></bibl>
+     <bibl n="16">ალ. გამყრელიძე, ქართული დამწერლობის უძველესი ნიმუშები<ptr target="bibliography.xml#b62"/>, <citedRange> 14, 20</citedRange></bibl>
+     <bibl n="17">Ш. В. Дзидзигури, Грузинский язык, Краткий обзор<ptr target="bibliography.xml#b54"/>, <citedRange>8-9</citedRange></bibl>
+     <bibl n="18">შოთა ძიძიგური, ქართული ენის თავგადასავალი<ptr target="bibliography.xml#b116"/>, <citedRange> 16-17</citedRange></bibl>
+     <bibl n="19">ილია აბულაძე, ქართლი წერის ნიმუშები, პალეოგრაფიული ალბომი<ptr target="bibliography.xml#b89"/>, <citedRange> 6-7</citedRange></bibl>                    
+     <bibl n="20">ვალერი სილოგავა, ეპიგრაფიკული ეტიუდები<ptr target="bibliography.xml#b75"/>, <citedRange> 86-87</citedRange></bibl>
+     <bibl n="21">აკაკი შანიძე, ბოლნისის წარწერები<ptr target="bibliography.xml#b57"/>, <citedRange> 30</citedRange></bibl>
+     <bibl n="22">რამაზ პატარიძე, ბოლნისის ტაძრის სამშენებლო წარწერები<ptr target="bibliography.xml#b137"/>, <citedRange> 140-159</citedRange></bibl>
+     <bibl n="23">ბ. მჭედლიშვილი, ბოლნისის სიონის დათარიღებისათვის<ptr target="bibliography.xml#b138"/>, <citedRange> 100-114</citedRange></bibl>
      <bibl n="24">ე. მაჭავარიანი ბოლნისის სიონის საამშენებლო წარწერა<ptr target="bibliography.xml#b140"/></bibl>
-     <bibl n="25">გურამ ყიფიანი, ბოლნისის სიონის უძველესი წარწერა<ptr target="bibliography.xml#b139"/>, <citedRange>გვ. 666-675</citedRange></bibl>             
+     <bibl n="25">გურამ ყიფიანი, ბოლნისის სიონის უძველესი წარწერა<ptr target="bibliography.xml#b139"/>, <citedRange> 666-675</citedRange></bibl>             
          </listBibl>
             </div> 
             

@@ -96,8 +96,8 @@
         <body>
              <div type="bibliography">
                 <listBibl>
-                    <bibl n="1">თინათინ ყაუხჩიშვილი, საქართველოს ბერძნული წარწერების კორპუსი<ptr target="bibliography.xml#b130"/>, <citedRange>გვ. 263</citedRange></bibl>
-                    <bibl n="2">ქ. ჯავახიშვილი, გ. ნემსაძე, ზღუდერის სამაროვნის გლიპტიკური ძეგლები<ptr target="bibliography.xml#b154"/>, <citedRange>გვ. 129-154</citedRange></bibl>
+                    <bibl n="1">თინათინ ყაუხჩიშვილი, საქართველოს ბერძნული წარწერების კორპუსი<ptr target="bibliography.xml#b130"/>, <citedRange> 263</citedRange></bibl>
+                    <bibl n="2">ქ. ჯავახიშვილი, გ. ნემსაძე, ზღუდერის სამაროვნის გლიპტიკური ძეგლები<ptr target="bibliography.xml#b154"/>, <citedRange> 129-154</citedRange></bibl>
                 </listBibl>
             </div>
 

@@ -95,12 +95,12 @@
         <body>
              <div type="bibliography">
                 <listBibl>
-                    <bibl n="1">თინათინ ყაუხჩიშვილი, საქართველოს ბერძნული წარწერების კორპუსი<ptr target="bibliography.xml#b130"/>, <citedRange>გვ. 252-253</citedRange></bibl>
-                    <bibl n="2">თინათინ ყაუხჩიშვილი, საქართველოს ბერძნული წარწერების კორპუსი<ptr target="bibliography.xml#b81"/>, <citedRange>გვ. 252-253</citedRange></bibl>
-                    <bibl n="3">თინათინ ყაუხჩიშვილი, საქართველოს ბერძნული წარწერების კორპუსი<ptr target="bibliography.xml#b82"/>, <citedRange>გვ. 252-253</citedRange></bibl>
-                    <bibl n="4">თინათინ ყაუხჩიშვილი, ბერძნული წარწერები საქართველოში<ptr target="bibliography.xml#b80"/>, <citedRange>გვ. 242</citedRange></bibl>
-                    <bibl n="5">ა. ამირანაშვილი, Греческие надписи Музея Грузии<ptr target="bibliography.xml#b175"/>, <citedRange>გვ. 196-197</citedRange></bibl>
-                    <bibl n="6">Корпус боспорских надписей<ptr target="bibliography.xml#b176"/>, <citedRange>стр. 704-705</citedRange></bibl>
+                    <bibl n="1">თინათინ ყაუხჩიშვილი, საქართველოს ბერძნული წარწერების კორპუსი<ptr target="bibliography.xml#b130"/>, <citedRange> 252-253</citedRange></bibl>
+                    <bibl n="2">თინათინ ყაუხჩიშვილი, საქართველოს ბერძნული წარწერების კორპუსი<ptr target="bibliography.xml#b81"/>, <citedRange> 252-253</citedRange></bibl>
+                    <bibl n="3">თინათინ ყაუხჩიშვილი, საქართველოს ბერძნული წარწერების კორპუსი<ptr target="bibliography.xml#b82"/>, <citedRange> 252-253</citedRange></bibl>
+                    <bibl n="4">თინათინ ყაუხჩიშვილი, ბერძნული წარწერები საქართველოში<ptr target="bibliography.xml#b80"/>, <citedRange> 242</citedRange></bibl>
+                    <bibl n="5">ა. ამირანაშვილი, Греческие надписи Музея Грузии<ptr target="bibliography.xml#b175"/>, <citedRange> 196-197</citedRange></bibl>
+                    <bibl n="6">Корпус боспорских надписей<ptr target="bibliography.xml#b176"/>, <citedRange> 704-705</citedRange></bibl>
                 </listBibl>
             </div>
 

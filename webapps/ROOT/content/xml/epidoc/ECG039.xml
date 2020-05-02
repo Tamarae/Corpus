@@ -107,8 +107,8 @@
         <body>
             <div type="bibliography" subtype="principalEdition">
                 <listBibl>
-                <bibl n="1">ნოდარ შოშიაშვილი, ქართული წარწერების კორპუსი, ლაპიდარული წარწერები<ptr target="bibliography.xml#b101"/>, <citedRange>გვ. 81-82</citedRange></bibl>
-                <bibl n="2">ჯ. ამირანაშვილი, ადრეფეოდალური ხანის ქართული არქიტექტურისა და რელიეფური ქანდაკების ძეგლები<ptr target="bibliography.xml#b136"/>, <citedRange>გვ. 36</citedRange></bibl>
+                <bibl n="1">ნოდარ შოშიაშვილი, ქართული წარწერების კორპუსი, ლაპიდარული წარწერები<ptr target="bibliography.xml#b101"/>, <citedRange> 81-82</citedRange></bibl>
+                <bibl n="2">ჯ. ამირანაშვილი, ადრეფეოდალური ხანის ქართული არქიტექტურისა და რელიეფური ქანდაკების ძეგლები<ptr target="bibliography.xml#b136"/>, <citedRange> 36</citedRange></bibl>
                </listBibl>
              </div>  
             

@@ -191,6 +191,19 @@
             <item>
               <i18n:text i18n:key="name">Name</i18n:text>
             </item>
+            
+            <item>
+              <i18n:text i18n:key="date">Date</i18n:text>
+            </item>
+            
+            <item>
+              <i18n:text i18n:key="relation">Relationships</i18n:text>
+            </item>
+            
+            <item>
+              <i18n:text i18n:key="title">Occupation/Title</i18n:text>
+            </item>
+            
             <item>
               <i18n:text i18n:key="indices_ref">References</i18n:text>
             </item>

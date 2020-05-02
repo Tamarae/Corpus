@@ -99,9 +99,9 @@
         <body>
            <div type="bibliography"> 
                <listBibl>
-                <bibl n="1">თამაზ გოგოლაძე, თორის ხეობის ეპიგრაფიკული კორპუსი<ptr target="bibliography.xml#b130"/>,<citedRange>93-98გვ.</citedRange>1987</bibl>
-		        <bibl n="2">თედო ჟორდანია, ქროკები და სხვა მასალა<ptr target="bibliography.xml#b130"/>,<citedRange>180გვ.</citedRange>1997</bibl>
-				<bibl n="3">ივანე ჯავახიშვილი, ქართველი ერის ისტორია, წიგნი 3<ptr target="bibliography.xml#b130"/>,<citedRange>258-259გვ.</citedRange>1949</bibl>
+                <bibl n="1">თამაზ გოგოლაძე, თორის ხეობის ეპიგრაფიკული კორპუსი<ptr target="bibliography.xml#b130"/>,<citedRange>93-98</citedRange>1987</bibl>
+		        <bibl n="2">თედო ჟორდანია, ქროკები და სხვა მასალა<ptr target="bibliography.xml#b130"/>,<citedRange>180</citedRange>1997</bibl>
+				<bibl n="3">ივანე ჯავახიშვილი, ქართველი ერის ისტორია, წიგნი 3<ptr target="bibliography.xml#b130"/>,<citedRange>258-259</citedRange>1949</bibl>
 
 
 		   </listBibl>

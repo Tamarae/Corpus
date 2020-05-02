@@ -100,13 +100,13 @@
         <body>
               <div type="bibliography">
               <listBibl>
-                   <bibl n="1">გიორგი წერეთელი, უძველესი ქართული წარწერები პალესტინიდან<ptr target="bibliography.xml#b67"/>, <citedRange>გვ. 94</citedRange></bibl>
-                   <bibl n="2">კორნელი დანელია, ზურაბ სარჯველაძე, ქართული პალეოგრაფია<ptr target="bibliography.xml#b92"/>, <citedRange>გვ. 28-31</citedRange></bibl>
-                   <bibl n="3">Virjilio Corbo, M. Tarchnishvili, „La Terra Santa“<ptr target="bibliography.xml#b32"/>, <citedRange>pp. 181-186</citedRange></bibl>
+                   <bibl n="1">გიორგი წერეთელი, უძველესი ქართული წარწერები პალესტინიდან<ptr target="bibliography.xml#b67"/>, <citedRange> 94</citedRange></bibl>
+                   <bibl n="2">კორნელი დანელია, ზურაბ სარჯველაძე, ქართული პალეოგრაფია<ptr target="bibliography.xml#b92"/>, <citedRange> 28-31</citedRange></bibl>
+                   <bibl n="3">Virjilio Corbo, M. Tarchnishvili, „La Terra Santa“<ptr target="bibliography.xml#b32"/>, <citedRange>181-186</citedRange></bibl>
                   <bibl n="4">მიხეილ თარხნიშვილი, ახლად აღმოჩენილი ქართველთა მონასტერი ბეთლემში<ptr target="bibliography.xml#b96"/></bibl>
-                  <bibl n="5">Virjilio Corbo, Gli scavi di Kh. Siyar el-Ghanam (Campo dei Pastori) e i monasteri dei dintorni<ptr target="bibliography.xml#b30"/>, <citedRange>pp. 135-140</citedRange></bibl>
+                  <bibl n="5">Virjilio Corbo, Gli scavi di Kh. Siyar el-Ghanam (Campo dei Pastori) e i monasteri dei dintorni<ptr target="bibliography.xml#b30"/>, <citedRange>135-140</citedRange></bibl>
               <bibl n="6">შალვა ნუცუბიძე, პალესტინის ახალი გათხრები და ქართული კულტურის საკითხები<ptr target="bibliography.xml#b117"/></bibl>
-              <bibl n="7">სიმონ ყაუხჩიშვილი, „ქართლის ცხოვრება“<ptr target="bibliography.xml#b109"/>, <citedRange>გვ. 061</citedRange></bibl> 
+              <bibl n="7">სიმონ ყაუხჩიშვილი, „ქართლის ცხოვრება“<ptr target="bibliography.xml#b109"/>, <citedRange> 061</citedRange></bibl> 
               <bibl n="7">Besik Khurtsilava, About the old georgian inscriptions from Bir El-Qutt in Jerusalem<ptr target="bibliography.xml#b8"/></bibl>
               </listBibl>
                 </div>

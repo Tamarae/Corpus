@@ -96,9 +96,9 @@
         <body>
              <div type="bibliography">
                 <listBibl>
-                    <bibl n="1">თინათინ ყაუხჩიშვილი, საქართველოს ბერძნული წარწერების კორპუსი<ptr target="bibliography.xml#b130"/>, <citedRange>გვ. 265-266</citedRange></bibl>
-                    <bibl n="2">თინათინ ყაუხჩიშვილი, ბერძნული წარწერები საქართველოში<ptr target="bibliography.xml#b80"/>, <citedRange>გვ. 259</citedRange></bibl>
-                    <bibl n="3">A. Zakharow, Gemmen und Siegel des Museums Georgiens<ptr target="bibliography.xml#b155"/>, <citedRange>p. 263</citedRange></bibl>
+                    <bibl n="1">თინათინ ყაუხჩიშვილი, საქართველოს ბერძნული წარწერების კორპუსი<ptr target="bibliography.xml#b130"/>, <citedRange> 265-266</citedRange></bibl>
+                    <bibl n="2">თინათინ ყაუხჩიშვილი, ბერძნული წარწერები საქართველოში<ptr target="bibliography.xml#b80"/>, <citedRange> 259</citedRange></bibl>
+                    <bibl n="3">A. Zakharow, Gemmen und Siegel des Museums Georgiens<ptr target="bibliography.xml#b155"/>, <citedRange>263</citedRange></bibl>
                 </listBibl>
             </div>
 

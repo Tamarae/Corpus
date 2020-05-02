@@ -104,11 +104,11 @@
         <body>
             <div type="bibliography">
           <listBibl>
-         <bibl n="1">ნოდარ შოშიაშვილი, ქართული წარწერების კორპუსი, ლაპიდარული წარწერები<ptr target="bibliography.xml#b101"/>, <citedRange>გვ. 74-75</citedRange></bibl>
-         <bibl n="2">ლევან მუსხელიშვილი, ბოლნისი<ptr target="bibliography.xml#b93"/>, <citedRange>გვ. 330-332</citedRange></bibl>
-         <bibl n="3">Н. Г. Чубинашвили, Болнисский сион<ptr target="bibliography.xml#b45"/>, <citedRange>ст. 40, 73</citedRange></bibl>
-         <bibl n="4">დავით ბერძენიშვილი, ბოლნისის ისტორიული გეოგრაფიის საკითხები<ptr target="bibliography.xml#b14"/>, <citedRange>გვ. 23</citedRange></bibl>
-         <bibl n="5">Н. Г. Чубинашвили, Хандиси<ptr target="bibliography.xml#b48"/>, <citedRange>ст. 65</citedRange></bibl>
+         <bibl n="1">ნოდარ შოშიაშვილი, ქართული წარწერების კორპუსი, ლაპიდარული წარწერები<ptr target="bibliography.xml#b101"/>, <citedRange> 74-75</citedRange></bibl>
+         <bibl n="2">ლევან მუსხელიშვილი, ბოლნისი<ptr target="bibliography.xml#b93"/>, <citedRange> 330-332</citedRange></bibl>
+         <bibl n="3">Н. Г. Чубинашвили, Болнисский сион<ptr target="bibliography.xml#b45"/>, <citedRange>40, 73</citedRange></bibl>
+         <bibl n="4">დავით ბერძენიშვილი, ბოლნისის ისტორიული გეოგრაფიის საკითხები<ptr target="bibliography.xml#b14"/>, <citedRange> 23</citedRange></bibl>
+         <bibl n="5">Н. Г. Чубинашвили, Хандиси<ptr target="bibliography.xml#b48"/>, <citedRange>65</citedRange></bibl>
         </listBibl>
             </div> 
             

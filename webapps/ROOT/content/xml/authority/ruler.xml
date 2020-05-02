@@ -180,9 +180,11 @@
                 
               
               <listPerson type="persian">
+                  
                   <person xml:id="peroz">
                       <persName xml:lang="ka">პეროზ მეფე</persName>
                   </person>
+                  
               </listPerson>
             </div>
         </body>

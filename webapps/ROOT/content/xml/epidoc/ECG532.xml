@@ -96,10 +96,10 @@
         <body>
            <div type="bibliography"> 
                <listBibl>
-                <bibl n="1">თამაზ გოგოლაძე,თორის ხეობის ეპიგრაფიკული კორპუსი<ptr target="bibliography.xml#b130"/>,<citedRange>102-106გვ.</citedRange>1987</bibl>
-		        <bibl n="2">ვახტანგ ბერიძე, სამცხის ხუროთმოძღვრება XIII-XVI საუკუნეებში <ptr target="bibliography.xml#b130"/>,<citedRange>217-218გვ.</citedRange>1955</bibl>
-                <bibl n="3"> ვლადიმერ აბულაძე, ბორჯომის ხეობის წარსული და აწმყო<ptr target="bibliography.xml#b130"/>,<citedRange>52,53 გვ.</citedRange>1983</bibl>
-                <bibl n="4">სერგი მაკალათია, ბორჯომის ხეობა<ptr target="bibliography.xml#b130"/>,<citedRange>16-18გვ.</citedRange>1987</bibl>
+                <bibl n="1">თამაზ გოგოლაძე,თორის ხეობის ეპიგრაფიკული კორპუსი<ptr target="bibliography.xml#b130"/>,<citedRange>102-106</citedRange>1987</bibl>
+		        <bibl n="2">ვახტანგ ბერიძე, სამცხის ხუროთმოძღვრება XIII-XVI საუკუნეებში <ptr target="bibliography.xml#b130"/>,<citedRange>217-218</citedRange>1955</bibl>
+                <bibl n="3"> ვლადიმერ აბულაძე, ბორჯომის ხეობის წარსული და აწმყო<ptr target="bibliography.xml#b130"/>,<citedRange>52,53 </citedRange>1983</bibl>
+                <bibl n="4">სერგი მაკალათია, ბორჯომის ხეობა<ptr target="bibliography.xml#b130"/>,<citedRange>16-18</citedRange>1987</bibl>
 
 		   </listBibl>
            </div>

@@ -100,9 +100,9 @@
         <body>
            <div type="bibliography"> <!-- არ ემთხვევა ბიბლიოგრაფიას, სილოგავას 1987 წლის ნაშრომი არ იძებნება -->
                <listBibl>
-                <bibl n="1">თამაზ გოგოლაძე,თორის ხეობის ეპიგრაფიკული კორპუსი<ptr target="bibliography.xml#b130"/>,<citedRange>41-42 გვ.</citedRange>2019</bibl>
-                <bibl n="2">დევი ბერძენიშვილი,არქიტექტურულ-ისტორიული გზამკვლევი "გუჯარეთი"<ptr target="bibliography.xml#b130"/>,<citedRange>26 გვ.</citedRange>1987</bibl>
-                <bibl n="3">თამაზ გოგოლაძე,ბორჯომის ხეობის ისტორიული და ხუროთმოძღვრული ძეგლები (გზამკვლევი)<ptr target="bibliography.xml#b130"/>,<citedRange>96 გვ.</citedRange>2014</bibl>
+                <bibl n="1">თამაზ გოგოლაძე,თორის ხეობის ეპიგრაფიკული კორპუსი<ptr target="bibliography.xml#b130"/>,<citedRange>41-42 </citedRange>2019</bibl>
+                <bibl n="2">დევი ბერძენიშვილი,არქიტექტურულ-ისტორიული გზამკვლევი "გუჯარეთი"<ptr target="bibliography.xml#b130"/>,<citedRange>26 </citedRange>1987</bibl>
+                <bibl n="3">თამაზ გოგოლაძე,ბორჯომის ხეობის ისტორიული და ხუროთმოძღვრული ძეგლები (გზამკვლევი)<ptr target="bibliography.xml#b130"/>,<citedRange>96 </citedRange>2014</bibl>
             </listBibl>
            </div>
             <div type="edition" xml:lang="ka" xml:space="preserve">     

@@ -99,11 +99,11 @@
         <body>           
               <div type="bibliography">
                <listBibl>
-    <bibl n="1">ლეონ მელიქსეთ-ბეგი, ქობერი და მისი სომხური და ქართული წარწერები<ptr target="bibliography.xml#b169"/>, <citedRange>გვ. 60-73</citedRange></bibl>
-    <bibl n="2">M. Brosset, Rapports sur un Voyage Archéologiqye dans la Géorgia et dans l'Academie, Exécute en 1847-1848<ptr target="bibliography.xml#b170"/>, <citedRange>pp. 136-137, 139-140</citedRange></bibl>
-    <bibl n="3">თედო ჟორდანია, ქრონიკები და სხვა მასალა საქართველოს ისტორიისა და მწერლობისა<ptr target="bibliography.xml#b171"/>, <citedRange>გვ. 168</citedRange></bibl>
-    <bibl n="4">პარუირ მურადიანი, სომხეთის ქართული წარწერები, წყაროთმცოდნეობითი გამოკვლევა (სომხურ ენაზე)<ptr target="bibliography.xml#b166"/>, <citedRange>გვ. 171-173, 296, ტაბ. XVII, სურ. 1 და 2</citedRange></bibl>            
-    <bibl n="5">შოთა მესხია, საშინაო პოლიტიკური ვითარება და სამოხელეო წყობა XII საუკუნის საქართველოში<ptr target="bibliography.xml#b172"/>, <citedRange>გვ. 270</citedRange></bibl>       
+    <bibl n="1">ლეონ მელიქსეთ-ბეგი, ქობერი და მისი სომხური და ქართული წარწერები<ptr target="bibliography.xml#b169"/>, <citedRange> 60-73</citedRange></bibl>
+    <bibl n="2">M. Brosset, Rapports sur un Voyage Archéologiqye dans la Géorgia et dans l'Academie, Exécute en 1847-1848<ptr target="bibliography.xml#b170"/>, <citedRange>136-137, 139-140</citedRange></bibl>
+    <bibl n="3">თედო ჟორდანია, ქრონიკები და სხვა მასალა საქართველოს ისტორიისა და მწერლობისა<ptr target="bibliography.xml#b171"/>, <citedRange> 168</citedRange></bibl>
+    <bibl n="4">პარუირ მურადიანი, სომხეთის ქართული წარწერები, წყაროთმცოდნეობითი გამოკვლევა (სომხურ ენაზე)<ptr target="bibliography.xml#b166"/>, <citedRange> 171-173, 296, ტაბ. XVII, სურ. 1 და 2</citedRange></bibl>            
+    <bibl n="5">შოთა მესხია, საშინაო პოლიტიკური ვითარება და სამოხელეო წყობა XII საუკუნის საქართველოში<ptr target="bibliography.xml#b172"/>, <citedRange> 270</citedRange></bibl>       
                </listBibl>
               </div>
             

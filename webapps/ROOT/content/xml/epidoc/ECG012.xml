@@ -122,19 +122,19 @@
         <body>
             <div type="bibliography">
                 <listBibl>
-             <bibl n="1"><ptr target="bibliography.xml#b101"/>ნოდარ შოშიაშვილი, ქართული წარწერების კორპუსი, <citedRange>გვ. 97-99</citedRange></bibl>
-             <bibl n="2"><ptr target="bibliography.xml#b92"/>კორნელი დანელია, ზურაბ სარჯველაძე, ქართული პალეოგრაფია, <citedRange>გვ. 34</citedRange></bibl>
-             <bibl n="3"><ptr target="bibliography.xml#b59"/>აკაკი შანიძე, ძველი ქართულის ქრესტომათია ლექსიკონითურთ, <citedRange>გვ. 25, 108</citedRange></bibl>
-             <bibl n="4"><ptr target="bibliography.xml#b110"/>სიმონ ჯანაშია, ფეოდალური რევოლუცია საქართველოში, <citedRange>გვ. 99</citedRange></bibl>
-             <bibl n="5"><ptr target="bibliography.xml#b58"/>აკაკი შანიძე, ხუნამისის წარწერის განმარტებისათვის, <citedRange>გვ. 222-223</citedRange></bibl>
-             <bibl n="6"><ptr target="bibliography.xml#b112"/>ქართული ენის ისტორიული ქრესტომათია, <citedRange>გვ. 2-3</citedRange></bibl>
-             <bibl n="7"><ptr target="bibliography.xml#b23"/>M. Tarchnišvili, Le soulévement de Bardas Skléros, <citedRange>გვ. 253-254</citedRange></bibl>
-             <bibl n="8"><ptr target="bibliography.xml#b111"/>საქართველოს სახელმწიფო მუზეუმის ქართული ეპიგრაფიკული ძეგლების კატალოგი, <citedRange>გვ. 19</citedRange></bibl>
+             <bibl n="1"><ptr target="bibliography.xml#b101"/>ნოდარ შოშიაშვილი, ქართული წარწერების კორპუსი, <citedRange> 97-99</citedRange></bibl>
+             <bibl n="2"><ptr target="bibliography.xml#b92"/>კორნელი დანელია, ზურაბ სარჯველაძე, ქართული პალეოგრაფია, <citedRange> 34</citedRange></bibl>
+             <bibl n="3"><ptr target="bibliography.xml#b59"/>აკაკი შანიძე, ძველი ქართულის ქრესტომათია ლექსიკონითურთ, <citedRange> 25, 108</citedRange></bibl>
+             <bibl n="4"><ptr target="bibliography.xml#b110"/>სიმონ ჯანაშია, ფეოდალური რევოლუცია საქართველოში, <citedRange> 99</citedRange></bibl>
+             <bibl n="5"><ptr target="bibliography.xml#b58"/>აკაკი შანიძე, ხუნამისის წარწერის განმარტებისათვის, <citedRange> 222-223</citedRange></bibl>
+             <bibl n="6"><ptr target="bibliography.xml#b112"/>ქართული ენის ისტორიული ქრესტომათია, <citedRange> 2-3</citedRange></bibl>
+             <bibl n="7"><ptr target="bibliography.xml#b23"/>M. Tarchnišvili, Le soulévement de Bardas Skléros, <citedRange> 253-254</citedRange></bibl>
+             <bibl n="8"><ptr target="bibliography.xml#b111"/>საქართველოს სახელმწიფო მუზეუმის ქართული ეპიგრაფიკული ძეგლების კატალოგი, <citedRange> 19</citedRange></bibl>
         <!--    <bibl n="9"><ptr target="bibliography.xml#b15"/>I. Molitor MIA CSCO</bibl>  -->
-             <bibl n="10"><ptr target="bibliography.xml#b46"/>Н. Г. Чубинашвили, Зедазени, Кликис-Джвари, Гвиара, <citedRange>გვ. 10</citedRange></bibl>
-             <bibl n="11"><ptr target="bibliography.xml#b26"/>N. Tchubinachvili. Gáscension de la Croix, <citedRange>გვ. 206-208</citedRange></bibl>
-             <bibl n="12"><ptr target="bibliography.xml#b62"/>ალ. გამყრელიძე, ქართული დამწერლობის უძველესი ნიმუშები, <citedRange>გვ. 22</citedRange></bibl>
-             <bibl n="13"><ptr target="bibliography.xml#b76"/>ვალერი სილოგავა, ქართული სამართლის ძეგლები დასავლეთ საქართველოს ლაპიდარულ წარწერებში, <citedRange>გვ. 146</citedRange></bibl>
+             <bibl n="10"><ptr target="bibliography.xml#b46"/>Н. Г. Чубинашвили, Зедазени, Кликис-Джвари, Гвиара, <citedRange> 10</citedRange></bibl>
+             <bibl n="11"><ptr target="bibliography.xml#b26"/>N. Tchubinachvili. Gáscension de la Croix, <citedRange> 206-208</citedRange></bibl>
+             <bibl n="12"><ptr target="bibliography.xml#b62"/>ალ. გამყრელიძე, ქართული დამწერლობის უძველესი ნიმუშები, <citedRange> 22</citedRange></bibl>
+             <bibl n="13"><ptr target="bibliography.xml#b76"/>ვალერი სილოგავა, ქართული სამართლის ძეგლები დასავლეთ საქართველოს ლაპიდარულ წარწერებში, <citedRange> 146</citedRange></bibl>
              </listBibl>
             </div>
 

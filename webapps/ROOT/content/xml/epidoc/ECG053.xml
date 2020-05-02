@@ -103,35 +103,35 @@
         <body>
             <div type="bibliography">
                 <listBibl>
-     <bibl n="1">ნოდარ შოშიაშვილი, ქართული წარწერების კორპუსი, ლაპიდარული წარწერები<ptr target="bibliography.xml#b101"/>, <citedRange>გვ. 67-68</citedRange></bibl>
-     <bibl n="2">კორნელი დანელია, ზურაბ სარჯველაძე, ქართული პალეოგრაფია<ptr target="bibliography.xml#b92"/>, <citedRange>გვ. 16-17</citedRange></bibl>  
+     <bibl n="1">ნოდარ შოშიაშვილი, ქართული წარწერების კორპუსი, ლაპიდარული წარწერები<ptr target="bibliography.xml#b101"/>, <citedRange> 67-68</citedRange></bibl>
+     <bibl n="2">კორნელი დანელია, ზურაბ სარჯველაძე, ქართული პალეოგრაფია<ptr target="bibliography.xml#b92"/>, <citedRange> 16-17</citedRange></bibl>  
      <bibl n="3">M. Brosset, Letres dn M. Bartholomaei relatives aux auntiquites géorgienns<ptr target="bibliography.xml#b19"/></bibl>
-     <bibl n="4">ივანე ჯავახიშვილი, ახლად აღმოჩენილი უძველესი ქართული ხელნაწერები და მათი მნიშვნელობა მეცნიერებისათვის<ptr target="bibliography.xml#b85"/>, <citedRange>გვ. 320-323</citedRange></bibl>
-     <bibl n="5">აკაკი შანიძე, ნაშთები III პირის ობიექტური პრეფიქსის ხმარებისა ხმოვნების წინ ქართულ ზმნაში<ptr target="bibliography.xml#b60"/>, <citedRange>გვ. 277</citedRange></bibl>
-     <bibl n="6">ივანე ჯავახიშვილი, ქართული დამწერლობათმცოდნეობა ანუ პალეოგრაფია<ptr target="bibliography.xml#b86"/>, <citedRange>გვ. 158</citedRange></bibl>
-     <bibl n="7">გიორგი ჩუბინაშვილი, რამოდენიმე თავი ქართული ხელოვნების ისტორიიდან<ptr target="bibliography.xml#b66"/>, <citedRange>გვ. 61</citedRange></bibl>
-     <bibl n="8">აკაკი შანიძე, ძველი ქართულის ქრესტომათია ლექსიკონითურთ<ptr target="bibliography.xml#b59"/>, <citedRange>გვ. 1, 107</citedRange></bibl>
-     <bibl n="9">გიორგი ჩუბინაშვილი, ქართული ხელოვნების ისტორია<ptr target="bibliography.xml#b131"/>, <citedRange>გვ. 42</citedRange></bibl>
-     <bibl n="10">ლევან მუსხელიშვილი, ბოლნისი<ptr target="bibliography.xml#b93"/>, <citedRange>გვ.  328-329</citedRange></bibl>
-     <bibl n="11">Н. Г. Чубинашвили, Болнисский сион<ptr target="bibliography.xml#b45"/>, <citedRange>ст. 63-68</citedRange></bibl>
-     <bibl n="12">ივანე ჯავახიშვილი, ქართული დამწერლობათმცოდნეობა ანუ პალეოგრაფია<ptr target="bibliography.xml#b87"/>, <citedRange>გვ. 163, 279-280</citedRange></bibl>
-     <bibl n="13">ილია აბულაძე, ქართლი წერის ნიმუშები, პალეოგრაფიული ალბომი<ptr target="bibliography.xml#b88"/>, <citedRange>გვ. 4-5</citedRange></bibl> 
+     <bibl n="4">ივანე ჯავახიშვილი, ახლად აღმოჩენილი უძველესი ქართული ხელნაწერები და მათი მნიშვნელობა მეცნიერებისათვის<ptr target="bibliography.xml#b85"/>, <citedRange> 320-323</citedRange></bibl>
+     <bibl n="5">აკაკი შანიძე, ნაშთები III პირის ობიექტური პრეფიქსის ხმარებისა ხმოვნების წინ ქართულ ზმნაში<ptr target="bibliography.xml#b60"/>, <citedRange> 277</citedRange></bibl>
+     <bibl n="6">ივანე ჯავახიშვილი, ქართული დამწერლობათმცოდნეობა ანუ პალეოგრაფია<ptr target="bibliography.xml#b86"/>, <citedRange> 158</citedRange></bibl>
+     <bibl n="7">გიორგი ჩუბინაშვილი, რამოდენიმე თავი ქართული ხელოვნების ისტორიიდან<ptr target="bibliography.xml#b66"/>, <citedRange> 61</citedRange></bibl>
+     <bibl n="8">აკაკი შანიძე, ძველი ქართულის ქრესტომათია ლექსიკონითურთ<ptr target="bibliography.xml#b59"/>, <citedRange> 1, 107</citedRange></bibl>
+     <bibl n="9">გიორგი ჩუბინაშვილი, ქართული ხელოვნების ისტორია<ptr target="bibliography.xml#b131"/>, <citedRange> 42</citedRange></bibl>
+     <bibl n="10">ლევან მუსხელიშვილი, ბოლნისი<ptr target="bibliography.xml#b93"/>, <citedRange>  328-329</citedRange></bibl>
+     <bibl n="11">Н. Г. Чубинашвили, Болнисский сион<ptr target="bibliography.xml#b45"/>, <citedRange>63-68</citedRange></bibl>
+     <bibl n="12">ივანე ჯავახიშვილი, ქართული დამწერლობათმცოდნეობა ანუ პალეოგრაფია<ptr target="bibliography.xml#b87"/>, <citedRange> 163, 279-280</citedRange></bibl>
+     <bibl n="13">ილია აბულაძე, ქართლი წერის ნიმუშები, პალეოგრაფიული ალბომი<ptr target="bibliography.xml#b88"/>, <citedRange> 4-5</citedRange></bibl> 
      <bibl n="14">ქართული ენის ისტორიული ქრესტომათია<ptr target="bibliography.xml#b112"/></bibl>            
-     <bibl n="15">M. Tarchnišvili, Les récentes découverstes épigraphiques et litteraires en géorgien<ptr target="bibliography.xml#b24"/>, <citedRange>p. 250</citedRange></bibl>              
-     <bibl n="16">I. Molitor MIA CSCO<ptr target="bibliography.xml#b15"/>, <citedRange>p. 1, 1</citedRange></bibl>
-     <bibl n="17">აკაკი შანიძე, ქართული ენის სტრუქტურისა და ისტორიის საკითხები<ptr target="bibliography.xml#b61"/>, <citedRange>გვ. 278</citedRange></bibl>
-     <bibl n="18">შალვა ამირანაშვილი, ბოლნისის  ტაძრის აგების თარიღის დაზუსტებისათვის<ptr target="bibliography.xml#b113"/>, <citedRange>გვ.3</citedRange></bibl>
+     <bibl n="15">M. Tarchnišvili, Les récentes découverstes épigraphiques et litteraires en géorgien<ptr target="bibliography.xml#b24"/>, <citedRange>250</citedRange></bibl>              
+     <bibl n="16">I. Molitor MIA CSCO<ptr target="bibliography.xml#b15"/>, <citedRange>1, 1</citedRange></bibl>
+     <bibl n="17">აკაკი შანიძე, ქართული ენის სტრუქტურისა და ისტორიის საკითხები<ptr target="bibliography.xml#b61"/>, <citedRange> 278</citedRange></bibl>
+     <bibl n="18">შალვა ამირანაშვილი, ბოლნისის  ტაძრის აგების თარიღის დაზუსტებისათვის<ptr target="bibliography.xml#b113"/>, <citedRange>3</citedRange></bibl>
      <bibl n="19">G. Deeters, Das Alter der georgischen Schrift<ptr target="bibliography.xml#b12"/>, <citedRange>p.63</citedRange></bibl>
-     <bibl n="20">კორნელი კეკელიძე, ბოლნისის ტაძრის წარწერების ინტერპრეტაციისათვის<ptr target="bibliography.xml#b90"/>, <citedRange>გვ. 418</citedRange></bibl>
+     <bibl n="20">კორნელი კეკელიძე, ბოლნისის ტაძრის წარწერების ინტერპრეტაციისათვის<ptr target="bibliography.xml#b90"/>, <citedRange> 418</citedRange></bibl>
      <bibl n="21">ნ. ჯანბერიძე, ქართული არქიტექტურის ძეგლები<ptr target="bibliography.xml#b89"/></bibl>
-     <bibl n="22">В. Беридзе, Грузинская архитектура с древнейших времен до начала ΧΧ века<ptr target="bibliography.xml#b36"/>, <citedRange>ст. 27</citedRange></bibl>          
-     <bibl n="23">ილია აბულაძე, ქართლი წერის ნიმუშები, პალეოგრაფიული ალბომი<ptr target="bibliography.xml#b89"/>, <citedRange>გვ. 8-9</citedRange></bibl>                                  
-     <bibl n="24">Н. Г. Чубинашвили, Хандиси<ptr target="bibliography.xml#b48"/>, <citedRange>ст. 64</citedRange></bibl>               
-     <bibl n="25">აკაკი შანიძე, ბოლნისის წარწერები<ptr target="bibliography.xml#b57"/>, <citedRange>გვ. 29</citedRange></bibl>
-     <bibl n="26">რამაზ პატარიძე, ბოლნისის ტაძრის სამშენებლო წარწერები<ptr target="bibliography.xml#b137"/>, <citedRange>გვ. 140-159</citedRange></bibl>
-     <bibl n="27">ბ. მჭედლიშვილი, ბოლნისის სიონის დათარიღებისათვის<ptr target="bibliography.xml#b138"/>, <citedRange>გვ. 100-114</citedRange></bibl>
+     <bibl n="22">В. Беридзе, Грузинская архитектура с древнейших времен до начала ΧΧ века<ptr target="bibliography.xml#b36"/>, <citedRange>27</citedRange></bibl>          
+     <bibl n="23">ილია აბულაძე, ქართლი წერის ნიმუშები, პალეოგრაფიული ალბომი<ptr target="bibliography.xml#b89"/>, <citedRange> 8-9</citedRange></bibl>                                  
+     <bibl n="24">Н. Г. Чубинашвили, Хандиси<ptr target="bibliography.xml#b48"/>, <citedRange>64</citedRange></bibl>               
+     <bibl n="25">აკაკი შანიძე, ბოლნისის წარწერები<ptr target="bibliography.xml#b57"/>, <citedRange> 29</citedRange></bibl>
+     <bibl n="26">რამაზ პატარიძე, ბოლნისის ტაძრის სამშენებლო წარწერები<ptr target="bibliography.xml#b137"/>, <citedRange> 140-159</citedRange></bibl>
+     <bibl n="27">ბ. მჭედლიშვილი, ბოლნისის სიონის დათარიღებისათვის<ptr target="bibliography.xml#b138"/>, <citedRange> 100-114</citedRange></bibl>
      <bibl n="28">ე. მაჭავარიანი ბოლნისის სიონის საამშენებლო წარწერა<ptr target="bibliography.xml#b140"/></bibl>
-     <bibl n="29">გურამ ყიფიანი, ბოლნისის სიონის უძველესი წარწერა<ptr target="bibliography.xml#b139"/>, <citedRange>გვ. 666-675</citedRange></bibl>
+     <bibl n="29">გურამ ყიფიანი, ბოლნისის სიონის უძველესი წარწერა<ptr target="bibliography.xml#b139"/>, <citedRange> 666-675</citedRange></bibl>
        </listBibl>
             </div> 
             
@@ -186,7 +186,7 @@
              </div>
             
             <div type="commentary">
-                <p> ნოდარ შოშიაშვილის ქართული წარწერების კორპუსის მიხედვით #3. წარწერა პირველად გამოსცა მარი ბროსემ 1856 წელს (იხ. Melanges Asiatiques, II, გვ. 322-323).
+                <p> ნოდარ შოშიაშვილის ქართული წარწერების კორპუსის მიხედვით #3. წარწერა პირველად გამოსცა მარი ბროსემ 1856 წელს (იხ. Melanges Asiatiques, II,  322-323).
                     წარწერას განკვეთილობის ნიშნები არ ახლავს. სიტყვები ერთმანეთისაგან არ არის დაცილებული. 
                     ქარაგმის ნიშნად ნახმარია მოკლე, სწორი, განივი ხაზი (მისი ნაშთი ჩანს მხოლოდ ტექსტის მეორე სიტყვაზე. პირველ სიტყვაზე ქარაგმის ადგილი დაზიანებულია).
                     წარწერა პალეოგრაფიული თვალსაზრისით ფრიად არქაულია: თავშეკრულია Ⴁ, Ⴗ და Ⴣ გრაფემები. 

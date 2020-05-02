@@ -107,9 +107,9 @@
         <body>
              <div type="bibliography">
                 <listBibl>
-                <bibl n="1">ნოდარ შოშიაშვილი, ქართული წარწერების კორპუსი, ლაპიდარული წარწერები<ptr target="bibliography.xml#b101"/>, <citedRange>გვ. 83-84</citedRange></bibl>
-                <bibl n="2">კორნელი დანელია, ზურაბ სარჯველაძე, ქართული პალეოგრაფია<ptr target="bibliography.xml#b92"/>, <citedRange>გვ. 23</citedRange></bibl>
-                <bibl n="3">ჯ. ამირანაშვილი, ადრეფეოდალური ხანის ქართული არქიტექტურისა და რელიეფური ქანდაკების ძეგლები<ptr target="bibliography.xml#b136"/>, <citedRange>გვ. 34-35</citedRange></bibl>
+                <bibl n="1">ნოდარ შოშიაშვილი, ქართული წარწერების კორპუსი, ლაპიდარული წარწერები<ptr target="bibliography.xml#b101"/>, <citedRange> 83-84</citedRange></bibl>
+                <bibl n="2">კორნელი დანელია, ზურაბ სარჯველაძე, ქართული პალეოგრაფია<ptr target="bibliography.xml#b92"/>, <citedRange> 23</citedRange></bibl>
+                <bibl n="3">ჯ. ამირანაშვილი, ადრეფეოდალური ხანის ქართული არქიტექტურისა და რელიეფური ქანდაკების ძეგლები<ptr target="bibliography.xml#b136"/>, <citedRange> 34-35</citedRange></bibl>
                </listBibl>
             </div> 
             

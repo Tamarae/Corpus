@@ -104,8 +104,8 @@
         <body>           
             <div type="bibliography">
                <listBibl> 
- <bibl n="1">ზაზა ალექსიძე, ლუვრი - ახტალა<ptr target="bibliography.xml#b160"/>, <citedRange>გვ. 316-330</citedRange></bibl>
- <bibl n="2">ზაზა ალექსიძე, ლუვრი, სინას მთა, ნაზარეთი, ეპიგრაფიკული ეტიუდები<ptr target="bibliography.xml#b124"/>, <citedRange>გვ. 13-25</citedRange></bibl>
+ <bibl n="1">ზაზა ალექსიძე, ლუვრი - ახტალა<ptr target="bibliography.xml#b160"/>, <citedRange> 316-330</citedRange></bibl>
+ <bibl n="2">ზაზა ალექსიძე, ლუვრი, სინას მთა, ნაზარეთი, ეპიგრაფიკული ეტიუდები<ptr target="bibliography.xml#b124"/>, <citedRange> 13-25</citedRange></bibl>
                </listBibl> 
             </div>                                 
                     

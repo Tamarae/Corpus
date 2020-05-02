@@ -94,9 +94,9 @@
         <body>
              <div type="bibliography">
                 <listBibl>
-                    <bibl n="1">თინათინ ყაუხჩიშვილი, საქართველოს ბერძნული წარწერების კორპუსი<ptr target="bibliography.xml#b130"/>, <citedRange>გვ. 260-261</citedRange></bibl>
-                    <bibl n="2">თინათინ ყაუხჩიშვილი, ბერძნული წარწერები საქართველოში<ptr target="bibliography.xml#b80"/>, <citedRange>გვ. 263</citedRange></bibl>
-                    <bibl n="3">მარგ. ლორთქიფანიძე, ძველი საქართველოს გლიპტიკური ძეგლების კორპუსი<ptr target="bibliography.xml#b151"/>, <citedRange>გვ. 133</citedRange></bibl>
+                    <bibl n="1">თინათინ ყაუხჩიშვილი, საქართველოს ბერძნული წარწერების კორპუსი<ptr target="bibliography.xml#b130"/>, <citedRange> 260-261</citedRange></bibl>
+                    <bibl n="2">თინათინ ყაუხჩიშვილი, ბერძნული წარწერები საქართველოში<ptr target="bibliography.xml#b80"/>, <citedRange> 263</citedRange></bibl>
+                    <bibl n="3">მარგ. ლორთქიფანიძე, ძველი საქართველოს გლიპტიკური ძეგლების კორპუსი<ptr target="bibliography.xml#b151"/>, <citedRange> 133</citedRange></bibl>
                 </listBibl>
             </div>
                  

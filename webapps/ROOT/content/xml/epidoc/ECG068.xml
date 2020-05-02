@@ -99,13 +99,13 @@
         <body>
         <div type="bibliography">
      <listBibl>
-     <bibl n="1">ნოდარ შოშიაშვილი, ქართული წარწერების კორპუსი, ლაპიდარული წარწერები<ptr target="bibliography.xml#b101"/>, <citedRange>გვ. 248-250</citedRange></bibl>
-     <bibl n="2">კორნელი დანელია, ზურაბ სარჯველაძე, ქართული პალეოგრაფია<ptr target="bibliography.xml#b92"/>, <citedRange>გვ. 20-21</citedRange></bibl>
-     <bibl n="3">M. Brosset, Explications<ptr target="bibliography.xml#b18"/>, <citedRange>pp. 420-421</citedRange></bibl>
-     <bibl n="4">M. Brosset, Lettres de M. Bartholomaei, relatives aux auntiquités géorgienns<ptr target="bibliography.xml#b20"/>, <citedRange>pp. 323-325</citedRange></bibl>
-     <bibl n="5">J. Bartholomaei, Letter, M. Brosset, Bibliographie analytique des oeuvres de Marie-Felicité Brosset<ptr target="bibliography.xml#b16"/>, <citedRange>p. 132</citedRange></bibl>
-     <bibl n="6">ლევან მუსხელიშვილი, ბოლნისი<ptr target="bibliography.xml#b93"/>, <citedRange>გვ. 329-341</citedRange></bibl>
-     <bibl n="7">Н. Г. Чубинашвили, Болнисский сион<ptr target="bibliography.xml#b45"/>, <citedRange>ст. 74-75</citedRange></bibl>
+     <bibl n="1">ნოდარ შოშიაშვილი, ქართული წარწერების კორპუსი, ლაპიდარული წარწერები<ptr target="bibliography.xml#b101"/>, <citedRange> 248-250</citedRange></bibl>
+     <bibl n="2">კორნელი დანელია, ზურაბ სარჯველაძე, ქართული პალეოგრაფია<ptr target="bibliography.xml#b92"/>, <citedRange> 20-21</citedRange></bibl>
+     <bibl n="3">M. Brosset, Explications<ptr target="bibliography.xml#b18"/>, <citedRange>420-421</citedRange></bibl>
+     <bibl n="4">M. Brosset, Lettres de M. Bartholomaei, relatives aux auntiquités géorgienns<ptr target="bibliography.xml#b20"/>, <citedRange>323-325</citedRange></bibl>
+     <bibl n="5">J. Bartholomaei, Letter, M. Brosset, Bibliographie analytique des oeuvres de Marie-Felicité Brosset<ptr target="bibliography.xml#b16"/>, <citedRange>132</citedRange></bibl>
+     <bibl n="6">ლევან მუსხელიშვილი, ბოლნისი<ptr target="bibliography.xml#b93"/>, <citedRange> 329-341</citedRange></bibl>
+     <bibl n="7">Н. Г. Чубинашвили, Болнисский сион<ptr target="bibliography.xml#b45"/>, <citedRange>74-75</citedRange></bibl>
          </listBibl>
             </div>
         

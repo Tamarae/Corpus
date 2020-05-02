@@ -100,8 +100,8 @@
         <body>
            <div type="bibliography"> 
                 <listBibl>
-                    <bibl n="1">ნოდარ შოშიაშვილი, ქართული წარწერების კორპუსი, ლაპიდარული წარწერები<ptr target="bibliography.xml#b101"/>, <citedRange>გვ. 152</citedRange></bibl>                 
-                    <bibl n="2">საქართველოს სახელმწიფო მუზეუმის ქართული ეპიგრაფიკული ძეგლების კატალოგი<ptr target="bibliography.xml#b111"/>, <citedRange>გვ. 44</citedRange></bibl>
+                    <bibl n="1">ნოდარ შოშიაშვილი, ქართული წარწერების კორპუსი, ლაპიდარული წარწერები<ptr target="bibliography.xml#b101"/>, <citedRange> 152</citedRange></bibl>                 
+                    <bibl n="2">საქართველოს სახელმწიფო მუზეუმის ქართული ეპიგრაფიკული ძეგლების კატალოგი<ptr target="bibliography.xml#b111"/>, <citedRange> 44</citedRange></bibl>
                 </listBibl>
             </div> 
            

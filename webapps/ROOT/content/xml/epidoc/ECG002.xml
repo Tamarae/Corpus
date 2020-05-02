@@ -157,9 +157,15 @@
         <body>
             <div type="bibliography">
                 <listBibl>
-                    <bibl sameAs="bib:b82">
-                        <ptr target="bibliography.xml#b82"/>თინათინ ყაუხჩიშვილი, საქართველოს ბერძნული წარწერების კორპუსი, <citedRange>213-214</citedRange>
-                    </bibl>
+                    <bibl sameAs="bib:b82"/>
+                        <!--  <ptr target="bibliography.xml#b82"/>თინათინ ყაუხჩიშვილი, საქართველოს ბერძნული წარწერების კორპუსი, <citedRange>213-214</citedRange>-->
+                    <biblStruct>
+                        <monogr>
+                            <imprint>
+                                <biblScope unit="page">213-214</biblScope>
+                            </imprint>
+                        </monogr>
+                    </biblStruct>
                 </listBibl>
             </div>
 

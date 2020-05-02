@@ -138,7 +138,7 @@
         <body>
             <div type="bibliography">
                 <listBibl>
-                    <bibl n="1"><ptr target="bibliography.xml#b130"/>თინათინ ყაუხჩიშვილი, საქართველოს ბერძნული წარწერების კორპუსი, <citedRange>გვ. 121-122</citedRange></bibl>
+                    <bibl sameAs="bib:b82"><ptr target="bibliography.xml#b82"/>თინათინ ყაუხჩიშვილი, საქართველოს ბერძნული წარწერების კორპუსი, <citedRange>121-122</citedRange></bibl>
                 </listBibl>
             </div>
 
@@ -184,14 +184,14 @@
 
             <div type="commentary" xml:lang="ka">
                 <p n="1">ფილა, რომელიც შემდეგ მთავარანგელოზის ეკლესიაში გამოყენებულია როგორც საშენი მასალა, ადრე უთუოდ ამშვენებდა წმ. სტეფანეს ტაძარს,
-                    რომელიც ამავე რაიონში იყო ყოველ შემთხვევაში VI ს-ის შუა წლებში (შდრ. აგათია, Περὶ Ἰουστ. III, 5; გეორგიკა, III, 1936., გვ. 52) .</p>
+                    რომელიც ამავე რაიონში იყო ყოველ შემთხვევაში VI ს-ის შუა წლებში (შდრ. აგათია, Περὶ Ἰουστ. III, 5; გეორგიკა, III, 1936.,  52) .</p>
                 <p n="2">ტაძრის მოღვაწე, სხვა წყაროებით უცნობი მონა (ღვთისა) ფილოქტისტე, შესთხოვს ტაძრის მფარველ წმინდანს, სტეფანეს შუამდგომლობას,
                 ცხადია, უფლის წინაშე, საკუთარი თავისა და თავისი მახლობლისათვის.</p>
                 <p n="3">IX სტრიქონში მოსალოდნელი αὐτοῦ-ს ნაცვლად არის αὐτῶ[ν].</p>
             </div>
             <div type="commentary" xml:lang="en">
                 <p>
-                    The plaque that is used in the Archangel church as a building material was part of the St. Stephen church before, which was located in the same district in the middle of VI century (comp. Agathia, Περὶ Ἰουστ. III, 5; Georgica III, 1936., p. 52).
+                    The plaque that is used in the Archangel church as a building material was part of the St. Stephen church before, which was located in the same district in the middle of VI century (comAgathia, Περὶ Ἰουστ. III, 5; Georgica III, 1936., 52).
                     Philochteste, a clergy not mentioned in any other source, is asking for mercy from Lord God under the name of the patron Saint of the church, St. Stephen for himself and close people to him.
                     The line 9th instead of presupposed αὐτοῦ we have αὐτῶ[ν].
 

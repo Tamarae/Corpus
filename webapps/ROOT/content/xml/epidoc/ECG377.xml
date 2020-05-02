@@ -101,8 +101,8 @@
         <body> 
             <div type="bibliography">
                 <listBibl>
-                    <bibl n="1">ტოგო გუდავა, ორი წარწერა (ქართული და ქართულ - ხუნძური) დაღესტნიდან<ptr target="bibliography.xml#b142"/>, <citedRange>გვ. 185-197</citedRange></bibl>
-                    <bibl n="2">შაჰბან ჰაფიზოვი, ქართული, ქართულ-ხუნძური და ხუნძური წარწერები მთიან ხუნძეთში (დაღესტანი)<ptr target="bibliography.xml#b141"/>, <citedRange>გვ. 128</citedRange></bibl>
+                    <bibl n="1">ტოგო გუდავა, ორი წარწერა (ქართული და ქართულ - ხუნძური) დაღესტნიდან<ptr target="bibliography.xml#b142"/>, <citedRange> 185-197</citedRange></bibl>
+                    <bibl n="2">შაჰბან ჰაფიზოვი, ქართული, ქართულ-ხუნძური და ხუნძური წარწერები მთიან ხუნძეთში (დაღესტანი)<ptr target="bibliography.xml#b141"/>, <citedRange> 128</citedRange></bibl>
                 </listBibl> 
             </div>
                 

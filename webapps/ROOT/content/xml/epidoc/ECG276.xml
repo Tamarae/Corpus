@@ -97,10 +97,10 @@
         <body>
              <div type="bibliography">
                 <listBibl>
-                    <bibl n="1">თინათინ ყაუხჩიშვილი, საქართველოს ბერძნული წარწერების კორპუსი<ptr target="bibliography.xml#b130"/>, <citedRange>გვ. 266</citedRange></bibl>
-                    <bibl n="2">თინათინ ყაუხჩიშვილი, ბერძნული წარწერები საქართველოში<ptr target="bibliography.xml#b80"/>, <citedRange>გვ. 257</citedRange></bibl>
-                    <bibl n="3">A. Zakharow, Gemmen und Siegel des Museums Georgiens<ptr target="bibliography.xml#b155"/>, <citedRange>p. 258</citedRange></bibl>
-                    <bibl n="4">И. Помяловский, Сборник греческихъ и латинскихъ надписей<ptr target="bibliography.xml#b156"/>, <citedRange>стр. 69</citedRange></bibl>
+                    <bibl n="1">თინათინ ყაუხჩიშვილი, საქართველოს ბერძნული წარწერების კორპუსი<ptr target="bibliography.xml#b130"/>, <citedRange> 266</citedRange></bibl>
+                    <bibl n="2">თინათინ ყაუხჩიშვილი, ბერძნული წარწერები საქართველოში<ptr target="bibliography.xml#b80"/>, <citedRange> 257</citedRange></bibl>
+                    <bibl n="3">A. Zakharow, Gemmen und Siegel des Museums Georgiens<ptr target="bibliography.xml#b155"/>, <citedRange>258</citedRange></bibl>
+                    <bibl n="4">И. Помяловский, Сборник греческихъ и латинскихъ надписей<ptr target="bibliography.xml#b156"/>, <citedRange> 69</citedRange></bibl>
                 </listBibl>
             </div>
 
@@ -137,7 +137,7 @@
                 <p>თუ სიტყვა εὐχαρίστει-ს "ზიარების" მნიშვნელობით გავიგებთ, ნივთი ქრისტიანული ხანის ძეგლად უნდა მივიჩნიოთ და ყოველ შემთხვევაში ჩვენს ტერიტორიაზე 
                 არა უადრეს IV ს-ისა მოხვედრილად.</p>
                 <p>ა. ზახაროვის სტატიაში წარწერა გარჩეული არ არის. გადმოცემულია მხოლოდ ასეთი ფორმით: ΗΧΑΡΙΣΙ. ამ ნივთზე უნდა იყოს ლაპარაკი ი. პომიალოვსკის 
-                კრებულში (Сборник... стр. 69), სადაც ბაიერნის შრომის მიხედვით მოყვანილია წარწერა ასეთი სახით: ΗΧ ΑΡΙ ΕΙ წარწერა არც აქაა გარჩეული. στ, რომელიც 
+                კრებულში (Сборник...  69), სადაც ბაიერნის შრომის მიხედვით მოყვანილია წარწერა ასეთი სახით: ΗΧ ΑΡΙ ΕΙ წარწერა არც აქაა გარჩეული. στ, რომელიც 
                 თავისებური ლიგატურით არის წარმოდგენილი, არც ერთგან სწორად არ არის გაგებული.</p>
             </div>             
 

@@ -101,9 +101,9 @@
         <body>
          <div type="bibliography">
              <listBibl>           
-              <bibl n="1">ნოდარ შოშიაშვილი, ქართული წარწერების კორპუსი<ptr target="bibliography.xml#b101"/>, <citedRange>გვ. 187-188</citedRange></bibl>
-              <bibl n="2">ივანე მეგრელიძე, სტალინირის და ზემო ნიქოზის სიძველეები<ptr target="bibliography.xml#b83"/>, <citedRange>გვ. 54</citedRange></bibl>
-              <bibl n="3">Р. Меписавили, В. Цинцадзе, Архитектура нагорной части исторической провинции Грузии – Шида Картли<ptr target="bibliography.xml#b50"/>, <citedRange>ст. 12</citedRange></bibl>
+              <bibl n="1">ნოდარ შოშიაშვილი, ქართული წარწერების კორპუსი<ptr target="bibliography.xml#b101"/>, <citedRange> 187-188</citedRange></bibl>
+              <bibl n="2">ივანე მეგრელიძე, სტალინირის და ზემო ნიქოზის სიძველეები<ptr target="bibliography.xml#b83"/>, <citedRange> 54</citedRange></bibl>
+              <bibl n="3">Р. Меписавили, В. Цинцадзе, Архитектура нагорной части исторической провинции Грузии – Шида Картли<ptr target="bibliography.xml#b50"/>, <citedRange>12</citedRange></bibl>
             </listBibl>
             </div> 
             
