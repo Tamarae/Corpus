@@ -139,7 +139,7 @@
                                <w lemma="მეუფე"><expan><abbr>მე</abbr><ex>უ</ex><abbr>ფ</abbr><ex>ე</ex><abbr>ო</abbr></expan></w>   
                     <lb n="2"/><w lemma="დიდება"><expan><abbr>დ</abbr><ex>იდე</ex><abbr>ბ</abbr><ex>ისა</ex><abbr>ო</abbr></expan></w>   
                                <w lemma="დიდება"><expan><abbr>ა</abbr><ex>დი</ex>დ<ex>ე</ex>ნ</expan></w>  
-                    <lb n="3"/><name nymRef="ლიპარიტ IV ბაღვაში" ref="https://bit.ly/3b8lzYu"><expan><abbr>ლ</abbr><ex>ი</ex><abbr>პ</abbr><ex>არი</ex><abbr>ტ</abbr></expan></name>
+                    <lb n="3"/><name nymRef="ლიპარიტ IV ბაღვაში"><expan><abbr>ლ</abbr><ex>ი</ex><abbr>პ</abbr><ex>არი</ex><abbr>ტ</abbr></expan></name> <!--  ref="https://bit.ly/3b8lzYu -->
                                <roleName nymRef="ერისთავთ-ერისთავ"><expan><abbr>ე</abbr><ex>რისთავთ</ex><abbr>ე</abbr><ex>რისთავი</ex></expan></roleName> 
                     <lb n="4"/><w lemma="და">და</w>             
                                <w lemma="შვილ"><expan><abbr>შვ</abbr><ex>ი</ex><abbr>ლნი</abbr></expan></w>

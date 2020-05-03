@@ -43,10 +43,9 @@
       <xsl:apply-templates select="arr[@name='language_code']"/>
       <xsl:apply-templates select="arr[@name='index_instance_location']" />
       
+      <xsl:apply-templates select="/aggregation/authority_data/tei:TEI/tei:text/tei:body/tei:div/tei:listPerson/tei:person[@xml:id=current()/str[@name='index_item_name']]" />
       
-      
-  <xsl:apply-templates select="/aggregation/authority_data/tei:div/tei:listPerson/tei:person[@xml:id=str[@name='index_item_name']]" />
-      
+
       
     </tr>
   </xsl:template>
@@ -124,13 +123,15 @@
     <xsl:apply-templates select="tei:floruit" />
     <xsl:apply-templates select="tei:occupation"/>
     <xsl:apply-templates select="tei:bibl/tei:listRelation" />
+   
   </xsl:template>
+  
   
   <xsl:template match="tei:floruit">
     <td><xsl:value-of select="." /></td>
   </xsl:template>
   
-  <xsl:template match="tei:occupation">
+  <xsl:template match="tei:occupation[@xml:lang='ka']">
     <td><xsl:value-of select="."/></td>
   </xsl:template>
   
@@ -144,9 +145,9 @@
   
   <xsl:template match="tei:relation">
     <li>
-      <xsl:apply-templates select="tei:relation" />
+      <xsl:apply-templates select="tei:relation[@passive]"/>
     </li>
   </xsl:template>
-
+  
   
 </xsl:stylesheet>

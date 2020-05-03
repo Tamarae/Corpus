@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title xml:lang="en">Authority list of people in ECG</title>
+            </titleStmt>
+            <publicationStmt>
+                <ab/>
+            </publicationStmt>
+            <sourceDesc>
+                <ab/>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div>
+                <listPerson>
+                    <head xml:lang="en">Persons of the ECG</head>
+                    <head xml:lang="ka">პირები</head>
+                    
+                  
+                    
+                    <person xml:id="tikas">
+                        <persName xml:lang="ka">ტიკასი</persName>
+                        <persName xml:lang="en">Tikas</persName>
+                        <persName xml:lang="grc">Τικᾶς</persName>
+                        <floruit>IV-V AD</floruit>
+                        <occupation xml:lang="ka"></occupation>
+                        <occupation xml:lang="en"></occupation>
+                        <bibl>
+                            <listRelation>
+                                <relation active="#tikas" name="son" passive="#pharanuses">
+                                    <desc xml:lang="ka">ძმა პეტრესი</desc>
+                                </relation>
+                            </listRelation>
+                        </bibl>
+                    </person>
+                    
+                    <person xml:id="pharanuses">
+                        <persName xml:lang="ka">აბბა ფარანუსესი</persName>
+                        <persName xml:lang="en">Pharanuses</persName>
+                        <persName xml:lang="grc">ἀββᾶ Φαρανούσης</persName>
+                        <floruit>IV-V AD</floruit>
+                        <occupation xml:lang="ka">ბერი, ἡσυχαστής</occupation>
+                        <occupation xml:lang="en"></occupation>
+                        <bibl>
+                            <listRelation>
+                                <relation active="#pharanuses" name="father" passive="#tikas">
+                                    <desc>აბბა ტიკასისა</desc>
+                                </relation>
+                            </listRelation>
+                        </bibl>
+                    </person>
+                    
+                    <person xml:id="papriupas">
+                        <persName xml:lang="ka">პაპრიუპასი</persName>
+                        <persName xml:lang="en">Papriupas</persName>
+                        <persName xml:lang="grc">Παπριοῦπας</persName>
+                        <floruit>IV-V AD</floruit>
+                        <occupation xml:lang="ka"></occupation>
+                        <occupation xml:lang="en"></occupation>
+                       <!--  <bibl>
+                            <listRelation>
+                                <relation active="" name="son" passive="">
+                                    <desc></desc>
+                                </relation>
+                            </listRelation>
+                        </bibl>
+                       -->
+                    </person>
+                    
+                    
+                    <person xml:id="isdigerdes">
+                        <persName xml:lang="ka">ისდიგერდესი</persName>
+                        <persName xml:lang="en">Isdigerdes</persName>
+                        <persName xml:lang="grc">Ἰσδιγέρδης</persName>
+                        <floruit>IV-V AD</floruit>
+                        <occupation xml:lang="ka"></occupation>
+                        <occupation xml:lang="en"></occupation>
+                        <!--  <bibl>
+                            <listRelation>
+                                <relation active="" name="son" passive="">
+                                    <desc></desc>
+                                </relation>
+                            </listRelation>
+                        </bibl>
+                       -->
+                    </person>
+                    
+                    
+                    
+                </listPerson>
+                
+                
+
+          
+                
+              
+            </div>
+        </body>
+    </text>
+</TEI>

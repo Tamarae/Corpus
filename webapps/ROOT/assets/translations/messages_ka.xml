@@ -14,6 +14,9 @@
   <message key="menu-index-word">სიტყვანი</message>
   <message key="menu-index-role_name">წოდებები</message>
   <message key="menu-index-place_name">ადგილთა საძიებელი</message>
+  
+  <message key="menu-prosopography">პროსოპოგრაფია</message>
+  
   <message key="menu-search">ძიება</message>
   <message key="menu-admin">ადმინი</message>
   <message key="home-title">საქართველოს ეპიგრაფიკული კორპუსი</message>
@@ -40,6 +43,10 @@
   <message key="filename">ფაილი/ID</message>
   <message key="file_title">წარწერის სათაური</message>
   <message key="editor">რედაქტორი/გამომცემელი</message>
+  
+  <message key="floruit">თარიღი</message>
+  <message key="occupation">წოდება/სტატუსი</message>
+  <message key="relation">კავშირი</message>
   
 
   <message key="index_desc">წარწერების საინდექსაციო გვერდების სანახავად მიჰყევით ბმულს</message>

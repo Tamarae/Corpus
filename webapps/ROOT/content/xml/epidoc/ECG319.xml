@@ -109,7 +109,7 @@
             
 
          <ab>
-             <w lemma="κύριος"><expan><abbr>Κ</abbr><ex>ύρι</ex><abbr>ε</abbr></expan></w> <w lemma="σῴζω">σ<choice><corr>ῶ</corr><sic>ο</sic></choice>σον</w> <w lemma="ὁ">τοὺς</w> <persName><name nymRef="Βασίλης">Βασιλίς</name></persName> <w lemma="καί"><supplied reason="lost">καὶ</supplied></w> <gap reason="omitted" extent="unknown"/>
+             <w lemma="κύριος"><expan><abbr>κ</abbr><ex>ύρι</ex><abbr>ε</abbr></expan></w> <w lemma="σῴζω">σ<choice><corr>ῶ</corr><sic>ο</sic></choice>σον</w> <w lemma="ὁ">τοὺς</w> <persName><name nymRef="Βασίλης">Βασιλίς</name></persName> <w lemma="καί"><supplied reason="lost">καὶ</supplied></w> <gap reason="omitted" extent="unknown"/>
          </ab>    
              
          
