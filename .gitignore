@@ -1,0 +1,7 @@
+RebuildEpigraphy.sh
+index.nginx-debian.html
+sw/jetty/logs/
+webapps/ROOT/WEB-INF/logs/
+webapps/openrdf-sesame/app_dir/OpenRDF Sesame/conf/
+webapps/openrdf-sesame/app_dir/OpenRDF Sesame/logs/
+**/.DS_Store*

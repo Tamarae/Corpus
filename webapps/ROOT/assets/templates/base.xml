@@ -20,7 +20,7 @@
           <meta content="IE=edge,chrome=IE8" http-equiv="X-UA-Compatible" />
           <title>
             <kiln:block name="title">
-              EFES: 
+              EFES:
             </kiln:block>
           </title>
           <kiln:block name="css">
@@ -37,6 +37,11 @@
             <script src="{$kiln:assets-path}/foundation/js/vendor/custom.modernizr.js">&#160;</script>
           </kiln:block>
           <kiln:block name="head-extra"></kiln:block>
+          <style>
+            nav.top-bar li:nth-of-type(5) {
+                display: none;
+            }
+</style>
         </head>
       </kiln:block>
       <kiln:block name="body">
