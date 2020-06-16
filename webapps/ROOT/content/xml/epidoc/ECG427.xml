@@ -97,7 +97,7 @@
         <body>
              <div type="bibliography">
                 <listBibl>
-                    <bibl n="1">თინათინ ყაუხჩიშვილი, საქართველოს ბერძნული წარწერების კორპუსი<ptr target="bibliography.xml#b130"/>, <citedRange>გვ. 231-232</citedRange></bibl>
+                    <bibl n="1">თინათინ ყაუხჩიშვილი, საქართველოს ბერძნული წარწერების კორპუსი<ptr target="bibliography.xml#b130"/>, <citedRange> 231-232</citedRange></bibl>
                     <bibl n="2">Е. П. Привалова, Роспись Тимотесубани<ptr target="bibliography.xml#b182"/><citedRange></citedRange></bibl>
                 </listBibl>
             </div>
@@ -119,8 +119,9 @@
                 
                  <div type="textpart" subtype="section" n="2">
                              <ab>
-                                  <w lemma="μήτηρ"><expan><abbr>μ</abbr><ex>ήτη</ex><abbr>ρ</abbr></expan></w> <w lemma="θεός"><expan><abbr>θ</abbr><ex>εο</ex><abbr>ῦ</abbr></expan></w> 
-                                 <persName type="divine"><name nymRef="Ἰησοῦς"><expan><abbr>Ἰ</abbr><ex>ησοῦ</ex><abbr>ς</abbr></expan></name> <name nymRef="Χριστός"><expan><abbr>Χ</abbr><ex>ριστὸ</ex><abbr>ς</abbr></expan></name></persName>
+                                  <w lemma="μήτηρ"><expan><abbr>μ</abbr><ex>ήτη</ex><abbr>ρ</abbr></expan></w> 
+                                 <w lemma="θεός"><expan><abbr>θ</abbr><ex>εο</ex><abbr>ῦ</abbr></expan></w> 
+                                 <persName type="divine"><name nymRef="Ἰησοῦς"><expan><abbr>Ἰ</abbr><ex>ησοῦ</ex><abbr>ς</abbr></expan></name> <name nymRef="Χριστός"><expan><abbr>Χ</abbr><ex>ριστό</ex><abbr>ς</abbr></expan></name></persName>
                                  <w lemma="ὁ">ὁ</w> <w lemma="πρόδρομος">πρόδρομος</w>
                                  <persName type="saint"><w lemma="ὁ">ὁ</w> <w lemma="ἀρχάγγελος"><expan><abbr>ἀρχ</abbr><ex>άγγελος</ex></expan></w> <name nymRef="Ραφαήλ">Ραφα<choice><reg>ή</reg><orig>ι</orig></choice>λ</name></persName>
                                  <persName type="saint"><w lemma="ὁ">ὁ</w> <w lemma="ἀρχάγγελος"><expan><abbr>ἀρχ</abbr><ex>άγγελος</ex></expan></w> <name nymRef="Ρασθαήλ">Ρασθα<choice><reg>ή</reg><orig>ι</orig></choice>λ</name></persName>

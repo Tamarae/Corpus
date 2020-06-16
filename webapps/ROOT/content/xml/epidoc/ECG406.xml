@@ -93,7 +93,7 @@
         <body>
              <div type="bibliography">
                 <listBibl>
-                    <bibl n="1">თინათინ ყაუხჩიშვილი, საქართველოს ბერძნული წარწერების კორპუსი<ptr target="bibliography.xml#b130"/>, <citedRange>გვ. 79</citedRange></bibl>
+                    <bibl n="1">თინათინ ყაუხჩიშვილი, საქართველოს ბერძნული წარწერების კორპუსი<ptr target="bibliography.xml#b130"/>, <citedRange> 79</citedRange></bibl>
                 </listBibl>
             </div>
             <div type="edition" xml:lang="grc" xml:space="preserve">
@@ -101,7 +101,9 @@
                         <!--  † ΚΥ ΧΥ    † Κ[υρίο]υ Χ[ριστο]ῦ -->
                      
          <ab>
-             <g type="cross">&#10013;</g> <w lemma="Κύριος"><expan><abbr>Κ</abbr><ex>υρίο</ex><abbr>υ</abbr></expan></w> <persName><name nymRef="Χριστός"><expan><abbr>Χ</abbr><ex>ριστο</ex><abbr>ῦ</abbr></expan></name></persName>
+             <g type="cross">&#10013;</g> 
+             <w lemma="κύριος"><expan><abbr>κ</abbr><ex>υρίο</ex><abbr>υ</abbr></expan></w> 
+             <persName><name nymRef="Χριστός"><expan><abbr>Χ</abbr><ex>ριστο</ex><abbr>ῦ</abbr></expan></name></persName>
          </ab>    
              
          

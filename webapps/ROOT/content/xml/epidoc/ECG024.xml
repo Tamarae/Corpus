@@ -101,10 +101,10 @@
         <body>
             <div type="bibliography">
                  <listBibl>           
-              <bibl n="1">ნოდარ შოშიაშვილი, ქართული წარწერების კორპუსი<ptr target="bibliography.xml#b101"/>, <citedRange>გვ. 185-186</citedRange></bibl>
-              <bibl n="2">M. Brosset, Rapports VI<ptr target="bibliography.xml#b22"/>, <citedRange>p. 54</citedRange></bibl>
-              <bibl n="3">Г. Садзагелов-Ивериели. Описание Никозкой Михайло-архангельской церкви в Карталинии<ptr target="bibliography.xml#b40"/>, <citedRange>ст. 37</citedRange></bibl>
-              <bibl n="4">ივანე მეგრელიძე, სტალინირის და ზემო ნიქოზის სიძველეები<ptr target="bibliography.xml#b83"/>, <citedRange>გვ. 279</citedRange></bibl>
+              <bibl n="1">ნოდარ შოშიაშვილი, ქართული წარწერების კორპუსი<ptr target="bibliography.xml#b101"/>, <citedRange> 185-186</citedRange></bibl>
+              <bibl n="2">M. Brosset, Rapports VI<ptr target="bibliography.xml#b22"/>, <citedRange>54</citedRange></bibl>
+              <bibl n="3">Г. Садзагелов-Ивериели. Описание Никозкой Михайло-архангельской церкви в Карталинии<ptr target="bibliography.xml#b40"/>, <citedRange>37</citedRange></bibl>
+              <bibl n="4">ივანე მეგრელიძე, სტალინირის და ზემო ნიქოზის სიძველეები<ptr target="bibliography.xml#b83"/>, <citedRange> 279</citedRange></bibl>
              </listBibl>  
             </div> 
             

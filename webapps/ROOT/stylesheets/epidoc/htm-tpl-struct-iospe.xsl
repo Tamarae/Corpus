@@ -28,9 +28,14 @@
             <xsl:when test="//t:support//t:material//text()">
               <xsl:value-of select="//t:support//t:material"/>
             </xsl:when>
+  
             <xsl:otherwise><i18n:text i18n:key="epidoc-xslt-iospe-not-specified">Not specified</i18n:text></xsl:otherwise>
+
           </xsl:choose>
+          
         </dd>
+        
+
        
      <!-- აღწერა და მდგომარეობა
        <dt width="150" align="left"><i18n:text i18n:key="epidoc-xslt-iospe-description">Description and condition</i18n:text></dt>
@@ -291,18 +296,17 @@
       
       <div id="bibliography" class="iospe">
 
-             <h4 class="iospe">
+            <dt><h4 class="iospe">
               <i18n:text i18n:key="epidoc-xslt-iospe-editions">Editions</i18n:text>
             </h4>
-        
-        <xsl:choose>
-          <xsl:when test="//t:body//t:div[@type='bibliography']//t:listBibl//t:biblStruct">
-            <xsl:apply-templates select="//t:body//t:div[@type='bibliography']//t:listBibl//t:biblStruct"/>
+            </dt>
+        <dd><xsl:choose>
+          <xsl:when test="//t:body//t:div[@type='bibliography']//t:listBibl">
+            <xsl:apply-templates select="//t:body//t:div[@type='bibliography']//t:listBibl"/>
           </xsl:when>
           <xsl:otherwise><i18n:text i18n:key="epidoc-xslt-iospe-unpublished">Unpublished</i18n:text></xsl:otherwise>
         </xsl:choose>
-        
-        
+        </dd>
         
         
      <!--  <dl>
@@ -328,16 +332,8 @@
             --> 
            
          </div>
-               
-        
-                              
-          
-  
-      
+                        
 
-     
-     
-      
       
       <div id="images" class="iospe">
         <h4 class="iospe"><i18n:text i18n:key="epidoc-xslt-iospe-images">Images</i18n:text></h4>
@@ -348,6 +344,7 @@
               <xsl:apply-templates select="." />
             </dd>
           </xsl:for-each>
+          
         </dl>
       </div>
     </div>
@@ -378,6 +375,10 @@
     </html>
   </xsl:template>
   
+  
+
+  
+  
   <xsl:template name="css-script"> 
     <xsl:choose>
       <xsl:when test="contains(@ref,'pleiades.stoa.org') or contains(@ref,'geonames.org') or contains(@ref,'slsgazetteer.org') or contains(@ref, 'eagle-network.eu')">
@@ -393,13 +394,43 @@
       </xsl:otherwise>
     </xsl:choose>
   </xsl:template>
+  
+  
+  
+  <xsl:template match="t:material">
+    <xsl:choose>
+      <xsl:when test="contains(@ref,'eagle-network.eu')">
+        <a>
+          <xsl:attribute name="href">
+            <xsl:value-of select="@ref"/>
+          </xsl:attribute>
+          <xsl:apply-templates/>
+        </a>
+      </xsl:when>
+      <xsl:otherwise>
+        <xsl:apply-templates/>
+      </xsl:otherwise>
+    </xsl:choose>
+  </xsl:template>
+  
+  <xsl:template match="t:objectType">
+    <xsl:choose>
+      <xsl:when test="@ref">
+        <a>
+          <xsl:attribute name="href">
+            <xsl:value-of select="@ref"/>
+          </xsl:attribute>
+        </a>
+      </xsl:when>
+    </xsl:choose>
+  </xsl:template>
+  
 
   <xsl:template match="t:ref">
     <a>
       <xsl:attribute name="href">
-        <xsl:value-of select="@target"/>
+        <xsl:value-of select="@ref"/>
       </xsl:attribute>
-      <xsl:attribute name="target">_blank</xsl:attribute>
       <xsl:apply-templates/>
     </a>
   </xsl:template>

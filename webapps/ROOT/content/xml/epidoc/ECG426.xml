@@ -101,7 +101,7 @@
         <body>
              <div type="bibliography">
                 <listBibl>
-                    <bibl n="1">თინათინ ყაუხჩიშვილი, საქართველოს ბერძნული წარწერების კორპუსი<ptr target="bibliography.xml#b130"/>, <citedRange>გვ. 231</citedRange></bibl>
+                    <bibl n="1">თინათინ ყაუხჩიშვილი, საქართველოს ბერძნული წარწერების კორპუსი<ptr target="bibliography.xml#b130"/>, <citedRange> 231</citedRange></bibl>
                 </listBibl>
             </div>
         
@@ -123,14 +123,14 @@
                 
              <div type="textpart" subtype="section" n="2">
                  <ab>
-                      <persName type="divie"><name nymRef="Ἰησοῦς"><expan><abbr>Ἰ</abbr><ex>ησοῦ</ex><abbr>ς</abbr></expan></name> <name nymRef="Χριστός"><expan><abbr>Χ</abbr><ex>ριστὸ</ex><abbr>ς</abbr></expan></name></persName>
+                      <persName type="divie"><name nymRef="Ἰησοῦς"><expan><abbr>Ἰ</abbr><ex>ησοῦ</ex><abbr>ς</abbr></expan></name> <name nymRef="Χριστός"><expan><abbr>Χ</abbr><ex>ριστό</ex><abbr>ς</abbr></expan></name></persName>
       <!--               <w lemma="νικάω">νικᾷ</w>   -->
                  </ab>    
             </div>
                 
             <div type="textpart" subtype="section" n="3">
                  <ab>
-                       <persName type="divine"><name nymRef="Ἰησοῦς"><expan><abbr>Ἰ</abbr><ex>ησοῦ</ex><abbr>ς</abbr></expan></name> <name nymRef="Χριστός"><expan><abbr>Χ</abbr><ex>ριστὸ</ex><abbr>ς</abbr></expan></name></persName>
+                       <persName type="divine"><name nymRef="Ἰησοῦς"><expan><abbr>Ἰ</abbr><ex>ησοῦ</ex><abbr>ς</abbr></expan></name> <name nymRef="Χριστός"><expan><abbr>Χ</abbr><ex>ριστό</ex><abbr>ς</abbr></expan></name></persName>
                  </ab>    
             </div>
                 
@@ -138,13 +138,13 @@
                      <ab>
                           <persName type="divine"><name nymRef="Ἰησοῦς"><expan><abbr>Ἰ</abbr><ex>ησοῦ</ex><abbr>ς</abbr></expan></name></persName> <w lemma="βασιλεύς">βασιλεὺ<supplied reason="subaudible">ς</supplied></w> 
                          <w lemma="ὁ">τ<choice><reg>ῆ</reg><orig>ι</orig></choice>ς</w> <w lemma="δόξα">δό<choice><reg>ξ</reg><orig>ζ</orig></choice><supplied reason="subaudible">ης</supplied></w>
-                           <persName type="divine"><name nymRef="Ἰησοῦς"><expan><abbr>Ἰ</abbr><ex>ησοῦ</ex><abbr>ς</abbr></expan></name> <name nymRef="Χριστός"><expan><abbr>Χ</abbr><ex>ριστὸ</ex><abbr>ς</abbr></expan></name></persName>
+                           <persName type="divine"><name nymRef="Ἰησοῦς"><expan><abbr>Ἰ</abbr><ex>ησοῦ</ex><abbr>ς</abbr></expan></name> <name nymRef="Χριστός"><expan><abbr>Χ</abbr><ex>ριστό</ex><abbr>ς</abbr></expan></name></persName>
                      </ab>    
                 </div>
                 
                 <div type="textpart" subtype="section" n="5">
                  <ab>
-                       <persName type="divine"><name nymRef="Ἰησοῦς"><expan><abbr>Ἰ</abbr><ex>ησοῦ</ex><abbr>ς</abbr></expan></name> <name nymRef="Χριστός"><expan><abbr>Χ</abbr><ex>ριστὸ</ex><abbr>ς</abbr></expan></name></persName>
+                       <persName type="divine"><name nymRef="Ἰησοῦς"><expan><abbr>Ἰ</abbr><ex>ησοῦ</ex><abbr>ς</abbr></expan></name> <name nymRef="Χριστός"><expan><abbr>Χ</abbr><ex>ριστό</ex><abbr>ς</abbr></expan></name></persName>
                  </ab>    
                 </div>
                 

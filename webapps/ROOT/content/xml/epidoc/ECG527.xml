@@ -102,9 +102,9 @@
         <body>
            <div type="bibliography"> 
                <listBibl>
-                <bibl n="1">თამაზ გოგოლაძე,თორის ხეობის ეპიგრაფიკული კორპუსი<ptr target="bibliography.xml#b130"/>,<citedRange>85-86 გვ.</citedRange>2019</bibl>
-                <bibl n="2"> ვალერი სილოგავა, თორელთა ფეოდალური სახლის ერთი მემორიალური ძეგლი (ახალდაბის წარწერა),მუშაობის გეგმა და მოხსენებათა თეზისები<ptr target="bibliography.xml#b130"/>,<citedRange>52 გვ.</citedRange>1993</bibl>
-                <bibl n="3">ვალერი სილოგავა, შრომების კრებული, ტ. II<ptr target="bibliography.xml#b130"/>,<citedRange>68გვ.</citedRange>2000</bibl>
+                <bibl n="1">თამაზ გოგოლაძე,თორის ხეობის ეპიგრაფიკული კორპუსი<ptr target="bibliography.xml#b130"/>,<citedRange>85-86 </citedRange>2019</bibl>
+                <bibl n="2"> ვალერი სილოგავა, თორელთა ფეოდალური სახლის ერთი მემორიალური ძეგლი (ახალდაბის წარწერა),მუშაობის გეგმა და მოხსენებათა თეზისები<ptr target="bibliography.xml#b130"/>,<citedRange>52 </citedRange>1993</bibl>
+                <bibl n="3">ვალერი სილოგავა, შრომების კრებული, ტ. II<ptr target="bibliography.xml#b130"/>,<citedRange>68</citedRange>2000</bibl>
             </listBibl>
            </div>
             <div type="edition" xml:lang="ka" xml:space="preserve">     

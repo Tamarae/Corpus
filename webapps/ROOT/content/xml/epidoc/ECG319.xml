@@ -98,7 +98,7 @@
         <body>
              <div type="bibliography">
                 <listBibl>
-                    <bibl n="1">თინათინ ყაუხჩიშვილი, საქართველოს ბერძნული წარწერების კორპუსი<ptr target="bibliography.xml#b130"/>, <citedRange>გვ. 104</citedRange></bibl>
+                    <bibl n="1">თინათინ ყაუხჩიშვილი, საქართველოს ბერძნული წარწერების კორპუსი<ptr target="bibliography.xml#b130"/>, <citedRange> 104</citedRange></bibl>
                 </listBibl>
             </div>
             <div type="edition" xml:lang="grc" xml:space="preserve">
@@ -109,7 +109,7 @@
             
 
          <ab>
-             <w lemma="κύριος"><expan><abbr>Κ</abbr><ex>ύρι</ex><abbr>ε</abbr></expan></w> <w lemma="σῴζω">σ<choice><corr>ῶ</corr><sic>ο</sic></choice>σον</w> <w lemma="ὁ">τοὺς</w> <persName><name nymRef="Βασίλης">Βασιλίς</name></persName> <w lemma="καί"><supplied reason="lost">καὶ</supplied></w> <gap reason="omitted" extent="unknown"/>
+             <w lemma="κύριος"><expan><abbr>κ</abbr><ex>ύρι</ex><abbr>ε</abbr></expan></w> <w lemma="σῴζω">σ<choice><corr>ῶ</corr><sic>ο</sic></choice>σον</w> <w lemma="ὁ">τοὺς</w> <persName><name nymRef="Βασίλης">Βασιλίς</name></persName> <w lemma="καί"><supplied reason="lost">καὶ</supplied></w> <gap reason="omitted" extent="unknown"/>
          </ab>    
              
          

@@ -146,13 +146,13 @@
                         <biblScope>ტ. I აღმოსავლედ და სამხრეთ საქართველო (V-X სს.)</biblScope>
                        <pubPlace>თბილისი</pubPlace>
                        <date>1980</date>
-                       <biblScope>გვ. 91</biblScope>
+                       <biblScope> 91</biblScope>
                     </bibl>
-                 <bibl type="publication" subtype="other"><forename>კორნელი</forename><surname>დანელია</surname>, <forename>ზურაბ</forename><surname>სარჯველაძე</surname>, <title level="m">ქართული პალეოგრაფია</title>, <date>1997</date>, <biblScope>გვ. 25-26</biblScope>. </bibl>
-                 <bibl type="publication" subtype="other"><author><forename>ლ.</forename><surname>მუსხელიშვილი</surname></author>, <title type="main">არქეოლოგიური ექსკურსიები მაშავრის ხეობაში</title>, <pubPlace>თბილისი</pubPlace>, <date>1941</date>, <biblScope>გვ. 8-23</biblScope>. </bibl>
-                 <bibl type="publication" subtype="other"><author><forename>ლ.</forename><surname>მუსხელიშვილი</surname></author>, <title level="a">უკანგორის ისტორიული ნაშთები</title>, <title level="s">ენიმკის მოამბე</title>, <biblScope>ტ. X</biblScope>, <date>1941</date>, <biblScope>გვ. 159-182</biblScope>. </bibl>
-                 <bibl type="publication" subtype="other"><title level="s">ქართული საბჭოთა ენციკლოპედია</title>, <title level="a">უკანგორი</title>, <pubPlace>თბილისი</pubPlace>, <date>1986</date>, <biblScope>გვ. 119</biblScope>. </bibl>
-                 <bibl type="publication" subtype="other"><author><forename>ვ.</forename><surname>შუბითიძე</surname></author>, <title level="m">ქართული ციხესიმაგრეები და ეკლესია მონასტრები</title>, <pubPlace>თბილისი</pubPlace>, <date>2012</date>, <biblScope>გვ. 68</biblScope>. </bibl>
+                 <bibl type="publication" subtype="other"><forename>კორნელი</forename><surname>დანელია</surname>, <forename>ზურაბ</forename><surname>სარჯველაძე</surname>, <title level="m">ქართული პალეოგრაფია</title>, <date>1997</date>, <biblScope> 25-26</biblScope>. </bibl>
+                 <bibl type="publication" subtype="other"><author><forename>ლ.</forename><surname>მუსხელიშვილი</surname></author>, <title type="main">არქეოლოგიური ექსკურსიები მაშავრის ხეობაში</title>, <pubPlace>თბილისი</pubPlace>, <date>1941</date>, <biblScope> 8-23</biblScope>. </bibl>
+                 <bibl type="publication" subtype="other"><author><forename>ლ.</forename><surname>მუსხელიშვილი</surname></author>, <title level="a">უკანგორის ისტორიული ნაშთები</title>, <title level="s">ენიმკის მოამბე</title>, <biblScope>ტ. X</biblScope>, <date>1941</date>, <biblScope> 159-182</biblScope>. </bibl>
+                 <bibl type="publication" subtype="other"><title level="s">ქართული საბჭოთა ენციკლოპედია</title>, <title level="a">უკანგორი</title>, <pubPlace>თბილისი</pubPlace>, <date>1986</date>, <biblScope> 119</biblScope>. </bibl>
+                 <bibl type="publication" subtype="other"><author><forename>ვ.</forename><surname>შუბითიძე</surname></author>, <title level="m">ქართული ციხესიმაგრეები და ეკლესია მონასტრები</title>, <pubPlace>თბილისი</pubPlace>, <date>2012</date>, <biblScope> 68</biblScope>. </bibl>
              </listBibl>
             </div>
         </body>

@@ -95,9 +95,9 @@
         <body>
              <div type="bibliography">
                 <listBibl>
-                    <bibl n="1">თინათინ ყაუხჩიშვილი, საქართველოს ბერძნული წარწერების კორპუსი<ptr target="bibliography.xml#b130"/>, <citedRange>გვ. 78</citedRange></bibl>
-                    <bibl n="2">М. Трапш, Раскопки древнего Савестополиса в районе Сухумской крепости в 1959 г.<ptr target="bibliography.xml#b164"/>, <citedRange>стр. 243</citedRange></bibl>
-                    <bibl n="3">М. Трапш, Труды<ptr target="bibliography.xml#b165"/>, <citedRange>стр. 308</citedRange></bibl>
+                    <bibl n="1">თინათინ ყაუხჩიშვილი, საქართველოს ბერძნული წარწერების კორპუსი<ptr target="bibliography.xml#b130"/>, <citedRange> 78</citedRange></bibl>
+                    <bibl n="2">М. Трапш, Раскопки древнего Савестополиса в районе Сухумской крепости в 1959 г.<ptr target="bibliography.xml#b164"/>, <citedRange> 243</citedRange></bibl>
+                    <bibl n="3">М. Трапш, Труды<ptr target="bibliography.xml#b165"/>, <citedRange> 308</citedRange></bibl>
                 </listBibl>
             </div>
 

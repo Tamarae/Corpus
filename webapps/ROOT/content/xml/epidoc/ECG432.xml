@@ -101,8 +101,8 @@
         <body>
              <div type="bibliography">
                 <listBibl>
-                    <bibl n="1">თინათინ ყაუხჩიშვილი, საქართველოს ბერძნული წარწერების კორპუსი<ptr target="bibliography.xml#b130"/>, <citedRange>გვ. 285-286</citedRange></bibl>
-                    <bibl n="2">თინათინ ყაუხჩიშვილი, ბერძნული წარწერები საქართველოში<ptr target="bibliography.xml#b80"/>, <citedRange>გვ. 276</citedRange></bibl>
+                    <bibl n="1">თინათინ ყაუხჩიშვილი, საქართველოს ბერძნული წარწერების კორპუსი<ptr target="bibliography.xml#b130"/>, <citedRange> 285-286</citedRange></bibl>
+                    <bibl n="2">თინათინ ყაუხჩიშვილი, ბერძნული წარწერები საქართველოში<ptr target="bibliography.xml#b80"/>, <citedRange> 276</citedRange></bibl>
                 </listBibl>
             </div>
 
@@ -119,7 +119,7 @@
             
          <div type="textpart" subtype="section" n="1">
          <ab>
-            <persName type="divine"><name nymRef="Ἰησοῦς"><expan><abbr>Ἰ</abbr><ex>ησοῦ</ex><abbr>ς</abbr></expan></name> <name nymRef="Χριστός"><expan><abbr>Χ</abbr><ex>ριστὸ</ex><abbr>ς</abbr></expan></name></persName>
+            <persName type="divine"><name nymRef="Ἰησοῦς"><expan><abbr>Ἰ</abbr><ex>ησοῦ</ex><abbr>ς</abbr></expan></name> <name nymRef="Χριστός"><expan><abbr>Χ</abbr><ex>ριστό</ex><abbr>ς</abbr></expan></name></persName>
          </ab>    
           </div> 
                 <div type="textpart" subtype="section" n="2">

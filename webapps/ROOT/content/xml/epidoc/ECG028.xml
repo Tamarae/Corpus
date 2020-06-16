@@ -109,32 +109,32 @@
         <body>
             <div type="bibliography">
                   <listBibl>  
-                 <bibl n="1">ნოდარ შოშიაშვილი, ქართული წარწერების კორპუსი<ptr target="bibliography.xml#b101"/>, <citedRange>გვ. 160-162</citedRange></bibl>
-                 <bibl n="2">M. Brosset, Rapports I<ptr target="bibliography.xml#b21"/>, <citedRange>p. 48</citedRange></bibl>   
+                 <bibl n="1">ნოდარ შოშიაშვილი, ქართული წარწერების კორპუსი<ptr target="bibliography.xml#b101"/>, <citedRange> 160-162</citedRange></bibl>
+                 <bibl n="2">M. Brosset, Rapports I<ptr target="bibliography.xml#b21"/>, <citedRange>48</citedRange></bibl>   
                  <bibl n="3">J. Bartholomaei, Letter, M. Brosset, Bibliographie analytique des oeuvres de Marie-Felicité Brosset<ptr target="bibliography.xml#b16"/>, <citedRange>p.79</citedRange></bibl>
-                 <bibl n="4">თედო ჟორდანია, ქრონიკები და სხვა მასალა საქართველოს ისტორიისა და მწერლობისა<ptr target="bibliography.xml#b77"/>, <citedRange>გვ. 61</citedRange></bibl>
-                 <bibl n="5">А. Натроев, Мцхета и его собор Светицховели<ptr target="bibliography.xml#b35"/>, <citedRange>ст. 19</citedRange></bibl>
-                 <bibl n="6">ჯაჭვის წმ. ჯვრის მონასტერი<ptr target="bibliography.xml#b118"/>, <citedRange>გვ. 23</citedRange></bibl>
+                 <bibl n="4">თედო ჟორდანია, ქრონიკები და სხვა მასალა საქართველოს ისტორიისა და მწერლობისა<ptr target="bibliography.xml#b77"/>, <citedRange> 61</citedRange></bibl>
+                 <bibl n="5">А. Натроев, Мцхета и его собор Светицховели<ptr target="bibliography.xml#b35"/>, <citedRange>19</citedRange></bibl>
+                 <bibl n="6">ჯაჭვის წმ. ჯვრის მონასტერი<ptr target="bibliography.xml#b118"/>, <citedRange> 23</citedRange></bibl>
                  <bibl n="7">ექვთიმე თაყაიშვილი, ჯვრის მონასტრის წარწერები<ptr target="bibliography.xml#b71"/></bibl>                 
-                 <bibl n="8">აკაკი შანიძე, ნაშთები III პირის ობიექტური პრეფიქსის ხმარებისა ხმოვნების წინ ქართულ ზმნებში<ptr target="bibliography.xml#b60"/>, <citedRange>გვ. 276</citedRange></bibl>        
+                 <bibl n="8">აკაკი შანიძე, ნაშთები III პირის ობიექტური პრეფიქსის ხმარებისა ხმოვნების წინ ქართულ ზმნებში<ptr target="bibliography.xml#b60"/>, <citedRange> 276</citedRange></bibl>        
                  <bibl n="9">ივანე ჯავახიშვილი, ახლად აღმოჩენილი უძველესი ქართული ხელნაწერები და მათი მნიშვნელობა მეცნიერებისათვის<ptr target="bibliography.xml#b85"/></bibl>
-                 <bibl n="10">გიორგი ჩუბინაშვილი, რამოდენიმე თავი ქართული ხელოვნების ისტორიიდან<ptr target="bibliography.xml#b66"/>, <citedRange>გვ. 162</citedRange></bibl>
+                 <bibl n="10">გიორგი ჩუბინაშვილი, რამოდენიმე თავი ქართული ხელოვნების ისტორიიდან<ptr target="bibliography.xml#b66"/>, <citedRange> 162</citedRange></bibl>
                  <bibl n="11">აკაკი შანიძე, ძველი ქართულის ქრესტომათია<ptr target="bibliography.xml#b59"/></bibl>
-                 <bibl n="12">გიორგი ჩუბინაშვილი, ქართული ხელოვნების ისტორია<ptr target="bibliography.xml#b131"/>, <citedRange>გვ. 108</citedRange></bibl>
-                 <bibl n="13">შ. ამირანაშვილი, ქართული ხელოვნების ისტორია<ptr target="bibliography.xml#b114"/>, <citedRange>გვ. 169</citedRange></bibl>
-                 <bibl n="14">Н. Г. Чубинашвили, Памятники типа Джвари<ptr target="bibliography.xml#b47"/>, <citedRange>ст. 143-144</citedRange></bibl>
-                 <bibl n="15">ილია აბულაძე, ქართული წერის ნიმუშები, პალეოგრაფიული ალბომი<ptr target="bibliography.xml#b88"/>,<citedRange>გვ. 6-7</citedRange></bibl>
-                 <bibl n="16">ივ. ჯავახიშვილი, ქართული დამწერლობათამცოდნეობა, ანუ პალეოგრაფია<ptr target="bibliography.xml#b87"/>, <citedRange>გვ. 155-160</citedRange></bibl>
-                 <bibl n="17">ქართული ენის ისტორიული ქრესტომათია<ptr target="bibliography.xml#b112"/>,<citedRange>გვ. 2</citedRange></bibl>
-                 <bibl n="18">M. Tarchnišvili, Les récentes découverstes épigraphiques et litteraires en géorgien<ptr target="bibliography.xml#b24"/>, <citedRange>p. 252</citedRange></bibl>
-                 <bibl n="19">აკაკი შანიძე, ქართული ენის სტრუქტურისა და ისტორიის საკითხები<ptr target="bibliography.xml#b61"/>, <citedRange>გვ. 277</citedRange></bibl>
+                 <bibl n="12">გიორგი ჩუბინაშვილი, ქართული ხელოვნების ისტორია<ptr target="bibliography.xml#b131"/>, <citedRange> 108</citedRange></bibl>
+                 <bibl n="13">შ. ამირანაშვილი, ქართული ხელოვნების ისტორია<ptr target="bibliography.xml#b114"/>, <citedRange> 169</citedRange></bibl>
+                 <bibl n="14">Н. Г. Чубинашвили, Памятники типа Джвари<ptr target="bibliography.xml#b47"/>, <citedRange>143-144</citedRange></bibl>
+                 <bibl n="15">ილია აბულაძე, ქართული წერის ნიმუშები, პალეოგრაფიული ალბომი<ptr target="bibliography.xml#b88"/>,<citedRange> 6-7</citedRange></bibl>
+                 <bibl n="16">ივ. ჯავახიშვილი, ქართული დამწერლობათამცოდნეობა, ანუ პალეოგრაფია<ptr target="bibliography.xml#b87"/>, <citedRange> 155-160</citedRange></bibl>
+                 <bibl n="17">ქართული ენის ისტორიული ქრესტომათია<ptr target="bibliography.xml#b112"/>,<citedRange> 2</citedRange></bibl>
+                 <bibl n="18">M. Tarchnišvili, Les récentes découverstes épigraphiques et litteraires en géorgien<ptr target="bibliography.xml#b24"/>, <citedRange>252</citedRange></bibl>
+                 <bibl n="19">აკაკი შანიძე, ქართული ენის სტრუქტურისა და ისტორიის საკითხები<ptr target="bibliography.xml#b61"/>, <citedRange> 277</citedRange></bibl>
                  <bibl n="20">I. Molitor, MIA CSCO<ptr target="bibliography.xml#b15"/></bibl>   
-                 <bibl n="21">W. Djobadze, The sculptures on Eastern Facade of the Holy Cross of Mtzkhetâ<ptr target="bibliography.xml#b33"/>, <citedRange>p. 114</citedRange></bibl>
+                 <bibl n="21">W. Djobadze, The sculptures on Eastern Facade of the Holy Cross of Mtzkhetâ<ptr target="bibliography.xml#b33"/>, <citedRange>114</citedRange></bibl>
                  <bibl n="22">Ш. Я. Амиранашвили, Вклад Грузии в сокровищницу художественной культуры<ptr target="bibliography.xml#b133"/></bibl>
                  <bibl n="23">Ш. Я. Амиранашвили, История грузинского искусства<ptr target="bibliography.xml#b56"/></bibl>
-                 <bibl n="24">ილ. აბულაძე, ქართული წერის ნიმუშები, პალეოგრაფიული ალბომი<ptr target="bibliography.xml#b89"/>, <citedRange>გვ.14-15</citedRange></bibl>
+                 <bibl n="24">ილ. აბულაძე, ქართული წერის ნიმუშები, პალეოგრაფიული ალბომი<ptr target="bibliography.xml#b89"/>, <citedRange>14-15</citedRange></bibl>
                  <bibl n="25">Н. Г. Чубинашвили, Хандиси<ptr target="bibliography.xml#b48"/></bibl>
-                 <bibl n="26">П. Мурадян, Армянская надпись храма Джвари<ptr target="bibliography.xml#b49"/>, <citedRange>ст. 69</citedRange></bibl>
+                 <bibl n="26">П. Мурадян, Армянская надпись храма Джвари<ptr target="bibliography.xml#b49"/>, <citedRange>69</citedRange></bibl>
                 </listBibl>
             </div>         
             <div type="edition" xml:lang="ka" xml:space="preserve">

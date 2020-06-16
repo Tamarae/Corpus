@@ -93,9 +93,9 @@
     <body>
          <div type="bibliography">
                 <listBibl>
-                    <bibl n="1">თინათინ ყაუხჩიშვილი, საქართველოს ბერძნული წარწერების კორპუსი<ptr target="bibliography.xml#b130"/>, <citedRange>გვ. 262-263</citedRange></bibl>
-                    <bibl n="2">თინათინ ყაუხჩიშვილი, ბერძნული წარწერები საქართველოში<ptr target="bibliography.xml#b80"/>, <citedRange>გვ. 257-258</citedRange></bibl>
-                    <bibl n="3">М. И. Максимова, Геммы из некрополя Мцхеты-Самтавро<ptr target="bibliography.xml#b153"/>, <citedRange>გვ. 257</citedRange></bibl>
+                    <bibl n="1">თინათინ ყაუხჩიშვილი, საქართველოს ბერძნული წარწერების კორპუსი<ptr target="bibliography.xml#b130"/>, <citedRange> 262-263</citedRange></bibl>
+                    <bibl n="2">თინათინ ყაუხჩიშვილი, ბერძნული წარწერები საქართველოში<ptr target="bibliography.xml#b80"/>, <citedRange> 257-258</citedRange></bibl>
+                    <bibl n="3">М. И. Максимова, Геммы из некрополя Мцхеты-Самтавро<ptr target="bibliography.xml#b153"/>, <citedRange> 257</citedRange></bibl>
                 </listBibl>
             </div>
         

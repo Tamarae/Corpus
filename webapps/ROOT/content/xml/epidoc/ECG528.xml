@@ -93,11 +93,11 @@
         <body>
            <div type="bibliography"> 
                <listBibl>
-                <bibl n="1">ნიკო ბერძენიშვილი, საქართველოს ისტორიის საკითხები, წიგნი 1<ptr target="bibliography.xml#b130"/>,<citedRange>231-234 გვ.</citedRange>1964</bibl>
-                <bibl n="2"> დევი ბერძენიშვილი, ნარკვევები საქართველოს ისტორიული გეოგრაფიიდან<ptr target="bibliography.xml#b130"/>,<citedRange>47 გვ.</citedRange>1985</bibl>
-                <bibl n="3">დევი ბერძენიშვილი, არქიტექტურულ-ისტორიული გზამკვლევი "გუჯარეთი"<ptr target="bibliography.xml#b130"/>,<citedRange>45-46გვ.</citedRange>1987</bibl>
-                <bibl n="4">შოთა მესხია, საშიანო პოლიტიკური ვითარება და სამოხელეო წყობა მე-12 საუკუნის საქართველოში <ptr target="bibliography.xml#b130"/>,<citedRange>58გვ.</citedRange>1979</bibl>
-                <bibl n="5">შოშიაშვილი ნოდარ, შოთა რუსთაველი, ისტორიულ-ფილოლოგიური ძიებანი<ptr target="bibliography.xml#b130"/>,<citedRange>42გვ.</citedRange>1966</bibl>
+                <bibl n="1">ნიკო ბერძენიშვილი, საქართველოს ისტორიის საკითხები, წიგნი 1<ptr target="bibliography.xml#b130"/>,<citedRange>231-234 </citedRange>1964</bibl>
+                <bibl n="2"> დევი ბერძენიშვილი, ნარკვევები საქართველოს ისტორიული გეოგრაფიიდან<ptr target="bibliography.xml#b130"/>,<citedRange>47 </citedRange>1985</bibl>
+                <bibl n="3">დევი ბერძენიშვილი, არქიტექტურულ-ისტორიული გზამკვლევი "გუჯარეთი"<ptr target="bibliography.xml#b130"/>,<citedRange>45-46</citedRange>1987</bibl>
+                <bibl n="4">შოთა მესხია, საშიანო პოლიტიკური ვითარება და სამოხელეო წყობა მე-12 საუკუნის საქართველოში <ptr target="bibliography.xml#b130"/>,<citedRange>58</citedRange>1979</bibl>
+                <bibl n="5">შოშიაშვილი ნოდარ, შოთა რუსთაველი, ისტორიულ-ფილოლოგიური ძიებანი<ptr target="bibliography.xml#b130"/>,<citedRange>42</citedRange>1966</bibl>
 
 		   </listBibl>
            </div>

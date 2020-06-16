@@ -96,8 +96,8 @@
         <body>
              <div type="bibliography">
                 <listBibl>
-                    <bibl n="1">თინათინ ყაუხჩიშვილი, საქართველოს ბერძნული წარწერების კორპუსი<ptr target="bibliography.xml#b130"/>, <citedRange>გვ. 260</citedRange></bibl>
-                    <bibl n="2">თინათინ ყაუხჩიშვილი, ბერძნული წარწერები საქართველოში<ptr target="bibliography.xml#b80"/>, <citedRange>გვ. 261-262</citedRange></bibl>
+                    <bibl n="1">თინათინ ყაუხჩიშვილი, საქართველოს ბერძნული წარწერების კორპუსი<ptr target="bibliography.xml#b130"/>, <citedRange> 260</citedRange></bibl>
+                    <bibl n="2">თინათინ ყაუხჩიშვილი, ბერძნული წარწერები საქართველოში<ptr target="bibliography.xml#b80"/>, <citedRange> 261-262</citedRange></bibl>
                 </listBibl>
             </div>
             
@@ -138,7 +138,7 @@
                 ბოლოკიდური: მაგალითად, Αὐρήλις, Κορνήλις, Εὐσέβις ნაცვლად ფორმებისა Αὐρήλιος, Κορνήλιος, Εὐσέβιος. ჩვენს 
                 წარწერაშიც ასეთივე ხასიათისაა Ἀσπαυρούκις, ნაცვლად ფორმისა Ἀσπαυρούκιος“. ნიბერგი Ασπαυρουκις უეჭვოდ ირანულ 
                 სახელად მიიჩნევს და ადასტურებს ზემოთ მოყვანილ მსჯელობას: ადრე ბერძნულში გვექნებოდა ფორმა Ἀσπαυρούκιος, ხოლო 
-                შემდეგ რომაულ ხანაში - Ἀσπαυρούκις (H. S. Nyberg, Quelques inscriptions antiques ... გვ. 230-231).</p>
+                შემდეგ რომაულ ხანაში - Ἀσπαυρούκις (H. S. Nyberg, Quelques inscriptions antiques ...  230-231).</p>
                 </div>
          </body>
     </text>

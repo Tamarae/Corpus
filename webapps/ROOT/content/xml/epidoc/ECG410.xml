@@ -91,7 +91,7 @@
         <body>
              <div type="bibliography">
                 <listBibl>
-                    <bibl n="1">თინათინ ყაუხჩიშვილი, საქართველოს ბერძნული წარწერების კორპუსი<ptr target="bibliography.xml#b130"/>, <citedRange>გვ. 85</citedRange></bibl>
+                    <bibl n="1">თინათინ ყაუხჩიშვილი, საქართველოს ბერძნული წარწერების კორპუსი<ptr target="bibliography.xml#b130"/>, <citedRange> 85</citedRange></bibl>
                 </listBibl>
             </div>
 
@@ -105,7 +105,7 @@
          <div type="textpart" subtype="fragment" n="1">
          <ab>
              <unclear>υιστορια</unclear> <unclear>τυιρδ</unclear> <unclear>σονορι</unclear>
-             <persName><name nymRef="Χριστός"><expan><abbr><am><g type="chi-ro"></g></am></abbr><ex>Χρίστος</ex></expan></name> </persName>
+             <persName><name nymRef="Χριστός"><expan><abbr><am><g type="chi-ro">☧</g></am></abbr><ex>Χρίστος</ex></expan></name> </persName>
          </ab>    
           </div>
                 <div type="textpart" subtype="fragment" n="2">

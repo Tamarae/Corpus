@@ -102,9 +102,9 @@
         <body>   
              <div type="bibliography"> 
                 <listBibl>
-                    <bibl n="1">ნოდარ შოშიაშვილი, ქართული წარწერების კორპუსი, ლაპიდარული წარწერები<ptr target="bibliography.xml#b101"/>, <citedRange>გვ. 118</citedRange></bibl>
-                    <bibl n="2">ლევან მუსხელიშვილი, ბოლნისი<ptr target="bibliography.xml#b93"/>, <citedRange>გვ. 332-333</citedRange></bibl>
-                    <bibl n="3">საქართველოს სახელმწიფო მუზეუმის ქართული ეპიგრაფიკული ძეგლების კატალოგი<ptr target="bibliography.xml#b111"/>, <citedRange>გვ. 22</citedRange></bibl>
+                    <bibl n="1">ნოდარ შოშიაშვილი, ქართული წარწერების კორპუსი, ლაპიდარული წარწერები<ptr target="bibliography.xml#b101"/>, <citedRange> 118</citedRange></bibl>
+                    <bibl n="2">ლევან მუსხელიშვილი, ბოლნისი<ptr target="bibliography.xml#b93"/>, <citedRange> 332-333</citedRange></bibl>
+                    <bibl n="3">საქართველოს სახელმწიფო მუზეუმის ქართული ეპიგრაფიკული ძეგლების კატალოგი<ptr target="bibliography.xml#b111"/>, <citedRange> 22</citedRange></bibl>
                 </listBibl>
             </div> 
             

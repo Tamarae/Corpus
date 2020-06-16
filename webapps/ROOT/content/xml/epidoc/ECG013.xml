@@ -103,8 +103,8 @@
         <body>
            <div type="bibliography">
               <listBibl>
-             <bibl n="1">ნოდარ შოშიაშვილი, ქართული წარწერების კორპუსი<ptr target="bibliography.xml#b101"/>, <citedRange>გვ. 71-72</citedRange></bibl>
-             <bibl n="2">ლ. რჩეულიშვილი, ქართული ხუროთმოძღვრების სამი უცნობი ძეგლი<ptr target="bibliography.xml#b101"/>, <citedRange>გვ. 94</citedRange></bibl>
+             <bibl n="1">ნოდარ შოშიაშვილი, ქართული წარწერების კორპუსი<ptr target="bibliography.xml#b101"/>, <citedRange> 71-72</citedRange></bibl>
+             <bibl n="2">ლ. რჩეულიშვილი, ქართული ხუროთმოძღვრების სამი უცნობი ძეგლი<ptr target="bibliography.xml#b101"/>, <citedRange> 94</citedRange></bibl>
                 </listBibl>
             </div>
 

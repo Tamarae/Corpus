@@ -29,11 +29,12 @@
             <xsl:value-of select="@nymRef" />
           </field>
           <xsl:apply-templates select="current-group()" />
-
         </doc>
       </xsl:for-each-group>
     </add>
   </xsl:template>
+  
+      
 
   <xsl:template match="tei:name">
     <xsl:call-template name="field_index_instance_location" />

@@ -95,8 +95,8 @@
         <body>
              <div type="bibliography">
                 <listBibl>
-                    <bibl n="1">თინათინ ყაუხჩიშვილი, საქართველოს ბერძნული წარწერების კორპუსი<ptr target="bibliography.xml#b130"/>, <citedRange>გვ. 261-262</citedRange></bibl>
-                    <bibl n="2">თ. სურგულაძე, ა. სიხარულიძე, Κυρία καλή მცხეთის მოგვთაკარიდან<ptr target="bibliography.xml#b152"/>, <citedRange>გვ. 501-504</citedRange></bibl>
+                    <bibl n="1">თინათინ ყაუხჩიშვილი, საქართველოს ბერძნული წარწერების კორპუსი<ptr target="bibliography.xml#b130"/>, <citedRange> 261-262</citedRange></bibl>
+                    <bibl n="2">თ. სურგულაძე, ა. სიხარულიძე, Κυρία καλή მცხეთის მოგვთაკარიდან<ptr target="bibliography.xml#b152"/>, <citedRange> 501-504</citedRange></bibl>
                 </listBibl>
             </div>
            

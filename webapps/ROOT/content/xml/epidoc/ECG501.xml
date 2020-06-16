@@ -100,9 +100,9 @@
         <body>
            <div type="bibliography">
                <listBibl>
-                <bibl n="1">თამაზ გოგოლაძე,თორის ხეობის ეპიგრაფიკული კორპუსი<ptr target="bibliography.xml#b130"/>,<citedRange>47-49 გვ.</citedRange>2019</bibl>
-                <bibl n="2">თამაზ გოგოლაძე,ირაკლი გელაშვილი,ნინო ხარშილაძე,ფოთოლეთის ეკლესიის ნაკაწრი წარწერები და მათი ისტორიულ-წყაროთმცოდნეობითი ანალიზი<ptr target="bibliography.xml#b130"/>,<citedRange>256-257 გვ.</citedRange>2016-2017</bibl>
-                <bibl n="3">თამაზ გოგოლაძე,ირაკლი გელაშვილი,ნინო ხარშილაძე,ფოთოლეთის ეკლესიის ნაკაწრი წარწერები და მათი ისტორიულ-წყაროთმცოდნეობითი ანალიზი<ptr target="bibliography.xml#b130"/>,<citedRange>142-144 გვ.</citedRange>2014</bibl>
+                <bibl n="1">თამაზ გოგოლაძე,თორის ხეობის ეპიგრაფიკული კორპუსი<ptr target="bibliography.xml#b130"/>,<citedRange>47-49 </citedRange>2019</bibl>
+                <bibl n="2">თამაზ გოგოლაძე,ირაკლი გელაშვილი,ნინო ხარშილაძე,ფოთოლეთის ეკლესიის ნაკაწრი წარწერები და მათი ისტორიულ-წყაროთმცოდნეობითი ანალიზი<ptr target="bibliography.xml#b130"/>,<citedRange>256-257 </citedRange>2016-2017</bibl>
+                <bibl n="3">თამაზ გოგოლაძე,ირაკლი გელაშვილი,ნინო ხარშილაძე,ფოთოლეთის ეკლესიის ნაკაწრი წარწერები და მათი ისტორიულ-წყაროთმცოდნეობითი ანალიზი<ptr target="bibliography.xml#b130"/>,<citedRange>142-144 </citedRange>2014</bibl>
             </listBibl>
            </div>
             <div type="edition" xml:lang="ka" xml:space="preserve">     

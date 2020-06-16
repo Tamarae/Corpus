@@ -5,7 +5,7 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>ოქროს ბეჭედი</title>
+                <title>ზევახის ოქროს ბეჭედი</title>
                 <editor>თინათინ ყაუხჩიშვილი</editor>
             </titleStmt>
             <publicationStmt>
@@ -94,8 +94,8 @@
         <body>
              <div type="bibliography">
                 <listBibl>
-                    <bibl n="1">თინათინ ყაუხჩიშვილი, საქართველოს ბერძნული წარწერების კორპუსი<ptr target="bibliography.xml#b130"/>, <citedRange>გვ. 261</citedRange></bibl>
-                    <bibl n="2">თინათინ ყაუხჩიშვილი, ბერძნული წარწერები საქართველოში<ptr target="bibliography.xml#b80"/>, <citedRange>გვ. 263</citedRange></bibl>
+                    <bibl n="1">თინათინ ყაუხჩიშვილი, საქართველოს ბერძნული წარწერების კორპუსი<ptr target="bibliography.xml#b130"/> <citedRange>261</citedRange></bibl>
+                    <bibl n="2">თინათინ ყაუხჩიშვილი, ბერძნული წარწერები საქართველოში<ptr target="bibliography.xml#b80"/> <citedRange>263</citedRange></bibl>
                 </listBibl>
             </div>
             
@@ -106,7 +106,7 @@
             
 
          <ab>
-             <persName><name nymRef="Ζευάχης"><expan><abbr>Ζ</abbr><ex>ε</ex><abbr>Υ</abbr><ex>ά</ex><abbr><unclear>Χ</unclear></abbr><ex>ης</ex></expan></name></persName>
+             <persName><name nymRef="Ζευάχης"><expan><abbr>Ζ</abbr><ex>ε</ex><abbr>υ</abbr><ex>ά</ex><abbr><unclear>χ</unclear></abbr><ex>ης</ex></expan></name></persName>
          </ab>    
                      
             </div>
@@ -115,11 +115,7 @@
                 <p>ზევახეს</p>
             </div>
             
-           <div type="apparatus" xml:space="preserve">                                                                                                                                                          <!-- კრიტიკული აპარატი -->
-              <head>კრიტიკული აპარატი</head>
-              <p><app><lem></lem>
-              <rdg></rdg>
-              </app></p>
+           <div type="apparatus" xml:space="preserve">                                                                                                                                                         
             </div>
            
             <div type="commentary">

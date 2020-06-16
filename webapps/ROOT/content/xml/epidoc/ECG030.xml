@@ -99,14 +99,14 @@
         <body>
             <div type="bibliography">
                  <listBibl>
-             <bibl n="1">ნოდარ შოშიაშვილი, ქართული წარწერების კორპუსი<ptr target="bibliography.xml#b101"/>, <citedRange>გვ. 165-166</citedRange></bibl>
-             <bibl n="2">А. Натроев, Мцхета и его собор Светицховели<ptr target="bibliography.xml#b35"/>, <citedRange>ст. 19</citedRange></bibl>        
-             <bibl n="3">ჯაჭვის წმ. ჯვრის მონასტერი<ptr target="bibliography.xml#b118"/>, <citedRange>გვ. 24</citedRange></bibl>
+             <bibl n="1">ნოდარ შოშიაშვილი, ქართული წარწერების კორპუსი<ptr target="bibliography.xml#b101"/>, <citedRange> 165-166</citedRange></bibl>
+             <bibl n="2">А. Натроев, Мцхета и его собор Светицховели<ptr target="bibliography.xml#b35"/>, <citedRange>19</citedRange></bibl>        
+             <bibl n="3">ჯაჭვის წმ. ჯვრის მონასტერი<ptr target="bibliography.xml#b118"/>, <citedRange> 24</citedRange></bibl>
              <bibl n="4">ექვთიმე თაყაიშვილი, ჯვრის მონასტრის წარწერები<ptr target="bibliography.xml#b71"/></bibl> 
              <bibl n="5">აკაკი შანიძე, ძველი ქართულის ქრესტომათია<ptr target="bibliography.xml#b59"/></bibl>
-             <bibl n="6">Н. Г. Чубинашвили, Памятники типа Джвари<ptr target="bibliography.xml#b47"/>, <citedRange>ст. 75</citedRange></bibl>        
-             <bibl n="7">ივ. ჯავახიშვილი, ქართული დამწერლობათამცოდნეობა, ანუ პალეოგრაფია<ptr target="bibliography.xml#b87"/>, <citedRange>გვ. 162-163</citedRange></bibl>        
-             <bibl n="8">M. Tarchnišvili, Les récentes découverstes épigraphiques et litteraires en géorgien<ptr target="bibliography.xml#b24"/>, <citedRange>p. 252</citedRange></bibl>    
+             <bibl n="6">Н. Г. Чубинашвили, Памятники типа Джвари<ptr target="bibliography.xml#b47"/>, <citedRange>75</citedRange></bibl>        
+             <bibl n="7">ივ. ჯავახიშვილი, ქართული დამწერლობათამცოდნეობა, ანუ პალეოგრაფია<ptr target="bibliography.xml#b87"/>, <citedRange> 162-163</citedRange></bibl>        
+             <bibl n="8">M. Tarchnišvili, Les récentes découverstes épigraphiques et litteraires en géorgien<ptr target="bibliography.xml#b24"/>, <citedRange>252</citedRange></bibl>    
              <bibl n="9">I. Molitor, MIA CSCO<ptr target="bibliography.xml#b15"/></bibl>                  
          </listBibl>
             </div>         

@@ -107,7 +107,7 @@
         <body>
             <div type="bibliography">
                 <listBibl>  
-                  <bibl n="1">ნოდარ შოშიაშვილი, ქართული წარწერების კორპუსი, ლაპიდარული წარწერები<ptr target="bibliography.xml#b101"/>, <citedRange>გვ. 86</citedRange></bibl>
+                  <bibl n="1">ნოდარ შოშიაშვილი, ქართული წარწერების კორპუსი, ლაპიდარული წარწერები<ptr target="bibliography.xml#b101"/>, <citedRange> 86</citedRange></bibl>
                 </listBibl>
             </div> 
             

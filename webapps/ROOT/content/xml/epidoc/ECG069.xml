@@ -100,9 +100,9 @@
         <body>
  <div type="bibliography">
      <listBibl>
-     <bibl n="1">ნოდარ შოშიაშვილი, ქართული წარწერების კორპუსი, ლაპიდარული წარწერები<ptr target="bibliography.xml#b101"/>, <citedRange>გვ. 250-251</citedRange></bibl>
-     <bibl n="2">M. Brosset, Explications<ptr target="bibliography.xml#b18"/>, <citedRange>pp. 421-422</citedRange></bibl>
-     <bibl n="3">ლევან მუსხელიშვილი, ბოლნისი<ptr target="bibliography.xml#b93"/>, <citedRange>გვ. 341</citedRange></bibl>
+     <bibl n="1">ნოდარ შოშიაშვილი, ქართული წარწერების კორპუსი, ლაპიდარული წარწერები<ptr target="bibliography.xml#b101"/>, <citedRange> 250-251</citedRange></bibl>
+     <bibl n="2">M. Brosset, Explications<ptr target="bibliography.xml#b18"/>, <citedRange>421-422</citedRange></bibl>
+     <bibl n="3">ლევან მუსხელიშვილი, ბოლნისი<ptr target="bibliography.xml#b93"/>, <citedRange> 341</citedRange></bibl>
          </listBibl>
             </div>
             

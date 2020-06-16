@@ -95,8 +95,8 @@
         <body>
              <div type="bibliography">
                 <listBibl>
-                    <bibl n="1">თინათინ ყაუხჩიშვილი, საქართველოს ბერძნული წარწერების კორპუსი<ptr target="bibliography.xml#b130"/>, <citedRange>გვ. 268</citedRange></bibl>
-                    <bibl n="2">მ. ჭელიძე, ეპიგრაფიკული შენიშვნები<ptr target="bibliography.xml#b166"/>, <citedRange>გვ. 71-76</citedRange></bibl>
+                    <bibl n="1">თინათინ ყაუხჩიშვილი, საქართველოს ბერძნული წარწერების კორპუსი<ptr target="bibliography.xml#b130"/>, <citedRange> 268</citedRange></bibl>
+                    <bibl n="2">მ. ჭელიძე, ეპიგრაფიკული შენიშვნები<ptr target="bibliography.xml#b166"/>, <citedRange> 71-76</citedRange></bibl>
                 </listBibl>
             </div>
        

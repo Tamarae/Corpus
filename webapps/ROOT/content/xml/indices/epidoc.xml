@@ -194,7 +194,7 @@
       </div>
 
       <!-- პირის სახელი -->
-      <div xml:id="person_name">
+      <div xml:id="prosopography">
         <head><i18n:text i18n:key="persname">Personal Names</i18n:text></head>
 
         <div type="headings">
@@ -202,6 +202,19 @@
             <item>
               <i18n:text i18n:key="name">Name</i18n:text>
             </item>
+            
+            <item>
+              <i18n:text i18n:key="floruit">Floruit</i18n:text>
+            </item>
+            
+            <item>
+              <i18n:text i18n:key="occupation">Occupation</i18n:text>
+            </item>
+            
+            <item>
+              <i18n:text i18n:key="relation">Relation</i18n:text>
+            </item>
+            
             <item>
               <i18n:text i18n:key="indices_ref">References</i18n:text>
             </item>

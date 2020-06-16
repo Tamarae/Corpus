@@ -36,11 +36,17 @@
 
   <xsl:template match="result/doc">
     <tr>
+      
       <xsl:apply-templates select="str[@name='index_item_name']" />
       <xsl:apply-templates select="str[@name='index_abbreviation_expansion']"/>
-     <xsl:apply-templates select="str[@name='index_numeral_value']"/>
+      <xsl:apply-templates select="str[@name='index_numeral_value']"/>
       <xsl:apply-templates select="arr[@name='language_code']"/>
       <xsl:apply-templates select="arr[@name='index_instance_location']" />
+      
+      <xsl:apply-templates select="/aggregation/authority_data/tei:TEI/tei:text/tei:body/tei:div/tei:listPerson/tei:person[@xml:id=current()/str[@name='index_item_name']]" />
+      
+
+      
     </tr>
   </xsl:template>
 
@@ -110,5 +116,38 @@
          not universal. -->
     <xsl:call-template name="render-instance-location" />
   </xsl:template>
-
+  
+  
+  
+ <xsl:template match="tei:person">
+    <xsl:apply-templates select="tei:floruit" />
+    <xsl:apply-templates select="tei:occupation"/>
+    <xsl:apply-templates select="tei:bibl/tei:listRelation" />
+   
+  </xsl:template>
+  
+  
+  <xsl:template match="tei:floruit">
+    <td><xsl:value-of select="." /></td>
+  </xsl:template>
+  
+  <xsl:template match="tei:occupation[@xml:lang='ka']">
+    <td><xsl:value-of select="."/></td>
+  </xsl:template>
+  
+  <xsl:template match="tei:listRelation">
+    <td>
+      <ul>
+        <xsl:apply-templates select="tei:relation" />
+      </ul>
+    </td>
+  </xsl:template>
+  
+  <xsl:template match="tei:relation">
+    <li>
+      <xsl:apply-templates select="tei:relation[@passive]"/>
+    </li>
+  </xsl:template>
+  
+  
 </xsl:stylesheet>

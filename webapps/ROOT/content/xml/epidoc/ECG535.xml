@@ -95,8 +95,8 @@
         <body>
            <div type="bibliography"> 
                <listBibl>
-                <bibl n="1">თამაზ გოგოლაძე,თორის ხეობის ეპიგრაფიკული კორპუსი<ptr target="bibliography.xml#b130"/>,<citedRange>111-113გვ.</citedRange>1987</bibl>
-				<bibl n="2">თამაზ გოგოლაძე,ფოთოლეთის ეკლესიის ნაკაწრი წარწერები და მათი ისტორიუ-წყაროთმცოდნეობითი ანალიზი<ptr target="bibliography.xml#b130"/>,<citedRange>34გვ.</citedRange>2014</bibl>
+                <bibl n="1">თამაზ გოგოლაძე,თორის ხეობის ეპიგრაფიკული კორპუსი<ptr target="bibliography.xml#b130"/>,<citedRange>111-113</citedRange>1987</bibl>
+				<bibl n="2">თამაზ გოგოლაძე,ფოთოლეთის ეკლესიის ნაკაწრი წარწერები და მათი ისტორიუ-წყაროთმცოდნეობითი ანალიზი<ptr target="bibliography.xml#b130"/>,<citedRange>34</citedRange>2014</bibl>
 		        
 		   </listBibl>
            </div>

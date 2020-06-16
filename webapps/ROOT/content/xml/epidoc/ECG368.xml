@@ -69,7 +69,7 @@
                                 <placeName  type ="ancientFindspot" when="1957">ხუნზახი, დაღესტანი</placeName>
                                 <!-- "42.547389, 46.706797"--> 
                                 <rs type="circumstances">1957 წელს დაღესტნის მეორე არქეოლოგიურმა ექსპედიციამ ტად-რაალში მოიპოვა 2 ქვა ძველქართული წარწერებითურთ. 
-                                    ერთი მათგანი ჯვარია (Атаев Д.М. Христианские древности Аварии, გვ. 173)</rs>
+                                    ერთი მათგანი ჯვარია (Атаев Д.М. Христианские древности Аварии,  173)</rs>
                                 <rs type="monuList"/></provenance>                                
                             <provenance type="observed">
                                 <placeName>ხუნზახი, დაღესტანი</placeName>
@@ -99,7 +99,7 @@
         <body>
             <div type="bibliography">
            <listBibl>
-   <bibl n="1">შაჰბან ჰაფიზოვი, ქართული, ქართულ-ხუნძური და ხუნძური წარწერები მთიან ხუნძეთში (დაღესტანი)<ptr target="bibliography.xml#b141"/>, <citedRange>გვ. 122</citedRange></bibl>
+   <bibl n="1">შაჰბან ჰაფიზოვი, ქართული, ქართულ-ხუნძური და ხუნძური წარწერები მთიან ხუნძეთში (დაღესტანი)<ptr target="bibliography.xml#b141"/>, <citedRange> 122</citedRange></bibl>
             </listBibl> 
           </div>
                      

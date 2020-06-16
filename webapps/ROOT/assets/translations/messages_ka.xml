@@ -18,6 +18,9 @@
   <message key="menu-index-word">სიტყვანი</message>
   <message key="menu-index-role_name">წოდებები</message>
   <message key="menu-index-place_name">ადგილთა საძიებელი</message>
+
+  <message key="menu-prosopography">პროსოპოგრაფია</message>
+
   <message key="menu-search">ძიება</message>
   <message key="menu-admin">ადმინი</message>
   <message key="home-title">საქართველოს ეპიგრაფიკული კორპუსი</message>
@@ -103,6 +106,8 @@
   <message key="place_name">ადგილთა საძიებელი</message>
   <message key="placename_desc">კვადრატული ფრჩხილით [] აღნიშნულია წარწერა, რომელშიც ადგილის სახელი სრულად ან ნაწილობრივაა აღდგენილი.</message>
   <message key="filename_desc">ქართული წარწერები</message>
+  <message key="transl_persname">თარგმანი</message>
+  <message key="title">წოდება</message>
   <message key="bibl_c">ბიბლიოგრაფია</message>
 
 

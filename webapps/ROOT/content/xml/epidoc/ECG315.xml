@@ -105,9 +105,9 @@
         <body>           
               <div type="bibliography">
                 <listBibl>
-    <bibl n="1">ზაზა ალექსიძე, ლუვრი - ახტალა<ptr target="bibliography.xml#b160"/>, <citedRange>გვ. 316-330</citedRange></bibl>
-    <bibl n="2">Е. Такаишвили, Грузинския надписы Ахталы <ptr target="bibliography.xml#b161"/>, <citedRange>ст. 138-145</citedRange></bibl>                                        
-    <bibl n="3">ლეონ მელიქსეთ-ბეგი, ლორე-ტაშირის ქართული ეპიგრაფიკა<ptr target="bibliography.xml#b162"/>, <citedRange>გვ. 311-312</citedRange></bibl>
+    <bibl n="1">ზაზა ალექსიძე, ლუვრი - ახტალა<ptr target="bibliography.xml#b160"/>, <citedRange> 316-330</citedRange></bibl>
+    <bibl n="2">Е. Такаишвили, Грузинския надписы Ахталы <ptr target="bibliography.xml#b161"/>, <citedRange>138-145</citedRange></bibl>                                        
+    <bibl n="3">ლეონ მელიქსეთ-ბეგი, ლორე-ტაშირის ქართული ეპიგრაფიკა<ptr target="bibliography.xml#b162"/>, <citedRange> 311-312</citedRange></bibl>
     <bibl n="4">А. Эрицов, Монастырь Ахтала, Кавказская старина<ptr target="bibliography.xml#b163"/></bibl>
              </listBibl> 
             </div>

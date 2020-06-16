@@ -106,8 +106,8 @@
         <body> 
             <div type="bibliography">
                 <listBibl>
-         <bibl n="1">თემო ჯოჯუა, გიორგი გაგოშიძე, ქობაირის, ჰნევანქისა და ახტალის მონასტრების ქართული ლაპიდარული წარწერები<ptr target="bibliography.xml#b164"/>, <citedRange>გვ. 306-307</citedRange></bibl>
-         <bibl n="2">ვალერი სილოგავა, ეპიგრაფიკული ეტიუდები და შენიშვნები<ptr target="bibliography.xml#b167"/>, <citedRange>გვ. 113-115</citedRange></bibl>
+         <bibl n="1">თემო ჯოჯუა, გიორგი გაგოშიძე, ქობაირის, ჰნევანქისა და ახტალის მონასტრების ქართული ლაპიდარული წარწერები<ptr target="bibliography.xml#b164"/>, <citedRange> 306-307</citedRange></bibl>
+         <bibl n="2">ვალერი სილოგავა, ეპიგრაფიკული ეტიუდები და შენიშვნები<ptr target="bibliography.xml#b167"/>, <citedRange> 113-115</citedRange></bibl>
                 </listBibl>
                 </div>
             

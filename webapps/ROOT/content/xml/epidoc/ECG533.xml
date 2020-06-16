@@ -94,9 +94,9 @@
         <body>
            <div type="bibliography"> 
                <listBibl>
-                <bibl n="1">თამაზ გოგოლაძე,თორის ხეობის ეპიგრაფიკული კორპუსი<ptr target="bibliography.xml#b130"/>,<citedRange>107-109გვ.</citedRange>1987</bibl>
-                <bibl n="2"> ვლადიმერ აბულაძე, ბორჯომის ხეობის წარსული და აწმყო<ptr target="bibliography.xml#b130"/>,<citedRange>54 გვ.</citedRange>1983</bibl>
-                <bibl n="3"> ვლადიმერ აბულაძე, საავალიშვილოს ისტორიიდან<ptr target="bibliography.xml#b130"/>,<citedRange>119 გვ.</citedRange>1964</bibl>
+                <bibl n="1">თამაზ გოგოლაძე,თორის ხეობის ეპიგრაფიკული კორპუსი<ptr target="bibliography.xml#b130"/>,<citedRange>107-109</citedRange>1987</bibl>
+                <bibl n="2"> ვლადიმერ აბულაძე, ბორჯომის ხეობის წარსული და აწმყო<ptr target="bibliography.xml#b130"/>,<citedRange>54 </citedRange>1983</bibl>
+                <bibl n="3"> ვლადიმერ აბულაძე, საავალიშვილოს ისტორიიდან<ptr target="bibliography.xml#b130"/>,<citedRange>119 </citedRange>1964</bibl>
 
 		   </listBibl>
            </div>

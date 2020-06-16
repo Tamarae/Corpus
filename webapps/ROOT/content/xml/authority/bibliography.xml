@@ -159,7 +159,7 @@
 
                <biblStruct xml:id="b57"><author>აკაკი შანიძე</author>, <title xml:lang="ka">ბოლნისის წარწერები</title>, „ნობათი“, ჟურნალ „ცისკრის“ დამატება, N1,1975</biblStruct>
                <biblStruct xml:id="b58"><author>აკაკი შანიძე</author>, <title xml:lang="ka">ხუნამისის წარწერის განმარტებისათვის</title>, სმამ. ტომი VII, #4, 1946</biblStruct>
-               <biblStruct xml:id="b59"><author>აკაკი შანიძე</author>, <title xml:lang="ka">ძველი ქართულის ქრესტომათია ლექსიკონითურთ</title>, სახელმწიფო უნივერსიტეტის გამომცემლობა,  ტფილისი 1935</biblStruct>
+               <biblStruct type="book" xml:id="b59"><author>აკაკი შანიძე</author>, <title xml:lang="ka">ძველი ქართულის ქრესტომათია ლექსიკონითურთ</title>, სახელმწიფო უნივერსიტეტის გამომცემლობა,  ტფილისი 1935</biblStruct>
                <biblStruct xml:id="b60"><author>აკაკი შანიძე</author>, <title xml:lang="ka">ნაშთები III პირის ობიექტური პრეფიქსის ხმარებისა ხმოვნების წინ ქართულ ზმნაში</title>: ტფილისის უნივერსიტეტის მოამბე, #2, 1922/23</biblStruct>
                <biblStruct xml:id="b61"><author>აკაკი შანიძე</author>, <title xml:lang="ka">ქართული ენის სტრუქტურისა და ისტორიის საკითხები, I,</title> 1957</biblStruct>
 
@@ -170,7 +170,7 @@
 
                <biblStruct xml:id="b64"><author>გ. გობეჯიშვილი</author>, <title xml:lang="ka">არქეოლოგიური გთხრები საბჭოთა საქართველოში</title>, საქართველოს სსრ მეცნიერებათა აკადემიის გამომცემლობა, 1952</biblStruct>
 
-               <biblStruct xml:id="b65"><author>გიორგი ბოჭორიძე</author>, <title xml:lang="ka">რაჭის ისტორიული ძეგლები</title>, საქართველოს მუზეუმის მოამბე, V, ტფილისი 1929</biblStruct>
+               <biblStruct type="book" xml:id="b65"><monogr><title>რაჭის ისტორიული ძეგლები</title> <author><forename>გიორგი</forename> <surname>ბოჭორიძე</surname></author> <!--  საქართველოს მუზეუმის მოამბე,--> <imprint>V <pubPlace>ტფილისი</pubPlace> <date>1929</date></imprint></monogr></biblStruct>
 
                <biblStruct xml:id="b66"><author>გიორგი ჩუბინაშვილი</author>, <title xml:lang="ka">რამოდენიმე თავი ქართული ხელოვნების ისტორიიდან</title> 1926</biblStruct>
 
@@ -216,7 +216,10 @@
                <biblStruct xml:id="b90"><author>კორნელი კეკელიძე</author>, <title xml:lang="ka">ბოლნისის ტაძრის წარწერების ინტერპრეტაციისათვის: ეტიუდები</title>, VI, 1960</biblStruct>
                <biblStruct xml:id="b91"><author>კორნელი კეკელიძე</author>, <title xml:lang="ka">ქართული ლიტერატურის ისტორია</title>, I, 1960, ტაბ. II.</biblStruct>
 
-               <biblStruct xml:id="b92"><author>კორნელი დანელია</author>, <author>ზურაბ სარჯველაძე</author>, <title xml:lang="ka">ქართული პალეოგრაფია</title>, გამომცემლობა „ნეკერი“, 1997 წელი</biblStruct>
+               <biblStruct type="book" xml:id="b92"><monogr>
+                  <title>ქართული პალეოგრაფია</title> <author><forename>ზურაბ</forename> <surname>სარჯველაძე</surname></author> <author><forename>კორნელი</forename> <surname>დანელია</surname></author>
+                  <imprint><publisher>„ნეკერი“</publisher> <date>1997</date></imprint>
+               </monogr></biblStruct>
 
                <biblStruct xml:id="b93"><author>ლევან მუსხელიშვილი</author>, ბოლნისი, ენიმკის მოამბე III, 1938</biblStruct>
 
@@ -319,12 +322,12 @@
                <biblStruct xml:id="b175"><author>А. Г. Шанидзе</author>, <title xml:lang="ru">Грузинская надпись XIII века в сел. Кош (Армянская ССР)</title>, საქართველოს სსრ მეცნიერებათა აკადემიის ხელნაწერთა ინსტიტუტის მოამბე, ტ. I, საქართველოს სსრ მეცნიერებათა აკადემიის გამომცემლობა, თბილისი, 1959</biblStruct>
                
                <biblStruct xml:id="b176">
-                  <author>ლეონ მელიქსეთ-ბეგი</author>, 
-                  <title xml:lang="ka">ჩრდილო მხარეთა სომეხთა მოძღვარნი და მათი ვინაობა</title>, სომეხ-ქართველთა ურთიერთობის საკითხებთან დაკავშირებით (ცდა ისტორიულ ლიტერატურული გამოკვლევისა), ტფილისი, 1928
+                  <author><forename>ლეონ</forename> <surname>მელიქსეთ-ბეგი</surname></author>
+                  <title xml:lang="ka">ჩრდილო მხარეთა სომეხთა მოძღვარნი და მათი ვინაობა</title> სომეხ-ქართველთა ურთიერთობის საკითხებთან დაკავშირებით (ცდა ისტორიულ ლიტერატურული გამოკვლევისა), ტფილისი, 1928
                </biblStruct>
                
                <biblStruct xml:id="b177">
-                  <author>Г. Чубинашвили</author>, 
+                  <author>Г. Чубинашвили</author>
                   <title xml:lang="ru">Разыскания по армянской архитектуре</title>, Тбилиси, 1967
                </biblStruct>
                

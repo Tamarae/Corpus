@@ -107,12 +107,12 @@
         <body> 
       <div type="bibliography">
              <listBibl>
-     <bibl n="1">გივი გაფრინდაშვილი, უცნობი წარწერა ვარძიაში<ptr target="bibliography.xml#b159"/>, <citedRange>გვ. 247-254</citedRange></bibl>
-     <bibl n="2">ვალერი სილოგავა, სამცხის ლაპიდარული ეპიგრაფიკა<ptr target="bibliography.xml#b149"/>, <citedRange>გვ. 118-169</citedRange></bibl>
+     <bibl n="1">გივი გაფრინდაშვილი, უცნობი წარწერა ვარძიაში<ptr target="bibliography.xml#b159"/>, <citedRange> 247-254</citedRange></bibl>
+     <bibl n="2">ვალერი სილოგავა, სამცხის ლაპიდარული ეპიგრაფიკა<ptr target="bibliography.xml#b149"/>, <citedRange> 118-169</citedRange></bibl>
            </listBibl> 
             </div>
             
-            <div type="edition" xml:lang="ka" xml:space="preserve">
+            <div type="edition" xml:lang="ka" xml:space="preserve" ana="mtavruli">
                 
                         <!--✱ ჵ ღთისა დედაო მ[ი]ითჳ[ლ]....
                             მსახორებჲ ჩემ მრ მონისა შნ[ი]სა რატი ...
@@ -135,7 +135,7 @@
                                 <w lemma="მიერ"><expan><abbr>მ</abbr><ex>იე</ex><abbr>რ</abbr></expan></w> 
                                 <w lemma="მონა">მონისა</w> 
                                 <w lemma="შენ"><expan><abbr>შ</abbr><ex>ე</ex><abbr>ნ</abbr><supplied reason="lost"><abbr>ი</abbr></supplied><abbr>სა</abbr></expan></w> 
-                                <name nymRef="რატი">რატი</name>
+                                <persName key="rati_surameli"><name nymRef="რატი">რატი</name></persName>
                                 <gap reason="lost" extent="unknown" unit="chars"></gap>  
                     <lb n="3" break="no"/>ვ<gap reason="lost" quantity="2" unit="chars"></gap>ა 
                                 <w lemma="და">და</w> 

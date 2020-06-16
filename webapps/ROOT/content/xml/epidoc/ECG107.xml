@@ -101,8 +101,8 @@
         <body>            
             <div type="bibliography">
              <listBibl> 
-       <bibl n="1">ვალერი სილოგავა, სამცხის ლაპიდარული ეპიგრაფიკა<ptr target="bibliography.xml#b149"/>, <citedRange>გვ. 118-169</citedRange></bibl>
-       <bibl n="2">ვალერი სილოგავა, ხეოთის ახალაღმოჩენილი წარწერები<ptr target="bibliography.xml#b151"/>, <citedRange>გვ. 7-37</citedRange></bibl>       
+       <bibl n="1">ვალერი სილოგავა, სამცხის ლაპიდარული ეპიგრაფიკა<ptr target="bibliography.xml#b149"/>, <citedRange> 118-169</citedRange></bibl>
+       <bibl n="2">ვალერი სილოგავა, ხეოთის ახალაღმოჩენილი წარწერები<ptr target="bibliography.xml#b151"/>, <citedRange> 7-37</citedRange></bibl>       
              </listBibl> 
             </div>
             

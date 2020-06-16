@@ -98,10 +98,10 @@
         <body>
             <div type="bibliography">
                 <listBibl>
-                    <bibl n="1">ნოდარ შოშიაშვილი, ქართული წარწერების კორპუსი<ptr target="bibliography.xml#b101"/>, <citedRange>გვ. 199-200</citedRange></bibl>
-                    <bibl n="2">M. Brosset, Rapports VI<ptr target="bibliography.xml#b22"/>, <citedRange>p. 16</citedRange></bibl>
-                    <bibl n="3">ექვთიმე თაყაიშვილი, არხეოლოგიური მოგზაურობანი და შენიშვნანი<ptr target="bibliography.xml#b70"/>, <citedRange>გვ. 46</citedRange></bibl>
-                    <bibl n="5">ნოდარ შოშიაშვილი, ურბნისის ძველი ქართული წარწერები<ptr target="bibliography.xml#b100"/>, <citedRange>გვ. 149</citedRange></bibl>
+                    <bibl n="1">ნოდარ შოშიაშვილი, ქართული წარწერების კორპუსი<ptr target="bibliography.xml#b101"/>, <citedRange> 199-200</citedRange></bibl>
+                    <bibl n="2">M. Brosset, Rapports VI<ptr target="bibliography.xml#b22"/>, <citedRange>16</citedRange></bibl>
+                    <bibl n="3">ექვთიმე თაყაიშვილი, არხეოლოგიური მოგზაურობანი და შენიშვნანი<ptr target="bibliography.xml#b70"/>, <citedRange> 46</citedRange></bibl>
+                    <bibl n="5">ნოდარ შოშიაშვილი, ურბნისის ძველი ქართული წარწერები<ptr target="bibliography.xml#b100"/>, <citedRange> 149</citedRange></bibl>
                   </listBibl>
             </div>         
             <div type="edition" xml:lang="ka" xml:space="preserve">

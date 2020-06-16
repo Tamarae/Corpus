@@ -106,8 +106,8 @@
         <body>
             <div type="bibliography">
                 <listBibl>
-                    <bibl n="1">ნოდარ შოშიაშვილი, ქართული წარწერების კორპუსი<ptr target="bibliography.xml#b101"/>, <citedRange>გვ. 167</citedRange></bibl>
-                     <bibl n="2">Н. Г. Чубинашвили, Памятники типа Джвари<ptr target="bibliography.xml#b47"/>, <citedRange>ст. 148</citedRange></bibl>
+                    <bibl n="1">ნოდარ შოშიაშვილი, ქართული წარწერების კორპუსი<ptr target="bibliography.xml#b101"/>, <citedRange> 167</citedRange></bibl>
+                     <bibl n="2">Н. Г. Чубинашвили, Памятники типа Джвари<ptr target="bibliography.xml#b47"/>, <citedRange>148</citedRange></bibl>
                   </listBibl>
             </div>    
             

@@ -100,9 +100,9 @@
         <body>
            <div type="bibliography">
                <listBibl>
-                <bibl n="1">თამაზ გოგოლაძე,თორის ხეობის ეპიგრაფიკული კორპუსი<ptr target="bibliography.xml#b130"/>,<citedRange>43-45 გვ.</citedRange>2019</bibl>
-                <bibl n="2">დევი ბერძენიშვილი,ნარკვევები საქართველოს ისტორიული გეოგრაფიიდან (ზემო ქართლი – თორი, ჯავახეთი)<ptr target="bibliography.xml#b130"/>,<citedRange>43 გვ.</citedRange>1985</bibl>
-                <bibl n="3">თამაზ გოგოლაძე,ბორჯომის ხეობის ისტორიული და ხუროთმოძღვრული ძეგლები (გზამკვლევი)<ptr target="bibliography.xml#b130"/>,<citedRange>76 გვ.</citedRange>2014</bibl>
+                <bibl n="1">თამაზ გოგოლაძე,თორის ხეობის ეპიგრაფიკული კორპუსი<ptr target="bibliography.xml#b130"/>,<citedRange>43-45 </citedRange>2019</bibl>
+                <bibl n="2">დევი ბერძენიშვილი,ნარკვევები საქართველოს ისტორიული გეოგრაფიიდან (ზემო ქართლი – თორი, ჯავახეთი)<ptr target="bibliography.xml#b130"/>,<citedRange>43 </citedRange>1985</bibl>
+                <bibl n="3">თამაზ გოგოლაძე,ბორჯომის ხეობის ისტორიული და ხუროთმოძღვრული ძეგლები (გზამკვლევი)<ptr target="bibliography.xml#b130"/>,<citedRange>76 </citedRange>2014</bibl>
             </listBibl>
            </div>
             <div type="edition" xml:lang="ka" xml:space="preserve">     

@@ -157,9 +157,15 @@
         <body>
             <div type="bibliography">
                 <listBibl>
-                    <bibl sameAs="bib:b82">
-                        <ptr target="bibliography.xml#b82"/>თინათინ ყაუხჩიშვილი, საქართველოს ბერძნული წარწერების კორპუსი, <citedRange>213-214</citedRange>
-                    </bibl>
+                    <bibl sameAs="bib:b82"/>
+                        <!--  <ptr target="bibliography.xml#b82"/>თინათინ ყაუხჩიშვილი, საქართველოს ბერძნული წარწერების კორპუსი, <citedRange>213-214</citedRange>-->
+                    <biblStruct>
+                        <monogr>
+                            <imprint>
+                                <biblScope unit="page">213-214</biblScope>
+                            </imprint>
+                        </monogr>
+                    </biblStruct>
                 </listBibl>
             </div>
 
@@ -173,10 +179,16 @@
                                                              -->
                  <ab>
                      <lb n="1"/>Α<g type="chi-rho"/>Ω
-                     <lb n="2"/><w lemma="ἐγώ">ἐγὼ</w> <name nymRef="Τικᾶς">Τικᾶς</name> <w lemma="καί">καὶ</w> <w lemma="ἡσυχαστής">ἡσυ<supplied reason="lost">χαστὴς</supplied></w>
-                     <lb n="3"/><roleName nymRef="ἀββᾶ"><w lemma="ἀββᾶ"><supplied reason="lost">ἀββ</supplied>ᾶ</w></roleName> <w lemma="ἐμός">μου</w> <name nymRef="Φαρανούσης">Φαρανούσης</name> <w lemma="ποιέω">ἐποιήσα<hi rend="ligature">με</hi>ν</w>
+                     <lb n="2"/><w lemma="ἐγώ">ἐγὼ</w> 
+                        <name nymRef="Τικᾶς" ref="prosopography.xml#tikas">Τικᾶς</name> 
+                     καὶ 
+                     <roleName nymRef="ἡσυχαστής"><w lemma="ἡσυχαστής">ἡσυ<supplied reason="lost">χαστὴς</supplied></w></roleName>
+                     <lb n="3"/><roleName nymRef="ἀββᾶ"><w lemma="ἀββᾶ"><supplied reason="lost">ἀββ</supplied>ᾶ</w></roleName> <w lemma="ἐμός">μου</w> 
+                     <name nymRef="Φαρανούσης" ref="prosopography.xml#pharanuses">Φαρανούσης</name> <w lemma="ποιέω">ἐποιήσα<hi rend="ligature">με</hi>ν</w>
                      <lb n="4"/><w lemma="βωμός"><supplied reason="lost">β</supplied>ωμὸν</w> <w lemma="οὗτος">τοῦτον</w> <w lemma="ἰσόδομος">ἰσό<supplied reason="lost">δ</supplied>ομ<supplied reason="lost">ον</supplied></w>
-                     <lb n="5"/><w lemma="ἑαυτοῦ"><supplied reason="lost">ἑαυτοῖς</supplied></w> <name nymRef="Παπριοῦπας"><supplied reason="lost" precision="low">Π</supplied>α<supplied reason="lost">π</supplied>ριοῦπας</name> <name nymRef="Ἰσδιγέρδης">Ἰσδ<supplied reason="lost">ιγέρδης</supplied></name>
+                     <lb n="5"/><w lemma="ἑαυτοῦ"><supplied reason="lost">ἑαυτοῖς</supplied></w> 
+                     <name nymRef="Παπριοῦπας" ref="prosopography.xml#papriupas"><supplied reason="lost" precision="low">Π</supplied>α<supplied reason="lost">π</supplied>ριοῦπας</name> 
+                     <name nymRef="Ἰσδιγέρδης" ref="prosopography.xml#isdigerdes">Ἰσδ<supplied reason="lost">ιγέρδης</supplied></name>
                      <lb n="6"/><gap reason="lost" quantity="1" unit="lines"></gap><w lemma="πρός"><supplied reason="subaudible">πρὸς</supplied></w> <w lemma="δέ"><supplied reason="subaudible">δὲ</supplied></w> <w lemma="καί"><supplied reason="subaudible">καὶ</supplied></w> <w lemma="ἐνθάδε"><supplied reason="lost">ἐνθάδε</supplied></w> <w lemma="κεῖμαι"><supplied reason="lost">κεῖνται</supplied></w>
                      <lb n="7"/><supplied reason="lost">Α</supplied><g type="chi-rho"/>Ω Α<g type="chi-rho"/>Ω <del rend="damage"><supplied reason="lost">Α</supplied></del><g type="chi-rho"/><del rend="damage"><supplied reason="lost">Ω</supplied></del>
                  </ab>

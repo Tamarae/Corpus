@@ -103,9 +103,9 @@
         <body>           
            <div type="bibliography">
                 <listBibl>
-         <bibl n="1">თემო ჯოჯუა, გიორგი გაგოშიძე, ქობაირის, ჰნევანქისა და ახტალის მონასტრების ქართული ლაპიდარული წარწერები<ptr target="bibliography.xml#b164"/>, <citedRange>გვ. 271-272</citedRange></bibl>
-         <bibl n="2">პარუირ მურადიანი, სომხეთის ქართული წარწერები, წყაროთმცოდნეობითი გამოკვლევა (სომხურ ენაზე)<ptr target="bibliography.xml#b166"/>, <citedRange>გვ. 178, ტაბ. XIX, სურ. 2</citedRange></bibl>
-         <bibl n="3">ქეთი ასათიანი, გიორგი კალანდია, ქობერის მონასტრის ქართული წარწერები<ptr target="bibliography.xml#b165"/>, <citedRange>გვ. 10-14</citedRange></bibl>
+         <bibl n="1">თემო ჯოჯუა, გიორგი გაგოშიძე, ქობაირის, ჰნევანქისა და ახტალის მონასტრების ქართული ლაპიდარული წარწერები<ptr target="bibliography.xml#b164"/>, <citedRange> 271-272</citedRange></bibl>
+         <bibl n="2">პარუირ მურადიანი, სომხეთის ქართული წარწერები, წყაროთმცოდნეობითი გამოკვლევა (სომხურ ენაზე)<ptr target="bibliography.xml#b166"/>, <citedRange> 178, ტაბ. XIX, სურ. 2</citedRange></bibl>
+         <bibl n="3">ქეთი ასათიანი, გიორგი კალანდია, ქობერის მონასტრის ქართული წარწერები<ptr target="bibliography.xml#b165"/>, <citedRange> 10-14</citedRange></bibl>
                 </listBibl>
            </div>
             

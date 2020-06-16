@@ -98,11 +98,11 @@
         <body>
              <div type="bibliography">
                 <listBibl>
-                    <bibl n="1">თინათინ ყაუხჩიშვილი, საქართველოს ბერძნული წარწერების კორპუსი<ptr target="bibliography.xml#b130"/>, <citedRange>გვ. 75-76</citedRange></bibl>
-                    <bibl n="2">თინათინ ყაუხჩიშვილი, საქართველოს ბერძნული წარწერების კორპუსი<ptr target="bibliography.xml#b137"/>, <citedRange>გვ. 75-76</citedRange></bibl>
-                    <bibl n="3">თინათინ ყაუხჩიშვილი, საქართველოს ბერძნული წარწერების კორპუსი<ptr target="bibliography.xml#b82"/>, <citedRange>გვ. 75-76</citedRange></bibl>
+                    <bibl n="1">თინათინ ყაუხჩიშვილი, საქართველოს ბერძნული წარწერების კორპუსი<ptr target="bibliography.xml#b130"/>, <citedRange> 75-76</citedRange></bibl>
+                    <bibl n="2">თინათინ ყაუხჩიშვილი, საქართველოს ბერძნული წარწერების კორპუსი<ptr target="bibliography.xml#b137"/>, <citedRange> 75-76</citedRange></bibl>
+                    <bibl n="3">თინათინ ყაუხჩიშვილი, საქართველოს ბერძნული წარწერების კორპუსი<ptr target="bibliography.xml#b82"/>, <citedRange> 75-76</citedRange></bibl>
                     <bibl n="4">Ю. Н. Воронов, Археологическая карта Абхазии<ptr target="bibliography.xml#b169"/><citedRange></citedRange></bibl>
-                    <bibl n="5">Ю. Н. Воронов, Тайна Цебельдской долины<ptr target="bibliography.xml#b170"/>, <citedRange>გვ. 79</citedRange></bibl>
+                    <bibl n="5">Ю. Н. Воронов, Тайна Цебельдской долины<ptr target="bibliography.xml#b170"/>, <citedRange> 79</citedRange></bibl>
                 </listBibl>
             </div>
        
