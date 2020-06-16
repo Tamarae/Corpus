@@ -7,25 +7,36 @@
          <i18n:text i18n:key="epidoc_indices">
             EpiDoc Indices
           </i18n:text>
-
         </title>
       </titleStmt>
+
       <publicationStmt>
         <p></p>
       </publicationStmt>
+
       <sourceDesc>
         <p>Born digital document.</p>
       </sourceDesc>
+
     </fileDesc>
   </teiHeader>
+
+
   <text>
     <front>
       <div>
-        <p><i18n:text i18n:key="indices_desc">These indices are based on those included in the ECG project.</i18n:text></p>
+        <!-- css research თეგებს, რომ ვამატებ ყველაფერს პარსავს ჰმ?-->
+        <p>
+          <i18n:text i18n:key="indices_desc">
+          These indices are based on those included in the ECG project.
+        </i18n:text>
+        </p>
       </div>
     </front>
+
     <body>
-      
+
+
       <!-- <div xml:id="symbol">
         <head><i18n:text i18n:key="symbols">Symbols</i18n:text></head>
 
@@ -37,7 +48,7 @@
           </list>
         </div>
       </div> -->
-      
+
       <!-- ქარაგმა -->
       <div xml:id="abbreviation">
         <head>
@@ -70,8 +81,8 @@
           </list>
         </div>
       </div>
-      
-      
+
+
       <!-- ფრაგმენტები-->
       <div xml:id="fragment">
         <head>
@@ -104,8 +115,8 @@
           </list>
         </div>
       </div>
-      
-      
+
+
       <!-- რიცხვი -->
       <div xml:id="numeral">
         <head>
@@ -130,8 +141,8 @@
           </list>
         </div>
       </div>
-      
-      
+
+
       <!-- სიტყვანი -->
       <div xml:id="word">
         <head><i18n:text i18n:key="words">Words</i18n:text></head>
@@ -156,7 +167,7 @@
           </list>
         </div>
       </div>
-      
+
       <!-- ლემების სია -->
       <div xml:id="lemma">
         <head><i18n:text i18n:key="lemma">Lemmata</i18n:text></head>
@@ -194,8 +205,8 @@
             <item>
               <i18n:text i18n:key="indices_ref">References</i18n:text>
             </item>
-            
-            
+
+
           </list>
         </div>
 
@@ -207,27 +218,27 @@
           </list>
         </div>
       </div>
-      
+
       <!-- მოხელეობი სახელი -->
       <div xml:id="role_name">
         <head><i18n:text i18n:key="role_name">Role Names</i18n:text></head>
-        
+
         <div type="headings">
           <list>
             <item>
               <i18n:text i18n:key="role_name">Role Name</i18n:text>
             </item>
-            
+
             <item>
               <i18n:text i18n:key="indices_tabl_lang">Language code</i18n:text>
             </item>
-            
+
             <item>
               <i18n:text i18n:key="indices_ref">References</i18n:text>
             </item>
           </list>
         </div>
-        
+
         <div type="notes">
           <list>
             <item>
@@ -236,27 +247,27 @@
           </list>
         </div>
       </div>
-      
+
       <!-- ადგილის სახელი -->
       <div xml:id="place_name">
         <head><i18n:text i18n:key="place_name">Place Names</i18n:text></head>
-        
+
         <div type="headings">
           <list>
             <item>
               <i18n:text i18n:key="place_name">Place Name</i18n:text>
             </item>
-            
+
             <item>
               <i18n:text i18n:key="indices_tabl_lang">Language code</i18n:text>
             </item>
-            
+
             <item>
               <i18n:text i18n:key="indices_ref">References</i18n:text>
             </item>
           </list>
         </div>
-        
+
         <div type="notes">
           <list>
             <item>
@@ -265,10 +276,7 @@
           </list>
         </div>
       </div>
-      
-      
 
- 
     </body>
   </text>
 </TEI>

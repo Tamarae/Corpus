@@ -1,6 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Example format for catalogue files. -->
 <catalogue xml:lang="en">
+
+
+
+
+<!-- menu -->
   <message key="menu-inscriptions">Inscriptions</message>
   <message key="menu-indices">Indices</message>
   <message key="menu-index-abbreviation">Abbreviations</message>

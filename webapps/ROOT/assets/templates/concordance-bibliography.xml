@@ -32,10 +32,12 @@
     <kiln:block name="content">
       <div class="row">
         <div class="large-12 columns">
+          <div class="description link-arrow">
           <ul>
             <xsl:apply-templates mode="bibl-list"
                                  select="/aggregation/response/result/doc" />
           </ul>
+        </div>
         </div>
       </div>
     </kiln:block>
