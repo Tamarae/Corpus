@@ -1,6 +1,9 @@
+*.log
 RebuildEpigraphy.sh
 index.nginx-debian.html
 sw/jetty/logs/
+sw/jetty/temp/
+webapps/ROOT/content/xml/tei/
 webapps/ROOT/WEB-INF/logs/
 webapps/ROOT/WEB-INF/logs/cocoon.log
 webapps/openrdf-sesame/app_dir/OpenRDF Sesame/conf/
