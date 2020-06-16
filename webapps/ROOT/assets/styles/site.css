@@ -136,13 +136,13 @@ footer a:hover {
   padding-top: 70px;
   opacity: 1;
 }
-nav.top-bar ul > li:nth-of-type(4),
-nav.top-bar ul > li:nth-of-type(5) {
+nav.top-bar ul > li:nth-of-type(5),
+nav.top-bar ul > li:nth-of-type(6) {
     display: none;
 }
-nav.top-bar ul > li:nth-of-type(6) {
+/* nav.top-bar ul > li:nth-of-type(7) {
     margin-left: 40px;
-}
+} */
 nav.top-bar ul.dropdown  > li:nth-of-type(4),
 nav.top-bar ul.dropdown > li:nth-of-type(6) {
     display: inline;
