@@ -1,6 +1,0 @@
-127.0.0.1 -  -  [09/Mar/2020:23:24:37 +0000] "GET /ka/inscriptions/ECG330.html HTTP/1.1" 200 16454 
-127.0.0.1 -  -  [09/Mar/2020:23:24:37 +0000] "GET /ka/inscriptions/ECG329.html HTTP/1.1" 200 15672 
-127.0.0.1 -  -  [09/Mar/2020:23:24:38 +0000] "GET /assets/foundation/css/normalize.css HTTP/1.1" 304 - 
-127.0.0.1 -  -  [09/Mar/2020:23:24:38 +0000] "GET /assets/foundation/css/foundation.min.css HTTP/1.1" 304 - 
-127.0.0.1 -  -  [09/Mar/2020:23:24:38 +0000] "GET /images/ecg330-thumb.jpg HTTP/1.1" 200 2849 
-127.0.0.1 -  -  [09/Mar/2020:23:24:39 +0000] "GET /images/ecg329-thumb.jpg HTTP/1.1" 200 5986 
