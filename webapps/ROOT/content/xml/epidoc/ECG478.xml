@@ -34,7 +34,7 @@
                     <physDesc><!-- ფიზიკური აღწერა -->
                         <objectDesc><!-- ობიექტის აღწერა -->
                             <supportDesc>
-                                <support>                             
+                                <support>
                                    <material>
                                        საღებავი
                                    </material><!-- მასალა -->
@@ -49,7 +49,7 @@
                                   </support>
                             </supportDesc>
                                 <layoutDesc>
-                                    <layout writtenLines="2"> 
+                                    <layout writtenLines="2">
                                         <dimensions>
                                             <width/>
                                             <height/>
@@ -76,12 +76,12 @@
                                 <rs type="circumstances">მე-19 საუკუნეში მარი ბროსემ მოინახულა ლიხნის ტაძარი.</rs><!-- აღმოჩენის გარემოებები -->
                                 <rs type="context"> მარი ბროსემ ტაძრის კედლებიდან გადმოიწერა ფრესკათა ტექსტები. </rs><!-- რა კონტექსტში იქნა ნაპოვნი -->
                                 <rs type="monuList"/>
-                            </provenance> 
+                            </provenance>
                             <provenance type="observed">ლიხნის ღვთისმშობლის მიძინების ტაძარი<!-- სად შეიძლება, ინახოს -->
                             <placeName type="modernSpot">ლიხნის ღვთისმშობლის მიძინების ტაძარი<!-- რა ქვია პოვნის ადგილს ახლა --></placeName>
                             <idno></idno><!-- მუზეუმის შიფრი, თუ ძეგლზეა, არ ვავსებ -->
                         </provenance>
-                    </history>                   
+                    </history>
                 </msDesc>
             </sourceDesc>
         </fileDesc><encodingDesc>
@@ -98,20 +98,20 @@
     <text>
         <body>
 
-            <div type="edition" xml:lang="ka" xml:space="preserve"><!-- წარწერის ტექსტი -->
+            <div type="edition" xml:lang="ka" ana="mtavruli" xml:space="preserve"><!-- წარწერის ტექსტი -->
                 <ab>
                       <lb n="1"/><w lemma="წმიდა"><expan><abbr>წ</abbr><ex>მიდა</ex><abbr>ჲ</abbr></expan></w> <name><expan><abbr>გ</abbr><ex>რი</ex><abbr>გ</abbr><ex>ო</ex><abbr>ლი</abbr></expan></name>
                       <lb n="2"/><w lemma="ღმრთისმეტყუელ"><expan><abbr>ღ</abbr><ex>მრ</ex><abbr>თისმეტყ</abbr><ex>უე</ex><abbr>ლი</abbr></expan></w>
                 </ab>
             </div>
             <div type="translation" xml:lang="ka"><p>წმინდა გრიგოლ ღვთისმეტყველი</p></div>
-            
+
             <div type="apparatus"></div>
-            
+
             <div type="commentary"><p>წარწერა დაზიანებული არ არის.</p></div>
-            
+
             <div type="bibliography">
-                <listBibl>           
+                <listBibl>
                     <bibl type="publication" subtype="principal" xml:lang="ka">
                       <author>
                           <persName>
@@ -126,7 +126,7 @@
                         <date></date>
                      </bibl>
                 </listBibl>
-            </div>         
+            </div>
          </body>
     </text>
 </TEI>

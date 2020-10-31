@@ -42,7 +42,7 @@
                             </supportDesc>
                             <layoutDesc>
                                 <layout writtenLines="3">
-                                         წარწერა სამსტრიქონიანია. ფილის ზედაპირის მარჯვენა კიდეზე ლილვის ნაწილია შერჩენილი, 
+                                         წარწერა სამსტრიქონიანია. ფილის ზედაპირის მარჯვენა კიდეზე ლილვის ნაწილია შერჩენილი,
                                          მის მარცხნივ კი წარწერის - ფრაგმენტი.
                                         <dimensions unit="cm">
                                         <height>6</height>
@@ -51,7 +51,7 @@
                                    </layout>
                             </layoutDesc>
                         </objectDesc>
-                        
+
                         <handDesc>
                              <handNote script="asomtavruli" style="embossed">
                                 <rs type="execution">რელიეფური</rs> <rs type="script">ასომთავრული</rs> წარწერა
@@ -59,7 +59,7 @@
                             </handNote>
                         </handDesc>
                     </physDesc>
-                     
+
                     <history>
                         <origin>
                             <origPlace>ბოლნისის სიონი</origPlace>
@@ -67,9 +67,9 @@
                         </origin>
                         <provenance type="found" when="1937">
                             <placeName type="ancientFindspot" ref="http://pleiades.stoa.org/places/863760">ბოლნისის სიონი</placeName>
-                            <!-- 41.389081, 44.512551 --> 
+                            <!-- 41.389081, 44.512551 -->
                             <rs type="monuList"/>
-                            <rs type="circumstances">ბოლნისის ტაძარი მდებარეობს ისტორიულ ქვემო ქართლში, 
+                            <rs type="circumstances">ბოლნისის ტაძარი მდებარეობს ისტორიულ ქვემო ქართლში,
                                 9 კმ. მანძილზე ქ. ბოლნისიდან სამხრეთით, 1 კმ. მანძილზე სოფ. ბონის-ხაჩინიდან. წარწერა 1937 წელს აღმოაჩინა კულტურულ ძეგლთა
                             დაცვის კომიტეტის მიერ მოწყობილმა არქეოლოგიურმა ექსპედიციამ, რომელსაც ლევან მუსხელიშვილი ხელმძღვანელობდა.</rs>
                             <rs type="context"/>
@@ -86,10 +86,10 @@
         <prefixDef matchPattern="(.+)" replacementPattern="../authority/bibliography.xml#$1" ident="bib"/>
     </listPrefixDef>
 </encodingDesc>
-        <revisionDesc><change when="2019-10-29" who="Eka Kvirkvelia">ტექსტის სრული კოდირება, მეტამონაცემების სრული კოდირება, 
+        <revisionDesc><change when="2019-10-29" who="Eka Kvirkvelia">ტექსტის სრული კოდირება, მეტამონაცემების სრული კოდირება,
             ბმულებით დაკავშირება ავტორიტეტულ წყაროსთან</change></revisionDesc>
     </teiHeader>
-    
+
     <facsimile>
         <surface>
             <graphic url="ecg060.jpg">
@@ -98,35 +98,35 @@
             </graphic>
         </surface>
     </facsimile>
-    
+
     <text>
-        <body> 
-           <div type="bibliography"> 
+        <body>
+           <div type="bibliography">
                 <listBibl>
-                    <bibl n="1">ნოდარ შოშიაშვილი, ქართული წარწერების კორპუსი, ლაპიდარული წარწერები<ptr target="bibliography.xml#b101"/>, <citedRange> 77-78</citedRange></bibl>                 
+                    <bibl n="1">ნოდარ შოშიაშვილი, ქართული წარწერების კორპუსი, ლაპიდარული წარწერები<ptr target="bibliography.xml#b101"/>, <citedRange> 77-78</citedRange></bibl>
                     <bibl n="3">საქართველოს სახელმწიფო მუზეუმის ქართული ეპიგრაფიკული ძეგლების კატალოგი<ptr target="bibliography.xml#b111"/>, <citedRange> 43-44</citedRange></bibl>
                 </listBibl>
-            </div> 
-            
-            <div type="edition" xml:space="preserve">               
+            </div>
+
+              <div type="edition" xml:lang="ka" ana="mtavruli" xml:space="preserve">
                     <!-- „_____
                         ანახო
                         ვ(ა)ნო"  -->
 
                       <ab>
                          <lb n="1"/><gap reason="lost" quantity="1" unit="line"></gap>
-                         <lb n="2"/><gap reason="lost" extent="unknown" unit="charecter"></gap>ანახო 
-                         <lb n="3"/><gap reason="lost" extent="unknown" unit="charecter"></gap><expan><abbr>ვ</abbr><ex>ა</ex><abbr>ნო</abbr></expan> 
-                      </ab>                                                              
-                 
+                         <lb n="2"/><gap reason="lost" extent="unknown" unit="charecter"></gap>ანახო
+                         <lb n="3"/><gap reason="lost" extent="unknown" unit="charecter"></gap><expan><abbr>ვ</abbr><ex>ა</ex><abbr>ნო</abbr></expan>
+                      </ab>
+
                 </div>
             <div type="translation" xml:lang="ka"/>
 
             <div type="apparatus" xml:space="preserve"/>
-            
+
             <div type="commentary">
-                <p> ნოდარ შოშიაშვილის ქართული წარწერების კორპუსის მიხედვით #12. წარწერას განკვეთილობისა და ქარაგმის ნიშნები არ ახლავს. 
-                    სიტყვები ერთმანეთისგან არ არის დაცილებული. 
+                <p> ნოდარ შოშიაშვილის ქართული წარწერების კორპუსის მიხედვით #12. წარწერას განკვეთილობისა და ქარაგმის ნიშნები არ ახლავს.
+                    სიტყვები ერთმანეთისგან არ არის დაცილებული.
                  </p>
            </div>
         </body>

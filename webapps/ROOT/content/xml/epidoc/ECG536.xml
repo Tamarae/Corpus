@@ -30,14 +30,14 @@
                     <physDesc>
                         <objectDesc>
                             <supportDesc>
-                                <support>                             
+                                <support>
                                    <material ref="https://www.eagle-network.eu/voc/material/lod/2">ქვა</material>
-                                   <objectType ref="https://www.eagle-network.eu/voc/objtyp/lod/1483">მარმარილოს ქვა</objectType> 
-                                       
+                                   <objectType ref="https://www.eagle-network.eu/voc/objtyp/lod/1483">მარმარილოს ქვა</objectType>
+
                                   </support>
                             </supportDesc>
                                 <layoutDesc>
-                                    <layout writtenLines="1"> 
+                                    <layout writtenLines="1">
                                         <dimensions unit="cm">
                                             <width></width>
                                             <height></height>
@@ -46,9 +46,9 @@
                                 </layoutDesc>
                         </objectDesc>
                         <handDesc>
-                            <handNote script="mkhedruli">წარწერა არის შესრულებულია მხედრული ასოებით. 
+                            <handNote script="mkhedruli">წარწერა არის შესრულებულია მხედრული ასოებით.
                                    ქარაგმის ნიშანი არ მოიპოვება.
-                                <width></width>   
+                                <width></width>
                                 <height></height>
                                  </handNote>
                         </handDesc>
@@ -62,12 +62,12 @@
                                 <placeName type ="ancientFindspot">გუჯარეთის ხეობა. ტიმოთესუბნის (კიმოთისმანის) ღმრთისმშობლის ეკლესია</placeName>
                                 <rs type="context">  მარმარილოს საფლავის ქვის ფრაგმენტი დიმინტრი მეღვინეთუხუცესიშვილმა 1947-48 წლებში ტაძრის ინტერიერის ერთ კუთხეში შეამჩნია.</rs>
                                 <rs type="monuList"/>
-                            </provenance> 
+                            </provenance>
                             <provenance type="observed">გუჯარეთის ხეობა. ტიმოთესუბნის (კიმოთისმანის) ღმრთისმშობლის ეკლესია
-                            <placeName type="modernSpot">გუჯარეთის ხეობა. ტიმოთესუბნის (კიმოთისმანის) ღმრთისმშობლის ეკლესია</placeName>            
+                            <placeName type="modernSpot">გუჯარეთის ხეობა. ტიმოთესუბნის (კიმოთისმანის) ღმრთისმშობლის ეკლესია</placeName>
                             <idno></idno>
                         </provenance>
-                    </history>                   
+                    </history>
                 </msDesc>
             </sourceDesc>
         </fileDesc><encodingDesc>
@@ -91,24 +91,24 @@
     </facsimile>
     <text>
         <body>
-           <div type="bibliography"> 
+           <div type="bibliography">
                <listBibl>
                 <bibl n="1">თამაზ გოგოლაძე,თორის ხეობის ეპიგრაფიკული კორპუსი<ptr target="bibliography.xml#b130"/>,<citedRange>114-115</citedRange>1987</bibl>
 
 		   </listBibl>
            </div>
-            <div type="edition" xml:lang="ka" xml:space="preserve">     
+            <div type="edition" xml:space="preserve" xml:lang="ka" ana="mtavruli">     
                         <!--"[...]ზაზა ავალიშვ[ილ]ი[...]".-->
                 <ab>
                     <lb n="1"/>
-                    <w lemma="ავალიშვილი"><expan><abbr>ავალიშვ</abbr><ex>ილ</ex><abbr>ი</abbr></expan></w> 
+                    <w lemma="ავალიშვილი"><expan><abbr>ავალიშვ</abbr><ex>ილ</ex><abbr>ი</abbr></expan></w>
 					</ab>
             </div>
             <div type="translation" xml:lang="ka"/>
             <div type="apparatus" xml:space="preserve"/>
             <div type="commentary"><p>წარწერის წინა გამომცემლის მიხედვით მოყვანილი საფლავის ქვის წარწერა თავბოლონაკლულია. შემორჩენილია მხოლოდ ადგილობრივი თავადის ზაზა ავალიშვილის სახელი. აღსაღნიშნავია,
 			რომ XIX საუკუნის 40-იან წლებშიც კი ეპიტაფიის გადარჩენილ ნაწილში გვარი ავალიშვილი დაზიანებული სახით იკითხებოდა.</p>
-			<p> გასათვალიწინებელია,წარწერის მასალად მარმარილოს გამოყენება, რომელსაც უფრო ხშირად XVIII-XIX საუკუნის საფლავების დამზადებისას მიმართავდნენ, 
+			<p> გასათვალიწინებელია,წარწერის მასალად მარმარილოს გამოყენება, რომელსაც უფრო ხშირად XVIII-XIX საუკუნის საფლავების დამზადებისას მიმართავდნენ,
 			    წარწერის ქრონოლოგიას ამავე პერიოდით – XVIII-XIX საუკუნეებით განსაზღვრავენ.</p>
             </div>
          </body>

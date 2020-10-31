@@ -32,9 +32,9 @@
                     <physDesc>
                         <objectDesc>
                             <supportDesc>
-                                <support>                             
+                                <support>
                                    <material ref="https://www.eagle-network.eu/voc/material/lod/2">მუქი ნაცრისფერი ქვა</material>
-                                   <objectType ref="https://www.eagle-network.eu/voc/objtyp/lod/36">ლავგანდარი</objectType> 
+                                   <objectType ref="https://www.eagle-network.eu/voc/objtyp/lod/36">ლავგანდარი</objectType>
                                         <dimensions unit="cm">
                                         <width>92,5</width>
                                         <height>18</height>
@@ -43,7 +43,7 @@
                                   </support>
                             </supportDesc>
                                 <layoutDesc>
-                                    <layout writtenLines="1"> 
+                                    <layout writtenLines="1">
                                         <dimensions unit="cm">
                                             <width>12</width>
                                             <height>61,5</height>
@@ -52,9 +52,9 @@
                                 </layoutDesc>
                         </objectDesc>
                         <handDesc>
-                            <handNote script="asomtavruli">წარერა ნუსხური შერეული ასომთავრული არის შესრულებული. 
-                                წარწერას განკვეთილობის ნიშნები არ ახლავს და ქარაგმის ნიშნად გამოყენებულია მორკალური ფორმის განივი ხაზი. 
-                                <width>5-11,5</width>   
+                            <handNote script="asomtavruli">წარერა ნუსხური შერეული ასომთავრული არის შესრულებული.
+                                წარწერას განკვეთილობის ნიშნები არ ახლავს და ქარაგმის ნიშნად გამოყენებულია მორკალური ფორმის განივი ხაზი.
+                                <width>5-11,5</width>
                                 <height>7-8,5</height>
                                  </handNote>
                         </handDesc>
@@ -69,12 +69,12 @@
                                 <rs type="circumstances"></rs>
                                 <rs type="context"/>
                                 <rs type="monuList"/>
-                            </provenance> 
+                            </provenance>
                             <provenance type="observed">ბორჯომის ხეობა. საკირე. „საყდრივაკის“ ეკლესია
-                            <placeName type="modernSpot">ბორჯომის ხეობა. საკირე. „საყდრივაკის“ ეკლესია</placeName>            
+                            <placeName type="modernSpot">ბორჯომის ხეობა. საკირე. „საყდრივაკის“ ეკლესია</placeName>
                             <idno></idno>
                         </provenance>
-                    </history>                   
+                    </history>
                 </msDesc>
             </sourceDesc>
         </fileDesc><encodingDesc>
@@ -105,21 +105,21 @@
                 <bibl n="3">თამაზ გოგოლაძე,ბორჯომის ხეობის ისტორიული და ხუროთმოძღვრული ძეგლები (გზამკვლევი)<ptr target="bibliography.xml#b130"/>,<citedRange>76 </citedRange>2014</bibl>
             </listBibl>
            </div>
-            <div type="edition" xml:lang="ka" xml:space="preserve">     
+            <div type="edition" xml:lang="ka" ana="mtavruli" xml:space="preserve">     
               <!--ქ(რისტ)ე, შ(ეიწყალ)ე შპ (!)-->
                 <ab>
-                    <lb n="1"/><w lemma="ქრისტე"><expan><abbr>ქ</abbr><ex>რისტ</ex><abbr>ე</abbr></expan></w> 
-                               <w lemma="იწყალებს"><expan><abbr>შ</abbr><ex>ეიწყალ</ex><abbr>ე</abbr></expan></w> 
+                    <lb n="1"/><w lemma="ქრისტე"><expan><abbr>ქ</abbr><ex>რისტ</ex><abbr>ე</abbr></expan></w>
+                               <w lemma="იწყალებს"><expan><abbr>შ</abbr><ex>ეიწყალ</ex><abbr>ე</abbr></expan></w>
                                <orig n="unresolved">შპ</orig>
                 </ab>
             </div>
             <div type="translation" xml:lang="ka"/>
             <div type="apparatus" xml:space="preserve"/>
             <div type="commentary"><p>წარწერიანი ქვა დაზიანებულია. მოტეხილია მისი ბოლო მარჯვენა ზედა კიდე. თუმცა წარწერა თავიდან ბოლომდე გარკვევით იკითხება.</p>
-                <p>წარწერის დათარიღების საფუძველი: წარწერაში ნუსხური ასოების შერევის საფუძველზე, წარწერის ქრონოლოგიას X-XI საუკუნეებით განვსაზღვრავთ. 
+                <p>წარწერის დათარიღების საფუძველი: წარწერაში ნუსხური ასოების შერევის საფუძველზე, წარწერის ქრონოლოგიას X-XI საუკუნეებით განვსაზღვრავთ.
                     დევი ბერძენიშვილსა და  თამაზ გოგოლაძეს წარწერის თარიღი მოცემული არ აქვსთ.</p>
             </div>
-        
+
          </body>
     </text>
 </TEI>

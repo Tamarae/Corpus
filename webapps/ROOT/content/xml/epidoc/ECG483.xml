@@ -32,9 +32,9 @@
                     <physDesc>
                         <objectDesc>
                             <supportDesc>
-                                <support>                             
+                                <support>
                                    <material>ქვა</material>
-                                   <objectType>ლოდი</objectType> 
+                                   <objectType>ლოდი</objectType>
                                         <dimensions unit="cm">
                                             <width>75</width>
                                             <height>45</height>
@@ -43,7 +43,7 @@
                                   </support>
                             </supportDesc>
                                 <layoutDesc>
-                                    <layout writtenLines="4"> 
+                                    <layout writtenLines="4">
                                         <dimensions/>
                                     </layout>
                                 </layoutDesc>
@@ -72,12 +72,12 @@
                                 <rs type="circumstances"/>
                                 <rs type="context"/>
                                 <rs type="monuList"/>
-                            </provenance> 
+                            </provenance>
                             <provenance type="observed">
                             <placeName type="modernSpot">გუდავა</placeName>
                             <idno></idno>
                         </provenance>
-                    </history>                   
+                    </history>
                 </msDesc>
             </sourceDesc>
         </fileDesc><encodingDesc>
@@ -101,18 +101,18 @@
         <body>
             <div type="bibliography" subtype="principalEdition">
             </div>
-            
+
             <!-- სულსა რაბ[(ა)ის] / შ(ეუ)ნდ(ვნე)ს ღ(მერთმა)ნ და მეუ[(ღლეს)]ა მისა ნუგამწი/რას შ(ეუ)ნდ(ვნე)ს ღ(მერთმა)ნ -->
-            <div type="edition" xml:lang="ka" xml:space="preserve" ana="mtavruli">
+            <div type="edition" xml:lang="ka" ana="mtavruli" xml:space="preserve" >
                 <ab>
-                    <lb n="1"/><w lemma="სულ">სულსა</w> 
+                    <lb n="1"/><w lemma="სულ">სულსა</w>
                         <persName><name nymRef="რაბაი"><expan><abbr>რაბ</abbr><supplied reason="lost" precision="medium"><ex>ა</ex><abbr>ის</abbr></supplied></expan></name></persName>
-                    <lb n="2"/><w lemma="უნდობს"><expan><abbr>შ</abbr><ex>ეუ</ex><abbr>ნდ</abbr><ex>ვნე</ex><abbr>ს</abbr></expan></w> 
-                            <w lemma="ღმერთ"><expan><abbr>ღ</abbr><ex>მერთმა</ex><abbr>ნ</abbr></expan></w> და 
+                    <lb n="2"/><w lemma="უნდობს"><expan><abbr>შ</abbr><ex>ეუ</ex><abbr>ნდ</abbr><ex>ვნე</ex><abbr>ს</abbr></expan></w>
+                            <w lemma="ღმერთ"><expan><abbr>ღ</abbr><ex>მერთმა</ex><abbr>ნ</abbr></expan></w> და
                             <w lemma="მეუღლე"><expan><abbr>მეუ</abbr><supplied reason="lost" precision="medium"><ex>ღლეს</ex></supplied><abbr>ა</abbr></expan></w>
                     <lb n="3"/><w lemma="მისი">მისა</w> <persName><name nymRef="ნუგამწირა">ნუგამწი
-                    <lb n="4" break="no"/>რას</name></persName> 
-                            <w lemma="უნდობს"><expan><abbr>შ</abbr><ex>ეუ</ex><abbr>ნდ</abbr><ex>ვნე</ex><abbr>ს</abbr></expan></w> 
+                    <lb n="4" break="no"/>რას</name></persName>
+                            <w lemma="უნდობს"><expan><abbr>შ</abbr><ex>ეუ</ex><abbr>ნდ</abbr><ex>ვნე</ex><abbr>ს</abbr></expan></w>
                             <w lemma="ღმერთ"><expan><abbr>ღ</abbr><ex>მერთმა</ex><abbr>ნ</abbr></expan></w>
                 </ab>
             </div>

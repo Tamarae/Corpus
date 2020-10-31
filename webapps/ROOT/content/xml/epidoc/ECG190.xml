@@ -78,7 +78,7 @@
         <body>
 
             
-            <div type="edition" xml:space="preserve" xml:lang="ka">
+              <div type="edition" xml:lang="ka" ana="mtavruli" xml:space="preserve">
 
                 <ab>
                     <lb n="1"/><w lemma="შეწევნა"><expan><abbr>შეწ</abbr><ex>ე</ex><abbr>ვნ</abbr><ex>ი</ex><abbr>თა</abbr></expan></w> <w lemma="ღმრთისმშობელ"><expan><abbr>ღ</abbr><ex>მრთის</ex><abbr>მშ</abbr><ex>ო</ex><abbr>ბლ<supplied reason="subaudible">ი</supplied>

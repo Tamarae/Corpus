@@ -32,9 +32,9 @@
                     <physDesc>
                         <objectDesc>
                             <supportDesc>
-                                <support>                             
+                                <support>
                                    <material ref="https://www.eagle-network.eu/voc/material/lod/2">ნაცრისფერი ქვა</material>
-                                   <objectType ref="https://www.eagle-network.eu/voc/objtyp/lod/1483">ფილა</objectType> 
+                                   <objectType ref="https://www.eagle-network.eu/voc/objtyp/lod/1483">ფილა</objectType>
                                         <dimensions unit="cm">
                                         <width>101</width>
                                         <height>178,5</height>
@@ -43,7 +43,7 @@
                                   </support>
                             </supportDesc>
                                 <layoutDesc>
-                                    <layout writtenLines="1"> 
+                                    <layout writtenLines="1">
                                         <dimensions unit="cm">
                                             <width>11,7</width>
                                             <height>27,5</height>
@@ -52,9 +52,9 @@
                                 </layoutDesc>
                         </objectDesc>
                         <handDesc>
-                            <handNote script="asomtavruli">მდივან-მწიგნობრული მხედრული შერეული ნუსხურით. 
-                                წარწერას განკვეთილობის ნიშანი არ ახლავს და ქარაგმად გამოყენებულია სწორი განივი ხაზი.  
-                                <width>0,5-2,5</width>   
+                            <handNote script="asomtavruli">მდივან-მწიგნობრული მხედრული შერეული ნუსხურით.
+                                წარწერას განკვეთილობის ნიშანი არ ახლავს და ქარაგმად გამოყენებულია სწორი განივი ხაზი.
+                                <width>0,5-2,5</width>
                                 <height>2-11,7</height>
                                  </handNote>
                         </handDesc>
@@ -69,12 +69,12 @@
                                 <rs type="circumstances">2008 წელს ფოთოლეთის ეკლესიის ტაძარში ჩატარდა ექსედიცია რევაზ ხვისტანის ხელმძღვანელობით</rs>
                                 <rs type="context">არქეოლოგიური გათხრების შედეგად აღმოაჩინეს ნაცრისფერი ქვის ფილა</rs>
                                 <rs type="monuList"/>
-                            </provenance> 
+                            </provenance>
                             <provenance type="observed">ბორჯომის მხარეთმცოდნეობის მუზეუმი
-                            <placeName type="modernSpot">ბორჯომის ხეობა. ფოთოლეთის წმიდა გიორგის ეკლესია</placeName>            
+                            <placeName type="modernSpot">ბორჯომის ხეობა. ფოთოლეთის წმიდა გიორგის ეკლესია</placeName>
                             <idno></idno>
                         </provenance>
-                    </history>                   
+                    </history>
                 </msDesc>
             </sourceDesc>
         </fileDesc><encodingDesc>
@@ -105,7 +105,7 @@
                 <bibl n="3">თამაზ გოგოლაძე,ირაკლი გელაშვილი,ნინო ხარშილაძე,ფოთოლეთის ეკლესიის ნაკაწრი წარწერები და მათი ისტორიულ-წყაროთმცოდნეობითი ანალიზი<ptr target="bibliography.xml#b130"/>,<citedRange>136-137 </citedRange>2014</bibl>
             </listBibl>
            </div>
-            <div type="edition" xml:lang="ka" xml:space="preserve">     
+            <div type="edition" xml:lang="ka" ana="mtavruli" xml:space="preserve">     
                         <!--ქ(რისტ)ე, შ(ეიწყალ)ე ნიკოლ(ო)ზ-->
                 <ab>
                     <lb n="1"/><w lemma="ქრისტე"><expan><abbr>ქ</abbr><ex>რისტე</ex><abbr>ე</abbr></expan></w>
@@ -118,7 +118,7 @@
             <div type="commentary"><p>წარწერიანი ქვა დაზიანებულია. წარწერის ბოლო გრაფემა "ზ" ქვის დაზიანებულ ნაწილშია მოთავსებული და ფრაგმენტულად იკითხება.</p>
                  <p>წარწერის დათარიღების საფუძველი:წარწერა გარდამავალი მხედრული დამწერლობითაა შესრულებული. ამის გათვალისწინებით, წარწერის ქრონოლოგიას XI საუკუნით განვსაზღვრავთ.</p>
             </div>
-        
+
          </body>
     </text>
 </TEI>

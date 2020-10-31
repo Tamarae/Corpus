@@ -5,12 +5,12 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>წარჩე, ფაშასძის წარწერა, 20-50</title> 
+                <title>წარჩე, ფაშასძის წარწერა, 20-50</title>
                 <editor>ვალერი სილოგავა</editor>
             </titleStmt>
             <publicationStmt>
                 <authority>ილიას სახელმწიფო უნივერსიტეტი</authority>
-                 <idno type="filename">ECG485</idno> 
+                 <idno type="filename">ECG485</idno>
                 <availability>
                     <licence target="http://creativecommons.org/licenses/by-nc-sa/3.0/">
                        დოკუმენტი ვრცელდება Creative Commons Attribution-NonCommercial-ShareAlike 3.0 ლიცენზიით.
@@ -18,9 +18,9 @@
                 </availability>
             </publicationStmt>
             <sourceDesc>
-                <msDesc> 
-                    <msIdentifier> 
-                        <collection>წარჩე</collection> <!-- შესათანხმებელია ერთმანეთში--> 
+                <msDesc>
+                    <msIdentifier>
+                        <collection>წარჩე</collection> <!-- შესათანხმებელია ერთმანეთში-->
                     </msIdentifier>
                     <msContents>
                         <summary>
@@ -30,7 +30,7 @@
                     <physDesc>
                         <objectDesc>
                             <supportDesc>
-                                <support>                             
+                                <support>
                                     <material ref="https://www.eagle-network.eu/voc/material/lod/2">კირქვა</material>
                                     <objectType ref="www.eagle-network.eu/voc/objtyp/lod/1483">ფილა</objectType>
                                         <dimensions unit="cm">
@@ -41,9 +41,9 @@
                                   </support>
                             </supportDesc>
                                 <layoutDesc>
-                                    <layout wtittenLines="9"> 
+                                    <layout wtittenLines="9">
                                         <dimensions unit="cm">
-                                            <width/> 
+                                            <width/>
                                             <height/>
                                         </dimensions>
                                     </layout>
@@ -60,18 +60,18 @@
                     <history>
                             <origin>
                                 <origPlace>წარჩე</origPlace>
-                                <origDate notBefore="1400" notAfter="1500">XV A.D.</origDate> 
+                                <origDate notBefore="1400" notAfter="1500">XV A.D.</origDate>
                             </origin>
                             <provenance>
-                                <placeName type ="ancientFindspot">წარჩე</placeName> 
+                                <placeName type ="ancientFindspot">წარჩე</placeName>
                                 <rs type="circumstances"/>
                                 <rs type="context"/>
                                 <rs type="monuList"/>
-                            </provenance> 
-                            <provenance type="observed"> 
+                            </provenance>
+                            <provenance type="observed">
                          დ. გულიას სახელობის აფხაზეთის ისტორიული მუზეუმი
                         </provenance>
-                    </history>                   
+                    </history>
                 </msDesc>
             </sourceDesc>
         </fileDesc><encodingDesc>
@@ -83,27 +83,27 @@
     </teiHeader>
     <text>
         <body>
-            <div type="edition" xml:lang="ka" xml:space="preserve">
+            <div type="edition" xml:lang="ka" ana="mtavruli" xml:space="preserve">
                 <ab>
                     <!-- [?]|[?]ესავწყ. ლი [?]|
                         † ჵ, ეს(ე) ეგ(უ)იტერაი [აღვაშენე] | ფაშასძემან| ამან დიანა(?) | ლმან..
                     ვინცა [ლოცვასა] | [მოგ]ვ(ი)ხსენიებდეთ, | [თქუენცა შეგინდენეს ღმერთმან]-->
-                    <lb n="1"/> <gap reason="lost" extent="unknown" unit="character"/> 
-                    <lb n="2"/> <gap reason="lost" extent="unknown" unit="character"/> <w>ესავწყ.</w> <w>ლი</w> <gap reason="lost" extent="unknown" unit="character"/> 
+                    <lb n="1"/> <gap reason="lost" extent="unknown" unit="character"/>
+                    <lb n="2"/> <gap reason="lost" extent="unknown" unit="character"/> <w>ესავწყ.</w> <w>ლი</w> <gap reason="lost" extent="unknown" unit="character"/>
                     <lb n="3"/> <w>† ჵ,</w> <w lemma="ესე"><expan><abbr>ეს</abbr><ex>ე</ex></expan></w> <w><expan><abbr>ეგ</abbr><ex>უ</ex><abbr>იტერაჲ</abbr></expan></w> <supplied reason="lost"><w lemma="აღნიშნავს">აღვაშენე</w></supplied> <!-- supplied-ის მერე კიდევ ვსვამთ w ტაგში და მანდ ვუთითებთ ლემას? -->
-                    <lb n="4"/> <persName>ფაშასძემან</persName> 
+                    <lb n="4"/> <persName>ფაშასძემან</persName>
                     <lb n="5"/> <w>ამან</w> <w>დიანა</w><space extent="unknown" unit="character"/>
-                    <lb n="6"/> <w>ლმან</w> <gap reason="illegible" quantity="2" unit="character"/> 
+                    <lb n="6"/> <w>ლმან</w> <gap reason="illegible" quantity="2" unit="character"/>
                     <lb n="7"/> <w lemma="ვინც">ვინცა</w> <supplied reason="lost"><w lemma="ლოცვა">ლოცვასა</w></supplied>
                     <lb n="8"/> <w lemma="მოიხსენიებს"><expan><supplied reason="lost">მოგ</supplied><abbr>ვ</abbr><ex>ი</ex><abbr>ხსენიებდეთ</abbr></expan></w>
-                    <lb n="9"/> <supplied reason="lost"><w lemma="თქვენც">თქუენცა</w> <w lemma="ინდობს">შეგინდენეს</w> <w lemma="ღმერთი">ღმერთმან</w></supplied> 
+                    <lb n="9"/> <supplied reason="lost"><w lemma="თქვენც">თქუენცა</w> <w lemma="ინდობს">შეგინდენეს</w> <w lemma="ღმერთი">ღმერთმან</w></supplied>
                 </ab>
             </div>
             <div type="translation" xml:lang="ka">ავაშენე ფაშასძემ. ვინც ლოცვაში მოგვიხსენიებთ, თქვენც შეგინდობთ ღმერთი.</div>
             <div type="apparatus" xml:space="preserve"> </div>
-            <div type="commentary">ფილის მარჯვენა მხარეს წარწერის ტექსტის ნაწილით მოტეხილია. გადაშლილია ფილის ზედა ნაწილი და დაზიანებულია წარწერის პირველი სტრიქონი.</div>          
-            <div type="bibliography" subtype="principalEdition"> 
-                <listBibl>           
+            <div type="commentary">ფილის მარჯვენა მხარეს წარწერის ტექსტის ნაწილით მოტეხილია. გადაშლილია ფილის ზედა ნაწილი და დაზიანებულია წარწერის პირველი სტრიქონი.</div>
+            <div type="bibliography" subtype="principalEdition">
+                <listBibl>
                     <bibl type="publication" subtype="principal" xml:lang="ka">
                       <author>
                           <persName>
@@ -118,7 +118,7 @@
                         <date></date>
                      </bibl>
                 </listBibl>
-            </div>         
+            </div>
          </body>
     </text>
 </TEI>

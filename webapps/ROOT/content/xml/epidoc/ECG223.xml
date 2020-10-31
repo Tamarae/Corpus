@@ -114,7 +114,7 @@
         -->
         <body>
 
-            <div type="edition" xml:lang="ka" xml:space="preserve">
+              <div type="edition" xml:lang="ka" ana="mtavruli" xml:space="preserve">
                 <ab>
                     <lb n="1"/><persName><name nymRef="ქრისტე"><expan><abbr>ქ</abbr><ex>რისტ</ex><abbr>ე</abbr></expan></name></persName> 
                                <w lemma="წყალობა"><expan><abbr>შ</abbr><ex>ეიწყალ</ex><abbr>ე</abbr></expan></w> 

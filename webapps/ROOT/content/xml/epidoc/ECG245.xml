@@ -106,7 +106,7 @@
         -->
         <body>
 
-            <div type="edition" xml:lang="ka" xml:space="preserve">
+              <div type="edition" xml:lang="ka" ana="mtavruli" xml:space="preserve">
 
             <ab>
                 <lb n="1"/><persName type="ka" ref="ruler.xml#tamari"><name nymRef="თამარ"><expan><abbr>თ</abbr><ex>ამა</ex><abbr>რ</abbr></expan></name></persName>        

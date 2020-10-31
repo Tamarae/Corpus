@@ -110,7 +110,7 @@
         -->
         <body>
 
-            <div type="edition" xml:lang="ka" xml:space="preserve">
+              <div type="edition" xml:lang="ka" ana="mtavruli" xml:space="preserve">
             <ab>
                 <lb n="1"/><gap reason="lost" extent="unknown" unit="character"/><orig n="unresolved"><supplied reason="lost" precision="low">ხ</supplied></orig>
                            <gap reason="lost" quantity="3" unit="character"/>

@@ -32,9 +32,9 @@
                     <physDesc>
                         <objectDesc>
                             <supportDesc>
-                                <support>                             
+                                <support>
                                    <material/>
-                                   <objectType>ტაძრის კედელი</objectType> 
+                                   <objectType>ტაძრის კედელი</objectType>
                                         <dimensions unit="cm">
                                         <width>35</width>
                                         <height>5</height>
@@ -43,7 +43,7 @@
                                   </support>
                             </supportDesc>
                                 <layoutDesc>
-                                    <layout writtenLines="1"> 
+                                    <layout writtenLines="1">
                                         წარწერა მოთავსებულია ლიხნის ტაძრის ქორედის თაღის მარცხენა კიდესთან ახლოს
                                         <dimensions/>
                                     </layout>
@@ -68,12 +68,12 @@
                                 <rs type="circumstances"></rs>
                                 <rs type="context"/>
                                 <rs type="monuList"/>
-                            </provenance> 
+                            </provenance>
                             <provenance type="observed">
                             <placeName type="modernSpot">ლიხნის ტაძრის პეტრიკოპულის წარწერა</placeName>
                             <idno></idno>
                         </provenance>
-                    </history>                   
+                    </history>
                 </msDesc>
             </sourceDesc>
         </fileDesc><encodingDesc>
@@ -96,17 +96,17 @@
     <text>
         <body>
             <!-- მე, პ(ე)ტ(რი)კოპული, მონაი ქ(რისტ)ესი -->
-            <div type="edition" xml:lang="ka" xml:space="preserve">
+            <div type="edition" xml:lang="ka" ana="mtavruli" xml:space="preserve">
                 <ab>
                     <lb n="1"/><w lemma="მე">მე</w> <persName ref="attestedperson.xml#person14"><expan><abbr>პ</abbr><ex>ე</ex><abbr>ტ</abbr><ex>რი</ex><abbr>კოპული</abbr></expan></persName> <w lemma="მონა">მონაი</w> <persName ref="attestedperson.xml#person15"><expan><abbr>ქ</abbr><ex>რისტ</ex><abbr>ესი</abbr></expan></persName>
                 </ab>
             </div>
             <div type="translation" xml:lang="ka"><p>მე ვარ პეტრიკოპული, ქრისტეს მონა</p></div>
             <div type="apparatus" xml:space="preserve"/>
-            <div type="commentary"><p>ლიხნის ტაძრის პეტრიკოპულის წარწერა თარიღდება მე-11 საუკუნის 60-იანი წლებით, წარწერა შესრულებულია ძალიან მუქი წითელი საღებავით(სინგურით). 
+            <div type="commentary"><p>ლიხნის ტაძრის პეტრიკოპულის წარწერა თარიღდება მე-11 საუკუნის 60-იანი წლებით, წარწერა შესრულებულია ძალიან მუქი წითელი საღებავით(სინგურით).
             არსებობს მოსაზრება, რომ პეტრიკოპული შეიძლება სულაც არ აღნიშნავდეს საკუთარ სახელს და ნიშნავდეს პეტრიკის ვაჟს</p></div>
             <div type="bibliography" subtype="principalEdition">
-                <listBibl>           
+                <listBibl>
                     <bibl type="publication" subtype="principal" xml:lang="ka">
                       <author>
                           <persName>
@@ -121,7 +121,7 @@
                         <date></date>
                      </bibl>
                 </listBibl>
-            </div>         
+            </div>
          </body>
     </text>
 </TEI>

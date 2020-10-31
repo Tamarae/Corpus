@@ -99,7 +99,7 @@
         -->
         <body>
 
-            <div type="edition" xml:lang="ka" xml:space="preserve">
+              <div type="edition" xml:lang="ka" ana="mtavruli" xml:space="preserve">
 
             <ab>
                 <lb n="1"/><w lemma="წმიდა"><expan><abbr>წ</abbr><ex>მიდ</ex><abbr>ა</abbr></expan></w>

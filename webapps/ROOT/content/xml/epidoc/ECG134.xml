@@ -84,7 +84,7 @@
     5.დღ(ე)სა მ(ა)ს-->
         <body>
 
-           <div type="edition" xml:lang="ka" xml:space="preserve">
+             <div type="edition" xml:lang="ka" ana="mtavruli" xml:space="preserve">
 
             <ab>
                 <lb n="1"/>&#10013;<persName><expan><abbr>ქ</abbr><ex>რისტ</ex><abbr>ე</abbr></expan></persName> <w lemma="იწყალებს"><expan><abbr>შ</abbr><ex>ეი</ex><abbr>წ</abbr><ex>ყალ</ex><abbr>ე</abbr></expan></w>

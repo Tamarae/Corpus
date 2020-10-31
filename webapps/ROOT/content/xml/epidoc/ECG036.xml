@@ -54,7 +54,7 @@
                         </objectDesc>                        
                         <handDesc>
                             <handNote script="asomtavruli" style="embossed">
-                                <rs type="execution">რელიეფური</rs> <rs type="script">ასომთავრული</rs> წარწერა
+                                <rs type="execution">რელიეფური</rs> <rs type="script">ასომთავრული</rs> წარწერა, <rs type="script">გაკუთხოვნებული</rs>, <rs type="script">მიდრეკილი განუსხურებისაკენ</rs>
                                 <height>4-5,5</height>
                             </handNote>
                         </handDesc>
@@ -111,7 +111,7 @@
                 </listBibl>
             </div>         
         
-            <div type="edition" xml:lang="ka" xml:space="preserve">
+              <div type="edition" xml:lang="ka" ana="mtavruli" xml:space="preserve">
                 
                         <!--  "სბო წო შე მნჲ
                                 შნი ქთრ შშნ და

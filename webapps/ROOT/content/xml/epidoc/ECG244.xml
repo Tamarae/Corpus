@@ -110,7 +110,7 @@
         12.[ტ]ჲბ (362). 
         -->
         <body>
-            <div type="edition" xml:lang="ka" xml:space="preserve">
+              <div type="edition" xml:lang="ka" ana="mtavruli" xml:space="preserve">
             <ab>
                 <lb n="1"/>&#10013;
                            <w lemma="სახელ">ს<supplied reason="omitted" precision="high">ა</supplied>ხ<supplied reason="lost" precision="medium">ელითა</supplied></w>

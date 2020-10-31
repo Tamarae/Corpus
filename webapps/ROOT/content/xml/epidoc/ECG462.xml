@@ -92,7 +92,7 @@
     
     <text>
         <body>
-            <div type="edition" xml:lang="ka" xml:space="preserve">
+              <div type="edition" xml:lang="ka" ana="mtavruli" xml:space="preserve">
                 <ab>
                     <!-- აჰა მ(ეუ)ფჱ | ჰურიათა | ჯ(უა)რც(უ)მ(ა)ი ქ(რისტ)ესი-->
                     <lb n="1"/> <w>აჰა</w> <w lemma="მეუფე"><expan><abbr>მ</abbr><ex>ეუ</ex><abbr>ფჱ</abbr></expan></w>

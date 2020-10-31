@@ -30,14 +30,14 @@
                     <physDesc>
                         <objectDesc>
                             <supportDesc>
-                                <support>                             
+                                <support>
                                    <material ref="https://www.eagle-network.eu/voc/material/lod/2">ქვა</material>
-                                   <objectType ref="https://www.eagle-network.eu/voc/objtyp/lod/1483"> ქვაჯვარი</objectType> 
-                                       
+                                   <objectType ref="https://www.eagle-network.eu/voc/objtyp/lod/1483"> ქვაჯვარი</objectType>
+
                                   </support>
                             </supportDesc>
                                 <layoutDesc>
-                                    <layout writtenLines="1"> 
+                                    <layout writtenLines="1">
                                         <dimensions unit="cm">
                                             <width></width>
                                             <height></height>
@@ -46,10 +46,10 @@
                                 </layoutDesc>
                         </objectDesc>
                         <handDesc>
-                            <handNote script="asomtavruli">წარწერა ნუსხურით არის შესრულებული,ასომთავრული ასოებით. 
+                            <handNote script="asomtavruli">წარწერა ნუსხურით არის შესრულებული,ასომთავრული ასოებით.
                                   წარწერის განკვეთილობის ნიშნები არ ახლდა;ქარაგმად გამოყენებული იყო მარცხნიდან მარჯვნივ დახრილი სწორი განივი ან სწორი განივი მოკლე ხაზი;
 								  წარწერისათვის დამახასითებელია გრაფემა "ო"-ს საშუალებით ასო-ბგერა "უ"-ს გადმოცემა.
-                                <width></width>   
+                                <width></width>
                                 <height></height>
                                  </handNote>
                         </handDesc>
@@ -61,15 +61,15 @@
                             </origin>
                             <provenance>
                                 <placeName type ="ancientFindspot">გუჯარეთის ხეობა. თონეთის წმიდა გიორგის ეკლესია</placeName>
-                                <rs type="context"> 1986 წლისათვის წარწერიანი ქვაჯვარა ტაძრის ჩრდილოეთ კედლის მახლობლად იყო ჩასმული, რომელიც მომდევნო 1987 წლისათვის წაღვრის არქეოლოგიურ ბაზაში ინახებოდა. 
+                                <rs type="context"> 1986 წლისათვის წარწერიანი ქვაჯვარა ტაძრის ჩრდილოეთ კედლის მახლობლად იყო ჩასმული, რომელიც მომდევნო 1987 წლისათვის წაღვრის არქეოლოგიურ ბაზაში ინახებოდა.
 								ქვაჯვარაზე გამოქანდაკებული იყო ჯვარი, რომლის ქვემოთ ამოღარული იყო ძველი ქართული წარწერა;</rs>
                                 <rs type="monuList"/>
-                            </provenance> 
+                            </provenance>
                             <provenance type="observed">გუჯარეთის ხეობა. თონეთის წმიდა გიორგის ეკლესია
-                            <placeName type="modernSpot">გუჯარეთის ხეობა. თონეთის წმიდა გიორგის ეკლესია</placeName>            
+                            <placeName type="modernSpot">გუჯარეთის ხეობა. თონეთის წმიდა გიორგის ეკლესია</placeName>
                             <idno></idno>
                         </provenance>
-                    </history>                   
+                    </history>
                 </msDesc>
             </sourceDesc>
         </fileDesc><encodingDesc>
@@ -93,7 +93,7 @@
     </facsimile>
     <text>
         <body>
-           <div type="bibliography"> 
+           <div type="bibliography">
                <listBibl>
                 <bibl n="1">თამაზ გოგოლაძე,თორის ხეობის ეპიგრაფიკული კორპუსი<ptr target="bibliography.xml#b130"/>,<citedRange>99-102</citedRange>1987</bibl>
 		        <bibl n="2">სერგი მაკალათია, ბორჯომის ხეობა<ptr target="bibliography.xml#b130"/>,<citedRange>16-17</citedRange>1957</bibl>
@@ -102,16 +102,16 @@
 
 		   </listBibl>
            </div>
-            <div type="edition" xml:lang="ka" xml:space="preserve">     
-                        <!--"გ(აბრიე)ლ, თ(ევდორ)ე. | ადიდოს | ღ(მერთმა)ნ სულ|ი ოქროი|სი. 
+            <div type="edition" xml:space="preserve" xml:lang="ka" ana="mtavruli">     
+                        <!--"გ(აბრიე)ლ, თ(ევდორ)ე. | ადიდოს | ღ(მერთმა)ნ სულ|ი ოქროი|სი.
 						ჩ(უე)ნ, მისთ|ა ძმა|თა თ|ევდორ{ე} | და გ{ა}ბ{რიე}ლ | ესე ბარ|ძიმი | ვამსახ|ურ{ე}თ | წმ(ი)დ(ა)სა | გ(იორგ)ის ყუდ|ევისა|სა, ა(მე)ნ".1"-->
                 <ab>
                     <lb n="1"/>
-                    <w lemma="გაბრიელ"><expan><abbr>გ</abbr><ex>აბრიე</ex><abbr>ლ</abbr></expan></w> 
-					<w lemma="თევდორე"><expan><abbr>თ</abbr><ex>ევდორ</ex><abbr>ე</abbr></expan></w> 
-                    <w lemma="ჩუენ"><expan><abbr>ჩ</abbr><ex>უე</ex><abbr>ნ</abbr></expan></w> 
-					<w lemma="თევდორე"><expan><abbr>თ</abbr><ex>ევდორ</ex><abbr>ე</abbr></expan></w> 
-					<w lemma="გაბრიელ"><expan><abbr>გ</abbr><ex>ა</ex><abbr>ბ</abbr><ex>რიე</ex><abbr>ლ</abbr></expan></w> 
+                    <w lemma="გაბრიელ"><expan><abbr>გ</abbr><ex>აბრიე</ex><abbr>ლ</abbr></expan></w>
+					<w lemma="თევდორე"><expan><abbr>თ</abbr><ex>ევდორ</ex><abbr>ე</abbr></expan></w>
+                    <w lemma="ჩუენ"><expan><abbr>ჩ</abbr><ex>უე</ex><abbr>ნ</abbr></expan></w>
+					<w lemma="თევდორე"><expan><abbr>თ</abbr><ex>ევდორ</ex><abbr>ე</abbr></expan></w>
+					<w lemma="გაბრიელ"><expan><abbr>გ</abbr><ex>ა</ex><abbr>ბ</abbr><ex>რიე</ex><abbr>ლ</abbr></expan></w>
 					<w lemma="ვამსახურეთ"><expan><abbr>ვამსახ|ურ</abbr><ex>ე</ex><abbr>თ</abbr></expan></w>
 					<w lemma="წმიდასა"><expan><abbr>წმ</abbr><ex>ი</ex><abbr>დ</abbr><ex>ა</ex><abbr>სა</abbr></expan></w>
 					<w lemma="გიორგის"><expan><abbr>გ</abbr><ex>იორგ</ex><abbr>ის</abbr></expan></w>
@@ -124,8 +124,8 @@
             <div type="commentary"><p>წარწერა დღეისათვის დაკარგულია, დაზიანებული არ ყოფილა. წარწერის ტექსტი თავიდანვე ბოლომდე გარკვევით იკითხებოდა.</p>
 			<p> თორის წარწერათა კორპუსში გაზიარებულია წარწერის დევი ბერძენიშვილისეული დათარიღება- XIII-XIV საუკუნეები.</p>
             </div>
-			
-        
+
+
          </body>
     </text>
 </TEI>

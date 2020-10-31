@@ -24,17 +24,17 @@
                            ჭყონდიდი
                         </collection>
                     </msIdentifier>
-                    
+
                     <msContents>
                         <summary>
                             <seg xml:lang="ka">საამშენებლო</seg>
                             <seg xml:lang="en"/>
                         </summary>
-                    </msContents>  
+                    </msContents>
                     <physDesc>
                         <objectDesc>
                             <supportDesc>
-                                <support>                             
+                                <support>
                                    <material ref="http://www.eagle-network.eu/voc/material/lod/2">კირქვა</material>
                                    <objectType ref="http://www.eagle-network.eu/voc/objtyp/lod/416">ფილა</objectType>
                                     <dimensions unit="cm">
@@ -52,7 +52,7 @@
                                     </dimensions>
                                     </layout>
                                 </layoutDesc>
-                        </objectDesc>                        
+                        </objectDesc>
                         <handDesc>
                             <handNote>
                                    <height>3-3,5</height>
@@ -60,12 +60,12 @@
                         </handDesc>
                     </physDesc>
                     <history>
-                        
+
                            <origin>
                                 <origPlace>ჭყონდიდი</origPlace>
                                 <origDate>X AD</origDate>
                             </origin>
-                        
+
                         <provenance type="found" when="1951">
                             <placeName type="ancientFindspot" ref="http://pleiades.stoa.org/places/863760">ჭყონდიდი</placeName>
                             <!--  -->
@@ -73,13 +73,13 @@
                             <rs type="circumstances">აღმოჩნდა 1951 წელს სვეტის გადანგრეული ნაწილის ქვების გროვაში, რომელიც სვეტის დასავლეთით, ღრმა ხევში იყო ჩაყრილი</rs>
                             <rs type="context"/>
                         </provenance>
-                        
+
                         <provenance type="observed">
                             <placeName type="modernSpot">მარტვილის მხარეთმცოდნეობის მუზეუმი</placeName>
                              <idno type="invNo">ა13880/1 ე 112</idno>
                         </provenance>
-                        
-                    </history>                   
+
+                    </history>
                 </msDesc>
             </sourceDesc>
         </fileDesc><encodingDesc>
@@ -88,8 +88,8 @@
     </listPrefixDef>
 </encodingDesc>
     </teiHeader>
-    <!-- 
-      
+    <!--
+
     <facsimile>
         <surface>
             <graphic url="tskise_01.jpg">
@@ -98,35 +98,35 @@
             </graphic>
         </surface>
     </facsimile>
-    
+
     -->
     <text>
         <body>
-            <div type="edition" xml:lang="ka" xml:space="preserve">
-                
+            <div type="edition" xml:space="preserve" xml:lang="ka" ana="mtavruli">
+
                         <!--  [... აღმარ]თულისა მას ჟ(ამს)ა ო[დეს..]
                         [...] ს(ი)სხლისათ(ჳ)ს გ(ე)ვ(ე)დრ[ები..]-->
-            
-        
+
+
                  <ab>
                      <lb n="1"/><gap reason="lost" extent="unknown"/><w lemma="აღმართულ"><supplied reason="lost">აღმარ</supplied>თულისა</w> <w lemma="მას">მას</w> <w lemma="ჟამ"><expan><abbr>ჟ</abbr><ex>ამს</ex><abbr>ა</abbr></expan></w> <w lemma="ოდეს">ო<supplied reason="lost">დეს</supplied></w><gap reason="lost" extent="unknown"/>
                      <lb n="2"/><gap reason="lost" extent="unknown"/> <w lemma="სისხლ"><expan><abbr>ს</abbr><ex>ი</ex><abbr>სხლისათ</abbr><ex>ჳ</ex><abbr>ს</abbr></expan></w> <w lemma="გევედრება"><expan><abbr>გ</abbr><ex>ე</ex><abbr>ვ</abbr><ex>ე</ex><abbr>დრ</abbr><supplied reason="lost">ები</supplied></expan></w><gap reason="lost" extent="unknown"/>
-                 </ab>    
-             
-         
+                 </ab>
+
+
             </div>
-            
-                
+
+
             <div type="translation" xml:lang="ka">
                 <p/>
             </div>
-            
+
            <div type="apparatus" xml:space="preserve"/>
-            
+
             <div type="commentary">
                 <p/>
             </div>
-            
+
             <div type="bibliography">
                 <listBibl>
                      <bibl n="1">ვალერი სილოგავა, სამეგრელო-აფხაზეთის ქართული ეპიგრაფიკა <ptr target="bibliography.xml#b119"/>, <citedRange>58</citedRange></bibl>
@@ -135,6 +135,3 @@
         </body>
     </text>
 </TEI>
-
-
-

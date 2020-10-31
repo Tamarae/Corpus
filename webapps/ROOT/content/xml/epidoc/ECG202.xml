@@ -101,7 +101,7 @@
     -->
         <body>
 
-            <div type="edition" xml:lang="ka" xml:space="preserve">
+              <div type="edition" xml:lang="ka" ana="mtavruli" xml:space="preserve">
             <ab>
                 <lb n="1"/><w lemma="ქრისტე"><expan><abbr>ქ</abbr><ex>რისტ</ex><abbr>ე</abbr></expan></w> <w lemma="იწყალებს"><expan><abbr>შ</abbr><ex>ეიწყალ</ex><abbr>ე</abbr></expan></w> <persName><name nymRef="ბაკურ"><expan><abbr>ბ</abbr><ex>ა</ex><abbr>კ</abbr><ex>უ</ex><abbr>რ</abbr></expan></name></persName>
             </ab>

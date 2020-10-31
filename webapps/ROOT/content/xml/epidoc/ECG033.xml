@@ -112,7 +112,7 @@
                     <bibl n="8">ვალერი სილოგავა, ეპიგრაფიკული ეტიუდები<ptr target="bibliography.xml#b75"/>, <citedRange> 92</citedRange></bibl>
                 </listBibl>
             </div>         
-            <div type="edition" xml:lang="ka" xml:space="preserve">
+              <div type="edition" xml:lang="ka" ana="mtavruli" xml:space="preserve">
                 
                         <!--  "ო~ო ი~ჳ ქ~ე
                                 კტ~ი მ~მ მქ~ლ შწყნ
@@ -125,7 +125,7 @@
                    <lb n="2"/><persName><name nymRef="კოსტანტი"><expan><abbr>კ</abbr><ex>ოს</ex><abbr>ტ</abbr><ex>ანტ</ex><abbr>ი</abbr></expan></name></persName> 
                             <w lemma="მამა"><expan><abbr>მ</abbr><ex>ა</ex><abbr>მ</abbr><ex>აჲ</ex></expan></w> 
                             <name nymRef="მიქაელ"><expan><abbr>მ</abbr><ex>ი</ex><abbr>ქ</abbr><ex>აე</ex><abbr>ლ</abbr></expan></name> 
-                            <w lemma="შეწყალება"><expan><abbr>შ</abbr><ex>ეი</ex><abbr>წყ</abbr><ex>ალე</ex><abbr>ნ</abbr></expan></w>
+                            <w lemma="იწყალებს"><expan><abbr>შ</abbr><ex>ეი</ex><abbr>წყ</abbr><ex>ალე</ex><abbr>ნ</abbr></expan></w>
                     <lb n="3"/><w lemma="ესე"><expan><abbr>ა</abbr><ex>მი</ex><abbr>ს</abbr></expan></w> 
                             <w lemma="სიონ"><expan><abbr>ს</abbr><ex>იო</ex><abbr>ნ</abbr><ex>ის</ex><abbr>ა</abbr></expan></w> 
                             <w lemma="მაშენებელ"><expan><abbr>მ</abbr><ex>ა</ex><abbr>შ</abbr><ex>ენე</ex><abbr>ბ</abbr><ex>ე</ex><abbr>ლნი</abbr></expan></w>

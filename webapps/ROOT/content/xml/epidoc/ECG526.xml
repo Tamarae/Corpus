@@ -26,9 +26,9 @@
                     <physDesc>
                         <objectDesc>
                             <supportDesc>
-                                <support>                             
+                                <support>
                                    <material>ქვა</material>
-                                   <objectType> ფრესკა</objectType> 
+                                   <objectType> ფრესკა</objectType>
                                         <dimensions unit="cm">
                                         <width></width>
                                         <height></height>
@@ -37,7 +37,7 @@
                                   </support>
                             </supportDesc>
                                 <layoutDesc>
-                                    <layout writtenLines="1"> 
+                                    <layout writtenLines="1">
                                         <dimensions unit="cm">
                                             <width>7-25</width>
                                             <height>7-2,2</height>
@@ -47,7 +47,7 @@
                         </objectDesc>
                         <handDesc>
                             <handNote script="asomtavruli">წარერა შესრულებულია ასომთავრულით, განკვეთილობის და ქარაგმის ნიშნები არ აქვს.
-                                <width>3,5</width>   
+                                <width>3,5</width>
                                 <height>1,9</height>
                                  </handNote>
                         </handDesc>
@@ -62,12 +62,12 @@
                                 <rs type="circumstances"></rs>
                                 <rs type="context"/>
                                 <rs type="monuList"/>
-                            </provenance> 
+                            </provenance>
                             <provenance type="observed">ბორჯომის ხეობა, ქვაბისხევის ღვთისმშობლის ეკლესია, შოთა და იაის ფრესკული წარწერა
-                            <placeName type="modernSpot">ბორჯომის ხეობა, ქვაბისხევის ღვთისმშობლის ეკლესია, შოთა და იაის ფრესკული წარწერა</placeName>            
+                            <placeName type="modernSpot">ბორჯომის ხეობა, ქვაბისხევის ღვთისმშობლის ეკლესია, შოთა და იაის ფრესკული წარწერა</placeName>
                             <idno></idno>
                         </provenance>
-                    </history>                   
+                    </history>
                 </msDesc>
             </sourceDesc>
         </fileDesc><encodingDesc>
@@ -104,10 +104,10 @@
                    <bibl n="11">ევგენი ბართაია<ptr target="bibliography.xml"/>1981,<citedRange> 87-91</citedRange>2020</bibl>
             </listBibl>
            </div>
-            <div type="edition" xml:lang="ka" xml:space="preserve">     
+            <div type="edition" xml:space="preserve" xml:lang="ka" ana="mtavruli">     
               <!--შოთა, იაი (...)-->
                 <ab>
-                    
+
                 </ab>
             </div>
             <div type="translation" xml:lang="ka"/>
@@ -115,7 +115,7 @@
             <div type="commentary"><p>წარწერა დაზიანებულია. კლიმატური პირობების გამო წარწერა გადარეცხილია და აღარ იკითხება წარწერის დასწყისი ნაწილი. წარწერის დარჩენილი ნაწილი თავიდან ბოლომდე გარკვევით იკითხება.</p>
                  <p>წარწერის დათარიღების საფუძველი:ვიზიარებთ წარწერის გიორგი ჩუბინაშვილის მიერ შემოთავაზებულ დათარიღებას და მის მსგავსად, წარწერის ქრონოლოგიას XII-XIII საუკუნეებით განვსაზღვრავთ.   </p>
             </div>
-        
+
          </body>
     </text>
 </TEI>

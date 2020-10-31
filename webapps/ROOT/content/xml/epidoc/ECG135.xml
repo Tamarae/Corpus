@@ -73,7 +73,7 @@
         --> 
         <body>
             
-            <div type="edition" xml:space="preserve" xml:lang="ka">
+              <div type="edition" xml:lang="ka" ana="mtavruli" xml:space="preserve">
             <ab>
                <lb n="1"/><persName><expan><abbr>მ</abbr><ex>არია</ex><abbr>მ</abbr></expan></persName>         
             </ab>

@@ -93,7 +93,7 @@
         
         <body>
 
-            <div type="edition" xml:lang="ka" xml:space="preserve">
+              <div type="edition" xml:lang="ka" ana="mtavruli" xml:space="preserve">
     
                     <ab>
                         <lb n="1"/><persName type="divine" ref="divine.xml#iesous"><name nymRef="ქრისტე"><expan><abbr>ქ</abbr><ex>რისტ</ex><abbr>ე</abbr></expan></name></persName> <w lemma="ადიდებს"><expan><abbr>ად</abbr><ex>ი</ex><abbr>დე</abbr></expan></w> 

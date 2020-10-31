@@ -26,9 +26,9 @@
                     <physDesc>
                         <objectDesc>
                             <supportDesc>
-                                <support>                             
+                                <support>
                                    <material>ქვა</material>
-                                   <objectType> ფასადი</objectType> 
+                                   <objectType> ფასადი</objectType>
                                         <dimensions unit="cm">
                                         <width>10</width>
                                         <height>39</height>
@@ -37,7 +37,7 @@
                                   </support>
                             </supportDesc>
                                 <layoutDesc>
-                                    <layout writtenLines="1"> 
+                                    <layout writtenLines="1">
                                         <dimensions unit="cm">
                                             <width> 5,5</width>
                                             <height>3,5</height>
@@ -47,7 +47,7 @@
                         </objectDesc>
                         <handDesc>
                             <handNote script="asomtavruli">წარერა შესრულებულია ასომთავრულით, განკვეთილობის ნიშნები არ აქვს,ქარაგმად გამოყენებულია მოკლე განივი ხაზი.
-                                <width>3,5</width>   
+                                <width>3,5</width>
                                 <height>2,5</height>
                                  </handNote>
                         </handDesc>
@@ -62,12 +62,12 @@
                                 <rs type="circumstances"></rs>
                                 <rs type="context"/>
                                 <rs type="monuList"/>
-                            </provenance> 
+                            </provenance>
                             <provenance type="observed">თელოვანის წმინდა ელიას ეკლესია, სავედრებელი წარწერა თეოდორესი
-                            <placeName type="modernSpot">თელოვანის წმინდა ელიას ეკლესია, სავედრებელი წარწერა თეოდორესი</placeName>            
+                            <placeName type="modernSpot">თელოვანის წმინდა ელიას ეკლესია, სავედრებელი წარწერა თეოდორესი</placeName>
                             <idno></idno>
                         </provenance>
-                    </history>                   
+                    </history>
                 </msDesc>
             </sourceDesc>
         </fileDesc><encodingDesc>
@@ -96,10 +96,10 @@
                    <bibl n="3">თამაზ გოგოლაძე<ptr target="bibliography.xml"/>2014,<citedRange>104</citedRange>2020</bibl>
             </listBibl>
            </div>
-            <div type="edition" xml:lang="ka" xml:space="preserve">     
+            <div type="edition" xml:space="preserve" xml:lang="ka" ana="mtavruli">     
               <!--ქ(რისტე), შ(ეიწყალ)ე თ(ეოდორ)ე-->
                 <ab>
-                    <lb n="1"/><w lemma="ქრისტე"><expan><abbr>ქ</abbr><ex>რისტ</ex><abbr>ე</abbr></expan></w> 
+                    <lb n="1"/><w lemma="ქრისტე"><expan><abbr>ქ</abbr><ex>რისტ</ex><abbr>ე</abbr></expan></w>
                                <w lemma="იწყალებს"> <expan><abbr>შ</abbr><ex>ეიწყალ</ex><abbr>ე</abbr></expan></w>
                                <w lemma="თეოდორე"> <expan><abbr>თ</abbr>ეოდორ<ex></ex><abbr>ე</abbr></expan></w>
                 </ab>
@@ -109,7 +109,7 @@
             <div type="commentary"><p>წარწერა დაზიანებული არ არის, თავიდან ბოლომდე გარკვევით იკითხება</p>
                  <p>წარწერის დათარიღების საფუძველი:წარწერა შესრულებულია ასომთავრული დამწერლობით. წარწერის გრაფემების მოხაზულობიდან გამომდინარე, მას ფართო ქრონოლოგიური ჩარჩოთი X-XI საუკუნეებით ვათარიღებთ.  </p>
             </div>
-        
+
          </body>
     </text>
 </TEI>

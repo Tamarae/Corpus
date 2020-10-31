@@ -23,7 +23,7 @@
                 <msDesc>
                     <msIdentifier>
                         <collection>
-                            ანუხვა    
+                            ანუხვა
                         </collection>
                     </msIdentifier>
                     <msContents>
@@ -34,11 +34,11 @@
                     <physDesc>
                         <objectDesc>
                             <supportDesc>
-                                <support>                             
+                                <support>
                                     <material ref="www.eagle-network.eu/voc/material/lod/2.html">ფილა</material>
                                    <objectType ref="https://www.eagle-network.eu/voc/objtyp/lod/135">
                                        სვეტი
-                                   </objectType> 
+                                   </objectType>
                                         <dimensions unit="cm">
                                         <width/>
                                         <height/>
@@ -58,7 +58,7 @@
                         <handDesc>
                             <handNote script="ასომთავრული">წარწერა შესრულებულია ასომთავრული ანბანით.
                                 ქარაგმის ნიშანი კლაკნილი, განივი ხაზი. განკვეთილობის ნიშანი არ ახლავს.
-                                
+
                                    <height/>
                                  </handNote>
                         </handDesc>
@@ -76,12 +76,12 @@
                                 <rs type="circumstances"></rs>
                                 <rs/>
                                 <rs type="monuList"/>
-                            </provenance> 
+                            </provenance>
                             <provenance type="observed"> დ.გულიას სახელობის აფხაზეთის ისტორიულ მუზეუმში(სოხუმი)
                             <placeName type="modernSpot">ანუხვა (გუდაუთის რ-ნი)</placeName>
                             <idno></idno>
                         </provenance>
-                    </history>                   
+                    </history>
                 </msDesc>
             </sourceDesc>
         </fileDesc><encodingDesc>
@@ -99,27 +99,27 @@
         <body> <!-- წ(მიდა)ნი მთ(ა)ვარა(ნ)-
                          გ(ე)ლოზნი მ(ი)ქ(აე)ლ და
                             გ(ა)ბრ(იე)ლ.-->
-            
-            <div type="edition" xml:lang="ka" xml:space="preserve"><!-- წარწერის ტექსტი -->
+
+            <div type="edition" xml:lang="ka" ana="mtavruli" xml:space="preserve"><!-- წარწერის ტექსტი -->
                 <ab>
                       <lb n="1"/><w lemma="წმიდა"><expan><abbr>წ</abbr><ex>მიდა</ex><abbr>ნი</abbr></expan></w>
                     <expan><abbr>მთ</abbr><ex>ა</ex><abbr>ვარა</abbr><ex>ნ</ex></expan><!-- ტირე-როგორ დავწერო არ ვიცი -->
-                    
+
                     <lb n="2"/><expan><abbr>გ</abbr><ex>ე</ex><abbr>ლოზნი</abbr></expan>
                     <persName><expan><abbr>მ</abbr><ex>ი</ex><abbr>ქ</abbr><ex>აე</ex><abbr>ლ</abbr></expan></persName>
-                
+
                  <lb n="3"/><persName><expan><abbr>გ</abbr><ex>ა</ex><abbr>ბრ</abbr><ex>იე</ex><abbr>ლ</abbr></expan></persName></ab>
-                
+
            <div type="translation" xml:lang="ka"><p> წ(მიდა)ნი მთ(ა)ვარა(ნ)-
                          გ(ე)ლოზნი მ(ი)ქ(აე)ლ და
                             გ(ა)ბრ(იე)ლ.</p></div>
-            
+
             <div type="apparatus" xml:space="preserve"/>
-            
+
             <div type="commentary"><p> გამოცემები: 254.9)</p></div>
-            
+
             <div type="bibliography" subtype="principalEdition">
-                <listBibl>           
+                <listBibl>
                     <bibl type="publication" subtype="principal" xml:lang="ka">
                       <author>
                           <persName>
@@ -134,7 +134,7 @@
                         <date></date>
                      </bibl>
                 </listBibl>
-            </div>         
+            </div>
          </div>
     </body>
 </text>

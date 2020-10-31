@@ -97,7 +97,7 @@
         
         <body>
 
-            <div type="edition" xml:lang="ka" xml:space="preserve">
+              <div type="edition" xml:lang="ka" ana="mtavruli" xml:space="preserve">
 
                     <ab>
                         <lb n="1"/><persName><name nymRef="ქრისტე"><expan><abbr>ქ</abbr><ex>ისტე</ex></expan></name></persName> <w lemma="ადიდებს"><expan><abbr>ად</abbr><ex>ი</ex><abbr>დ</abbr><ex>ე</ex><abbr>ნ</abbr></expan></w> 

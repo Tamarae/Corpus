@@ -30,14 +30,14 @@
                     <physDesc>
                         <objectDesc>
                             <supportDesc>
-                                <support>                             
+                                <support>
                                    <material ref="https://www.eagle-network.eu/voc/material/lod/2">ქვა</material>
-                                   <objectType ref="https://www.eagle-network.eu/voc/objtyp/lod/1483">საფლავის ქვა</objectType> 
-                                       
+                                   <objectType ref="https://www.eagle-network.eu/voc/objtyp/lod/1483">საფლავის ქვა</objectType>
+
                                   </support>
                             </supportDesc>
                                 <layoutDesc>
-                                    <layout writtenLines="1"> 
+                                    <layout writtenLines="1">
                                         <dimensions unit="cm">
                                             <width>66</width>
                                             <height>135</height>
@@ -46,10 +46,10 @@
                                 </layoutDesc>
                         </objectDesc>
                         <handDesc>
-                            <handNote script="mkhedruli">წარწერა არის შესრულებულია მხედრული ასოებით. 
-                                  წარწერის განკვეთილობის ნიშნებად ნახმარია წერტილი ან ორწერტილი თითქმის ყოველი სიტყვის შემდგომ; 
+                            <handNote script="mkhedruli">წარწერა არის შესრულებულია მხედრული ასოებით.
+                                  წარწერის განკვეთილობის ნიშნებად ნახმარია წერტილი ან ორწერტილი თითქმის ყოველი სიტყვის შემდგომ;
 								  წარწერის ქარაგმად გამოყენებულია მოკლე კლაკნილი ხაზი.
-                                <width>7X3.3</width>   
+                                <width>7X3.3</width>
                                 <height>0.3X0.2</height>
                                  </handNote>
                         </handDesc>
@@ -63,12 +63,12 @@
                                 <placeName type ="ancientFindspot">ბორჯომის მხარეთმცოდნეობის მუზეუმი</placeName>
                                 <rs type="context">  წარწერას ბოლოში უზის ქორონიკონი უმგ (443) ანუ ქრისტესშობიდან (1312+443=1755 წ.) 1755 წელი.</rs>
                                 <rs type="monuList"/>
-                            </provenance> 
+                            </provenance>
                             <provenance type="observed">ბორჯომის მხარეთმცოდნეობის მუზეუმი
-                            <placeName type="modernSpot">ბორჯომის მხარეთმცოდნეობის მუზეუმი</placeName>            
+                            <placeName type="modernSpot">ბორჯომის მხარეთმცოდნეობის მუზეუმი</placeName>
                             <idno></idno>
                         </provenance>
-                    </history>                   
+                    </history>
                 </msDesc>
             </sourceDesc>
         </fileDesc><encodingDesc>
@@ -92,24 +92,24 @@
     </facsimile>
     <text>
         <body>
-           <div type="bibliography"> 
+           <div type="bibliography">
                <listBibl>
                 <bibl n="1">თამაზ გოგოლაძე,თორის ხეობის ეპიგრაფიკული კორპუსი<ptr target="bibliography.xml#b130"/>,<citedRange>109-110</citedRange>1987</bibl>
-		        
+
 		   </listBibl>
            </div>
-            <div type="edition" xml:lang="ka" xml:space="preserve">     
+            <div type="edition" xml:space="preserve" xml:lang="ka" ana="mtavruli">     
                         <!--"ქ. მოიხსენე უფალო ეს{ე} საფლავი თევდორას{ი}. პირველ ჯალა{ბ}|ნი მიცვალებულთა<ე>თ{ვ}ის.
 						ვინც წაიკ{ი}თხოს, შენდობა უ[თ]|ხარით, ქ(ორონი)კ(ონ)ს უმგ".-->
                 <ab>
                     <lb n="1"/>
-                    <w lemma="ესე"><expan><abbr>ეს</abbr><ex>ე</ex></expan></w> 
-					<w lemma="თევდორასი"><expan><abbr>თევდორას</abbr><ex>ი</ex></expan></w> 
-                    <w lemma="ჯალაბნი"><expan><abbr>ჯალა</abbr><ex>ბ</ex><abbr>ნი</abbr></expan></w> 
-					<w lemma="მიცვალებულთაეთვის"><expan><abbr>მიცვალებულთაეთ</abbr><ex>ვ</ex><abbr>ის</abbr></expan></w> 
-					<w lemma="წაიკითხოს"><expan><abbr>წაიკ</abbr><ex>ი</ex><abbr>თხოს</abbr></expan></w> 
-                    <w lemma="უთხარით"><expan><abbr>უ</abbr><ex>თ</ex><abbr>ხარით</abbr></expan></w> 
-					<w lemma="ქორონიკონს"><expan><abbr>ქ</abbr><ex>ორონი</ex><abbr>კ</abbr><ex>ონ</ex><abbr>ს</abbr></expan></w> 
+                    <w lemma="ესე"><expan><abbr>ეს</abbr><ex>ე</ex></expan></w>
+					<w lemma="თევდორასი"><expan><abbr>თევდორას</abbr><ex>ი</ex></expan></w>
+                    <w lemma="ჯალაბნი"><expan><abbr>ჯალა</abbr><ex>ბ</ex><abbr>ნი</abbr></expan></w>
+					<w lemma="მიცვალებულთაეთვის"><expan><abbr>მიცვალებულთაეთ</abbr><ex>ვ</ex><abbr>ის</abbr></expan></w>
+					<w lemma="წაიკითხოს"><expan><abbr>წაიკ</abbr><ex>ი</ex><abbr>თხოს</abbr></expan></w>
+                    <w lemma="უთხარით"><expan><abbr>უ</abbr><ex>თ</ex><abbr>ხარით</abbr></expan></w>
+					<w lemma="ქორონიკონს"><expan><abbr>ქ</abbr><ex>ორონი</ex><abbr>კ</abbr><ex>ონ</ex><abbr>ს</abbr></expan></w>
 
 					                </ab>
             </div>

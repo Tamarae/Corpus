@@ -26,9 +26,9 @@
                     <physDesc>
                         <objectDesc>
                             <supportDesc>
-                                <support>                             
+                                <support>
                                    <material>ქვა</material>
-                                   <objectType> ღია ნაცრიფერი ქვა</objectType> 
+                                   <objectType> ღია ნაცრიფერი ქვა</objectType>
                                         <dimensions unit="cm">
                                         <width>37</width>
                                         <height>40</height>
@@ -37,7 +37,7 @@
                                   </support>
                             </supportDesc>
                                 <layoutDesc>
-                                    <layout writtenLines="1"> 
+                                    <layout writtenLines="1">
                                         <dimensions unit="cm">
                                             <width> 7</width>
                                             <height>19</height>
@@ -47,7 +47,7 @@
                         </objectDesc>
                         <handDesc>
                             <handNote script="asomtavruli">წარერა შესრულებულია ასომთავრულით, განკვეთილობის ნიშნები არ აქვს, ქარაგმად გამოყენებული სწორი განივი ხაზი.
-                                <width>5,5-4</width>   
+                                <width>5,5-4</width>
                                 <height>3-2</height>
                                  </handNote>
                         </handDesc>
@@ -62,12 +62,12 @@
                                 <rs type="circumstances"></rs>
                                 <rs type="context"/>
                                 <rs type="monuList"/>
-                            </provenance> 
+                            </provenance>
                             <provenance type="observed">გუჯარეთის ხეობა, ვარდევანის ეკლესია
-                            <placeName type="modernSpot">გუჯარეთის ხეობა, ვარდევანის ეკლესია</placeName>            
+                            <placeName type="modernSpot">გუჯარეთის ხეობა, ვარდევანის ეკლესია</placeName>
                             <idno></idno>
                         </provenance>
-                    </history>                   
+                    </history>
                 </msDesc>
             </sourceDesc>
         </fileDesc><encodingDesc>
@@ -94,10 +94,10 @@
                 <bibl n="1">წარწერა გამოცემული არ არის<ptr target="bibliography.xml#b130"/>,<citedRange></citedRange>2020</bibl>
             </listBibl>
            </div>
-            <div type="edition" xml:lang="ka" xml:space="preserve">     
+            <div type="edition" xml:space="preserve" xml:lang="ka" ana="mtavruli">     
               <!--ქ(რისტე), შ(ეიწყალ)ე ხ(ა)რ(ე)ბ(ა)ჲ-->
                 <ab>
-                    <lb n="1"/><w lemma="ქრისტე"><expan><abbr>ქ</abbr><ex>რისტ</ex><abbr>ე</abbr></expan></w> 
+                    <lb n="1"/><w lemma="ქრისტე"><expan><abbr>ქ</abbr><ex>რისტ</ex><abbr>ე</abbr></expan></w>
                                <w lemma="იწყალებს"> <expan><abbr>შ</abbr><ex>ეიწყალ</ex><abbr>ე</abbr></expan></w>
                                <w lemma="ხარება"> <expan><abbr>ხ</abbr>ა<ex>რ</ex>ე<abbr>ბ</abbr>ა</expan>ჲ</w>
                 </ab>
@@ -107,7 +107,7 @@
             <div type="commentary"><p>წარწერა დაზიანებულია. წარწერა ბოლონაკლულია, თუმცა გადარჩენილი წარწერის ტექსტი თავიდან ბოლომდე გარკვევით იკითხება.</p>
                  <p>წარწერის დათარიღების საფუძველი:წარწერა შესრულებულია ასომთავრული დამწერლობით. წარწერის გრაფემების მოხაზულობიდან გამომდინარე, მას ფართო ქრონოლოგიური ჩარჩოთი X-XI საუკუნეებით ვათარიღებთ.   </p>
             </div>
-        
+
          </body>
     </text>
 </TEI>

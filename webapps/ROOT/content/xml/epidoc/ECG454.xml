@@ -99,7 +99,7 @@
             
             <!-- წ(მიდაო) გ(იორგ)ი შეიწყ(ა)ლე მ(თავა)რ(ეპისკოპო)ზი გ(იორგ)ი -->
             
-            <div type="edition" xml:lang="ka" xml:space="preserve">
+              <div type="edition" xml:lang="ka" ana="mtavruli" xml:space="preserve">
                 <ab>
                     <lb n="1"/><w lemma="წმიდა"><expan><abbr>წ</abbr><ex>მიდაო</ex></expan></w> <persName ref="attestedperson.xml#person13"><expan><abbr>გ</abbr><ex>იორგ</ex><abbr>ი</abbr></expan></persName> <w lemma="იწყალებს"><expan><abbr>შეიწყ</abbr><ex>ა</ex><abbr>ლე</abbr></expan></w> <persName ref="attestedperson.xml#person14"><roleName><w lemma="მთავარეპისკოპოს"><expan><abbr>მ</abbr><ex>თავა</ex><abbr>რ</abbr><ex>ეპისკოპო</ex><abbr>ზი</abbr></expan></w></roleName> <expan><abbr>გ</abbr><ex>იორგ</ex><abbr>ი</abbr></expan></persName>
                 </ab>

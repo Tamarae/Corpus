@@ -30,14 +30,14 @@
                     <physDesc>
                         <objectDesc>
                             <supportDesc>
-                                <support>                             
+                                <support>
                                    <material ref="https://www.eagle-network.eu/voc/material/lod/2">ქვა</material>
-                                   <objectType ref="https://www.eagle-network.eu/voc/objtyp/lod/1483"> მუქი ნაცრისფერი ქვა</objectType> 
-                                       
+                                   <objectType ref="https://www.eagle-network.eu/voc/objtyp/lod/1483"> მუქი ნაცრისფერი ქვა</objectType>
+
                                   </support>
                             </supportDesc>
                                 <layoutDesc>
-                                    <layout writtenLines="1"> 
+                                    <layout writtenLines="1">
                                         <dimensions unit="cm">
                                             <width>50</width>
                                             <height>106</height>
@@ -46,10 +46,10 @@
                                 </layoutDesc>
                         </objectDesc>
                         <handDesc>
-                            <handNote script="asomtavruli">წარწერა ნუსხურით არის შესრულებული,ასომთავრული ასოებით. 
-                                  წარწერის განკვეთილობის ნიშნებად გამოყენებულია წერტილი, ორწერტილი ან სამწერტილი თითქმის ყოველი სიტყვის შემდგომ; 
-								  ქარაგმად ნახმარია სწორი განივი ხაზი. 
-                                <width>10X2.5</width>   
+                            <handNote script="asomtavruli">წარწერა ნუსხურით არის შესრულებული,ასომთავრული ასოებით.
+                                  წარწერის განკვეთილობის ნიშნებად გამოყენებულია წერტილი, ორწერტილი ან სამწერტილი თითქმის ყოველი სიტყვის შემდგომ;
+								  ქარაგმად ნახმარია სწორი განივი ხაზი.
+                                <width>10X2.5</width>
                                 <height>2.5X2</height>
                                  </handNote>
                         </handDesc>
@@ -61,16 +61,16 @@
                             </origin>
                             <provenance>
                                 <placeName type ="ancientFindspot">ბორჯომის ხეობა. ლიკანის ღმრთისმშობლის ეკლესია</placeName>
-                                <rs type="context">  წარწერას თარიღი არ უზის. წარწერის პალეოგრაფიული მონაცემებისა და მასში მოხსენიებული 
+                                <rs type="context">  წარწერას თარიღი არ უზის. წარწერის პალეოგრაფიული მონაცემებისა და მასში მოხსენიებული
 								`მეფეთმეფის ასულ თამარის - ქართლის მეფე ლუარსაბ I-ის (1527-1556) ქალიშვილ თამართან გაიგივების საფუძველზე,
 								წარწერის ქრონოლოგიას XVI საუკუნის 40-იანი წლებით განვსაზღვრავთ. ;</rs>
                                 <rs type="monuList"/>
-                            </provenance> 
+                            </provenance>
                             <provenance type="observed">ბორჯომის ხეობა. ლიკანის ღმრთისმშობლის ეკლესია
-                            <placeName type="modernSpot">ბორჯომის ხეობა. ლიკანის ღმრთისმშობლის ეკლესია</placeName>            
+                            <placeName type="modernSpot">ბორჯომის ხეობა. ლიკანის ღმრთისმშობლის ეკლესია</placeName>
                             <idno></idno>
                         </provenance>
-                    </history>                   
+                    </history>
                 </msDesc>
             </sourceDesc>
         </fileDesc><encodingDesc>
@@ -94,7 +94,7 @@
     </facsimile>
     <text>
         <body>
-           <div type="bibliography"> 
+           <div type="bibliography">
                <listBibl>
                 <bibl n="1">თამაზ გოგოლაძე,თორის ხეობის ეპიგრაფიკული კორპუსი<ptr target="bibliography.xml#b130"/>,<citedRange>102-106</citedRange>1987</bibl>
 		        <bibl n="2">ვახტანგ ბერიძე, სამცხის ხუროთმოძღვრება XIII-XVI საუკუნეებში <ptr target="bibliography.xml#b130"/>,<citedRange>217-218</citedRange>1955</bibl>
@@ -103,15 +103,15 @@
 
 		   </listBibl>
            </div>
-            <div type="edition" xml:lang="ka" xml:space="preserve">     
-                        <!--"წ. იპრიანა ლიკნისა ღ(მრ)თისმშ|ობ(ე)ლმა და აღვაშენე სა{მ}რეკლო ესე მე, | ქიშვად ავალისშვილმა და თანამეცხედრე|მან, 
+            <div type="edition" xml:space="preserve" xml:lang="ka" ana="mtavruli">     
+                        <!--"წ. იპრიანა ლიკნისა ღ(მრ)თისმშ|ობ(ე)ლმა და აღვაშენე სა{მ}რეკლო ესე მე, | ქიშვად ავალისშვილმა და თანამეცხედრე|მან,
 						მეფეთ[მე]ფისა ასულმა თამარ და მათთა მშობე|ლთა, ე|ლია ად{ღეგ}რ{ძელე}(?)"-->
                 <ab>
                     <lb n="1"/>
-                    <w lemma="ღმრთისმშობელმა"><expan><abbr>ღ</abbr><ex>მრ</ex><abbr>თისმშობ</abbr><ex>ე</ex><abbr>ლმა</abbr></expan></w> 
-					<w lemma="სამრეკლო"><expan><abbr>სა</abbr><ex>მ</ex><abbr>რეკლო</abbr></expan></w> 
-                    <w lemma="მეფეთმეფისა"><expan><abbr>მეფეთ</abbr><ex>მე</ex><abbr>ფისა</abbr></expan></w> 
-					<w lemma="ადღეგრძელე"><expan><abbr>ად</abbr><ex>ღეგ</ex><abbr>რ</abbr><ex>ძელე</ex></expan></w> 
+                    <w lemma="ღმრთისმშობელმა"><expan><abbr>ღ</abbr><ex>მრ</ex><abbr>თისმშობ</abbr><ex>ე</ex><abbr>ლმა</abbr></expan></w>
+					<w lemma="სამრეკლო"><expan><abbr>სა</abbr><ex>მ</ex><abbr>რეკლო</abbr></expan></w>
+                    <w lemma="მეფეთმეფისა"><expan><abbr>მეფეთ</abbr><ex>მე</ex><abbr>ფისა</abbr></expan></w>
+					<w lemma="ადღეგრძელე"><expan><abbr>ად</abbr><ex>ღეგ</ex><abbr>რ</abbr><ex>ძელე</ex></expan></w>
 					                </ab>
             </div>
             <div type="translation" xml:lang="ka"/>

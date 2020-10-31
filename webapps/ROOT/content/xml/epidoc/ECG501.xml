@@ -32,9 +32,9 @@
                     <physDesc>
                         <objectDesc>
                             <supportDesc>
-                                <support>                             
+                                <support>
                                    <material ref="https://www.eagle-network.eu/voc/material/lod/2">ქვა</material>
-                                   <objectType></objectType> 
+                                   <objectType></objectType>
                                         <dimensions unit="cm">
                                         <width></width>
                                         <height></height>
@@ -43,7 +43,7 @@
                                   </support>
                             </supportDesc>
                                 <layoutDesc>
-                                    <layout writtenLines="2"> 
+                                    <layout writtenLines="2">
                                         <dimensions unit="cm">
                                             <width>8</width>
                                             <height>98,3</height>
@@ -52,9 +52,9 @@
                                 </layoutDesc>
                         </objectDesc>
                         <handDesc>
-                            <handNote script="asomtavruli">სწორი ეპიგრაფიკული ნუსხური შერეული ასომთავრული ასო-ნიშნებით. 
-                                წარწერას განკვეთილობის ნიშანი არ ახლავს და ქარაგმად გამოყენებულია სწორი განივი ხაზი.  
-                                <width>1-2</width>   
+                            <handNote script="asomtavruli">სწორი ეპიგრაფიკული ნუსხური შერეული ასომთავრული ასო-ნიშნებით.
+                                წარწერას განკვეთილობის ნიშანი არ ახლავს და ქარაგმად გამოყენებულია სწორი განივი ხაზი.
+                                <width>1-2</width>
                                 <height>1,1-4,7</height>
                             </handNote>
                         </handDesc>
@@ -69,12 +69,12 @@
                                 <rs type="circumstances"></rs>
                                 <rs type="context"/>
                                 <rs type="monuList"/>
-                            </provenance> 
+                            </provenance>
                             <provenance type="observed">
-                            <placeName type="modernSpot">ბორჯომის ხეობა. ფოთოლეთის წმიდა გიორგის ეკლესია</placeName>            
+                            <placeName type="modernSpot">ბორჯომის ხეობა. ფოთოლეთის წმიდა გიორგის ეკლესია</placeName>
                             <idno></idno>
                         </provenance>
-                    </history>                   
+                    </history>
                 </msDesc>
             </sourceDesc>
         </fileDesc><encodingDesc>
@@ -105,7 +105,7 @@
                 <bibl n="3">თამაზ გოგოლაძე,ირაკლი გელაშვილი,ნინო ხარშილაძე,ფოთოლეთის ეკლესიის ნაკაწრი წარწერები და მათი ისტორიულ-წყაროთმცოდნეობითი ანალიზი<ptr target="bibliography.xml#b130"/>,<citedRange>142-144 </citedRange>2014</bibl>
             </listBibl>
            </div>
-            <div type="edition" xml:lang="ka" xml:space="preserve">     
+            <div type="edition" xml:lang="ka" ana="mtavruli" xml:space="preserve">     
                         <!--ღ(მერ)თმ(ა)ნ ნუ შეუდნეს ცოდვანი მნ{ა}თესა, | რ{ომე}ლ ცხოარ არს-->
                 <ab>
                     <lb n="1"/><w lemma="ღმერთ"><expan><abbr>ღ</abbr><ex>მერ</ex><abbr>თმ</abbr><ex>ა</ex><abbr>ნ</abbr></expan></w>
@@ -120,11 +120,11 @@
             </div>
             <div type="translation" xml:lang="ka"/>
             <div type="apparatus" xml:space="preserve"/>
-            <div type="commentary"><p>წარწერიანი ქვა დაზიანებულია. წარწერის პირველი გრაფემა "Ⴖ" ქვის დაზიანებულ ნაწილშია მოთავსებული და 
+            <div type="commentary"><p>წარწერიანი ქვა დაზიანებულია. წარწერის პირველი გრაფემა "Ⴖ" ქვის დაზიანებულ ნაწილშია მოთავსებული და
                 ფრაგმენტულად იკითხება. ასევე ფრაგმენტულადაა შემორჩენილი I სტრიქონის XVIII გრაფემა "Ⴀ".</p>
                  <p>წარწერის დათარიღების საფუძველი:წარწერა შესრულებულია სწორი ეპიგრაფიკული ნუსხურით, რომელშიც შერეულია ასომთავრული გრაფემები. აქედან გამომდინარე, წარწერის ქრონოლოგიას XI საუკუნით განვსაზღვრავთ.</p>
             </div>
-        
+
          </body>
     </text>
 </TEI>

@@ -98,7 +98,7 @@
                 დ(ეო)ფ(ა)ლ[ი] ს(ა)გდ(უ)ხტ, ნ(ია)ნ(ი-
                 ა)ს ას(უ)ლი, ა(მე)ნ -->
             
-            <div type="edition" xml:lang="ka" xml:space="preserve">
+              <div type="edition" xml:lang="ka" ana="mtavruli" xml:space="preserve">
                 <ab>
                     <lb n="1"/><supplied reason="lost">&#10013;<w lemma="ღმერთ">ღმერთო</w>, <w lemma="იწყალებს">შეიწყალე</w> <w lemma="ორ">ორთავე</w>
                     <lb n="2"/><w lemma="ცხორება">ცხორებასა</w> <w lemma="შინა">შინა</w> <w lemma="ამის">ამის</w></supplied> <w lemma="ტაძარ"><supplied reason="lost">ტაძრი</supplied>სა</w>

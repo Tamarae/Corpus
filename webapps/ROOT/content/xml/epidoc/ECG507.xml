@@ -26,9 +26,9 @@
                     <physDesc>
                         <objectDesc>
                             <supportDesc>
-                                <support>                             
+                                <support>
                                    <material ref="https://www.eagle-network.eu/voc/material/lod/2">ქვა</material>
-                                   <objectType ref=" https://www.eagle-network.eu/voc/objtyp/lod/1402"> მუქი ყავისფერი ფილა</objectType> 
+                                   <objectType ref=" https://www.eagle-network.eu/voc/objtyp/lod/1402"> მუქი ყავისფერი ფილა</objectType>
                                         <dimensions unit="cm">
                                         <width>39</width>
                                         <height>26,5</height>
@@ -37,7 +37,7 @@
                                   </support>
                             </supportDesc>
                                 <layoutDesc>
-                                    <layout writtenLines="1"> 
+                                    <layout writtenLines="1">
                                         <dimensions unit="cm">
                                             <width> 6</width>
                                             <height>13</height>
@@ -47,7 +47,7 @@
                         </objectDesc>
                         <handDesc>
                             <handNote script="asomtavruli">წარერა შესრულებულია ნუსხური დამწერლობით
-                                <width>0,5-1,5</width>   
+                                <width>0,5-1,5</width>
                                 <height>0,2-2,8</height>
                                  </handNote>
                         </handDesc>
@@ -62,12 +62,12 @@
                                 <rs type="circumstances"></rs>
                                 <rs type="context"/>
                                 <rs type="monuList"/>
-                            </provenance> 
-                            <provenance type="observed">ბორჯომის ხეობა. ფოთოლეთის წმინდა გიორგის ეკლესია 
-                            <placeName type="modernSpot">ბორჯომის ხეობა. ფოთოლეთის წმინდა გიორგის ეკლესია</placeName>            
+                            </provenance>
+                            <provenance type="observed">ბორჯომის ხეობა. ფოთოლეთის წმინდა გიორგის ეკლესია
+                            <placeName type="modernSpot">ბორჯომის ხეობა. ფოთოლეთის წმინდა გიორგის ეკლესია</placeName>
                             <idno></idno>
                         </provenance>
-                    </history>                   
+                    </history>
                 </msDesc>
             </sourceDesc>
         </fileDesc><encodingDesc>
@@ -94,13 +94,13 @@
                 <bibl n="1">თამაზ გოგოლაძე,თორის ხეობის ეპიგრაფიკული კორპუსი<ptr target="bibliography.xml#b130"/>,<citedRange>58-59</citedRange>2019</bibl>
             </listBibl>
            </div>
-            <div type="edition" xml:lang="ka" xml:space="preserve">     
+            <div type="edition" xml:space="preserve" xml:lang="ka" ana="mtavruli">     
               <!--ქ(რისტ)ე, შ(ეიწყალ)ე მამანი ამ|{ი}ს ეკლ(ესიი)სა(ჲ)[...]-->
                 <ab>
-                    <lb n="1"/><w lemma="ქრისტე"><expan><abbr>ქ</abbr><ex>რისტ</ex><abbr>ე</abbr></expan></w> 
+                    <lb n="1"/><w lemma="ქრისტე"><expan><abbr>ქ</abbr><ex>რისტ</ex><abbr>ე</abbr></expan></w>
                                <w lemma="იწყალებს"> <expan><abbr>შ</abbr><ex>ეიწყალ</ex><abbr>ე</abbr></expan></w>
                                <w lemma="მამა">მამანი</w>
-                               <w lemma="ესე"> <expan><abbr>ამ</abbr><ex>ი</ex><abbr>ს</abbr></expan></w> 
+                               <w lemma="ესე"> <expan><abbr>ამ</abbr><ex>ი</ex><abbr>ს</abbr></expan></w>
                                <w lemma="ეკლესია"> <expan><abbr>ეკლ</abbr><ex>ესიი</ex><abbr>სა</abbr><ex>ჲ</ex></expan></w>
                 </ab>
             </div>
@@ -109,7 +109,7 @@
             <div type="commentary"><p>წარწერა თავნაკლულია. წარწერის გადარჩენილი ნაწილი თავიდან ბოლომდე გარკვევით იკითხება</p>
                  <p>წარწერის დათარიღების საფუძველი:წარწერა შესრულებულია სწორი ეპიგრაფიკული ნუსხურით. აქედან გამომდინარე, წარწერის ქრონოლოლოგიას XI საუკუნით განვსაზღვრავთ   </p>
             </div>
-        
+
          </body>
     </text>
 </TEI>

@@ -32,9 +32,9 @@
                     <physDesc>
                         <objectDesc>
                             <supportDesc>
-                                <support>                             
+                                <support>
                                    <material>ქვა</material>
-                                   <objectType>არქიტრავი</objectType> 
+                                   <objectType>არქიტრავი</objectType>
                                         <dimensions unit="cm">
                                         <width>45</width>
                                         <height>97</height>
@@ -43,7 +43,7 @@
                                   </support>
                             </supportDesc>
                                 <layoutDesc>
-                                    <layout> 
+                                    <layout>
                                         <dimensions unit="cm">
                                             <width>7</width>
                                             <height>45</height>
@@ -52,9 +52,9 @@
                                 </layoutDesc>
                         </objectDesc>
                         <handDesc>
-                            <handNote script="asomtavruli"><rs type="script">მდივან-მწიგნობრული მხედრული</rs>. 
-                                წარწერაში ქარაგმად გამოყენებულია სწორი განივი და მარცხნიდან მარჯვნივ ზევით აწეული სწორი ხაზი.  
-                                <width>1,7-6</width>   
+                            <handNote script="asomtavruli"><rs type="script">მდივან-მწიგნობრული მხედრული</rs>.
+                                წარწერაში ქარაგმად გამოყენებულია სწორი განივი და მარცხნიდან მარჯვნივ ზევით აწეული სწორი ხაზი.
+                                <width>1,7-6</width>
                                 <height>0,3-4,5</height>
                                  </handNote>
                         </handDesc>
@@ -69,12 +69,12 @@
                                 <rs type="circumstances"></rs>
                                 <rs type="context"/>
                                 <rs type="monuList"/>
-                            </provenance> 
+                            </provenance>
                             <provenance type="observed">გუჯარეთის ხეობა. ტყემლოვანის ეკლესია.
-                            <placeName type="modernSpot">გუჯარეთის ხეობა. ტყემლოვანის ეკლესია</placeName>            
+                            <placeName type="modernSpot">გუჯარეთის ხეობა. ტყემლოვანის ეკლესია</placeName>
                             <idno></idno>
                         </provenance>
-                    </history>                   
+                    </history>
                 </msDesc>
             </sourceDesc>
         </fileDesc><encodingDesc>
@@ -105,11 +105,11 @@
                 <bibl n="3">თამაზ გოგოლაძე,ბორჯომის ხეობის ისტორიული და ხუროთმოძღვრული ძეგლები (გზამკვლევი)<ptr target="bibliography.xml#b130"/>,<citedRange>95 </citedRange>2014</bibl>
             </listBibl>
            </div>
-            <div type="edition" xml:lang="ka" xml:space="preserve">     
+            <div type="edition" xml:lang="ka" ana="mtavruli" xml:space="preserve">     
                         <!--ქ. უ(ფალო)(?) ყო(ვე)ლ<ი>ნი (?) წ(ინაშ)ე (შენსა) (ა)იგო(?), შ(ეიწყალ)ე კ(ჳრიკ)ე-->
                 <ab>
-                    <lb n="1"/><w lemma="ქრისტე"><expan><abbr>ქ</abbr><ex>რისტე</ex></expan></w> 
-                               <w lemma="უფალ"><expan><abbr>უ</abbr><ex>ფალო</ex></expan></w> 
+                    <lb n="1"/><w lemma="ქრისტე"><expan><abbr>ქ</abbr><ex>რისტე</ex></expan></w>
+                               <w lemma="უფალ"><expan><abbr>უ</abbr><ex>ფალო</ex></expan></w>
                                <w lemma="ყოველ"><expan><abbr>ყო</abbr><ex>ვე</ex><abbr>ლ</abbr><ex>ი</ex><abbr>ნი</abbr></expan></w>
                                <w lemma="წინაშე"><expan><abbr>წ</abbr><ex>ინაშ</ex><abbr>ე</abbr></expan></w>
                                <supplied reason="lost">შენსა</supplied>
@@ -121,10 +121,10 @@
             <div type="translation" xml:lang="ka"/>
             <div type="apparatus" xml:space="preserve"/>
             <div type="commentary"><p>წარწერა დაზიანებული არ არის. წარწერის ტექსტი თავიდან ბოლომდე გარკვევით იკითხება.</p>
-                 <p>წარწერის დათარიღებისას ვიზიარებთ ვალერი სილოგავასეულ დათარიღებას და, 
+                 <p>წარწერის დათარიღებისას ვიზიარებთ ვალერი სილოგავასეულ დათარიღებას და,
                      მის მსგავსად, წარწერის თარიღს X-XI საუკუნეებით განვსაზღვრავთ.</p>
             </div>
-        
+
          </body>
     </text>
 </TEI>

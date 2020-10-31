@@ -88,7 +88,7 @@
         -->
         <body> 
 
-            <div type="edition" xml:lang="ka" xml:space="preserve">
+              <div type="edition" xml:lang="ka" ana="mtavruli" xml:space="preserve">
 
             <ab>
                 <lb n="1"/><w lemma="იანვარ"><expan><abbr>იანვრ</abbr><ex>ი</ex><abbr>ს</abbr></expan><supplied reason="lost" precision="high"><abbr>ა</abbr></supplied></w> <supplied reason="lost" precision="low"><num>სა</num></supplied>

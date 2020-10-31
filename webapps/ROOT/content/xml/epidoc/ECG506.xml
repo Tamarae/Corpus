@@ -32,9 +32,9 @@
                     <physDesc>
                         <objectDesc>
                             <supportDesc>
-                                <support>                             
+                                <support>
                                    <material ref="https://www.eagle-network.eu/voc/material/lod/2">ქვა</material>
-                                   <objectType ref="https://www.eagle-network.eu/voc/objtyp/lod/1483">ფილა</objectType> 
+                                   <objectType ref="https://www.eagle-network.eu/voc/objtyp/lod/1483">ფილა</objectType>
                                         <dimensions unit="cm">
                                         <width></width>
                                         <height></height>
@@ -43,7 +43,7 @@
                                   </support>
                             </supportDesc>
                                 <layoutDesc>
-                                    <layout writtenLines="1"> 
+                                    <layout writtenLines="1">
                                         <dimensions unit="cm">
                                             <width>9</width>
                                             <height>11,3</height>
@@ -52,9 +52,9 @@
                                 </layoutDesc>
                         </objectDesc>
                         <handDesc>
-                            <handNote script="asomtavruli">წარწერა შესრულებულია გარდამავალო მხედრულით. 
-                                წარწერას განკვეთილობის ნიშანი არ ახლავს და ქარაგმის ნიშნად გამოყენებულია მარცხნიდან მარჯვნივ დახრილი სწორი განივი ხაზი.  
-                                <width>0,5-2</width>   
+                            <handNote script="asomtavruli">წარწერა შესრულებულია გარდამავალო მხედრულით.
+                                წარწერას განკვეთილობის ნიშანი არ ახლავს და ქარაგმის ნიშნად გამოყენებულია მარცხნიდან მარჯვნივ დახრილი სწორი განივი ხაზი.
+                                <width>0,5-2</width>
                                 <height>0,4-8</height>
                             </handNote>
                         </handDesc>
@@ -69,12 +69,12 @@
                                 <rs type="circumstances"></rs>
                                 <rs type="context"/>
                                 <rs type="monuList"/>
-                            </provenance> 
+                            </provenance>
                             <provenance type="observed">ბორჯომის ხეობა. ფოთოლეთის წმიდა გიორგის ეკლესია
-                            <placeName type="modernSpot">ბორჯომის ხეობა. ფოთოლეთის წმიდა გიორგის ეკლესია</placeName>            
+                            <placeName type="modernSpot">ბორჯომის ხეობა. ფოთოლეთის წმიდა გიორგის ეკლესია</placeName>
                             <idno></idno>
                         </provenance>
-                    </history>                   
+                    </history>
                 </msDesc>
             </sourceDesc>
         </fileDesc><encodingDesc>
@@ -105,10 +105,10 @@
                 <bibl n="3">თამაზ გოგოლაძე,ირაკლი გელაშვილი,ნინო ხარშილაძე,ფოთოლეთის ეკლესიის ნაკაწრი წარწერები და მათი ისტორიულ-წყაროთმცოდნეობითი ანალიზი<ptr target="bibliography.xml#b130"/>,<citedRange>150-151 </citedRange>2014</bibl>
             </listBibl>
            </div>
-            <div type="edition" xml:lang="ka" xml:space="preserve">     
+            <div type="edition" xml:space="preserve" xml:lang="ka" ana="mtavruli">     
                         <!--ქ(რისტ)ე, ღ(მერთ)ო-->
                 <ab>
-                    <lb n="1"/><w lemma="ქრისტე"><expan><abbr>ქ</abbr><ex>რისტ</ex><abbr>ე</abbr></expan></w> 
+                    <lb n="1"/><w lemma="ქრისტე"><expan><abbr>ქ</abbr><ex>რისტ</ex><abbr>ე</abbr></expan></w>
                                <w lemma="ღმერთ"><expan><abbr>ღ</abbr><ex>მერთ</ex><abbr>ო</abbr></expan></w>
                 </ab>
             </div>
@@ -117,7 +117,7 @@
             <div type="commentary"><p>წარწერა დაზიანებული არ არის. წარწერის ტექსტი თავიდან ბოლომდე გარკვევით იკითხება.</p>
                  <p>წარწერა შესრულებულია გარდამავალი მხედრული დამწერლობით. აქედან გამომდინარე, წარწერის ქრონოლოგიას XI საუკუნით განვსაზღვრავთ.</p>
             </div>
-        
+
          </body>
     </text>
 </TEI>

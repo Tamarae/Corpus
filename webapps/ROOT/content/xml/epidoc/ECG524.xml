@@ -5,7 +5,7 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title> სავედრებელი წარწერა მიქაელისა</title>
+                <title>სავედრებელი წარწერა მიქაელისა</title>
             </titleStmt>
             <publicationStmt>
                 <authority> ილიას სახელმწიფო უნივერსიტეტი</authority>
@@ -26,9 +26,9 @@
                     <physDesc>
                         <objectDesc>
                             <supportDesc>
-                                <support>                             
+                                <support>
                                    <material>ქვა</material>
-                                   <objectType>მუქი ნაცრისფერი ქვა</objectType> 
+                                   <objectType>მუქი ნაცრისფერი ქვა</objectType>
                                         <dimensions unit="cm">
                                         <width>14</width>
                                         <height>21,5</height>
@@ -37,7 +37,7 @@
                                   </support>
                             </supportDesc>
                                 <layoutDesc>
-                                    <layout writtenLines="1"> 
+                                    <layout writtenLines="1">
                                         <dimensions unit="cm">
                                             <width> 5,4</width>
                                             <height>2,8</height>
@@ -47,7 +47,7 @@
                         </objectDesc>
                         <handDesc>
                             <handNote script="asomtavruli">წარერა შესრულებულია ასომთავრულით და შერეული ნუსხურით, განკვეთილობის ნიშნები არ აქვს,ქარაგმად გამოყენებულია მოკლე განივი ხაზი.
-                                <width>2,5</width>   
+                                <width>2,5</width>
                                 <height>3,5</height>
                                  </handNote>
                         </handDesc>
@@ -62,12 +62,12 @@
                                 <rs type="circumstances"></rs>
                                 <rs type="context"/>
                                 <rs type="monuList"/>
-                            </provenance> 
+                            </provenance>
                             <provenance type="observed">გუჯარეთის ხეობა, თელოვანის წმინდა ელიას ეკლესია, სავედრებელი წარწერა მიქაელისა
-                            <placeName type="modernSpot">გუჯარეთის ხეობა, თელოვანის წმინდა ელიას ეკლესია, სავედრებელი წარწერა მიქაელისა</placeName>            
+                            <placeName type="modernSpot">გუჯარეთის ხეობა, თელოვანის წმინდა ელიას ეკლესია, სავედრებელი წარწერა მიქაელისა</placeName>
                             <idno></idno>
                         </provenance>
-                    </history>                   
+                    </history>
                 </msDesc>
             </sourceDesc>
         </fileDesc><encodingDesc>
@@ -92,13 +92,13 @@
            <div type="bibliography">
                <listBibl>
                 <bibl n="1">წარწერა გამოცემული არ არის<ptr target="bibliography.xml#b130"/>,<citedRange></citedRange>2020</bibl>
-                
+
             </listBibl>
            </div>
-            <div type="edition" xml:lang="ka" xml:space="preserve">     
+            <div type="edition" xml:space="preserve" xml:lang="ka" ana="mtavruli">
               <!--ქ(რისტე), შ(ეიწყალ)ე მ(ი)ქ(აე)ლ-->
                 <ab>
-                    <lb n="1"/><w lemma="ქრისტე"><expan><abbr>ქ</abbr><ex>რისტ</ex><abbr>ე</abbr></expan></w> 
+                    <lb n="1"/><w lemma="ქრისტე"><expan><abbr>ქ</abbr><ex>რისტ</ex><abbr>ე</abbr></expan></w>
                                <w lemma="იწყალებს"> <expan><abbr>შ</abbr><ex>ეიწყალ</ex><abbr>ე</abbr></expan></w>
                                <w lemma="მიქაელ"> <expan><abbr>მ</abbr>ი<ex>ქ</ex>აე<abbr>ლ</abbr></expan></w>
                 </ab>
@@ -108,7 +108,7 @@
             <div type="commentary"><p>წარწერა დაზიანებული არ არის, თავიდან ბოლომდე გარკვევით იკითხება</p>
                  <p>წარწერის დათარიღების საფუძველი:წარწერა შესრულებულია ასომთავრული დამწერლობით შერეული ნუსხურით. წარწერის გრაფემების მოხაზულობიდან გამომდინარე, მას ფართო ქრონოლოგიური ჩარჩოთი X-XI საუკუნეებით ვათარიღებთ.  </p>
             </div>
-        
+
          </body>
     </text>
 </TEI>

@@ -75,7 +75,7 @@
                     <pubPlace>თბილისი</pubPlace> 
                     <date>2018</date>
                 </bibl></div>
-            <div type="edition" xml:lang="ka" xml:space="precerve">
+              <div type="edition" xml:lang="ka" ana="mtavruli" xml:space="preserve">
                 <div type="textpart" subtype="fragment" n="1">
                     <ab>
                         <lb n="1"/><PersName Type="sant"><expan>ქ<ex>რისტ</ex>ე</expan></PersName>

@@ -138,7 +138,7 @@
                     <lb n="1"/><name nymRef="ქრისტე"><expan><abbr>ქ</abbr><ex>რისტ</ex><abbr>ე</abbr></expan></name>
                                <w lemma="მეუფე"><expan><abbr>მე</abbr><ex>უ</ex><abbr>ფ</abbr><ex>ე</ex><abbr>ო</abbr></expan></w>   
                     <lb n="2"/><w lemma="დიდება"><expan><abbr>დ</abbr><ex>იდე</ex><abbr>ბ</abbr><ex>ისა</ex><abbr>ო</abbr></expan></w>   
-                               <w lemma="დიდება"><expan><abbr>ა</abbr><ex>დი</ex>დ<ex>ე</ex>ნ</expan></w>  
+                               <w lemma="ადიდებს"><expan><abbr>ა</abbr><ex>დი</ex>დ<ex>ე</ex>ნ</expan></w>  
                     <lb n="3"/><name nymRef="ლიპარიტ IV ბაღვაში"><expan><abbr>ლ</abbr><ex>ი</ex><abbr>პ</abbr><ex>არი</ex><abbr>ტ</abbr></expan></name> <!--  ref="https://bit.ly/3b8lzYu -->
                                <roleName nymRef="ერისთავთ-ერისთავ"><expan><abbr>ე</abbr><ex>რისთავთ</ex><abbr>ე</abbr><ex>რისთავი</ex></expan></roleName> 
                     <lb n="4"/><w lemma="და">და</w>             
@@ -169,10 +169,10 @@
                          <lb n="1"/><w lemma="სახელ"><expan><abbr>ს</abbr><ex>ა</ex><abbr>ხ</abbr><ex>ე</ex><abbr>ლ</abbr><ex>ი</ex><abbr>თა</abbr></expan></w>              
                                    <w lemma="ღმერთ"><expan><abbr>ღ</abbr><ex>მრ</ex><abbr>თ</abbr><ex>ი</ex>
                          <lb n="2" break="no"/><abbr>სა</abbr><ex>ჲთა</ex></expan></w>   
-                                    <w lemma="დადება"><expan><abbr>და</abbr><ex>იდ</ex><abbr>ვა</abbr></expan></w>
+                                    <w lemma="დებს"><expan><abbr>და</abbr><ex>იდ</ex><abbr>ვა</abbr></expan></w>
                          <lb n="3"/><w lemma="ბალავარ"><expan><abbr>ბ</abbr><ex>ა</ex>ლ<ex>ავა</ex><abbr>რი</abbr></expan></w>   
                                     <w lemma="ესე">ესე</w> 
-                                    <w lemma="დიდება"><expan><abbr>ა
+                                    <w lemma="ადიდებს"><expan><abbr>ა
                          <lb n="4" break="no"/>დ</abbr><ex>იდ</ex><abbr>ენ</abbr></expan></w>
                                     <w lemma="ღმერთ"><expan><abbr>ღ</abbr><ex>მერთმა</ex><abbr>ნ</abbr></expan></w>
                                     <roleName nymRef="ერისთავთ-ერისთავ"><expan><abbr>ე</abbr><ex>რისთავთ</ex><abbr>ე</abbr><ex>რისთავის</ex></expan></roleName>   

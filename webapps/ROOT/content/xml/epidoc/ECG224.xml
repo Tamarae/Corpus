@@ -96,7 +96,7 @@
         1.ა(დიდე)ნ [ღ(მერთმა)ნ] [იოა]ნე ო[ქ]როპ(ი)რ[ი], ქ(რისტე)ს მი(ე)რ ქ(არ)თ(ლი)ს(ა) კ(ათალიკოზი).
         -->
         <body>
-            <div type="edition" xml:lang="ka" xml:space="preserve">
+              <div type="edition" xml:lang="ka" ana="mtavruli" xml:space="preserve">
               <ab>
                     <lb n="1"/><w lemma="დიდება"><expan><abbr>ა</abbr><ex>დიდე</ex><abbr>ნ</abbr></expan></w> 
                                <w lemma="ღმერთ"><supplied reason="lost" precision="medium"><expan><abbr>ღ</abbr><ex>მერთმა</ex><abbr>ნ</abbr></expan></supplied></w> 

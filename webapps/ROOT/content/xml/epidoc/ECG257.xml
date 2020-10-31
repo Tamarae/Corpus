@@ -111,7 +111,7 @@
         -->
         <body>
 
-            <div type="edition" xml:lang="ka" xml:space="preserve">
+              <div type="edition" xml:lang="ka" ana="mtavruli" xml:space="preserve">
             <ab>
                 <lb n="1"/>&#10013;
                            <w lemma="სახელ">სახ<supplied reason="lost" precision="medium">ე</supplied><supplied reason="omitted" precision="high">ლ</supplied>ითა</w>

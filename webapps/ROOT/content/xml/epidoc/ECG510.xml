@@ -28,7 +28,7 @@
                             <supportDesc>
                                 <support>
                                    <material  ref="https://www.eagle-network.eu/voc/material/lod/2">ქვა</material>
-                                   <objectType ref="hhttps://www.eagle-network.eu/voc/objtyp/lod/1402">ფილა</objectType> 
+                                   <objectType ref="hhttps://www.eagle-network.eu/voc/objtyp/lod/1402">ფილა</objectType>
                                         <dimensions unit="cm">
                                         <width></width>
                                         <height></height>
@@ -95,7 +95,7 @@
                 <bibl n="1">თამაზ გოგოლაძე,თორის ხეობის ეპიგრაფიკული კორპუსი<ptr target="bibliography.xml#b130"/>,<citedRange>61-62</citedRange>2019</bibl>
             </listBibl>
            </div>
-            <div type="edition" xml:lang="ka" xml:space="preserve">
+            <div type="edition" xml:space="preserve" xml:lang="ka" ana="mtavruli">
               <!--კ(ჳრიკ)ე  [...]-->
                 <ab>
                     <lb n="1"/><name nymRef="კჳრიკე"><expan><abbr>კ</abbr><ex>ჳრიკ</ex><abbr>ე</abbr></expan></name>

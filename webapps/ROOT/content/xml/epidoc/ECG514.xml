@@ -26,9 +26,9 @@
                     <physDesc>
                         <objectDesc>
                             <supportDesc>
-                                <support>                             
+                                <support>
                                    <material ref="https://www.eagle-network.eu/voc/material/lod/2">ქვა</material>
-                                   <objectType ref="https://www.eagle-network.eu/voc/objtyp/lod/179">კედელი</objectType> 
+                                   <objectType ref="https://www.eagle-network.eu/voc/objtyp/lod/179">კედელი</objectType>
                                         <dimensions unit="cm">
                                         <width></width>
                                         <height></height>
@@ -37,7 +37,7 @@
                                   </support>
                             </supportDesc>
                                 <layoutDesc>
-                                    <layout> 
+                                    <layout>
                                         <dimensions unit="cm">
                                             <width>4,5</width>
                                             <height>7</height>
@@ -47,8 +47,8 @@
                         </objectDesc>
                         <handDesc>
                             <handNote>წარერა შესრულებულია <rs type="script">მდივან-მწიგნობრული მხედრული</rs> შერეული ასომთვრულითა
-                               და ნუსხური დამწერლობით. წარწერას განკვეთილობისა და ქარაგმების ნიშანები არ ახლავს. 
-                                <width> 0,3-0,8</width>   
+                               და ნუსხური დამწერლობით. წარწერას განკვეთილობისა და ქარაგმების ნიშანები არ ახლავს.
+                                <width> 0,3-0,8</width>
                                 <height> 0,3-3</height>
                                  </handNote>
                         </handDesc>
@@ -63,12 +63,12 @@
                                 <rs type="circumstances"></rs>
                                 <rs type="context"/>
                                 <rs type="monuList"/>
-                            </provenance> 
-                            <provenance type="observed">ბორჯომის ხეობა. ფოთოლეთის წმინდა გიორგის ეკლესია 
-                            <placeName type="modernSpot">ბორჯომის ხეობა. ფოთოლეთის წმინდა გიორგის ეკლესია</placeName>            
+                            </provenance>
+                            <provenance type="observed">ბორჯომის ხეობა. ფოთოლეთის წმინდა გიორგის ეკლესია
+                            <placeName type="modernSpot">ბორჯომის ხეობა. ფოთოლეთის წმინდა გიორგის ეკლესია</placeName>
                             <idno></idno>
                         </provenance>
-                    </history>                   
+                    </history>
                 </msDesc>
             </sourceDesc>
         </fileDesc><encodingDesc>
@@ -96,12 +96,12 @@
                 <bibl n="2"> გიორგი გაგოშიძე                                 <ptr target="bibliography.xml#b130"/>,<citedRange> 134</citedRange>1987 </bibl>
             </listBibl>
            </div>
-            <div type="edition" xml:lang="ka" xml:space="preserve">     
+            <div type="edition"  xml:space="preserve" xml:lang="ka" ana="mtavruli">     
               <!--ა,ბ,გ,დ,ე,ვ,| კ,ლ,მ[...]-->
                 <ab>
                     <lb n="1"/>აბგდევ
                     <lb n="2"/>კლმ <gap reason="lost"></gap>
-                                 
+
                 </ab>
             </div>
             <div type="translation" xml:lang="ka"/>
@@ -110,7 +110,7 @@
                  <p>წარწერის დათარიღების საფუძველი:წარწერა შესრულებულია მდივან-მწიგნიბრული მხედრული დამწერლობით ასომთვრული და ნუსხური ასო-ნიშნების შერევით. აქედან გამომდინარე,
                  მას XI საუკუნით ვათარიღებთ. </p>
                 </div>
-        
+
          </body>
     </text>
 </TEI>

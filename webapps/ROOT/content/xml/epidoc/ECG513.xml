@@ -26,9 +26,9 @@
                     <physDesc>
                         <objectDesc>
                             <supportDesc>
-                                <support>                             
+                                <support>
                                    <material ref="https://www.eagle-network.eu/voc/material/lod/2">ქვა</material>
-                                   <objectType ref="https://www.eagle-network.eu/voc/objtyp/lod/179">კედელი</objectType> 
+                                   <objectType ref="https://www.eagle-network.eu/voc/objtyp/lod/179">კედელი</objectType>
                                         <dimensions unit="cm">
                                         <width></width>
                                         <height></height>
@@ -37,7 +37,7 @@
                                   </support>
                             </supportDesc>
                                 <layoutDesc>
-                                    <layout writtenLines="1"> 
+                                    <layout writtenLines="1">
                                         <dimensions unit="cm">
                                             <width> 3</width>
                                             <height>3,3</height>
@@ -46,8 +46,8 @@
                                 </layoutDesc>
                         </objectDesc>
                         <handDesc>
-                            <handNote script="asomtavruli">წარერა შესრულებულია <rs type="script">ნუსხური</rs> დამწერლობით. წარწერას განკვეთილობისა და ქარაგმების ნიშანები არ ახლავს. 
-                                <width> 0,5-0,7</width>   
+                            <handNote script="asomtavruli">წარერა შესრულებულია <rs type="script">ნუსხური</rs> დამწერლობით. წარწერას განკვეთილობისა და ქარაგმების ნიშანები არ ახლავს.
+                                <width> 0,5-0,7</width>
                                 <height> 0,3-3,3</height>
                                  </handNote>
                         </handDesc>
@@ -62,12 +62,12 @@
                                 <rs type="circumstances"></rs>
                                 <rs type="context"/>
                                 <rs type="monuList"/>
-                            </provenance> 
-                            <provenance type="observed">ბორჯომის ხეობა. ფოთოლეთის წმინდა გიორგის ეკლესია 
-                            <placeName type="modernSpot">ბორჯომის ხეობა. ფოთოლეთის წმინდა გიორგის ეკლესია</placeName>            
+                            </provenance>
+                            <provenance type="observed">ბორჯომის ხეობა. ფოთოლეთის წმინდა გიორგის ეკლესია
+                            <placeName type="modernSpot">ბორჯომის ხეობა. ფოთოლეთის წმინდა გიორგის ეკლესია</placeName>
                             <idno></idno>
                         </provenance>
-                    </history>                   
+                    </history>
                 </msDesc>
             </sourceDesc>
         </fileDesc><encodingDesc>
@@ -92,16 +92,16 @@
            <div type="bibliography">
                <listBibl>
                 <bibl n="1">თამაზ გოგოლაძე,თორის ხეობის ეპიგრაფიკული კორპუსი<ptr target="bibliography.xml#b130"/>,<citedRange>64-65</citedRange>2019</bibl>
-             
+
             </listBibl>
            </div>
-            <div type="edition" xml:lang="ka" xml:space="preserve">     
+            <div type="edition" xml:space="preserve" xml:lang="ka" ana="mtavruli">     
               <!--ქ. ხატო ღ(მრ)თ(ა)ებისაო [...]-->
                 <ab>
-                    <lb n="1"/>  <w lemma="ქრისტე"><expan><abbr>ქ</abbr><ex>რისტე</ex></expan></w> 
-                                 <w lemma="ხატ">ხატო</w> 
+                    <lb n="1"/>  <w lemma="ქრისტე"><expan><abbr>ქ</abbr><ex>რისტე</ex></expan></w>
+                                 <w lemma="ხატ">ხატო</w>
                                  <w lemma="ღმრთაებ"><expan><abbr>ღ</abbr><ex>მრ</ex><abbr>თ</abbr><ex>ა</ex><abbr>ებისაო</abbr></expan></w>
-                                 
+
                 </ab>
             </div>
             <div type="translation" xml:lang="ka"/>
@@ -109,7 +109,7 @@
             <div type="commentary"><p>წარწერა დაზიანებული არ არის. წარწერის ტექსტის ნაწილი თავიდან ბოლომდე გარკვევით იკითხება</p>
                  <p>წარწერის დათარიღების საფუძველი:წარწერა შესრულებულია სწორი ეპიგრაფიკული ნუსხური დამწერლობით. აქედან გამომდინარე, მას XI საუკუნით ვათარიღებთ   </p>
             </div>
-        
+
          </body>
     </text>
 </TEI>

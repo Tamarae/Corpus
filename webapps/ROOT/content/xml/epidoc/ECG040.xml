@@ -110,7 +110,7 @@
                   <bibl n="2">ჯ. ამირანაშვილი, ადრეფეოდალური ხანის ქართული არქიტექტურისა და რელიეფური ქანდაკების ძეგლები<ptr target="bibliography.xml#b136"/>, <citedRange> 35</citedRange></bibl>
                 </listBibl>
             </div>                  
-            <div type="edition" xml:lang="ka" xml:space="preserve">
+              <div type="edition" xml:lang="ka" ana="mtavruli" xml:space="preserve">
                 
                         <!--  "მამ[ას] 
                             [ახ]ლ[ისი]...

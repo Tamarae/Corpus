@@ -117,7 +117,7 @@
                
             </div> 
             
-            <div type="edition" xml:lang="ka" xml:space="preserve">
+              <div type="edition" xml:lang="ka" ana="mtavruli" xml:space="preserve">
                 <ab>
                       <lb n="1"/><w lemma="ამენ"><expan><abbr>ა</abbr><ex>მე</ex><abbr>ნ</abbr></expan></w>
                       <lb n="2"/><persName><expan><abbr>მ</abbr><ex>ი</ex><abbr>ქ</abbr><ex>აე</ex><abbr>ლ</abbr></expan></persName>

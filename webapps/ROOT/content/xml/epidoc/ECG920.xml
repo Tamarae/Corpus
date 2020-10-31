@@ -24,17 +24,17 @@
                            ჭყონდიდი
                         </collection>
                     </msIdentifier>
-                    
+
                     <msContents>
                         <summary>
                             <seg xml:lang="ka">საამშენებლო</seg>
                             <seg xml:lang="en"/>
                         </summary>
-                    </msContents>  
+                    </msContents>
                     <physDesc>
                         <objectDesc>
                             <supportDesc>
-                                <support>                             
+                                <support>
                                    <material ref="http://www.eagle-network.eu/voc/material/lod/2">ქვა</material>
                                    <objectType ref="http://www.eagle-network.eu/voc/objtyp/lod/416">კედელი</objectType>
                                    </support>
@@ -47,7 +47,7 @@
                                     </dimensions>
                                     </layout>
                                 </layoutDesc>
-                        </objectDesc>                        
+                        </objectDesc>
                         <handDesc>
                             <handNote>
                                    <height/>
@@ -55,12 +55,12 @@
                         </handDesc>
                     </physDesc>
                     <history>
-                        
+
                            <origin>
                                 <origPlace>ჭყონდიდი</origPlace>
                                 <origDate>X AD</origDate>
                             </origin>
-                        
+
                         <provenance type="found" when="1937">
                             <placeName type="ancientFindspot" ref="http://pleiades.stoa.org/places/863760">ჭყონდიდი</placeName>
                             <!--  -->
@@ -68,13 +68,13 @@
                             <rs type="circumstances"></rs>
                             <rs type="context"/>
                         </provenance>
-                        
+
                         <provenance type="observed">
                             <placeName type="modernSpot">ჭყონდიდი</placeName>
                              <idno type="invNo"/>
                         </provenance>
-                        
-                    </history>                   
+
+                    </history>
                 </msDesc>
             </sourceDesc>
         </fileDesc><encodingDesc>
@@ -83,8 +83,8 @@
     </listPrefixDef>
 </encodingDesc>
     </teiHeader>
-    <!-- 
-      
+    <!--
+
     <facsimile>
         <surface>
             <graphic url="tskise_01.jpg">
@@ -93,46 +93,46 @@
             </graphic>
         </surface>
     </facsimile>
-    
+
     -->
     <text>
         <body>
-            <div type="edition" xml:lang="ka" xml:space="preserve">
-                
+            <div type="edition"  xml:space="preserve" xml:lang="ka" ana="mtavruli">
+
                         <!-- დადიანი || შერგილ || დადიანი -->
-            
-        
+
+
                  <div type="textpart" n="1">
                      <ab>
                          <lb n="1"/><persName><name nymRef="დადიანი">დადიანი</name></persName>
-                    </ab> 
-                 </div>   
-                
+                    </ab>
+                 </div>
+
                 <div type="textpart" n="2">
                      <ab>
                          <lb n="1"/><persName><name nymRef="შერგილ დადიანი">შერგილ</name></persName>
-                    </ab> 
-                 </div>  
-                
+                    </ab>
+                 </div>
+
                 <div type="textpart" n="3">
                      <ab>
                          <lb n="1"/><persName><name nymRef="დადიანი">დადიანი</name></persName>
-                    </ab> 
-                 </div>  
-         
+                    </ab>
+                 </div>
+
             </div>
-            
-                
+
+
             <div type="translation" xml:lang="ka">
                 <p/>
             </div>
-            
+
            <div type="apparatus" xml:space="preserve"/>
-            
+
             <div type="commentary">
                 <p/>
             </div>
-            
+
             <div type="bibliography">
                 <listBibl>
                      <bibl n="1">ვალერი სილოგავა, სამეგრელო-აფხაზეთის ქართული ეპიგრაფიკა <ptr target="bibliography.xml#b119"/>, <citedRange>58</citedRange></bibl>
@@ -141,6 +141,3 @@
         </body>
     </text>
 </TEI>
-
-
-

@@ -30,14 +30,14 @@
                     <physDesc>
                         <objectDesc>
                             <supportDesc>
-                                <support>                             
+                                <support>
                                    <material ref="https://www.eagle-network.eu/voc/material/lod/2">ქვა</material>
-                                   <objectType ref="https://www.eagle-network.eu/voc/objtyp/lod/1483">ფასადი</objectType> 
-                                       
+                                   <objectType ref="https://www.eagle-network.eu/voc/objtyp/lod/1483">ფასადი</objectType>
+
                                   </support>
                             </supportDesc>
                                 <layoutDesc>
-                                    <layout writtenLines="1"> 
+                                    <layout writtenLines="1">
                                         <dimensions unit="cm">
                                             <width></width>
                                             <height></height>
@@ -46,9 +46,9 @@
                                 </layoutDesc>
                         </objectDesc>
                         <handDesc>
-                            <handNote script="asomtavruli">წარწერა შესრულებულია ასომთავრულით. 
+                            <handNote script="asomtavruli">წარწერა შესრულებულია ასომთავრულით.
                                   განკვეთილობის ნიშანი არ არის წარმოდგენილი.
-                                <width></width>   
+                                <width></width>
                                 <height></height>
                                  </handNote>
                         </handDesc>
@@ -63,12 +63,12 @@
                                 <rs type="context">  XIX საუკუნის 40-იან წლებში წარწერა ამოკვეთილი ყოფილა ლიკანის ეკლესიის სამხრეთ ფასადზე, რომელიც ცნობილ ქართველ ისტორიკოსს
 								- პლატონ იოსელიანს უნახავს; მემატიანის აღწერით წარწერა შესრულებული ყოფილა ძველი ქართული დამწერლობით;</rs>
                                 <rs type="monuList"/>
-                            </provenance> 
+                            </provenance>
                             <provenance type="observed">სააღმშენებლო წარწერა გივი ავალიშვილისა და მისი მეუღლის, მეფეთმეფის ასულ სოფიოსი
-                            <placeName type="modernSpot">სააღმშენებლო წარწერა გივი ავალიშვილისა და მისი მეუღლის, მეფეთმეფის ასულ სოფიოსი</placeName>            
+                            <placeName type="modernSpot">სააღმშენებლო წარწერა გივი ავალიშვილისა და მისი მეუღლის, მეფეთმეფის ასულ სოფიოსი</placeName>
                             <idno></idno>
                         </provenance>
-                    </history>                   
+                    </history>
                 </msDesc>
             </sourceDesc>
         </fileDesc><encodingDesc>
@@ -92,7 +92,7 @@
     </facsimile>
     <text>
         <body>
-           <div type="bibliography"> 
+           <div type="bibliography">
                <listBibl>
                 <bibl n="1">თამაზ გოგოლაძე,თორის ხეობის ეპიგრაფიკული კორპუსი<ptr target="bibliography.xml#b130"/>,<citedRange>107-109</citedRange>1987</bibl>
                 <bibl n="2"> ვლადიმერ აბულაძე, ბორჯომის ხეობის წარსული და აწმყო<ptr target="bibliography.xml#b130"/>,<citedRange>54 </citedRange>1983</bibl>
@@ -100,13 +100,13 @@
 
 		   </listBibl>
            </div>
-            <div type="edition" xml:lang="ka" xml:space="preserve">     
-                        
+            <div type="edition" xml:space="preserve" xml:lang="ka" ana="mtavruli">     
+
             </div>
             <div type="translation" xml:lang="ka"/>
             <div type="apparatus" xml:space="preserve"/>
-            <div type="commentary"><p> პლატონ იოსელიანის დროს წინამდებარე წარწერა სრულად იკითხებოდა.  პლატონ იოსელიანის მიხედვით, 
-			ლიკანის ეკლესია გივი ავალიშვილისა და მის თანამეცხედრის, მეფის ასულ სოფიოს მიერ იქნა აღდგენილი.</p> 
+            <div type="commentary"><p> პლატონ იოსელიანის დროს წინამდებარე წარწერა სრულად იკითხებოდა.  პლატონ იოსელიანის მიხედვით,
+			ლიკანის ეკლესია გივი ავალიშვილისა და მის თანამეცხედრის, მეფის ასულ სოფიოს მიერ იქნა აღდგენილი.</p>
 			<p> დღეისათვის წარწერა დაკარგულია</p>
             </div>
          </body>

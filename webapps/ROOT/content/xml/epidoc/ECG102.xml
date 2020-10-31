@@ -104,7 +104,7 @@
        <bibl n="3">ივანე ჯავახიშვილი, ქართული დამწერლობათმცოდნეობა ანუ პალეოგრაფია<ptr target="bibliography.xml#b155"/>, <citedRange> 170-172</citedRange></bibl>
              </listBibl> 
             </div>
-            <div type="edition" xml:lang="ka" xml:space="preserve">
+              <div type="edition" xml:lang="ka" ana="mtavruli" xml:space="preserve">
                 
                         <!--  "† სხთა ღთა შმსა ხატი ესე მწდ ამსა გსა ოფთა ფსნ ერსვსა ივსა ტკი
                             მრნსა ფრსა სლსა ერსა მთსა ქმმაასხლბსა პლჱსა ქრკ იყ რვ"--> 

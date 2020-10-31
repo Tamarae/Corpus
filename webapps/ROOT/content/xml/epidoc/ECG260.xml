@@ -106,7 +106,7 @@
         -->
         <body>
 
-            <div type="edition" xml:lang="ka" xml:space="preserve">
+              <div type="edition" xml:lang="ka" ana="mtavruli" xml:space="preserve">
             <ab>
                 <lb n="1"/><orig n="unresolved">წ</orig>                      
                           <w lemma="სულ"><expan><abbr>ს</abbr><ex>უ</ex><abbr>ლს</abbr><ex>ა</ex></expan></w>

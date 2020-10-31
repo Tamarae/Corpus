@@ -36,11 +36,11 @@
                             </layoutDesc>
                         </objectDesc>
                         <handDesc>
-                            <handNote><p>ამოკვეთით შესრულებული ასომთავრული წარწერა, მოგრძო ასოებით; განკვეთილობის ნიშანი: ორწერტილი ყოველი სიტყვის შემდეგ; 
+                            <handNote><p>ამოკვეთით შესრულებული ასომთავრული წარწერა, მოგრძო ასოებით; განკვეთილობის ნიშანი: ორწერტილი ყოველი სიტყვის შემდეგ;
                                 ქარაგმის ნიშანი: განივი-ზოგან სწორი და ზოგან კლაკნილი ხაზი. </p>
                                 <dimensions unit="mm">
                                     <height>60-100-140</height>
-                                </dimensions>        
+                                </dimensions>
                             </handNote>
                         </handDesc>
                     </physDesc>
@@ -50,9 +50,9 @@
                             <origDate notBefore="1511" notAfter="1515"></origDate>
                         </origin>
                         <provenance  type="observed" when="2017-06-30"><placename>კუმურდოს საკათედრო ტაძარი</placename>
-                            <rs type="circumstences">წარწერის ფოტოდოკუმენტაცია გაკეთდა 2017 წლის 30 ივნისს, 
+                            <rs type="circumstences">წარწერის ფოტოდოკუმენტაცია გაკეთდა 2017 წლის 30 ივნისს,
                                 ილიას სახელმწიფო უნივერსიტეტის ეპიგრაფიკის სამაგისტრო კურსის დასკვნითი ექსპედიციის ფარგლებში </rs></provenance>
-                      
+
                     </history>
                 </msDesc>
             </sourceDesc>
@@ -62,12 +62,12 @@
     </listPrefixDef>
 </encodingDesc>
     </teiHeader>
-   
-    <text><!-- 
+
+    <text><!--
     1.ჯ(უარ)ი ქ(რისტეს)ი
     2.[&#10013; ი(ეს)უ
     3.ქ(რისტ)ე, დ(იდე)ბ(უ)ლ ჰყ(ა)ვ ორთ(ა)ვე შ(ინ)ა ცხ(ო)[რ](ე)ბ(ა)[თა]
-    4.[მ]ეორედ აღმშ(ე)ნ(ე)ბ(ე)ლი 
+    4.[მ]ეორედ აღმშ(ე)ნ(ე)ბ(ე)ლი
     5.პ(ა)ტრ(ო)ნი
     6.ელისბ(ა)ლ
     7.ქრისტინა
@@ -76,15 +76,15 @@
     10.მ(ა)რიხ
     11.ძენი
     12.მ(ა)თნ[ი] და ას(უ)ლნი მ(ა)თნი ა(მი)ნ
-    13.ზ(ო)ს(ი)მე კ(უ)მ(უ)რდოელსა შ(ეუ)ნ(დო)ს ღ(მერთმა)ნ 
+    13.ზ(ო)ს(ი)მე კ(უ)მ(უ)რდოელსა შ(ეუ)ნ(დო)ს ღ(მერთმა)ნ
     14.ა(მი)ნ
     15.ღ(მერთმ)ან
     16.გ(ა)ლ(ა)ტ(ოზ)სა
     17.მ(ი)ქ(აე)ლს
     18.შ(ეუნდვე)ნ-->
-        
+
         <body>
-            <div type="edition" xml:lang="ka" xml:space="precerve">
+              <div type="edition" xml:lang="ka" ana="mtavruli" xml:space="preserve">
             <div type="textpart" subtype="fragment" n="ა">
                 <title>ჯვრის წარწერა</title>
                 <dimencion unit="cm">
@@ -95,7 +95,7 @@
                     <lb n="1"/><w lemma="ჯუარი"><expan>ჯ<ex>უარ</ex>ი</expan></w><persName type="sant" nymref="ქრისტე"><expan>ქ<ex>რისტეს</ex>ი</expan></persName>
                 </ab>
             </div>
-            
+
                     <div type="textpart" subtype="fragment" n="ბ">
                         <title>ელისბალის წარწერა</title>
                         <dimencion unit="cm">
@@ -103,7 +103,7 @@
                             <width></width>
                         </dimencion>
                         <ab>
-                    <lb n="2"/>&#10013; <persName type="sant" nymref="იესუ"><expan>ი<ex>ეს</ex>უ</expan></persName>      
+                    <lb n="2"/>&#10013; <persName type="sant" nymref="იესუ"><expan>ი<ex>ეს</ex>უ</expan></persName>
                 <lb n="3"/><persName type="sant" nymref="ქრისტე"><expan>ქ<ex>რისტ</ex>ე</expan></persName><w lemma="დიდებულ ჰყოს"><expan>დ<ex>იდე</ex>ბ<ex>უ</ex>ლ ჰყ<ex>ა</ex>ვ</expan></w>
                     <w lemma="ორთავე"><ex>ორთ<w>ა</w>ვე</ex></w>
                     <w lemma="შინ"><expan>შ<ex>ინ</ex>ა</expan></w> <w lemma="ცხოვრება"><expan>ცხ<ex>ო</ex><supplied reason="lost">რ</supplied><ex>ე</ex></expan><supplied reason="lost">თა</supplied></w>
@@ -112,7 +112,7 @@
                     <lb n="5"/><w lemma="პატრონი"><expan>პ<ex>ა</ex>ტრ<ex>ო</ex >ნი</expan></w>
                     <lb n="6"/><persName nymRef ="ელისბალ"><expan>ელისბ<ex>ა</ex>ლ</expan></persName>
                     <lb n="7"/><persName nymref="ქრისტინა">ქრისტინა</persName>
-                    <lb n="8"/><w lemma="მეცხედრე"><expan>მეცხ<ex>ე</ex>დრე</expan></w> 
+                    <lb n="8"/><w lemma="მეცხედრე"><expan>მეცხ<ex>ე</ex>დრე</expan></w>
                     <lb n="9"/><w lemma="მათი"><expan>მ<ex>ა</ex>თი</expan></w>
                     <lb n="10"/><persName nymref="მარიხ"><expan>მ<ex>ა</ex>რიხ</expan></persName>
                     <lb n="11"/><w lemma="ძე">ძენი</w>
@@ -121,13 +121,13 @@
                     <w lemma="ამინ"><expan>ა<ex>მი</ex>ნ</expan></w>
                 </ab>
             </div>
-        
+
                     <div type="textpart" subtype="fragment" n="გ">
                         <title>ზოსიმე კუმურდოელის წარწერა</title>
                         <dimencion unit="cm">
                             <height>37</height>
                             <width>19</width>
-                            
+
                             </dimencion>
                         <ab>
                     <lb n="13"/><persName nymref="ზოსიმე"><expan>ზ<ex>ო</ex>ს<ex>ი</ex>მე</expan></persName>
@@ -149,14 +149,14 @@
                     <lb n="16"/><w lemma="გალატოზი"><expan>გ<ex>ა</ex>ლ<ex>ა</ex>ტ<ex>ოზ</ex>სა</expan></w>
                     <lb n="17"/><persName nymref="მიქაელი"><expan>მ<ex>ი</ex>ქ<ex>აე</ex>ლსა</expan></persName>
                     <lb n="18"/><w lemma="შეუნდო"><expan>შ<ex>ეუნდვე</ex>ნ</expan></w>
-                    
+
                 </ab>
-            </div>      
-          
-             
+            </div>
+
+
             <div type="bibliography">
                 <listBibl>
-                    <bibl> 
+                    <bibl>
                         <author><name>Mari</name><surname>Brosset</surname></author>
                         <title type="main" level="a">Rapports sur un voyage archéologique dans la Géorgie et dans l'Arménie éxecute en 1847-1848</title>
                         <title level="s"></title>
@@ -212,13 +212,13 @@
             </div>
             <div type="translation">
                 <p>
-                    
+
                 </p>
             </div>
             <div type="commentary">
                 <p> ფილაზე მოთავსებულია ოთხი დამოუკიდებელი შინაარსის,მაგრამ ერთმანეთთან მჭიდროდ დაკავშირებული წარწერები: პირველია ჯვრის წარწერა ამოკვეთილი ერთ სტრიქონად;მეორეა ელისბალის წარწერა;
-                    მესამეა ზოსიმე კუმურდოელის წარწერა მეოთხე კი მიქაელ გალატოზის წარწერა. ვ. ცისკარიშვილმა ქ. შარაშიძს მიერ გამოქვეყნებულ სამხრეთ საქართველოს ისტორიის მასალებზე დაყრდნობით 
-                    გ) წარწერაში დასახელებული ქრისტინასა და ელისბალის მოღვაწეობის დროის მიხედვით წარწერა 1505-1515 წლებით განსაზღვრა. 
+                    მესამეა ზოსიმე კუმურდოელის წარწერა მეოთხე კი მიქაელ გალატოზის წარწერა. ვ. ცისკარიშვილმა ქ. შარაშიძს მიერ გამოქვეყნებულ სამხრეთ საქართველოს ისტორიის მასალებზე დაყრდნობით
+                    გ) წარწერაში დასახელებული ქრისტინასა და ელისბალის მოღვაწეობის დროის მიხედვით წარწერა 1505-1515 წლებით განსაზღვრა.
                 </p>
             </div>
         </body>

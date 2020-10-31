@@ -26,9 +26,9 @@
                     <physDesc>
                         <objectDesc>
                             <supportDesc>
-                                <support>                             
+                                <support>
                                    <material ref="https://www.eagle-network.eu/voc/material/lod/2">ქვა</material>
-                                   <objectType ref="https://www.eagle-network.eu/voc/objtyp/lod/179">კედელი</objectType> 
+                                   <objectType ref="https://www.eagle-network.eu/voc/objtyp/lod/179">კედელი</objectType>
                                         <dimensions unit="cm">
                                         <width></width>
                                         <height></height>
@@ -37,7 +37,7 @@
                                   </support>
                             </supportDesc>
                                 <layoutDesc>
-                                    <layout writtenLines="1"> 
+                                    <layout writtenLines="1">
                                         <dimensions unit="cm">
                                             <width>7,5</width>
                                             <height>4</height>
@@ -46,9 +46,9 @@
                                 </layoutDesc>
                         </objectDesc>
                         <handDesc>
-                            <handNote script="asomtavruli">წარერა შესრულებულია <rs type="script">ნუსხური</rs> დამწერლობით. წარწერას განკვეთილობის ნიშანები არ ახლავს; წარწერის ქარაგმის ნიშნად გამოყენებულია 
-                                 ორივე მხრიდან დაკუთხული განივი ხაზი. ტექსტის ბოლოს დასმულია წვერით მარჯვნივ მიმართული ისრისებური ნიშანი. 
-                                <width>0,2-0,3</width>   
+                            <handNote script="asomtavruli">წარერა შესრულებულია <rs type="script">ნუსხური</rs> დამწერლობით. წარწერას განკვეთილობის ნიშანები არ ახლავს; წარწერის ქარაგმის ნიშნად გამოყენებულია
+                                 ორივე მხრიდან დაკუთხული განივი ხაზი. ტექსტის ბოლოს დასმულია წვერით მარჯვნივ მიმართული ისრისებური ნიშანი.
+                                <width>0,2-0,3</width>
                                 <height>0,2-1,8</height>
                                  </handNote>
                         </handDesc>
@@ -63,12 +63,12 @@
                                 <rs type="circumstances"></rs>
                                 <rs type="context"/>
                                 <rs type="monuList"/>
-                            </provenance> 
-                            <provenance type="observed">ბორჯომის ხეობა. ფოთოლეთის წმინდა გიორგის ეკლესია 
-                            <placeName type="modernSpot">ბორჯომის ხეობა. ფოთოლეთის წმინდა გიორგის ეკლესია</placeName>            
+                            </provenance>
+                            <provenance type="observed">ბორჯომის ხეობა. ფოთოლეთის წმინდა გიორგის ეკლესია
+                            <placeName type="modernSpot">ბორჯომის ხეობა. ფოთოლეთის წმინდა გიორგის ეკლესია</placeName>
                             <idno></idno>
                         </provenance>
-                    </history>                   
+                    </history>
                 </msDesc>
             </sourceDesc>
         </fileDesc><encodingDesc>
@@ -96,7 +96,7 @@
                 <bibl n="2"> გიორგი გაგოშიძე                                 <ptr target="bibliography.xml#b130"/>,<citedRange> 134</citedRange>1987 </bibl>
             </listBibl>
            </div>
-            <div type="edition" xml:lang="ka" xml:space="preserve">     
+            <div type="edition" xml:space="preserve" xml:lang="ka" ana="mtavruli">     
               <!--ხატო ღ(მრ)თ(ა)ებისაო,| შ(ეიწყალ)ე დ(ა)მ(ია)ნე ბ(ე)დ(ი)ელი [...]-->
                 <ab>
                     <lb n="1"/>  <w lemma="ხატ">ხატო</w>
@@ -111,7 +111,7 @@
             <div type="commentary"><p>წარწერა დაზიანებული არ არის. წარწერის ტექსტის ნაწილი თავიდან ბოლომდე გარკვევით იკითხება</p>
                  <p>წარწერის დათარიღების საფუძველი:წარწერა შესრულებულია სწორი ეპიგრაფიკული ნუსხურით. აქედან გამომდინარე, მას XI საუკუნით ვათარიღებთ   </p>
             </div>
-        
+
          </body>
     </text>
 </TEI>

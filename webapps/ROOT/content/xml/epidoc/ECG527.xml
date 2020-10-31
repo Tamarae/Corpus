@@ -32,18 +32,18 @@
                     <physDesc>
                         <objectDesc>
                             <supportDesc>
-                                <support>                             
+                                <support>
                                    <material ref="https://www.eagle-network.eu/voc/material/lod/2">ქვა</material>
-                                   <objectType ref="https://www.eagle-network.eu/voc/objtyp/lod/1483">ფასადი</objectType> 
+                                   <objectType ref="https://www.eagle-network.eu/voc/objtyp/lod/1483">ფასადი</objectType>
                                         <dimensions unit="cm">
                                         <width>50</width>
                                         <height>47</height>
-                                       <depth>39</depth> 
+                                       <depth>39</depth>
                                         </dimensions>
                                   </support>
                             </supportDesc>
                                 <layoutDesc>
-                                    <layout writtenLines="1"> 
+                                    <layout writtenLines="1">
                                         <dimensions unit="cm">
                                             <width>31</width>
                                             <height>28</height>
@@ -52,11 +52,11 @@
                                 </layoutDesc>
                         </objectDesc>
                         <handDesc>
-                            <handNote script="asomtavruli">ასომთავრულით არის შესრულებული. 
+                            <handNote script="asomtavruli">ასომთავრულით არის შესრულებული.
                                 წარწერაში ქარაგმად გამოყენებულია სწორი განივი ხაზი; წარწერის განკვეთილობის ნიშნებად
 გამოყენებულია ორწერტილი ან სამწერტილი რამოდენიმე სიტყვის შემდეგ; გრაფემათა ღარებში ამოსმულია წითელი ფერის
-საწერ-საღებავტექსტში ბგერა უ, ხოლო ბგერა ი, რიგ შემთხვევებში ჲ-ს საშუალებით არის მოცემული; წარწერაში გვხდება ლიგატურის შემთხვევა  
-                                <width></width>   
+საწერ-საღებავტექსტში ბგერა უ, ხოლო ბგერა ი, რიგ შემთხვევებში ჲ-ს საშუალებით არის მოცემული; წარწერაში გვხდება ლიგატურის შემთხვევა
+                                <width></width>
                                 <height></height>
                                  </handNote>
                         </handDesc>
@@ -71,12 +71,12 @@
                                 <rs type="circumstances">აბანოს მშენებლობისას წარმოებული სამუშაოების დროს გიორგი გელაშვილის სახლის გვერდით.</rs>
                                 <rs type="context">გიორგი გელაშვილმა ეკლესიის მოდელი საქართველოს სახელმწიფო მუზეუმს გადასცა.</rs>
                                 <rs type="monuList"/>
-                            </provenance> 
+                            </provenance>
                             <provenance type="observed">ბორჯომის ხეობა.ახალდაბის ეკლესია.
-                            <placeName type="modernSpot">ბორჯომის ხეობა.ახალდაბის ეკლესია</placeName>            
+                            <placeName type="modernSpot">ბორჯომის ხეობა.ახალდაბის ეკლესია</placeName>
                             <idno></idno>
                         </provenance>
-                    </history>                   
+                    </history>
                 </msDesc>
             </sourceDesc>
         </fileDesc><encodingDesc>
@@ -100,19 +100,19 @@
     </facsimile>
     <text>
         <body>
-           <div type="bibliography"> 
+           <div type="bibliography">
                <listBibl>
                 <bibl n="1">თამაზ გოგოლაძე,თორის ხეობის ეპიგრაფიკული კორპუსი<ptr target="bibliography.xml#b130"/>,<citedRange>85-86 </citedRange>2019</bibl>
                 <bibl n="2"> ვალერი სილოგავა, თორელთა ფეოდალური სახლის ერთი მემორიალური ძეგლი (ახალდაბის წარწერა),მუშაობის გეგმა და მოხსენებათა თეზისები<ptr target="bibliography.xml#b130"/>,<citedRange>52 </citedRange>1993</bibl>
                 <bibl n="3">ვალერი სილოგავა, შრომების კრებული, ტ. II<ptr target="bibliography.xml#b130"/>,<citedRange>68</citedRange>2000</bibl>
             </listBibl>
            </div>
-            <div type="edition" xml:lang="ka" xml:space="preserve">     
+            <div type="edition" xml:space="preserve" xml:lang="ka" ana="mtavruli">     
                         <!--უ{ფალ}ო ჲ{ესო}ჳ | ქ(რისტ)ე, ღ(მერთ)ო რ(ომელმა)ნ აღ(ა)მ(ა)ღ|ლე რქაჲ | წ(მი)დათა | ეკლესიათ(ა)ჲ -->
                 <ab>
                     <lb n="1"/>
-                    <w lemma="უფალო"><expan><abbr>უ</abbr><ex>ფალ</ex><abbr>ო</abbr></expan></w> 
-                    <w lemma="იესო"><expan><abbr>ჲ</abbr><ex>ესო</ex><abbr>ჳ</abbr></expan></w> 
+                    <w lemma="უფალო"><expan><abbr>უ</abbr><ex>ფალ</ex><abbr>ო</abbr></expan></w>
+                    <w lemma="იესო"><expan><abbr>ჲ</abbr><ex>ესო</ex><abbr>ჳ</abbr></expan></w>
                     <w lemma="ქრისტე"><expan><abbr>ქ</abbr><ex>რისტ</ex><abbr>ე</abbr></expan></w>
                     <w lemma="ღმერთო"><expan><abbr>ღ</abbr><ex>მერთ</ex><abbr>ო</abbr></expan></w>
                     <w lemma="რომელმან"><expan><abbr>რ</abbr><ex>ომელმა</ex><abbr>ნ</abbr></expan></w>
@@ -120,7 +120,7 @@
                     <w lemma="რქაჲ"><expan><ex>რქაჲ</ex></expan></w>
                     <w lemma="წმიდათა"><expan><abbr>წ</abbr><ex>მი</ex><abbr>დათა</abbr></expan></w>
                     <w lemma="ეკლესიათაჲ"><expan><abbr>ეკლესიათ</abbr><ex>ა</ex><abbr>ჲ</abbr></expan></w>
-                    
+
                 </ab>
             </div>
             <div type="translation" xml:lang="ka"/>
@@ -128,7 +128,7 @@
             <div type="commentary"><p>ამჟამად წარწერა სიმონ ჯანაშიას სახელობის საქართველოს ეროვნული მუზეუმის ქვის ძეგლების ლაპიდარიუმში ინახება.</p>
                  <p>ვალერი სილოგავა წარწერას პალეოგრაფიული ნიშნების მიხედვით XII საუკუნის 80-90-იანი წლებით ათარიღებს.</p>
             </div>
-        
+
          </body>
     </text>
 </TEI>

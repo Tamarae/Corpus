@@ -121,7 +121,7 @@
                  <bibl n="20">П. Мурадян, Армянская надпись храма Джвари<ptr target="bibliography.xml#b49"/>, <citedRange>69</citedRange></bibl>
                 </listBibl>
             </div>         
-            <div type="edition" xml:lang="ka" xml:space="preserve">
+              <div type="edition" xml:lang="ka" ana="mtavruli" xml:space="preserve">
                 
                         <!--  “წო სფე 
                             ქობულ 

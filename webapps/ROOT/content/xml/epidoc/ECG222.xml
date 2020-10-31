@@ -115,7 +115,7 @@
         -->
         <body>
 
-            <div type="edition" xml:lang="ka" xml:space="preserve">
+              <div type="edition" xml:lang="ka" ana="mtavruli" xml:space="preserve">
             <ab>
                 <lb n="1"/><w lemma="სახელ"><expan><abbr>სახ</abbr><ex>ელი</ex><abbr>თა</abbr></expan></w>                                 
                           <w lemma="ღმერთ"><expan><abbr>ღ</abbr><ex>მრთის</ex><abbr>ჲ</abbr>

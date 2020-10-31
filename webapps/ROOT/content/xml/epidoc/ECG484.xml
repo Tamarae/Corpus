@@ -32,9 +32,9 @@
                     <physDesc>
                         <objectDesc>
                             <supportDesc>
-                                <support>                             
+                                <support>
                                    <material>ქვა</material>
-                                   <objectType ref="www.eagle-network.eu/voc/objtyp/lod/1483">ფილა</objectType> 
+                                   <objectType ref="www.eagle-network.eu/voc/objtyp/lod/1483">ფილა</objectType>
                                         <dimensions>
                                         <width/>
                                         <height/>
@@ -43,7 +43,7 @@
                                   </support>
                             </supportDesc>
                                 <layoutDesc>
-                                    <layout writtenLines="3"> 
+                                    <layout writtenLines="3">
                                         <dimensions/>
                                     </layout>
                                 </layoutDesc>
@@ -72,12 +72,12 @@
                                 <rs type="circumstances"></rs>
                                 <rs type="context"/>
                                 <rs type="monuList"/>
-                            </provenance> 
+                            </provenance>
                             <provenance type="observed">
                             <placeName type="modernSpot">გუდავა, გუდავის ეკლესია</placeName>
                             <idno></idno>
                         </provenance>
-                    </history>                   
+                    </history>
                 </msDesc>
             </sourceDesc>
         </fileDesc><encodingDesc>
@@ -99,9 +99,9 @@
     </facsimile>
     <text>
         <body>
-            
+
             <div type="bibliography" subtype="principalEdition">
-                <listBibl>           
+                <listBibl>
                     <bibl type="publication" subtype="principal" xml:lang="ka">
                       <author>
                           <persName>
@@ -116,10 +116,10 @@
                         <date></date>
                      </bibl>
                 </listBibl>
-            </div>         
-            
+            </div>
+
             <!-- "[ს](უ)ლი / დეკ(ანოზისა) შ(ეიწყალე)ნ ღ(მერთმა)ნ -->
-            <div type="edition" xml:lang="ka" xml:space="preserve">
+            <div type="edition" xml:lang="ka" ana="mtavruli" xml:space="preserve">
                 <ab>
                     <lb n="1"/><w lemma="სული"><expan><supplied reason="lost" precision="medium"><abbr>ს</abbr></supplied><ex>უ</ex><abbr>ლი</abbr></expan></w>
                     <lb n="2"/><w lemma="დეკანოზი"><expan><abbr>დეკ</abbr><ex>ანოზისა</ex></expan></w>
@@ -130,7 +130,7 @@
             <div type="apparatus" xml:space="preserve"/>
             <div type="commentary"><p>წაწერის პირველი სტრიქონი ქვის ჩამომტვრევის გამო დაზიანებულია.
             გამოცემები: (142.141); (158.370); (66.27)</p></div>
-            
+
          </body>
     </text>
 </TEI>

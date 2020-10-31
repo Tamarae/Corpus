@@ -26,9 +26,9 @@
                     <physDesc>
                         <objectDesc>
                             <supportDesc>
-                                <support>                             
+                                <support>
                                    <material ref="https://www.eagle-network.eu/voc/material/lod/2">ქვა</material>
-                                   <objectType>კედელი</objectType> 
+                                   <objectType>კედელი</objectType>
                                         <dimensions unit="cm">
                                         <width></width>
                                         <height></height>
@@ -37,7 +37,7 @@
                                   </support>
                             </supportDesc>
                                 <layoutDesc>
-                                    <layout> 
+                                    <layout>
                                         <dimensions unit="cm">
                                             <width> </width>
                                             <height> </height>
@@ -46,8 +46,8 @@
                                 </layoutDesc>
                         </objectDesc>
                         <handDesc>
-                            <handNote>წარერა შესრულებულია ასომთავრული, ნუსხური და მხედრული დამწერლობით შესრულებული სხვადასხვა შინაარსის წარწერები. 
-                                <width> </width>   
+                            <handNote>წარერა შესრულებულია ასომთავრული, ნუსხური და მხედრული დამწერლობით შესრულებული სხვადასხვა შინაარსის წარწერები.
+                                <width> </width>
                                 <height> </height>
                                  </handNote>
                         </handDesc>
@@ -62,12 +62,12 @@
                                 <rs type="circumstances"></rs>
                                 <rs type="context"/>
                                 <rs type="monuList"/>
-                            </provenance> 
-                            <provenance type="observed">ბორჯომის ხეობა. ფოთოლეთის წმინდა გიორგის ეკლესია 
-                            <placeName type="modernSpot">ბორჯომის ხეობა. ფოთოლეთის წმინდა გიორგის ეკლესია</placeName>            
+                            </provenance>
+                            <provenance type="observed">ბორჯომის ხეობა. ფოთოლეთის წმინდა გიორგის ეკლესია
+                            <placeName type="modernSpot">ბორჯომის ხეობა. ფოთოლეთის წმინდა გიორგის ეკლესია</placeName>
                             <idno></idno>
                         </provenance>
-                    </history>                   
+                    </history>
                 </msDesc>
             </sourceDesc>
         </fileDesc><encodingDesc>
@@ -94,20 +94,20 @@
                 <bibl n="1">თამაზ გოგოლაძე,თორის ხეობის ეპიგრაფიკული კორპუსი<ptr target="bibliography.xml#b130"/>,<citedRange>62-63</citedRange>2019</bibl>
             </listBibl>
            </div>
-            <div type="edition" xml:lang="ka" xml:space="preserve">     
-    
+            <div type="edition" xml:space="preserve" xml:lang="ka" ana="mtavruli">     
+
                 <ab>
-                  
+
                 </ab>
             </div>
             <div type="translation" xml:lang="ka"/>
             <div type="apparatus" xml:space="preserve"/>
             <div type="commentary"><p>წარერა შესრულებულია ასომთავრული, ნუსხური და მხედრული დამწერლობით შესრულებული სხვადასხვა შინაარსის წარწერები.</p>
-                 <p>წარწერის დათარიღების საფუძველი:1939 წელს ფოთოლეთის ეკლესიის შენობაში სიძველეთა კომიტეტის 
-                     მიერ ჩატარდა არქეოლოგიური გათხრები, რომელსაც ხელმძღვანელობდნენ რუსუდან მეფისაშვილი და  
+                 <p>წარწერის დათარიღების საფუძველი:1939 წელს ფოთოლეთის ეკლესიის შენობაში სიძველეთა კომიტეტის
+                     მიერ ჩატარდა არქეოლოგიური გათხრები, რომელსაც ხელმძღვანელობდნენ რუსუდან მეფისაშვილი და
                  ზაქრო მაისურაძე. ამ დროს გამოვლინდა ტაძარში X საუკუნის კანკელი</p>
             </div>
-        
+
          </body>
     </text>
 </TEI>

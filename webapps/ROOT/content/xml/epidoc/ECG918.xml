@@ -24,20 +24,20 @@
                            ჭყონდიდი
                         </collection>
                     </msIdentifier>
-                    
+
                     <msContents>
                         <summary>
                             <seg xml:lang="ka">ეპიტაფია</seg>
                             <seg xml:lang="en"/>
                         </summary>
-                    </msContents>  
+                    </msContents>
                     <physDesc>
                         <objectDesc>
                             <supportDesc>
-                                <support>                             
+                                <support>
                                    <material ref="http://www.eagle-network.eu/voc/material/lod/2">თეთრი კირქვა</material>
                                    <objectType ref="http://www.eagle-network.eu/voc/objtyp/lod/416">კედელი</objectType>
-                                     <dimensions unit="cm">      
+                                     <dimensions unit="cm">
                                         <width>46</width>
                                          <height>44</height>
                                     </dimensions>
@@ -52,7 +52,7 @@
                                     </dimensions>
                                     </layout>
                                 </layoutDesc>
-                        </objectDesc>                        
+                        </objectDesc>
                         <handDesc>
                             <handNote>
                                 <rs type="execution">ამოღარული</rs> <rs type="script">ასომთავრული</rs> წარწერა. წარწერა შესრულებულია თანაბარი სიმაღლის ასოებით, მხოლოდ ერთგან, მესამე სტრიქონში, ვინი შეწიაღებულია ანში.
@@ -62,12 +62,12 @@
                         </handDesc>
                     </physDesc>
                     <history>
-                        
+
                            <origin>
                                 <origPlace>ჭყონდიდი</origPlace>
                                 <origDate>X AD</origDate>
                             </origin>
-                        
+
                         <provenance type="found" when="1937">
                             <placeName type="ancientFindspot" ref="http://pleiades.stoa.org/places/863760">ჭყონდიდი</placeName>
                             <!--  -->
@@ -75,13 +75,13 @@
                             <rs type="circumstances"></rs>
                             <rs type="context"/>
                         </provenance>
-                        
+
                         <provenance type="observed">
                             <placeName type="modernSpot">ჭყონდიდი</placeName>
                              <idno type="invNo"/>
                         </provenance>
-                        
-                    </history>                   
+
+                    </history>
                 </msDesc>
             </sourceDesc>
         </fileDesc><encodingDesc>
@@ -90,8 +90,8 @@
     </listPrefixDef>
 </encodingDesc>
     </teiHeader>
-    <!-- 
-      
+    <!--
+
     <facsimile>
         <surface>
             <graphic url="tskise_01.jpg">
@@ -100,50 +100,50 @@
             </graphic>
         </surface>
     </facsimile>
-    
+
     -->
     <text>
         <body>
-            <div type="edition" xml:lang="ka" xml:space="preserve">
-                
+            <div type="edition" xml:space="preserve" xml:lang="ka" ana="mtavruli">
+
                         <!--  [...]თხსევსქიმე
                         [...]პთ[-]ჲსძე
                         [..ს]ამარხავს
                         ჩემი჻
                         2. [...]ე ჭ[...]-->
-            
-        
-                 
+
+
+
                      <div type="textpart" n="1">
                          <ab>
                          <lb n="1"/><gap reason="lost" extent="unknown"/><orig n="unresolved">თხსევსქიმე</orig>
                          <lb n="2"/><gap reason="lost" extent="unknown"/><orig n="unresolved">პთ</orig><gap reason="lost" unit="character" quantity="1"></gap><orig n="unresolved">ჲსძე</orig>
                          <lb n="3"/><gap reason="lost" extent="unknown"/><w lemma="სამარხავ"><supplied reason="lost">ს</supplied>ამარხავს</w>
                          <lb n="4"/><w lemma="ჩემ">ჩემი</w>჻
-                         </ab>  
+                         </ab>
                      </div>
-                     
+
                      <div type="textpart" n="2">
                          <ab>
                          <lb n="5"/><gap reason="lost" extent="unknown"/><orig n="unresolved">ე</orig> <orig n="unresolved">ჭ</orig><gap reason="lost" extent="unknown"/>
                          </ab>
                      </div>
-                   
-             
-         
+
+
+
             </div>
-            
-                
+
+
             <div type="translation" xml:lang="ka">
                 <p/>
             </div>
-            
+
            <div type="apparatus" xml:space="preserve"/>
-            
+
             <div type="commentary">
                 <p/>
             </div>
-            
+
             <div type="bibliography">
                 <listBibl>
                      <bibl n="1">ვალერი სილოგავა, სამეგრელო-აფხაზეთის ქართული ეპიგრაფიკა <ptr target="bibliography.xml#b119"/>, <citedRange>49-51</citedRange></bibl>
@@ -152,6 +152,3 @@
         </body>
     </text>
 </TEI>
-
-
-

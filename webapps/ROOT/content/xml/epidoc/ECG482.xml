@@ -32,9 +32,9 @@
                     <physDesc>
                         <objectDesc>
                             <supportDesc>
-                                <support>                             
+                                <support>
                                    <material ref="https://www.eagle-network.eu/voc/material/lod/2">ადგილობრივი ქვა</material>
-                                   <objectType ref="https://www.eagle-network.eu/voc/objtyp/lod/1483">ფილა ფასადზე</objectType> 
+                                   <objectType ref="https://www.eagle-network.eu/voc/objtyp/lod/1483">ფილა ფასადზე</objectType>
                                         <dimensions unit="cm">
                                         <width>100</width>
                                         <height>71</height>
@@ -43,7 +43,7 @@
                                   </support>
                             </supportDesc>
                                 <layoutDesc>
-                                    <layout writtenLines="3"> 
+                                    <layout writtenLines="3">
                                         <dimensions/>
                                     </layout>
                                 </layoutDesc>
@@ -70,12 +70,12 @@
                                 <rs type="circumstances"></rs>
                                 <rs type="context"/>
                                 <rs type="monuList"/>
-                            </provenance> 
+                            </provenance>
                             <provenance type="observed">
                             <placeName type="modernSpot">დ. გულიას სახელობის აფხაზეთის ისტორიული მუზეუმი</placeName>
                             <idno></idno>
                         </provenance>
-                    </history>                   
+                    </history>
                 </msDesc>
             </sourceDesc>
         </fileDesc><encodingDesc>
@@ -95,13 +95,13 @@
     </facsimile>
     <text>
         <body>
-            
+
             <!-- ე(რისთავ)თა ერ(ის)თ(ა)ვი
                  მ(ა)ნ(და)ტ(ურ)თუხ(უ)ც(ე)სი დ(ა)დ(ია)ნ ოზბ(ეგ)ს
                  შ(ეუნდვე)ნ ღ(მერთმა)ნ
             -->
-            
-            <div type="edition" xml:lang="ka" xml:space="preserve">
+
+            <div type="edition" xml:lang="ka" ana="mtavruli" xml:space="preserve">
                 <ab>
                     <lb n="1"/><persName ref="attestedperson.xml#person17"><roleName><w lemma="ერისთავთ-ერისთავი"><expan><abbr>ე</abbr><ex>რისთავ</ex><abbr>თა</abbr></expan> <expan><abbr>ერ</abbr><ex>ის</ex><abbr>თ</abbr><ex>ა</ex><abbr>ვი</abbr></expan></w>
                     <lb n="2"/><w lemma="მანდატურთუხუცესი"><expan><abbr>მ</abbr><ex>ა</ex><abbr>ნ</abbr><ex>და</ex><abbr>ტ</abbr><ex>ურ</ex><abbr>თუხ</abbr><ex>უ</ex><abbr>ც</abbr><ex>ე</ex><abbr>სი</abbr></expan></w></roleName> <expan><abbr>დ</abbr><ex>ა</ex><abbr>დ</abbr><ex>ია</ex><abbr>ნ</abbr></expan> <expan><abbr>ოზბ</abbr><ex>ეგ</ex><abbr>ს</abbr></expan></persName>
@@ -112,7 +112,7 @@
             <div type="apparatus" xml:space="preserve"/>
             <div type="commentary"><p>ფილა გაპობილია ორ, თითქმის თანაბარ ნაწილად: ჩამომტვრეულია მისი ქვედა მარჯვენა კუთხე. როგორც ფილის ჩარჩოდან ჩანს, მას ქვემოდან სხვა ფილა ჰქონდა მიდგმული და შეიძლება ორივე ერთად საფლავის ქვა იყო. წარწერა შესრულებულია ადგილ-ადგილ ხვეული დამწერლობით.</p></div>
             <div type="bibliography" subtype="principalEdition">
-                <listBibl>           
+                <listBibl>
                     <bibl type="publication" subtype="principal" xml:lang="ka">
                       <author>
                           <persName>
@@ -127,7 +127,7 @@
                         <date></date>
                      </bibl>
                 </listBibl>
-            </div>         
+            </div>
          </body>
     </text>
 </TEI>

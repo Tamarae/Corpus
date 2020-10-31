@@ -30,14 +30,14 @@
                     <physDesc>
                         <objectDesc>
                             <supportDesc>
-                                <support>                             
+                                <support>
                                    <material ref="https://www.eagle-network.eu/voc/material/lod/2">ქვა</material>
-                                   <objectType ref="https://www.eagle-network.eu/voc/objtyp/lod/1483">მუქი ნაცრისფერი ქვა</objectType> 
-                                       
+                                   <objectType ref="https://www.eagle-network.eu/voc/objtyp/lod/1483">მუქი ნაცრისფერი ქვა</objectType>
+
                                   </support>
                             </supportDesc>
                                 <layoutDesc>
-                                    <layout writtenLines="1"> 
+                                    <layout writtenLines="1">
                                         <dimensions unit="cm">
                                             <width>5.6</width>
                                             <height>22</height>
@@ -46,9 +46,9 @@
                                 </layoutDesc>
                         </objectDesc>
                         <handDesc>
-                            <handNote script="asomtavruli">ასომთავრულით არის შესრულებული. 
+                            <handNote script="asomtavruli">ასომთავრულით არის შესრულებული.
                                   წარწერას განკვეთილობის ნიშნები არ ახლავს; წარწერაში ქარაგმა გამოყენებული არ არის.
-                                <width>5.6X3.5</width>   
+                                <width>5.6X3.5</width>
                                 <height>5X6</height>
                                  </handNote>
                         </handDesc>
@@ -60,15 +60,15 @@
                             </origin>
                             <provenance>
                                 <placeName type ="ancientFindspot">წარწერის ფრაგმენტი შალვა ერისთავთ-ერისთავისა, მეჭურჭლეთუხუცესისა, მანდატურთუხუცესისა</placeName>
-                                <rs type="context">წარწერის ფრაგმენტში მოხსენიებული შალვა უნდა გაიგივდეს შალვა ახალციხელთან. წარწერაში მხოლოდ შემორჩენილია სახელი შალვას გრაფემები, ისიც დაზიანებული სახით. აქედან გამომდინარე, წარწერის ქრონოლოგიას, 
+                                <rs type="context">წარწერის ფრაგმენტში მოხსენიებული შალვა უნდა გაიგივდეს შალვა ახალციხელთან. წარწერაში მხოლოდ შემორჩენილია სახელი შალვას გრაფემები, ისიც დაზიანებული სახით. აქედან გამომდინარე, წარწერის ქრონოლოგიას,
 								წინა წარწერის მსგავსად, ფართო ქრონოლოგიური ჩარჩოთი – XIII საუკუნის დასაწყისი-1226 წლების ახლო ხანების პერიოდით განვსაზღვრავთ..</rs>
                                 <rs type="monuList"/>
-                            </provenance> 
+                            </provenance>
                             <provenance type="observed">წარწერის ფრაგმენტი შალვა ერისთავთ-ერისთავისა, მეჭურჭლეთუხუცესისა, მანდატურთუხუცესისაგუჯარეთის ხეობა. ტიმოთესუბნის (კიმოთისმანის) წმიდა ბარბარეს ეკლესია
-                            <placeName type="modernSpot">წარწერის ფრაგმენტი შალვა ერისთავთ-ერისთავისა, მეჭურჭლეთუხუცესისა, მანდატურთუხუცესისა</placeName>            
+                            <placeName type="modernSpot">წარწერის ფრაგმენტი შალვა ერისთავთ-ერისთავისა, მეჭურჭლეთუხუცესისა, მანდატურთუხუცესისა</placeName>
                             <idno></idno>
                         </provenance>
-                    </history>                   
+                    </history>
                 </msDesc>
             </sourceDesc>
         </fileDesc><encodingDesc>
@@ -92,25 +92,25 @@
     </facsimile>
     <text>
         <body>
-           <div type="bibliography"> 
+           <div type="bibliography">
                <listBibl>
                 <bibl n="1">თამაზ გოგოლაძე,თორის ხეობის ეპიგრაფიკული კორპუსი<ptr target="bibliography.xml#b130"/>,<citedRange>91-92</citedRange>1987</bibl>
                 <bibl n="2">დევი ბერძენიშვილი, არქიტექტურულ-ისტორიული გზამკვლევი "გუჯარეთი"<ptr target="bibliography.xml#b130"/>,<citedRange>46</citedRange>1987</bibl>
 
 		   </listBibl>
            </div>
-            <div type="edition" xml:lang="ka" xml:space="preserve">     
+            <div type="edition" xml:space="preserve" xml:lang="ka" ana="mtavruli">     
                         <!--"[...] - შ{ა}ლვა[...]"-->
                 <ab>
                     <lb n="1"/>
-                    <w lemma="შალვა"><expan><abbr>შ</abbr><ex>ა</ex><abbr>ლვა</abbr></expan></w> 
+                    <w lemma="შალვა"><expan><abbr>შ</abbr><ex>ა</ex><abbr>ლვა</abbr></expan></w>
                 </ab>
             </div>
             <div type="translation" xml:lang="ka"/>
             <div type="apparatus" xml:space="preserve"/>
             <div type="commentary"><p>წარწერა დაზიანებულია, იკითხება მხოლოდ სახელი "შალვას" გრაფემები.</p>
             </div>
-        
+
          </body>
     </text>
 </TEI>

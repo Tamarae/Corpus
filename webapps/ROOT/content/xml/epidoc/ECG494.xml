@@ -32,13 +32,13 @@
                     <physDesc>
                         <objectDesc>
                             <supportDesc>
-                                <support>                             
+                                <support>
                                    <material>
                                        ქვა
                                    </material>
                                    <objectType>
                                        კედელი
-                                   </objectType> 
+                                   </objectType>
                                         <dimensions unit="cm">
                                         <width>20</width>
                                         <height>33</height>
@@ -47,7 +47,7 @@
                                   </support>
                             </supportDesc>
                                 <layoutDesc>
-                                    <layout writtenLines="2"> 
+                                    <layout writtenLines="2">
                                         <dimensions unit="cm">
                                             <width>15</width>
                                             <height>12,5</height>
@@ -57,8 +57,8 @@
                         </objectDesc>
                         <handDesc>
                             <handNote script="asomtavruli">წარერა შესრულებულია ასომთავრული შერეული ნუსხურით
-                                წარწერას განკვეთილობის ნიშნები არ ახლავს და ქარაგმის ნიშნად გამოყენებულია სწორი განივი ხაზი. 
-                                <width>1,5-3,5</width>   
+                                წარწერას განკვეთილობის ნიშნები არ ახლავს და ქარაგმის ნიშნად გამოყენებულია სწორი განივი ხაზი.
+                                <width>1,5-3,5</width>
                                 <height>3-5,5</height>
                                  </handNote>
                         </handDesc>
@@ -73,12 +73,12 @@
                                 <rs type="circumstances"></rs>
                                 <rs type="context"/>
                                 <rs type="monuList"/>
-                            </provenance> 
+                            </provenance>
                             <provenance type="observed">გუჯარეთის ხეობა. "წითელი ეკლესია"
-                            <placeName type="modernSpot">გუჯარეთის ხეობა. "წითელი ეკლესია"</placeName>            
+                            <placeName type="modernSpot">გუჯარეთის ხეობა. "წითელი ეკლესია"</placeName>
                             <idno></idno>
                         </provenance>
-                    </history>                   
+                    </history>
                 </msDesc>
             </sourceDesc>
         </fileDesc><encodingDesc>
@@ -107,10 +107,10 @@
                 <bibl n="1">თამაზ გოგოლაძე,თორის ხეობის ეპიგრაფიკული კორპუსი<ptr target="bibliography.xml#b130"/>,<citedRange>35 </citedRange>2019</bibl>
             </listBibl>
            </div>
-            <div type="edition" xml:lang="ka" xml:space="preserve">     
+            <div type="edition" xml:lang="ka" ana="mtavruli" xml:space="preserve">     
               <!--დ(ავით) გ(ა)ლ(ატო)|ზი (?) -->
                 <ab>
-                    <lb n="1"/><expan><name nymRef="დავით"><abbr>დ</abbr><ex>ავით</ex></name></expan> <roleName><expan><abbr>გ</abbr><ex>ა</ex><abbr>ლ</abbr><ex>ატო</ex> 
+                    <lb n="1"/><expan><name nymRef="დავით"><abbr>დ</abbr><ex>ავით</ex></name></expan> <roleName><expan><abbr>გ</abbr><ex>ა</ex><abbr>ლ</abbr><ex>ატო</ex>
                     <lb n="2" break="no"/><abbr>ზი</abbr></expan></roleName>
                 </ab>
             </div>
@@ -119,7 +119,7 @@
             <div type="commentary"><p>წარწერა დაზიანებული არ არის. წარწერის ტექსტი თავიდან ბოლომდე გარკვევით იკითხება.</p>
                 <p>წარწერის დათარიღების საფუძველი:წარწერაში ნუსხურიასოების შერევა გვაძლევს იმის საფუძველს, რომ მისი ქრონოლოგია X-XI საუკუნეებით განვსაზღვროთ.</p>
             </div>
-        
+
          </body>
     </text>
 </TEI>

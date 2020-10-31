@@ -26,9 +26,9 @@
                     <physDesc>
                         <objectDesc>
                             <supportDesc>
-                                <support>                             
+                                <support>
                                    <material ref="https://www.eagle-network.eu/voc/material/lod/2">ქვა</material>
-                                   <objectType  ref="https://www.eagle-network.eu/voc/objtyp/lod/1402.">ფილა</objectType> 
+                                   <objectType  ref="https://www.eagle-network.eu/voc/objtyp/lod/1402.">ფილა</objectType>
                                         <dimensions unit="cm">
                                         <width></width>
                                         <height></height>
@@ -37,7 +37,7 @@
                                   </support>
                             </supportDesc>
                                 <layoutDesc>
-                                    <layout writtenLines="1"> 
+                                    <layout writtenLines="1">
                                         <dimensions unit="cm">
                                             <width> 12</width>
                                             <height>8</height>
@@ -47,7 +47,7 @@
                         </objectDesc>
                         <handDesc>
                             <handNote>წარერა შესრულებულია <rs type="script">ნუსხური</rs> დამწერლობით. წარწერას განკვეთილობის ნიშანი არ ახლავს; წარწერის ქარაგმის ნიშნად გამოყენებულია სწორი განივი ხაზი.
-                                <width> 2,5-2,5</width>   
+                                <width> 2,5-2,5</width>
                                 <height> 1,5-6</height>
                                  </handNote>
                         </handDesc>
@@ -62,12 +62,12 @@
                                 <rs type="circumstances"></rs>
                                 <rs type="context"/>
                                 <rs type="monuList"/>
-                            </provenance> 
-                            <provenance type="observed">ბორჯომის ხეობა. ფოთოლეთის წმინდა გიორგის ეკლესია 
-                            <placeName type="modernSpot">ბორჯომის ხეობა. ფოთოლეთის წმინდა გიორგის ეკლესია</placeName>            
+                            </provenance>
+                            <provenance type="observed">ბორჯომის ხეობა. ფოთოლეთის წმინდა გიორგის ეკლესია
+                            <placeName type="modernSpot">ბორჯომის ხეობა. ფოთოლეთის წმინდა გიორგის ეკლესია</placeName>
                             <idno></idno>
                         </provenance>
-                    </history>                   
+                    </history>
                 </msDesc>
             </sourceDesc>
         </fileDesc><encodingDesc>
@@ -94,10 +94,10 @@
                 <bibl n="1">თამაზ გოგოლაძე,თორის ხეობის ეპიგრაფიკული კორპუსი<ptr target="bibliography.xml#b130"/>,<citedRange>60-61 </citedRange>2019</bibl>
             </listBibl>
            </div>
-            <div type="edition" xml:lang="ka" xml:space="preserve">     
+            <div type="edition"  xml:space="preserve" xml:lang="ka" ana="mtavruli">     
               <!--ქ(რისტ)ე, შ(ეიწყალ)ე | ბ{ა}ს{ი}ლ{ი} [...]-->
                 <ab>
-                    <lb n="1"/><w lemma="ქრისტე"><expan><abbr>ქ</abbr><ex>რისტ</ex><abbr>ე</abbr></expan></w> 
+                    <lb n="1"/><w lemma="ქრისტე"><expan><abbr>ქ</abbr><ex>რისტ</ex><abbr>ე</abbr></expan></w>
                                <w lemma="იწყალებს"> <expan><abbr>შ</abbr><ex>ეიწყალ</ex><abbr>ე</abbr></expan></w>
                     <lb n="2"/> <expan><name nymRef="ბასილი"><abbr>ბ</abbr><ex>ა</ex><abbr>ს</abbr><ex>ი</ex><abbr>ლ</abbr><ex>ი</ex></name></expan>
                 </ab>
@@ -107,7 +107,7 @@
             <div type="commentary"><p>წარწერა დაზიანებული არ არის. წარწერის ტექსტის ნაწილი თავიდან ბოლომდე გარკვევით იკითხება</p>
                  <p>წარწერის დათარიღების საფუძველი:წარწერა შესრულებულია სწორი ეპიგრაფიკული ნუსხურით. აქედან გამომდინარე, წარწერის ქრონოლოლოგიას XI საუკუნით განვსაზღვრავთ   </p>
             </div>
-        
+
          </body>
     </text>
 </TEI>

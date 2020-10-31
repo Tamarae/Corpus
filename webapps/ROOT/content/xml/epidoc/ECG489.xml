@@ -10,7 +10,7 @@
             </titleStmt>
             <publicationStmt>
                 <authority>ილიას სახელმწიფო უნივერსიტეტი</authority>
-                 <idno type="filename">ECG489</idno> 
+                 <idno type="filename">ECG489</idno>
                 <availability>
                     <licence target="http://creativecommons.org/licenses/by-nc-sa/3.0/">
                        დოკუმენტი ვრცელდება Creative Commons Attribution-NonCommercial-ShareAlike 3.0 ლიცენზიით.
@@ -18,8 +18,8 @@
                 </availability>
             </publicationStmt>
             <sourceDesc>
-                <msDesc> 
-                    <msIdentifier> 
+                <msDesc>
+                    <msIdentifier>
                         <collection>წებელდა</collection> <!-- კოლექციის საერთო სახელებზე ვართ შესათანხმებელი-->
                     </msIdentifier>
                     <msContents>
@@ -30,7 +30,7 @@
                     <physDesc>
                         <objectDesc>
                             <supportDesc>
-                                <support>                             
+                                <support>
                                    <material ref="https://www.eagle-network.eu/voc/material/lod/115">ვერცხლი</material>
                                     <objectType>ხატი</objectType> <!-- არ იძებნება -->
                                         <dimensions unit="cm">
@@ -41,7 +41,7 @@
                                   </support>
                             </supportDesc>
                                 <layoutDesc>
-                                    <layout wtittenLines="2"> 
+                                    <layout wtittenLines="2">
                                         <dimensions unit="cm">
                                             <width/>
                                             <height/>
@@ -50,7 +50,7 @@
                                 </layoutDesc>
                         </objectDesc>
                         <handDesc>
-                            <handNote script="asomtvaruli" style="embossed">წარწერა ასომთავრული ანბანით არის შესრულებული რელიეფურად. განკვეთილობის ნიშანი: რელიეფური ორწერტილი ყოველი სიტყვის შემდეგ.</handNote> 
+                            <handNote script="asomtvaruli" style="embossed">წარწერა ასომთავრული ანბანით არის შესრულებული რელიეფურად. განკვეთილობის ნიშანი: რელიეფური ორწერტილი ყოველი სიტყვის შემდეგ.</handNote>
                             <rs type="execution" key="arrow">კიდურწაისრული</rs>
                             <height unit="cm">0,6-0,7</height>
                        </handDesc>
@@ -60,7 +60,7 @@
                         </physDesc>
                     <history>
                             <origin>
-                                <origPlace>წებელდა</origPlace> 
+                                <origPlace>წებელდა</origPlace>
                                 <origDate>XI AD</origDate>
                             </origin>
                             <provenance>
@@ -68,12 +68,12 @@
                                 <rs type="circumstances">ხატის ფრაგმენტები ნაპოვნია 1886 წელს წებელდის ახლოს აღმოჩენილ დიდ ეკლესიაში პრ. უვაროვას მიერ </rs> <!-- დიდი ეკლესიაო პირდაპირ ასე ეწერა და გადმოვიტანე მეც. )) -->
                                 <rs type="context"/>
                                 <rs type="monuList"/>
-                            </provenance> 
+                            </provenance>
                             <provenance type="observed">
                             <placeName type="modernSpot">ხატის ამჟამინდელი ადგილსამყოფელი უცნობია</placeName>
-                            <idno></idno> 
+                            <idno></idno>
                         </provenance>
-                    </history>                   
+                    </history>
                 </msDesc>
             </sourceDesc>
         </fileDesc><encodingDesc>
@@ -85,21 +85,21 @@
     </teiHeader>
     <text>
         <body>
-            <div type="edition" xml:lang="ka" xml:space="preserve">
+            <div type="edition" xml:lang="ka" ana="mtavruli" xml:space="preserve">
                 <ab>
                     <!-- წ(მიდა)ო ეკ(ა)ტერინე მფარვ[ელ] მე|ქმ(ე)ნ სულითა მარიამს, ამენ-->
                     <lb n="1"/><w lemma="წმიდა"><expan><abbr>წ</abbr><ex>მიდა</ex><abbr>ო</abbr></expan></w> <persName><expan><abbr>ეკ</abbr><ex>ა</ex><abbr>ტერინე</abbr></expan></persName> <w lemma="მფარველი">მფარვ<supplied reason="lost">ელ</supplied></w> <w lemma="ექმნა"><expan><abbr>მე
                     <lb n="2" break="no"/>ქმ</abbr><ex>ე</ex><abbr>ნ</abbr></expan></w> <w lemma="სული">სულითა</w> <persName>მარიამს</persName> <w lemma="ამინ">ამენ</w>
                 </ab>
-            </div> 
+            </div>
             <div type="translation" xml:lang="ka">წმინდაო ეკატერინე, დამიფარე სულითა, ამინ</div>
             <div type="apparatus" xml:space="preserve"> </div>
             <div type="commentary">ხატის ამჟამინდელი ადგილსამყოფელი უცნობია, მაგრამ პრ. უპოვარას გამოქვეყნებული აქვს მისი კარგი ხარისხის ფოტო, რომლის მიხედვითაც შემოგვრჩა მისი აღწერილობა. ხატის ცენტრალურ ნაწილში წარმოდგენილია წმ. ეკატერინეს გამოსახულება, მთელი ტანით. ხატი დაზიანებულია - ცენტრალური ნაწილის მთელს სიგანეზე ჭედურობა მოგლეჯილია.</div>
-            
-            
-            
+
+
+
             <div type="bibliography" subtype="principalEdition">
-                <listBibl>           
+                <listBibl>
                     <bibl type="publication" subtype="principal" xml:lang="ka">
                       <author>
                           <persName>
@@ -114,7 +114,7 @@
                         <date></date>
                      </bibl>
                 </listBibl>
-            </div>         
+            </div>
          </body>
     </text>
 </TEI>

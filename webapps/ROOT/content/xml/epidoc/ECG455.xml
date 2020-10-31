@@ -94,7 +94,7 @@
     <text>
         <body>
             <!-- [წ(მიდა)ო] გ(იორგ)ი [ილო]რის(ა)ო [შ(ეიწყალ)ე] გ(იორგ)ი გურგე[ნ]-ის ძე -->
-            <div type="edition" xml:lang="ka" xml:space="preserve">
+              <div type="edition" xml:lang="ka" ana="mtavruli" xml:space="preserve">
                 <ab>
                     <lb n="1"/><w lemma="წმიდა"><supplied reason="lost" precision="medium"><expan><abbr>წ</abbr><ex>მიდა</ex><abbr>ო</abbr></expan></supplied></w> <persName type="dividity"><expan><abbr>გ</abbr><ex>იორგ</ex><abbr>ი</abbr></expan></persName>
                     <lb n="2"/><w lemma="ილორი"><expan><supplied reason="lost" precision="medium"><abbr>ილო</abbr></supplied><abbr>რის</abbr><ex>ა</ex><abbr>ო</abbr></expan></w> <w lemma="იწყალებს"><supplied reason="undefined" precision="medium"><expan><abbr>შ</abbr><ex>ეიწყალ</ex><abbr>ე</abbr></expan></supplied></w>  

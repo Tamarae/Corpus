@@ -85,7 +85,7 @@
     </teiHeader>
     <text>
         <body>
-            <div type="edition" xml:lang="ka" xml:space="preserve">
+              <div type="edition" xml:lang="ka" ana="mtavruli" xml:space="preserve">
                 <ab>
                     <!-- აღმაშე(ნე)ბელი პალატისა ამის ე(პისკოპოსი), ბედიელ მიტრაპოლიტი ანტონი [ჟუანისძე, შ(ეუნდო)ს ღ(მერთმა)ნ, ა(მე)ნ]-->
                     <lb n="1"/> <w lemma="აღმაშენებელი"><expan><abbr>აღმაშე</abbr><ex>ნე</ex><abbr>ბელი</abbr></expan></w> <w lemma="პალატი">პალატისა</w> <e lemma="ამ">ამის</e> <roleName><expan><abbr>ე</abbr><ex>პისკოპოსი</ex></expan></roleName>

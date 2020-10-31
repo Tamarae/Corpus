@@ -26,9 +26,9 @@
                     <physDesc>
                         <objectDesc>
                             <supportDesc>
-                                <support>                             
+                                <support>
                                    <material>ქვა</material>
-                                   <objectType> აღსავლის კარის სამხრეთი წირთხლის გასწვრივ,მარჯვენა კანკელზე გამოქნადაკებული ფრინველის ქვემოთ</objectType> 
+                                   <objectType> აღსავლის კარის სამხრეთი წირთხლის გასწვრივ,მარჯვენა კანკელზე გამოქნადაკებული ფრინველის ქვემოთ</objectType>
                                         <dimensions unit="cm">
                                         <width></width>
                                         <height></height>
@@ -37,7 +37,7 @@
                                   </support>
                             </supportDesc>
                                 <layoutDesc>
-                                    <layout writtenLines="1"> 
+                                    <layout writtenLines="1">
                                         <dimensions unit="cm">
                                             <width> 2,5</width>
                                             <height>5,2</height>
@@ -47,7 +47,7 @@
                         </objectDesc>
                         <handDesc>
                             <handNote script="asomtavruli">წარერა შესრულებულია ნუსხურით, ქარაგმისა და განკვეთილობის ნიშნები არ აქვს.
-                                <width>2,5-0,3</width>   
+                                <width>2,5-0,3</width>
                                 <height>0,1-0,2</height>
                                  </handNote>
                         </handDesc>
@@ -62,12 +62,12 @@
                                 <rs type="circumstances"></rs>
                                 <rs type="context"/>
                                 <rs type="monuList"/>
-                            </provenance> 
+                            </provenance>
                             <provenance type="observed">ფოთოლეთის ეკლესია, სავედრებელი წარწერის ფრაგმენტი
-                            <placeName type="modernSpot">ფოთოლეთის ეკლესია, სავედრებელი წარწერის ფრაგმენტი</placeName>            
+                            <placeName type="modernSpot">ფოთოლეთის ეკლესია, სავედრებელი წარწერის ფრაგმენტი</placeName>
                             <idno></idno>
                         </provenance>
-                    </history>                   
+                    </history>
                 </msDesc>
             </sourceDesc>
         </fileDesc><encodingDesc>
@@ -94,10 +94,10 @@
                 <bibl n="1">გიორგი გაგოშიძე<ptr target="bibliography.xml#b130"/>,<citedRange>ხატი მოვიდა</citedRange>2020</bibl>
             </listBibl>
            </div>
-            <div type="edition" xml:lang="ka" xml:space="preserve">     
+            <div type="edition" xml:space="preserve" xml:lang="ka" ana="mtavruli">  
               <!--წ(მიდა)ო ხ(ატო ღ(მრ)თ(ა)ებისაო-->
                 <ab>
-                   
+
                 </ab>
             </div>
             <div type="translation" xml:lang="ka"/>
@@ -105,7 +105,7 @@
             <div type="commentary"><p>წარწერა დაზიანებულია. ქვის ამოტეხვის გამო წარწერის შუა ნაწილში ამოკაწრული გრაფემები აღარ იკითხება</p>
                  <p>წარწერის დათარიღების საფუძველი:წარწერა შესრულებულია სწორი ეპიგრაფიკული ნუსხურით. აქედან გამომდინარე, მას XI საუკუნით ვათარიღებთ.   </p>
             </div>
-        
+
          </body>
     </text>
 </TEI>

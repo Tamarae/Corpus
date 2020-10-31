@@ -104,7 +104,7 @@
            </listBibl>
               </div>
             
-            <div type="edition" xml:lang="ka" xml:space="preserve">
+              <div type="edition" xml:lang="ka" ana="mtavruli" xml:space="preserve">
                 
                         <!-- ქკნსა 
                             ხყჟთ
@@ -188,7 +188,7 @@
                                 <w lemma="ორკერძო"><expan><abbr>ორკ</abbr><ex>ე</ex><abbr>რძ</abbr><ex>ო</ex><abbr>თ</abbr><ex>ა</ex><abbr>ვე</abbr></expan></w> 
                                 <w lemma="სატანჯველ"><expan><abbr>ს</abbr><ex>ა</ex><abbr>ტ</abbr><ex>ა</ex><abbr>ნჯ
                     <lb n="11" break="no"/>ვ</abbr><ex>ე</ex><abbr>ლთ</abbr><ex>ა</ex><abbr>გ</abbr><ex>ა</ex><abbr>ნ</abbr></expan></w> 
-                                <w lemma="განრინება"><expan><abbr>გ</abbr><ex>ა</ex><abbr>ნგ</abbr><ex>უა</ex><abbr>რ</abbr><ex>ი</ex><abbr>ნ</abbr><ex>ე</ex><abbr>ნ</abbr></expan></w> 
+                                <w lemma="განრინებს"><expan><abbr>გ</abbr><ex>ა</ex><abbr>ნგ</abbr><ex>უა</ex><abbr>რ</abbr><ex>ი</ex><abbr>ნ</abbr><ex>ე</ex><abbr>ნ</abbr></expan></w> 
                                 და 
                                 <w lemma="ნუ">ნუ</w> 
                                 <w lemma="ქვა">ქვათა</w> 

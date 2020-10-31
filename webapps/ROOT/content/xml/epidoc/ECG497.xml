@@ -32,9 +32,9 @@
                     <physDesc>
                         <objectDesc>
                             <supportDesc>
-                                <support>                             
+                                <support>
                                    <material ref="https://www.eagle-network.eu/voc/material/lod/2">ქვა</material>
-                                   <objectType ref="https://www.eagle-network.eu/voc/objtyp/lod/1483">ფასადი</objectType> 
+                                   <objectType ref="https://www.eagle-network.eu/voc/objtyp/lod/1483">ფასადი</objectType>
                                         <dimensions unit="cm">
                                         <width></width>
                                         <height></height>
@@ -43,7 +43,7 @@
                                   </support>
                             </supportDesc>
                                 <layoutDesc>
-                                    <layout writtenLines="1"> 
+                                    <layout writtenLines="1">
                                         <dimensions unit="cm">
                                             <width></width>
                                             <height></height>
@@ -52,9 +52,9 @@
                                 </layoutDesc>
                         </objectDesc>
                         <handDesc>
-                            <handNote script="asomtavruli">ასომთავრულით არის შესრულებული. 
-                                წარწერაში ქარაგმისა და განკვეთილობის ნიშანი არ იკითხება.  
-                                <width></width>   
+                            <handNote script="asomtavruli">ასომთავრულით არის შესრულებული.
+                                წარწერაში ქარაგმისა და განკვეთილობის ნიშანი არ იკითხება.
+                                <width></width>
                                 <height></height>
                                  </handNote>
                         </handDesc>
@@ -69,12 +69,12 @@
                                 <rs type="circumstances">დევი ბერძენიშვილს შეუმჩნევია აღმოსავლეთ ფასადის თავსართები, რომელიც მის დროს ძირში იყო ჩამოვარდნილი.</rs>
                                 <rs type="context">აღმოსავლეთ ფასადის ეს წარწერა დევი ბერძენიშვილმა გადმოწერა</rs>
                                 <rs type="monuList"/>
-                            </provenance> 
+                            </provenance>
                             <provenance type="observed">გუჯარეთის ხეობა. ტყემლოვანის ეკლესია.
-                            <placeName type="modernSpot">გუჯარეთის ხეობა. ტყემლოვანის ეკლესია</placeName>            
+                            <placeName type="modernSpot">გუჯარეთის ხეობა. ტყემლოვანის ეკლესია</placeName>
                             <idno></idno>
                         </provenance>
-                    </history>                   
+                    </history>
                 </msDesc>
             </sourceDesc>
         </fileDesc><encodingDesc>
@@ -105,7 +105,7 @@
                 <bibl n="3">თამაზ გოგოლაძე,ბორჯომის ხეობის ისტორიული და ხუროთმოძღვრული ძეგლები (გზამკვლევი)<ptr target="bibliography.xml#b130"/>,<citedRange>96 </citedRange>2014</bibl>
             </listBibl>
            </div>
-            <div type="edition" xml:lang="ka" xml:space="preserve">     
+            <div type="edition" xml:lang="ka" ana="mtavruli" xml:space="preserve">     
                         <!--ეკ(ლესიაჲ) ... წმიდაჲ-->
                 <ab>
                     <lb n="1"/><w lemma="ეკლესია"><expan><abbr>ეკ</abbr><ex>ლესიაჲ</ex></expan></w> <w lemma="წმიდა">წმიდაჲ</w>
@@ -116,7 +116,7 @@
             <div type="commentary"><p>ამჟამად წარწერა ტაძრის ინტერიერში აღარ არის</p>
                  <p>დევი ბერძენიშვილი წარწერის თარიღს X-XI საუკუნეებით განვსაზღვრავთ. ხოლო თამაზ გოგოლაძეს წარწერის თარიღი მოცემული არ აქვს.</p>
             </div>
-        
+
          </body>
     </text>
 </TEI>

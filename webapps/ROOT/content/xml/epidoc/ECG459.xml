@@ -111,7 +111,7 @@
             </div> 
             
             <!--  ქ(რისტ)ე, შ(ე)Ωწყ(ა)ლე მ(ი)ქ(აე)ლ, ა(მე)ნ. -->
-            <div type="edition" xml:lang="ka" xml:space="preserve">
+              <div type="edition" xml:lang="ka" ana="mtavruli" xml:space="preserve">
                 <ab>
                     <lb n="1"/><w lemma="ქრისტე"><expan><abbr>ქ</abbr><ex>რისტ</ex><abbr>ე</abbr></expan></w> <w lemma="იწყალებს"><expan><abbr>შ</abbr><ex>ე</ex><abbr>წყ</abbr><ex>ა</ex><abbr>ლე</abbr></expan></w> <persName><name nymRef="მიქაელ"><expan><abbr>მ</abbr><ex>ი</ex><abbr>ქ</abbr><ex>აე</ex><abbr>ლ</abbr></expan></name></persName> <w lemma="ამინ"><expan><abbr>ა</abbr><ex>მე</ex><abbr>ნ</abbr></expan></w>
                     <lb n="2"/>

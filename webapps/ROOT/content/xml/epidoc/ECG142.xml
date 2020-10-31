@@ -109,7 +109,7 @@
         --> 
         <body>
 
-            <div type="edition" xml:lang="ka" xml:space="preserve">
+              <div type="edition" xml:lang="ka" ana="mtavruli" xml:space="preserve">
 
             <ab>
                 <lb n="1"/><w lemma="დიდ">დიდსა</w> <w lemma="შაფათ"><expan><abbr>შ</abbr><ex>ა</ex><abbr>ფ</abbr><ex>ა</ex><abbr>თს</abbr></expan></w>

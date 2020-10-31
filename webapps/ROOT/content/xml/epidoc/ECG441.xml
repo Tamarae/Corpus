@@ -100,7 +100,7 @@
             <div type="bibliography"> 
             </div>
             
-            <div type="edition" xml:lang="ka" xml:space="preserve">
+              <div type="edition" xml:lang="ka" ana="mtavruli" xml:space="preserve">
                 <ab> 
                     <!-- ... [ა(მე)ნ] მ(ი)ქ(აე)ლ ქ(რისტ)ე შ(ე)ჲწყ(ა)ლე-->
                     <lb n="1"/> <gap reason="ellipsis"/> <supplied reason="lost"><w lemma="ამენ"><expan><abbr>ა</abbr><ex>მე</ex>ნ</expan></w></supplied> <persName><expan><abbr>მ</abbr><ex>ი</ex><abbr>ქ</abbr><ex>აე</ex><abbr>ლ</abbr></expan></persName>

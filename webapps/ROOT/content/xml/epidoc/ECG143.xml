@@ -46,7 +46,7 @@
                         </objectDesc>
                         <handDesc>
                             <handNote script="asomtavruli">
-                                ამოკვეთილი ასომთვარული წარწერა. განკვეთილობის ნიშნები არ აქვს; ქარაგმის ნიშანი: განივი, სწორი ხაზი.
+                                <rs type="execution">ამოკვეთილი</rs> <rs type="script">ასომთავრული</rs> წარწერა. განკვეთილობის ნიშნები არ აქვს; ქარაგმის ნიშანი: განივი, სწორი ხაზი.
                                 <dimensions unit="cm">
                                     <height>4-5</height>
                                 </dimensions> 
@@ -88,7 +88,7 @@
         --> 
         <body>
 
-            <div type="edition" xml:lang="ka" xml:space="preserve">
+              <div type="edition" xml:lang="ka" ana="mtavruli" xml:space="preserve">
 
             <ab>
                 <lb n="1"/> &#10013; <w lemma="სახელ"><expan><abbr>ს</abbr><ex>ა</ex><abbr>ხ</abbr><ex>ე</ex><abbr>ლითა</abbr></expan></w> 

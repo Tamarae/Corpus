@@ -26,9 +26,9 @@
                     <physDesc>
                         <objectDesc>
                             <supportDesc>
-                                <support>                             
+                                <support>
                                    <material>ქვა</material>
-                                   <objectType> თეთრი საღებავით შეთეთრებული სატრაპეზო ქვა</objectType> 
+                                   <objectType> თეთრი საღებავით შეთეთრებული სატრაპეზო ქვა</objectType>
                                         <dimensions unit="cm">
                                         <width></width>
                                         <height></height>
@@ -37,7 +37,7 @@
                                   </support>
                             </supportDesc>
                                 <layoutDesc>
-                                    <layout writtenLines="1"> 
+                                    <layout writtenLines="1">
                                         <dimensions unit="cm">
                                             <width> 5,5-4,5</width>
                                             <height>3,5-2,5</height>
@@ -47,7 +47,7 @@
                         </objectDesc>
                         <handDesc>
                             <handNote script="asomtavruli">წარერა შესრულებულია ნუსხურით, განკვეთილობის ნიშნები არ აქვს,ქარაგმად გამოყენებულია მოკლე განივი ხაზი.
-                                <width>3</width>   
+                                <width>3</width>
                                 <height>1,8</height>
                                  </handNote>
                         </handDesc>
@@ -62,12 +62,12 @@
                                 <rs type="circumstances"></rs>
                                 <rs type="context"/>
                                 <rs type="monuList"/>
-                            </provenance> 
+                            </provenance>
                             <provenance type="observed">გუჯარეთის ხეობა, თელოვანის წმინდა ელიას ეკლესია, წარწერა კჳრიკესი
-                            <placeName type="modernSpot">გუჯარეთის ხეობა, თელოვანის წმინდა ელიას ეკლესია, წარწერა კჳრიკესი</placeName>            
+                            <placeName type="modernSpot">გუჯარეთის ხეობა, თელოვანის წმინდა ელიას ეკლესია, წარწერა კჳრიკესი</placeName>
                             <idno></idno>
                         </provenance>
-                    </history>                   
+                    </history>
                 </msDesc>
             </sourceDesc>
         </fileDesc><encodingDesc>
@@ -92,14 +92,14 @@
            <div type="bibliography">
                <listBibl>
                 <bibl n="1">წარწერა გამოცემული არ არის<ptr target="bibliography.xml#b130"/><citedRange></citedRange>2020</bibl>
-                 
+
             </listBibl>
            </div>
-            <div type="edition" xml:lang="ka" xml:space="preserve">     
+            <div type="edition" xml:space="preserve" xml:lang="ka" ana="mtavruli">     
               <!--კ (ჳრიკ)ე-->
                 <ab>
-                    <lb n="1"/><w lemma="კჳრიკე"><expan><abbr>კ</abbr><ex>ჳრიკ</ex><abbr>ე</abbr></expan></w> 
-                              
+                    <lb n="1"/><w lemma="კჳრიკე"><expan><abbr>კ</abbr><ex>ჳრიკ</ex><abbr>ე</abbr></expan></w>
+
                 </ab>
             </div>
             <div type="translation" xml:lang="ka"/>
@@ -107,7 +107,7 @@
             <div type="commentary"><p>წარწერა დაზიანებული არ არის, თავიდან ბოლომდე გარკვევით იკითხება, თუმცა სატრაპეზო ქვა გადაღებილია თეთრი ფერის საღებავით. მიუხედავად ამისა, წარწერა გარკვევით იკითხება.</p>
                  <p>წარწერის დათარიღების საფუძველი:წარწერა შესრულებულია ნუსხური დამწერლობით. წარწერის გრაფემების მოხაზულობიდან გამომდინარე, მას ფართო ქრონოლოგიური ჩარჩოთი X-XI საუკუნეებით ვათარიღებთ.  </p>
             </div>
-        
+
          </body>
     </text>
 </TEI>
