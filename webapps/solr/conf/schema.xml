@@ -184,6 +184,31 @@
    <field name="origin_date_evidence" required="false" indexed="true"
           multiValued="true" stored="true" type="string" />
    
+   <field name="index_attested_form" stored="true" indexed="true"
+     multiValued="false" required="false" type="string" />
+   <field name="index_real_attested_form" stored="true" indexed="true"
+     multiValued="false" required="false" type="string" />
+   <field name="index_institution_role" stored="true" indexed="true"
+     multiValued="false" required="false" type="string" />
+   <field name="index_institution_subtype" stored="true" indexed="true"
+     multiValued="false" required="false" type="string" />
+   <field name="index_epigraphic_context" stored="true" indexed="true"
+     multiValued="false" required="false" type="string" />
+   <field name="index_related_place" stored="true" indexed="true"
+     multiValued="false" required="false" type="string" />
+   <field name="index_related_period" stored="true" indexed="true"
+     multiValued="false" required="false" type="string" />
+   <field name="index_ethnic" stored="true" indexed="true"
+     multiValued="false" required="false" type="string" />
+   <field name="index_patronymic" stored="true" indexed="true"
+     multiValued="false" required="false" type="string" />
+   <field name="index_person_type" stored="true" indexed="true"
+     multiValued="false" required="false" type="string" />
+   
+   <!-- პირები -->
+   <field name="person_name" stored="true" indexed="true"
+     multiValued="true" required="false" type="string" />
+
    <!-- მულტილინგვური -->
    
    <field indexed="true" name="inscription_language" stored="true" required="false" type="string" multiValued="true"/>

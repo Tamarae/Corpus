@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="http://www.stoa.org/epidoc/schema/8.23/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<?xml-model href="http://www.stoa.org/epidoc/schema/8.23/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:space="preserve">
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
     <teiHeader>
         <fileDesc>
             <titleStmt>
@@ -132,11 +131,12 @@
                 </msDesc>
             </sourceDesc>
         </fileDesc>
-        <encodingDesc>
+        <!--    <encodingDesc>
+         
           <listPrefixDef>
         <prefixDef matchPattern="(.+)" replacementPattern="../authority/bibliography.xml#$1" ident="bib"/>
-        </listPrefixDef>
-        </encodingDesc>
+        </listPrefixDef> 
+        </encodingDesc>-->
 
 
 
@@ -180,7 +180,7 @@
                  <ab>
                      <lb n="1"/>Α<g type="chi-rho"/>Ω
                      <lb n="2"/><w lemma="ἐγώ">ἐγὼ</w> 
-                        <name nymRef="Τικᾶς" ref="prosopography.xml#tikas">Τικᾶς</name> 
+                        <persName nymRef="Τικᾶς" ref="prosopography.xml#tikas">Τικᾶς</persName> 
                      καὶ 
                      <roleName nymRef="ἡσυχαστής"><w lemma="ἡσυχαστής">ἡσυ<supplied reason="lost">χαστὴς</supplied></w></roleName>
                      <lb n="3"/><roleName nymRef="ἀββᾶ"><w lemma="ἀββᾶ"><supplied reason="lost">ἀββ</supplied>ᾶ</w></roleName> <w lemma="ἐμός">μου</w> 

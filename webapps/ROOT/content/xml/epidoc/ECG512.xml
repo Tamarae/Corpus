@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="http://www.stoa.org/epidoc/schema/8.23/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<?xml-model href="http://www.stoa.org/epidoc/schema/8.23/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:space="preserve" xml:lang="ka">
+<?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:space="preserve">
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>სავედრებელი წარწერა დამიანე ბედიელისა </title>
+                <title>სავედრებელი წარწერა დამიანე ბედიელისა</title>
             </titleStmt>
             <publicationStmt>
                 <authority>ილიას სახელმწიფო უნივერსიტეტი</authority>
@@ -72,9 +72,7 @@
                 </msDesc>
             </sourceDesc>
         </fileDesc><encodingDesc>
-    <listPrefixDef>
-        <prefixDef matchPattern="(.+)" replacementPattern="../authority/bibliography.xml#$1" ident="bib"/>
-    </listPrefixDef>
+
 </encodingDesc>
         <revisionDesc>
             <change when="2020-01-11" who="Qobuloia">წარწერის სრული კოდირება, გარე ანოტირება, პირთა სახელების, ლემების მითითება, ბიბლიოგრაფია.</change>
@@ -102,8 +100,8 @@
                     <lb n="1"/>  <w lemma="ხატ">ხატო</w>
                                  <w lemma="ღმრთაებ"><expan><abbr>ღ</abbr><ex>მრ</ex><abbr>თ</abbr><ex>ა</ex><abbr>ებისაო</abbr></expan></w>
                     <lb n="2"/>  <w lemma="იწყალებს" ><expan><abbr>შ</abbr><ex>ეიწყალ</ex><abbr>ე</abbr></expan></w>
-                                 <name nymRef="დამიანე"><expan><abbr>დ</abbr><ex>ა</ex><abbr>მ</abbr><ex>ია</ex><abbr>ნე</abbr></expan></name>
-                                 <w lemma="ბედ"><expan><abbr>ბ</abbr><ex>ე</ex><abbr>დ</abbr><ex>ი</ex><abbr>ელი</abbr></expan></w>
+                                 <persName key="დამიანე ბედიელი"><name nymRef="დამიანე"><expan><abbr>დ</abbr><ex>ა</ex><abbr>მ</abbr><ex>ია</ex><abbr>ნე</abbr></expan></name>
+                                 <roleName nymRef="ბედიელი"><expan><abbr>ბ</abbr><ex>ე</ex><abbr>დ</abbr><ex>ი</ex><abbr>ელი</abbr></expan></roleName></persName>
                 </ab>
             </div>
             <div type="translation" xml:lang="ka"/>

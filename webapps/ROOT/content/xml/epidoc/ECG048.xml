@@ -114,7 +114,7 @@
                 <ab>
                    <lb n="1"/><gap reason="lost" extent="unknown" unit="character"></gap>
                     <expan><abbr>მ</abbr><ex>ორბე</ex><abbr>დ</abbr><ex>ა</ex><abbr>ჲ</abbr></expan>
-                    <gap reason="lost" extent="unknown" unit="character"></gap>
+                    <!--  <gap reason="lost" extent="unknown" unit="character"></gap>-->
                  </ab>
             </div>
                 

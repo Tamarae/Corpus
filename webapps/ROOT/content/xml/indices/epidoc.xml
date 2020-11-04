@@ -204,15 +204,11 @@
             </item>
             
             <item>
-              <i18n:text i18n:key="floruit">Floruit</i18n:text>
+              <i18n:text i18n:key="placename">Placename</i18n:text>
             </item>
             
             <item>
-              <i18n:text i18n:key="occupation">Occupation</i18n:text>
-            </item>
-            
-            <item>
-              <i18n:text i18n:key="relation">Relation</i18n:text>
+              <i18n:text i18n:key="status">Status</i18n:text>
             </item>
             
             <item>
