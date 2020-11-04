@@ -94,6 +94,19 @@
     
     <text>
         <body>
+            
+                        <div type="bibliography">
+                <listBibl>           
+                    <bibl n="1">A Georgian Monastery from the Byzantine Period at Khirbat Umm Leisun, Jerusalem, <ptr target="bibliography.xml#b120"/> <citedRange>145–180</citedRange></bibl>
+                    <bibl n="2"></bibl>
+                </listBibl>
+              </div>            <div type="bibliography">
+                <listBibl>           
+                    <bibl n="1">A Georgian Monastery from the Byzantine Period at Khirbat Umm Leisun, Jerusalem, <ptr target="bibliography.xml#b120"/> <citedRange>145–180</citedRange></bibl>
+                    <bibl n="2"></bibl>
+                </listBibl>
+              </div>
+            
               <div type="edition" xml:lang="ka" xml:space="preserve" ana="mtavruli">
                         <!-- 
                         ესესამარხოჲ
@@ -125,12 +138,7 @@
                 <p>the earliest known example for an ethnonym ႵႠႰႧႥႤႪႨ (kartveli i.e. Georgian) on any archaeological artifact, both in the Holy Land and in Georgia.</p>
             </div>
                    
-            <div type="bibliography">
-                <listBibl>           
-                    <bibl n="1">A Georgian Monastery from the Byzantine Period at Khirbat Umm Leisun, Jerusalem, <ptr target="bibliography.xml#b120"/> <citedRange>145–180</citedRange></bibl>
-                    <bibl n="2"></bibl>
-                </listBibl>
-              </div>
+
             
          </body>
     </text>
