@@ -25,7 +25,7 @@
   <text>
     <front>
       <div>
-        <!-- css research თეგებს, რომ ვამატებ ყველაფერს პარსავს ჰმ?-->
+        <!-- css research თეგებს რომ ვამატებ ყველაფერს პარსავს ჰმ?-->
         <p>
           <i18n:text i18n:key="indices_desc">
           These indices are based on those included in the ECG project.

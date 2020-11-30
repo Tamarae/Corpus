@@ -5,8 +5,8 @@
 
   <menu label="Inscriptions" match="local-epidoc-index-display" i18n:key="menu-inscriptions">
     <item label="Georgian" match="local-epidoc-index-display-lang" params="ka" i18n:key="menu-inscriptions_georgian"/>
-    <item label="Greek" match="local-epidoc-index-display-lang" params="grc" i18n:key="menu-inscriptions_greek"/>
     <item label="Armenian" match="local-epidoc-index-display-lang" params="hy" i18n:key="menu-inscriptions_armenian"/>
+    <item label="Greek" match="local-epidoc-index-display-lang" params="grc" i18n:key="menu-inscriptions_greek"/>
     <item label="Hebrew" match="local-epidoc-index-display-lang" params="he" i18n:key="menu-inscriptions_hebrew"/>
     <item label="Aramaic" match="local-epidoc-index-display-lang" params="arc" i18n:key="menu-inscriptions_aramaic"/>
     <item label="Latin" match="local-epidoc-index-display-lang" params="la" i18n:key="menu-inscriptions_latin"/>
