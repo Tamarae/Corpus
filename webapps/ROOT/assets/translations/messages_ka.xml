@@ -55,8 +55,8 @@
   <message key="menu-concordances">კონკორდანსი</message>
   <message key="menu-concordance-bibliography">ბიბლიოგრაფია</message>
   <message key="menu-inscriptions_georgian">ქართული წარწერები</message>
-  <message key="menu-inscriptions_greek">ბერძნული წარწერები</message>
   <message key="menu-inscriptions_armenian">სომხური წარწერები</message>
+  <message key="menu-inscriptions_greek">ბერძნული წარწერები</message>
   <message key="menu-inscriptions_hebrew">ებრაული წარწერები</message>
   <message key="menu-inscriptions_aramaic">არამეული წარწერები</message>
   <message key="menu-inscriptions_latin">ლათინური წარწერები</message>
