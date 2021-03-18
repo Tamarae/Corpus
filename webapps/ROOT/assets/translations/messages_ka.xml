@@ -7,7 +7,7 @@
 
 
   <!-- მენიუ -->
-  <message key="menu-inscriptions">წარწერები</message>
+  <message key="menu-inscriptions">ყველა წარწერა</message>
   <message key="menu-indices">ინდექსი</message>
   <message key="menu-index-abbreviation">ქარაგმა</message>
   <message key="menu-index-fragment">ფრაგმენტები</message>
