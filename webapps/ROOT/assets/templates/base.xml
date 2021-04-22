@@ -122,23 +122,34 @@
               <kiln:block name="content" />
             </main>
           </kiln:block>
+          
+          
+          
+   
 
           <!-- footer -->
           <kiln:block name="footer">
             <footer>
               <div class="flex-justify">
-              <p>შექმნილია
-                <a href="https://github.com/EpiDoc/EFES">EFES-ის</a>
-                საშუალებით
-              </p>
-              <p> რუსთაველის სამეცნიერო ფონდის დაფინანსებით, 
-                 ©
-                <a href="http://iliauni.edu.ge/ge/iliauni/institutebi-451/lingvistur-kvlevata-centri-467http://iliauni.edu.ge/ge/iliauni/institutebi-451/lingvistur-kvlevata-centri-467">
-                  ლინგვისტურ კვლევათა ინსტუტიტი
-                </a>
-                 2014 - 2020
-              </p>
-            </div>
+                <div>
+                  <img src="{$kiln:assets-path}/images/fondi.png" style="width: 250px;margin-bottom: 20px;align-self: flex-end;text-align:  right;"></img>
+
+                  <p>შექმნილია რუსთაველის სამეცნიერო ფონდის დაფინანსებითა და 
+                      <a href="https://github.com/EpiDoc/EFES">EFES-ის</a>
+                      საშუალებით
+                    </p>
+                </div>
+                <div style="display: flex;align-items: flex-end;flex-direction: column;">
+                  <img src="{$kiln:assets-path}/images/iliauni-logo-geo.png" style="width: 90px;margin-bottom: 20px;"></img>
+                    <p> 
+                      ©
+                      <a href="http://iliauni.edu.ge/ge/iliauni/institutebi-451/lingvistur-kvlevata-centri-467http://iliauni.edu.ge/ge/iliauni/institutebi-451/lingvistur-kvlevata-centri-467">
+                        ლინგვისტურ კვლევათა ინსტუტიტი
+                      </a>
+                      2014 - 2020
+                    </p>
+                </div>
+              </div>
             </footer>
           </kiln:block>
           <!-- end footer -->
