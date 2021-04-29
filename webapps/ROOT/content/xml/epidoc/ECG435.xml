@@ -66,24 +66,22 @@
                 </msDesc>
             </sourceDesc>
         </fileDesc>
-        <encodingDesc>
 
-</encodingDesc>
     </teiHeader>
     <text>
         <body>
             <div type="edition" xml:lang="la" xml:space="preserve">
                     <ab>
-                      <lb n="1"/><gap reason="lost" quantity="1" unit="line"/>
-                      <lb n="2"/><gap reason="lost" extent="unknown" unit="character"/><expan>Q<ex>uintus</ex></expan>Antonius Cas]sian[us ---]
-                      <lb n="3"/><gap reason="lost" extent="unknown" unit="character"/><name nymRef="Lucius Fabianus"><expan><supplied reason="lost">L<ex>ucius</ex></supplied></expan><supplied reason="lost">Annius</supplied> Fabianus</name><gap reason="lost" extent="unknown" unit="character"/>
-                      <lb n="4"/><gap reason="lost" extent="unknown" unit="character"/>Pharasman[es rex Iberorum --- cum filio]
-                      <lb n="5"/><gap reason="lost" extent="unknown" unit="character"/>e et uxore Phr[---, cui Imp(erator) Antoninus Aug(ustus) regnum] 
+                      <lb n="1"/>
+                      <lb n="2"/><expan>Q<ex>uintus</ex></expan>Antonius Cas]sian[us ---]
+                      <lb n="3"/><name nymRef="Lucius Fabianus"><expan><supplied reason="lost">L<ex>ucius</ex></supplied></expan><supplied reason="lost">Annius</supplied> Fabianus</name><gap reason="lost" extent="unknown" unit="character"/>
+                      <lb n="4"/>Pharasman[es rex Iberorum --- cum filio]
+                      <lb n="5"/>e et uxore Phr[---, cui Imp(erator) Antoninus Aug(ustus) regnum] 
                       <lb n="6"/>[amplius] <w>reddidit</w> V <expan>k<ex>alendas</ex></expan> <expan>Apr<ex>iles</ex></expan> [---]
-                      <lb n="7"/><gap reason="lost" extent="unknown" unit="character"/>I non(as) Mai(as) <w>diem</w> [qua ---]
-                      <lb n="8"/><gap reason="lost" extent="unknown" unit="character"/>vit gladiat[orum pp.(:paribus) ---]
-                      <lb n="9"/><gap reason="lost" extent="unknown" unit="character"/><num>MXI</num><gap reason="lost" extent="unknown" unit="character"/>
-                      <lb n="10"/><gap reason="lost" extent="unknown" unit="line"/>
+                      <lb n="7"/>I non(as) Mai(as) <w>diem</w> [qua ---]
+                      <lb n="8"/>vit gladiat[orum pp.(:paribus) ---]
+                      <lb n="9"/><num>MXI</num>
+                      <lb n="10"/>
                     </ab>
             </div>
             <div type="translation" xml:lang="ka">
