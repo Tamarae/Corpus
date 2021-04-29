@@ -20,7 +20,10 @@
               <xsl:value-of select="$file-path" />
             </field>
             <field name="concordance_bibliography_ref">
-              <xsl:value-of select="$target" />
+              <xsl:choose>
+                <xsl:when test="contains($target, '#')"><xsl:value-of select="substring-after($target, '#')" /></xsl:when>
+                <xsl:otherwise><xsl:value-of select="$target" /></xsl:otherwise>
+              </xsl:choose>
             </field>
             <field name="concordance_bibliography_cited_range">
               <xsl:value-of select="../tei:citedRange" />
