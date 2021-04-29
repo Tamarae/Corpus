@@ -69,18 +69,21 @@
                         <xsl:text>.</xsl:text>
                      </xsl:for-each>
                    </xsl:variable>
-                  <!-- Found in teigap.xsl -->
+               
+                  <!-- Found in teigap.xsl
                   <xsl:call-template name="dot-out">
                      <xsl:with-param name="cur-num" select="string-length($sup-context-length)"/>
                   </xsl:call-template>
-                  <!--<xsl:call-template name="dot-out">
+                 <xsl:call-template name="dot-out">
                      <xsl:with-param name="cur-num" select="$space-ex"/>
-                  </xsl:call-template>-->
+                  </xsl:call-template>
                </xsl:when>
                <xsl:otherwise>
                   <xsl:apply-templates/>
                </xsl:otherwise>
+
             </xsl:choose>
+             -->
             <!-- Found in tpl-cert-low.xsl -->
             <xsl:call-template name="cert-low"/>
             <!-- function EDF:f-wwrap declared in htm-teilb.xsl; tests if lb break=no immediately follows supplied -->
