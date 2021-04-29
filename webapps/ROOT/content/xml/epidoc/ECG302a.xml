@@ -5,8 +5,8 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>ლათინურენივანი წარწერის ფრაგმენტი</title>
-                <editor>დევიდ ბრაუნდი</editor>
+                <title>არიანეს წარწერა</title>
+                <editor>გელა გამყრელიძე</editor>
             </titleStmt>
             <publicationStmt>
                 <authority>ილიას სახელმწიფო უნივერსიტეტი, ლინგვისტურ კვლევათა ინსტიტუტი</authority>
@@ -27,7 +27,7 @@
                     
                     <msContents>
                         <summary>
-                            <seg xml:lang="ka">სამხედრო (?)</seg>
+                            <seg xml:lang="ka"></seg>
                             <seg xml:lang="en"/>
                         </summary>
                     </msContents> 
@@ -36,7 +36,7 @@
                             <supportDesc>
                                 <support>                             
                                    <material></material>
-                                   <objectType ref="hhttps://www.eagle-network.eu/voc/objtyp/lod/416">კედელი</objectType></support></supportDesc>
+                                   <objectType ref="hhttps://www.eagle-network.eu/voc/objtyp/lod/416">სტელა</objectType></support></supportDesc>
                                 <layoutDesc>
                                     <layout>
                                          <dimensions unit="cm">
@@ -76,17 +76,13 @@
                     </history>                   
                 </msDesc>
             </sourceDesc>
-        </fileDesc><encodingDesc>
-    <listPrefixDef>
-        <prefixDef matchPattern="(.+)" replacementPattern="../authority/bibliography.xml#$1" ident="bib"/>
-    </listPrefixDef>
-</encodingDesc>
+        </fileDesc>
     </teiHeader>
     <facsimile>
         <surface>
             <graphic url="ecg302.jpg">
-                <desc xml:lang="ka">სოხუმის კედელი, 1896</desc>
-                <desc xml:lang="en">Sukhumi wall, 1896</desc>
+                <desc xml:lang="ka">სოხუმი</desc>
+                <desc xml:lang="en">Sukhumi</desc>
             </graphic>
         </surface>
     </facsimile>
@@ -94,18 +90,20 @@
         <body>
             <div type="bibliography">
                 <listBibl>
-                    <bibl n="1">დევიდ ბრაუნდი, საქართველო ანტიკურ ხანაში: კოლხეთისა და ამიერკავკასიის იბერიის ისტორია ძვ.წ. 550-ახ.წ. 562 წლები<ptr target="bibliography.xml#b68"/>, <citedRange> 279</citedRange></bibl>
+                    <bibl n="1">Gela Gamkrelidze, Archaeology Of the Roman Period Of Georgia, 2014 pp. 11</bibl>
                 </listBibl>
             </div>
           
             <div type="edition" xml:lang="la" xml:space="preserve">
                 
-                        <!-- LEG -->
+                        <!-- HADR[ian]…[castra in Sebastopoli curavit] PER. FL[avius]. A[rrian]. LEG[atum] -->
                      
             
 
          <ab>
-             <unclear>LEG</unclear>
+             HADR[ian] [castra in Sebastopoli curavit] PER. FL[avius]. A[rrian]. LEG[atum]
+             <lb n="1"/>Hadr<supplied reason="lost">ian</supplied> <supplied reason="lost">castra in Sebastopoli curavit</supplied> per F<supplied reason="lost">lavius</supplied> 
+             A<supplied reason="lost">rrian</supplied> leg<supplied reason="lost">atum</supplied>
          </ab>    
              
          
@@ -136,3 +134,11 @@
          </body>
     </text>
 </TEI>
+
+
+
+
+
+
+
+
