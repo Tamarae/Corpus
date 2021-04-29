@@ -92,8 +92,8 @@
            <div type="bibliography">
                <listBibl>
                 <bibl n="1">დევი ბერძენიშვილი<ptr target="bibliography.xml#b130"/>1985,<citedRange>46</citedRange>2020</bibl>
-                 <bibl n="2">დევი ბერძენიშვილი<ptr target="bibliography.xml"/>1987,<citedRange>38</citedRange>2020</bibl>
-                   <bibl n="3">თამაზ გოგოლაძე<ptr target="bibliography.xml"/>2014,<citedRange>104</citedRange>2020</bibl>
+                 <bibl n="2">დევი ბერძენიშვილი, 1987,<citedRange>38</citedRange>2020</bibl>
+                   <bibl n="3">თამაზ გოგოლაძე, 2014,<citedRange>104</citedRange>2020</bibl>
             </listBibl>
            </div>
             <div type="edition" xml:space="preserve" xml:lang="ka" ana="mtavruli">     

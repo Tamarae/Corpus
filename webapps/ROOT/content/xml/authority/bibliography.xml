@@ -642,6 +642,29 @@
                    <title>Изследование древных гробниц близ сел. Мцхета</title> 
                    <author>Н. Зейдлиц</author> Известия Кавказского отдела Русского географического общество. 1872 г. Т.1
                </bibl>
+         <bibl xml:id="b181"><bibl type="abbrev">ბაქრაძე, 1864</bibl>
+            <title>Д. З. Бакрадзе</title> 
+            <author>Сванетия</author>
+         </bibl>
+         
+         <bibl xml:id="b182"><bibl type="abbrev">პრივალოვა, 1980</bibl>
+            <title>Роспись Тимотесубани</title> 
+            <author>Е. П. Привалова</author>
+         </bibl>
+         
+         
+         <bibl xml:id="b183"><bibl type="abbrev">მუსხელიშვილი, 1941</bibl>
+            <title>არქეოლოგიური ექსკურსიები მაშავრის ხეობაში</title> 
+            <author>ლ. მუსხელიშვილი</author>
+         </bibl>
+         
+         
+         
+         <bibl xml:id="b184"><bibl type="abbrev">თაყაიშვილი, 1914</bibl>
+            <title>არხეოლოგიური მოგზაურობანი და შენიშვნანი</title> 
+            <author>ექვთიმე თაყაიშვილი</author>
+         </bibl>
+         
       </body>
   </text>
 </TEI>
