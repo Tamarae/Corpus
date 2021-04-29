@@ -5,7 +5,7 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title> სავედრებელი წარწერა თეოდორესი</title>
+                <title>სავედრებელი წარწერა თეოდორესი</title>
             </titleStmt>
             <publicationStmt>
                 <authority> ილიას სახელმწიფო უნივერსიტეტი</authority>
@@ -70,11 +70,7 @@
                     </history>
                 </msDesc>
             </sourceDesc>
-        </fileDesc><encodingDesc>
-    <listPrefixDef>
-        <prefixDef matchPattern="(.+)" replacementPattern="../authority/bibliography.xml#$1" ident="bib"/>
-    </listPrefixDef>
-</encodingDesc>
+        </fileDesc>
         <revisionDesc>
             <change when="2020-01-16" who="papidze">წარწერის სრული კოდირება, გარე ანოტირება, პირთა სახელების, ლემების მითითება, ბიბლიოგრაფია.</change>
         </revisionDesc>
@@ -91,17 +87,17 @@
         <body>
            <div type="bibliography">
                <listBibl>
-                <bibl n="1">დევი ბერძენიშვილი<ptr target="bibliography.xml#b130"/>1985,<citedRange>46</citedRange>2020</bibl>
-                 <bibl n="2">დევი ბერძენიშვილი, 1987,<citedRange>38</citedRange>2020</bibl>
-                   <bibl n="3">თამაზ გოგოლაძე, 2014,<citedRange>104</citedRange>2020</bibl>
+                <bibl n="1"><ref target="#b130">დევი ბერძენიშვილი, 1985:46</ref></bibl>
+                 <bibl n="2">დევი ბერძენიშვილი, 1987:38</bibl>
+                   <bibl n="3">თამაზ გოგოლაძე, 2014:104</bibl>
             </listBibl>
            </div>
             <div type="edition" xml:space="preserve" xml:lang="ka" ana="mtavruli">     
               <!--ქ(რისტე), შ(ეიწყალ)ე თ(ეოდორ)ე-->
                 <ab>
                     <lb n="1"/><w lemma="ქრისტე"><expan><abbr>ქ</abbr><ex>რისტ</ex><abbr>ე</abbr></expan></w>
-                               <w lemma="იწყალებს"> <expan><abbr>შ</abbr><ex>ეიწყალ</ex><abbr>ე</abbr></expan></w>
-                               <w lemma="თეოდორე"> <expan><abbr>თ</abbr>ეოდორ<ex></ex><abbr>ე</abbr></expan></w>
+                               <w lemma="იწყალებს"><expan><abbr>შ</abbr><ex>ეიწყალ</ex><abbr>ე</abbr></expan></w>
+                               <w lemma="თეოდორე"><expan><abbr>თ</abbr><ex>ეოდორ</ex><abbr>ე</abbr></expan></w>
                 </ab>
             </div>
             <div type="translation" xml:lang="ka"/>

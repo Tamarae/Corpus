@@ -118,7 +118,7 @@
 
              <ab>
                         <lb n="1"/><w lemma="ესე">ესე</w> <w lemma="სამარხ">სამარხოჲ</w>
-                        <lb n="2"/><persName type="clergy" key="იოვანე ფურტაველი ეპისკოპოსი"><name nymRef="იოჰანე">იოჰანე</name></persName> <placeName ref="#purtavi"><name nymRef="ფურტაველ">ფოჳრ
+                        <lb n="2"/><persName type="clergy" key="იოვანე ფურტაველი ეპისკოპოსი"><name nymRef="იოჰანე">იოჰანე</name></persName> <placeName ref="ფურტავი"><name nymRef="ფურტაველ">ფოჳრ
                         <lb n="3" break="no"/>ტაველ</name></placeName> <roleName nymRef="ეპისკოპოს">ეპისკოპო
                         <lb n="4" break="no"/>სისაჲ</roleName> <persName type="ethnic" nymRef="ქართველ">ქართვე
                         <lb n="5" break="no"/>ლისაჲ</persName>

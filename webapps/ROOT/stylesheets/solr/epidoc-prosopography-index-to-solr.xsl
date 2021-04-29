@@ -27,23 +27,6 @@
           <field name="index_item_name">
             <xsl:value-of select="@key" />
           </field>
-          <field name="index_related_place">
-            <xsl:choose>
-              <xsl:when test="descendant::tei:placeName">
-                <xsl:variable name="pl-id" select="substring-after(descendant::tei:placeName[1]/@ref,'#')"/>
-                <xsl:value-of select="document('../../content/xml/authority/pl.xml')//tei:place[@xml:id=$pl-id]/tei:placeName[@xml:lang='ka']" />
-              </xsl:when>
-              <xsl:when test="ancestor::tei:rs and not(descendant::tei:placeName)">
-                <xsl:variable name="pl-id" select="substring-after(ancestor::tei:rs[1]/@ref,'#')"/>
-                <xsl:value-of select="document('../../content/xml/authority/pl.xml')//tei:place[@xml:id=$pl-id]/tei:placeName[@xml:lang='ka']" />
-              </xsl:when>
-              <xsl:when test="@ref, not(ancestor::tei:rs) and not(descendant::tei:placeName)">
-                <xsl:variable name="pl-id" select="substring-after(@ref,'#')"/>
-                <xsl:value-of select="document('../../content/xml/authority/pl.xml')//tei:place[@xml:id=$pl-id]/tei:placeName[@xml:lang='ka']" />
-              </xsl:when>
-              <xsl:otherwise><xsl:text>-</xsl:text></xsl:otherwise>
-            </xsl:choose>
-          </field>
           <field name="index_person_type">
             <xsl:choose>
               <xsl:when test="@type='attested'"><xsl:text>დადასტურებული</xsl:text></xsl:when>
