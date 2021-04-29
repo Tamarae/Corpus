@@ -203,9 +203,10 @@
               <i18n:text i18n:key="name">Name</i18n:text>
             </item>
             
-            <item>
+            <!-- <item>
               <i18n:text i18n:key="placename">Placename</i18n:text>
             </item>
+             -->
             
             <item>
               <i18n:text i18n:key="status">Status</i18n:text>

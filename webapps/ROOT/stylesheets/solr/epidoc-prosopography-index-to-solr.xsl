@@ -32,7 +32,7 @@
               <xsl:when test="@type='attested'"><xsl:text>დადასტურებული</xsl:text></xsl:when>
               <xsl:when test="@type='clergy'"><xsl:text>სასულიერო პირი</xsl:text></xsl:when>
               <xsl:when test="@type='ruler'"><xsl:text>მმართველი</xsl:text></xsl:when>
-              <xsl:when test="@type='honoured'"><xsl:text>Individuo onorato</xsl:text></xsl:when>
+              <xsl:when test="@type='honoured'"><xsl:text>მოსახსენებელი</xsl:text></xsl:when>
               <xsl:otherwise><xsl:text>სხვა</xsl:text></xsl:otherwise>
             </xsl:choose>
           </field>
