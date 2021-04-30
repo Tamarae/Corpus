@@ -5,7 +5,7 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>ლათინურენივანი წარწერის ფრაგმენტი</title>
+                <title>ლათინურენივანი წარწერის ფრაგმენტი, „არიანეს“ წარწერა</title>
                 <editor>დევიდ ბრაუნდი</editor>
             </titleStmt>
             <publicationStmt>
@@ -95,6 +95,7 @@
             <div type="bibliography">
                 <listBibl>
                     <bibl n="1">დევიდ ბრაუნდი, საქართველო ანტიკურ ხანაში: კოლხეთისა და ამიერკავკასიის იბერიის ისტორია ძვ.წ. 550-ახ.წ. 562 წლები<ptr target="bibliography.xml#b68"/>, <citedRange> 279</citedRange></bibl>
+                    <bibl n="2">Gela Gamkrelidze, Archaeology Of the Roman Period Of Georgia, 2014 pp. 11</bibl>
                 </listBibl>
             </div>
           
@@ -105,7 +106,8 @@
             
 
          <ab>
-             <unclear>LEG</unclear>
+                          <lb n="1"/>Hadr<supplied reason="lost">ian</supplied> <supplied reason="lost">castra in Sebastopoli curavit</supplied> per F<supplied reason="lost">lavius</supplied> 
+             A<supplied reason="lost">rrian</supplied> leg<supplied reason="lost">atum</supplied>
          </ab>    
              
          
