@@ -8,3 +8,4 @@ webapps/ROOT/WEB-INF/logs/
 webapps/ROOT/WEB-INF/logs/cocoon.log
 webapps/openrdf-sesame/app_dir/OpenRDF Sesame/conf/
 webapps/openrdf-sesame/app_dir/OpenRDF Sesame/logs/
+webapps/solr/data/index/segments.gen
