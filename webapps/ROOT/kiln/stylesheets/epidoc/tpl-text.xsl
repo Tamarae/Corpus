@@ -26,6 +26,8 @@
          
          <!-- Armenian Alphabet  -->
          
+         
+         
          <xsl:when test="$parm-edition-type = 'diplomatic' and ancestor::t:div[@type='edition'] and not(ancestor::t:head)
             and ancestor-or-self::t:*[@xml:lang][1][@xml:lang='hy']">
             <xsl:value-of select="translate(.,'աբգդեզէըթժիլխծկհձղճմյնշոչպջռսվտրցւփք','ԱԲԳԴԵԶԷԸԹԺԻԼԽԾԿՀՁՂՃՄՅՆՇՈՉՊՋՌՍՎՏՐՑՒՓՔ')" />
